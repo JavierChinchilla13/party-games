@@ -1,11 +1,11 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { ImpostorPlayer } from "@/types/impostor";
+import { Player } from "@/types/impostor";
 import { MessageSquare, Users, Eye } from "lucide-react";
 
 interface DiscussionScreenProps {
-  startingPlayer: ImpostorPlayer;
+  startingPlayer: Player;
   onRevealSolution: () => void;
 }
 

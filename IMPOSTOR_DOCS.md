@@ -31,7 +31,9 @@
 - **Sin Base de Datos:** Los datos se guardan exclusivamente en el navegador del usuario para una experiencia instantánea.
 
 ### 4. Animaciones y Micro-interacciones
-- **Framer Motion:** Transiciones suaves entre las fases del juego (`AnimatePresence`).
+- **Framer Motion:** Transiciones suaves entre las fases del juego (`AnimatePresence`) y animaciones de entrada laterales entre jugadores.
+- **Auto-scroll:** Implementación de scroll automático al inicio en cada cambio de fase para mejorar la navegación.
+- **Optimización de Espacio:** Refactorización de la pantalla de revelación para eliminar scroll innecesario en móviles.
 - **Feedback Táctil:** Animaciones de escala y resplandor al interactuar con botones y tarjetas.
 
 ### 5. Resolución de Módulos y Alias

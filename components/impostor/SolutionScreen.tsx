@@ -1,12 +1,12 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { ImpostorPlayer, SecretWord } from "@/types/impostor";
+import { Player, Word } from "@/types/impostor";
 import { RotateCcw, AlertTriangle, CheckCircle2, Trophy } from "lucide-react";
 
 interface SolutionScreenProps {
-  secretWord: SecretWord;
-  players: ImpostorPlayer[];
+  secretWord: Word;
+  players: Player[];
   onRestart: () => void;
 }
 

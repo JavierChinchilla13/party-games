@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { GameState, GameSettings } from "@/types/impostor";
 import { generateGame, fetchRandomWord } from "@/lib/impostor-logic";
@@ -36,6 +36,11 @@ export default function ImpostorPage() {
     currentPlayerIndex: 0,
     startingPlayerId: null,
   });
+
+  // Auto-scroll to top on phase change
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, [gameState.phase]);
 
   // UI State
   const [isConfirmingReveal, setIsConfirmingReveal] = useState(false);

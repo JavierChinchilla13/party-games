@@ -23,9 +23,11 @@ El juego de deducción social estrella.
 - **Características:** Selección múltiple de categorías, pistas inteligentes de una sola palabra, soporte para múltiples impostores.
 - **Documentación:** [Ver detalles de Impostor](./IMPOSTOR_DOCS.md)
 
-### 2. 🔍 Palabra Similar (Planeado)
-Todos reciben la misma palabra, excepto uno que recibe una muy parecida.
-- **Estado:** ⏳ Pendiente de implementación.
+### 2. 🔍 Palabra Similar (Completado)
+Todos reciben la misma palabra, excepto uno o varios que reciben una muy parecida.
+- **Estado:** ✅ 100% Funcional.
+- **Mecánica:** Nadie sabe si tiene la palabra diferente. Debate puro para encontrar la discrepancia.
+- **Contenido:** 10 categorías optimizadas para comparaciones.
 
 ### 3. ❓ Pregunta Diferente (Planeado)
 Todos responden a la misma pregunta, pero un jugador recibe una pregunta distinta que lo hará quedar en evidencia.

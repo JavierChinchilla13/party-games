@@ -1,0 +1,47 @@
+# Palabra Similar - Documentación del Proyecto
+
+## 🔍 Descripción del Juego
+"Palabra Similar" es un juego de agudeza mental donde la mayoría de los jugadores reciben una palabra idéntica, mientras que una minoría recibe una palabra muy parecida y relacionada. El reto es que nadie sabe si tiene la palabra "diferente", por lo que todos deben hablar con cautela para identificar quién no encaja.
+
+## 🚀 Mecánicas Clave
+- **Sin Roles Explícitos:** A diferencia de Impostor, el sistema no te dice si eres "diferente". Solo ves tu palabra.
+- **Parejas Relacionadas:** Las palabras están diseñadas para ser comparables (ej. Perro vs Lobo, Pizza vs Hamburguesa).
+- **3D Flip Card:** Reutiliza la interacción premium de ONI Games para una revelación segura.
+- **Detección de Discrepancias:** El juego termina cuando el grupo cree haber identificado a los jugadores con la palabra diferente.
+
+## 🛠️ Estructura de Datos
+Se han generado **+1,500 parejas de palabras** distribuidas en 10 categorías temáticas. Cada archivo contiene aproximadamente 150 entradas diseñadas para maximizar la confusión y el debate.
+
+#### Categorías Expandidas:
+- `animales.json`: Fauna silvestre, mascotas, especies relacionadas.
+- `comidas-bebidas.json`: Platillos, ingredientes y bebidas de todo el mundo.
+- `videojuegos.json`: Consolas, franquicias y personajes icónicos.
+- `tecnologia.json`: Apps, marcas de hardware y software.
+- `personas-famosas.json`: Deportistas, músicos y figuras históricas.
+- `paises-ciudades.json`: Geografía global y puntos de interés.
+- `peliculas-series.json`: Universos cinematográficos y TV.
+- `marcas-logos.json`: Competidores comerciales directos.
+- `costa-rica.json`: Cultura, comida y lugares locales.
+- `memes.json`: Clásicos del internet y tendencias modernas.
+
+```json
+{
+  "main": "Palabra Mayoritaria",
+  "different": "Palabra Minoritaria"
+}
+```
+
+## 🎮 Flujo del Juego
+1. **Configuración:** Se eligen jugadores, categorías y la cantidad de "jugadores diferentes".
+2. **Revelación:** Cada jugador gira la tarjeta para ver su palabra. Nadie sabe si su palabra es la mayoritaria o la minoritaria.
+3. **Discusión:** Los jugadores dan pistas y debaten. Aquellos con la palabra diferente intentarán pasar desapercibidos, creyendo que tienen la palabra correcta.
+4. **Solución:** Se revelan ambas palabras y quiénes tenían la diferente.
+
+## 📂 Archivos del Juego
+- `app/games/similar/page.tsx`: Gestor de estado y fases.
+- `src/lib/similar-logic.ts`: Lógica de emparejamiento y asignación.
+- `src/types/similar.ts`: Tipado estricto para el juego.
+- `components/similar/`: Componentes UI específicos (Settings, Reveal, Solution, etc.).
+
+---
+*Implementado como parte de la suite ONI Games.*

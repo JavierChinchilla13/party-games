@@ -95,12 +95,12 @@ export default function SolutionScreen({
       </div>
 
       {/* Action Buttons */}
-      <div className="flex flex-col items-center gap-6 pt-8">
+      <div className="flex flex-col items-center gap-6 pt-8 w-full">
         <motion.div
           initial={{ y: 20, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 1 }}
-          className="text-center space-y-6 w-full"
+          className="text-center space-y-6 w-full flex flex-col items-center"
         >
           <div className="flex items-center justify-center gap-2 text-highlight">
             <Trophy className="w-5 h-5" />

@@ -9,6 +9,8 @@
 - **Respuestas Integradas:** Los jugadores escriben su respuesta inmediatamente después de ver su pregunta.
 - **Flujo Automático:** El juego avanza al siguiente jugador automáticamente al enviar la respuesta.
 - **Debate Basado en Resultados:** Se muestran todas las respuestas y la pregunta principal para fomentar la discusión.
+- **Selección Rápida:** Botones "TODAS" y "NINGUNA" para gestionar las 14 categorías rápidamente.
+- **Validación Integrada:** Modales personalizados para avisos de configuración.
 
 ## 🛠️ Estructura de Datos
 El juego cuenta con **14 categorías** con más de **2,500 parejas de preguntas** en total. Cada categoría tiene entre 150 y 200+ entradas, lo que garantiza una altísima rejugabilidad.

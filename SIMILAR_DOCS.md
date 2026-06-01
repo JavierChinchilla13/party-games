@@ -10,7 +10,7 @@
 - **Detección de Discrepancias:** El juego termina cuando el grupo cree haber identificado a los jugadores con la palabra diferente.
 
 ## 🛠️ Estructura de Datos
-Se han generado **+1,500 parejas de palabras** distribuidas en 10 categorías temáticas. Cada archivo contiene aproximadamente 150 entradas diseñadas para maximizar la confusión y el debate.
+Se han generado **+1,600 parejas de palabras** distribuidas en 11 categorías temáticas. Cada archivo contiene aproximadamente 150 entradas diseñadas para maximizar la confusión y el debate.
 
 #### Categorías Expandidas:
 - `animales.json`: Fauna silvestre, mascotas, especies relacionadas.
@@ -23,13 +23,11 @@ Se han generado **+1,500 parejas de palabras** distribuidas en 10 categorías te
 - `marcas-logos.json`: Competidores comerciales directos.
 - `costa-rica.json`: Cultura, comida y lugares locales.
 - `memes.json`: Clásicos del internet y tendencias modernas.
+- `clash-royale.json`: ⚔️ Tropas, hechizos y estructuras del universo de Supercell (¡NUEVO!).
 
-```json
-{
-  "main": "Palabra Mayoritaria",
-  "different": "Palabra Minoritaria"
-}
-```
+## 🚀 Mejoras Recientes
+- **Selección Inteligente:** Añadidos botones para seleccionar todas o ninguna categoría instantáneamente.
+- **Modales de Validación:** Nuevo sistema de avisos integrados para prevenir el inicio de partidas sin categorías, eliminando las alertas estándar del navegador.
 
 ## 🎮 Flujo del Juego
 1. **Configuración:** Se eligen jugadores, categorías y la cantidad de "jugadores diferentes".

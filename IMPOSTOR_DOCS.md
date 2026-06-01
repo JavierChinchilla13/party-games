@@ -36,8 +36,13 @@
 - **Optimización de Espacio:** Refactorización de la pantalla de revelación para eliminar scroll innecesario en móviles.
 - **Feedback Táctil:** Animaciones de escala y resplandor al interactuar con botones y tarjetas.
 
-### 5. Resolución de Módulos y Alias
-...
+### 6. Nuevas Categorías y Mejoras de Dataset
+- **⚔️ Clash Royale:** Incorporación de un dataset masivo con más de 100 cartas, hechizos y mecánicas del juego, cada una con su propia pista estratégica.
+- **Optimización de Contenido:** Revisión y expansión de todas las categorías existentes para garantizar variedad en partidas largas.
+
+### 7. Mejoras de UX en Configuración
+- **Selección Rápida:** Implementación de botones "TODAS" y "NINGUNA" en el selector de categorías para facilitar la configuración de partidas personalizadas.
+- **Validación Premium:** Sustitución de alertas del sistema por modales de confirmación integrados en la estética de ONI Games para notificar cuando faltan categorías seleccionadas.
 
 ## 📂 Estructura de Archivos Clave
 - `app/games/impostor/page.tsx`: Contenedor principal y gestión del estado del juego.

@@ -32,6 +32,7 @@ const CATEGORIES = [
   { id: "superheroes", name: "Héroes", icon: "🦸" },
   { id: "transporte", name: "Viajes", icon: "🚀" },
   { id: "videojuegos", name: "Gaming", icon: "👾" },
+  { id: "clash-royale", name: "Clash Royale", icon: "⚔️" },
 ];
 
 export default function CategorySelector({

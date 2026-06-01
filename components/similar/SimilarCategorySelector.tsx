@@ -19,6 +19,7 @@ const CATEGORIES = [
   { id: "marcas-logos", name: "Marcas", icon: "🏷️" },
   { id: "costa-rica", name: "Costa Rica 🇨🇷", icon: "🌋" },
   { id: "memes", name: "Memes", icon: "😂" },
+  { id: "clash-royale", name: "Clash Royale", icon: "⚔️" },
 ];
 
 export default function SimilarCategorySelector({

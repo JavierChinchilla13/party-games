@@ -22,6 +22,7 @@ export const CATEGORIES = [
   { id: 'superheroes', name: 'Superhéroes' },
   { id: 'transporte', name: 'Transporte' },
   { id: 'videojuegos', name: 'Videojuegos' },
+  { id: 'clash-royale', name: 'Clash Royale' },
   { id: 'clima-naturaleza', name: 'Clima y naturaleza' },
   { id: 'memes', name: 'Memes' },
 ];

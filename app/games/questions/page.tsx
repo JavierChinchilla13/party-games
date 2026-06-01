@@ -55,10 +55,11 @@ export default function QuestionsPage() {
   // UI State
   const [isConfirmingReveal, setIsConfirmingReveal] = useState(false);
   const [isConfirmingExit, setIsConfirmingExit] = useState(false);
+  const [isMissingCategories, setIsMissingCategories] = useState(false);
 
   const startGame = async () => {
     if (settings.categories.length === 0) {
-      alert("Por favor selecciona al menos una categoría.");
+      setIsMissingCategories(true);
       return;
     }
     const questionPair = await fetchRandomQuestionPair(settings.categories);
@@ -268,6 +269,8 @@ export default function QuestionsPage() {
         onConfirm={() => setIsMissingCategories(false)}
         title="¡Faltan categorías!"
         message="Debes seleccionar al menos una categoría para poder iniciar el juego."
+        confirmText="ELEGIR CATEGORÍAS"
+        showCancel={false}
       />
     </div>
   );

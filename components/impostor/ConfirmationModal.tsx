@@ -9,6 +9,8 @@ interface ConfirmationModalProps {
   onConfirm: () => void;
   title: string;
   message: string;
+  confirmText?: string;
+  showCancel?: boolean;
 }
 
 export default function ConfirmationModal({
@@ -17,6 +19,8 @@ export default function ConfirmationModal({
   onConfirm,
   title,
   message,
+  confirmText = "CONFIRMAR",
+  showCancel = true,
 }: ConfirmationModalProps) {
   return (
     <AnimatePresence>
@@ -60,18 +64,21 @@ export default function ConfirmationModal({
                 whileHover={{ scale: 1.02 }}
                 whileTap={{ scale: 0.98 }}
                 onClick={onConfirm}
-                className="w-full py-4 bg-danger text-white font-black rounded-2xl shadow-xl shadow-danger/20 hover:brightness-110 transition-all"
+                className="w-full py-4 bg-danger text-white font-black rounded-2xl shadow-xl shadow-danger/20 hover:brightness-110 transition-all uppercase"
               >
-                CONFIRMAR
+                {confirmText}
               </motion.button>
-              <motion.button
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.98 }}
-                onClick={onClose}
-                className="w-full py-4 bg-white/5 text-white/70 font-bold rounded-2xl hover:bg-white/10 transition-all"
-              >
-                CANCELAR
-              </motion.button>
+              
+              {showCancel && (
+                <motion.button
+                  whileHover={{ scale: 1.02 }}
+                  whileTap={{ scale: 0.98 }}
+                  onClick={onClose}
+                  className="w-full py-4 bg-white/5 text-white/70 font-bold rounded-2xl hover:bg-white/10 transition-all"
+                >
+                  CANCELAR
+                </motion.button>
+              )}
             </div>
           </motion.div>
         </div>

@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Tag, Check } from "lucide-react";
+import { Tag, Check, CheckSquare, Square } from "lucide-react";
 
 interface CategorySelectorProps {
   selectedCategories: string[];
@@ -41,17 +41,23 @@ export default function CategorySelector({
 }: CategorySelectorProps) {
   const toggleCategory = (categoryId: string) => {
     if (selectedCategories.includes(categoryId)) {
-      if (selectedCategories.length > 1) {
-        setSelectedCategories(selectedCategories.filter((id) => id !== categoryId));
-      }
+      setSelectedCategories(selectedCategories.filter((id) => id !== categoryId));
     } else {
       setSelectedCategories([...selectedCategories, categoryId]);
     }
   };
 
+  const selectAll = () => {
+    setSelectedCategories(CATEGORIES.map((c) => c.id));
+  };
+
+  const deselectAll = () => {
+    setSelectedCategories([]);
+  };
+
   return (
     <div className="space-y-6">
-      <div className="flex items-center justify-between">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <h2 className="text-xl font-black tracking-tight flex items-center gap-2">
           <Tag className="w-5 h-5 text-accent" />
           CATEGORÍAS
@@ -59,6 +65,27 @@ export default function CategorySelector({
             {selectedCategories.length} / {CATEGORIES.length}
           </span>
         </h2>
+
+        <div className="flex items-center gap-2">
+          <motion.button
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            onClick={selectAll}
+            className="flex-1 sm:flex-none flex items-center justify-center gap-2 px-3 py-1.5 bg-white/5 border border-white/10 hover:bg-white/10 rounded-xl text-[10px] font-black transition-all text-white/60 hover:text-white"
+          >
+            <CheckSquare className="w-3.5 h-3.5" />
+            TODAS
+          </motion.button>
+          <motion.button
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            onClick={deselectAll}
+            className="flex-1 sm:flex-none flex items-center justify-center gap-2 px-3 py-1.5 bg-white/5 border border-white/10 hover:bg-white/10 rounded-xl text-[10px] font-black transition-all text-white/60 hover:text-white"
+          >
+            <Square className="w-3.5 h-3.5" />
+            NINGUNA
+          </motion.button>
+        </div>
       </div>
 
       <div className="flex flex-wrap gap-3">

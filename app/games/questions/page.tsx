@@ -261,6 +261,14 @@ export default function QuestionsPage() {
         title="¿Abandonar partida?"
         message="Se perderá el progreso actual y volverás a la configuración."
       />
+
+      <ConfirmationModal
+        isOpen={isMissingCategories}
+        onClose={() => setIsMissingCategories(false)}
+        onConfirm={() => setIsMissingCategories(false)}
+        title="¡Faltan categorías!"
+        message="Debes seleccionar al menos una categoría para poder iniciar el juego."
+      />
     </div>
   );
 }

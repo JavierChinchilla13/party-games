@@ -22,6 +22,7 @@ const CATEGORIES = [
   { id: "tecnologia", name: "Tecnología", icon: "💻" },
   { id: "hipoteticas", name: "Hipotéticas", icon: "🤔" },
   { id: "memes", name: "Memes", icon: "😂" },
+  { id: "quien-del-grupo", name: "¿Quién del Grupo?", icon: "👥" },
 ];
 
 export default function QuestionsCategorySelector({

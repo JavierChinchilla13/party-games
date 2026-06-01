@@ -11,7 +11,7 @@
 - **Debate Basado en Resultados:** Se muestran todas las respuestas y la pregunta principal para fomentar la discusión.
 
 ## 🛠️ Estructura de Datos
-El juego cuenta con **13 categorías** con múltiples parejas de preguntas cada una. Las preguntas están diseñadas para producir respuestas similares que generen duda.
+El juego cuenta con **14 categorías** con más de **2,500 parejas de preguntas** en total. Cada categoría tiene entre 150 y 200+ entradas, lo que garantiza una altísima rejugabilidad.
 
 ### Categorías:
 - General
@@ -27,6 +27,8 @@ El juego cuenta con **13 categorías** con múltiples parejas de preguntas cada 
 - Tecnología
 - Situaciones Hipotéticas
 - Memes
+- ¿Quién del Grupo? 👥 (¡NUEVO!)
+
 
 ## 📂 Archivos del Juego
 - `app/games/questions/page.tsx`: Gestor de estado principal y fases.

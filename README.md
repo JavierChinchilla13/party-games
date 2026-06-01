@@ -32,8 +32,9 @@ Todos reciben la misma palabra, excepto uno o varios que reciben una muy parecid
 ### 3. ❓ Pregunta Diferente (Completado)
 Todos responden a la misma pregunta, pero uno o varios jugadores reciben una pregunta distinta que los hará quedar en evidencia.
 - **Estado:** ✅ 100% Funcional.
-- **Contenido:** 13 categorías con parejas de preguntas diseñadas para el debate.
-- **Características:** Selección múltiple de categorías, respuestas integradas y revelación automática.
+- **Contenido:** 14 categorías con más de 2,500 parejas de preguntas.
+- **Características:** Selección múltiple de categorías, respuestas integradas, revelación automática y nueva categoría 👥 "¿Quién del Grupo?".
+
 
 
 ## 📁 Estructura del Proyecto

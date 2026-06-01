@@ -1,0 +1,14 @@
+[
+  {
+    "main": "¿Cuál es tu actor o actriz favorita?",
+    "different": "¿Cuál es tu director de cine favorito?"
+  },
+  {
+    "main": "¿Qué serie de TV podrías ver una y otra vez?",
+    "different": "¿Qué película de tu infancia te marcó más?"
+  },
+  {
+    "main": "¿Cuál es el mejor reality show que has visto?",
+    "different": "¿Cuál es el programa de TV que más odias?"
+  }
+]

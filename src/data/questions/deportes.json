@@ -1,0 +1,14 @@
+[
+  {
+    "main": "¿Cuál es tu deporte favorito para practicar?",
+    "different": "¿Cuál es el deporte que más te gusta ver por TV?"
+  },
+  {
+    "main": "¿Quién es el mejor deportista de la historia?",
+    "different": "¿Cuál es el deportista que más admiras actualmente?"
+  },
+  {
+    "main": "¿Qué deporte te parece el más aburrido?",
+    "different": "¿Qué deporte extremo te atreverías a probar?"
+  }
+]

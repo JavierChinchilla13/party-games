@@ -1,0 +1,34 @@
+[
+  {
+    "main": "¿Cuál es tu película favorita?",
+    "different": "¿Cuál es tu serie favorita?"
+  },
+  {
+    "main": "¿Cuánto pagarías por una hamburguesa?",
+    "different": "¿Cuánto pagarías por una pizza?"
+  },
+  {
+    "main": "¿Cuál es tu comida favorita?",
+    "different": "¿Cuál es tu postre favorito?"
+  },
+  {
+    "main": "¿Qué comprarías con $1000?",
+    "different": "¿Qué comprarías con $5000?"
+  },
+  {
+    "main": "¿Cuál fue tu primer trabajo?",
+    "different": "¿Cuál era tu trabajo soñado de niño?"
+  },
+  {
+    "main": "¿Qué llevarías a una isla desierta?",
+    "different": "¿Qué salvarías de tu casa si hubiera un incendio?"
+  },
+  {
+    "main": "¿Cuál es el mejor invento de la historia?",
+    "different": "¿Qué objeto actual será obsoleto en 20 años?"
+  },
+  {
+    "main": "¿A qué época viajarías con una máquina del tiempo?",
+    "different": "¿En qué país te gustaría vivir un año?"
+  }
+]

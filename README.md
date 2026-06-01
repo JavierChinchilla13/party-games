@@ -29,9 +29,12 @@ Todos reciben la misma palabra, excepto uno o varios que reciben una muy parecid
 - **Mecánica:** Nadie sabe si tiene la palabra diferente. Debate puro para encontrar la discrepancia.
 - **Contenido:** 10 categorías optimizadas para comparaciones.
 
-### 3. ❓ Pregunta Diferente (Planeado)
-Todos responden a la misma pregunta, pero un jugador recibe una pregunta distinta que lo hará quedar en evidencia.
-- **Estado:** ⏳ Pendiente de implementación.
+### 3. ❓ Pregunta Diferente (Completado)
+Todos responden a la misma pregunta, pero uno o varios jugadores reciben una pregunta distinta que los hará quedar en evidencia.
+- **Estado:** ✅ 100% Funcional.
+- **Contenido:** 13 categorías con parejas de preguntas diseñadas para el debate.
+- **Características:** Selección múltiple de categorías, respuestas integradas y revelación automática.
+
 
 ## 📁 Estructura del Proyecto
 ```text

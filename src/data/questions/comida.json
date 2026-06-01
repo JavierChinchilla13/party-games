@@ -1,0 +1,22 @@
+[
+  {
+    "main": "¿Cuál es el ingrediente que no puede faltar en una pizza?",
+    "different": "¿Cuál es el ingrediente que arruina una pizza?"
+  },
+  {
+    "main": "¿Cuál es tu restaurante de comida rápida preferido?",
+    "different": "¿Qué comida rápida nunca pedirías?"
+  },
+  {
+    "main": "¿Cuál es el mejor acompañamiento para unas papas fritas?",
+    "different": "¿Cuál es tu salsa favorita?"
+  },
+  {
+    "main": "¿Cuál es tu bebida favorita para una fiesta?",
+    "different": "¿Qué bebida tomas para refrescarte en un día caluroso?"
+  },
+  {
+    "main": "¿Cuál es el mejor sabor de helado?",
+    "different": "¿Qué sabor de helado es el más extraño que has probado?"
+  }
+]

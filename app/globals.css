@@ -8,6 +8,7 @@
   --color-highlight: #f59e0b;
   --color-danger: #ef4444;
   --color-success: #10b981;
+  --color-questions: #f43f5e;
   
   --radius-3xl: 1.5rem;
   --radius-4xl: 2rem;
@@ -23,6 +24,7 @@
   --primary: 124, 58, 237;
   --secondary: 59, 130, 246;
   --accent: 6, 182, 212;
+  --questions: 244, 63, 94;
 }
 
 body {

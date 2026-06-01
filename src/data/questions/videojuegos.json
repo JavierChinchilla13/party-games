@@ -1,0 +1,18 @@
+[
+  {
+    "main": "¿Cuál es la mejor consola de videojuegos de la historia?",
+    "different": "¿Cuál fue tu primera consola de videojuegos?"
+  },
+  {
+    "main": "¿Cuál es tu videojuego favorito de la infancia?",
+    "different": "¿A qué videojuego le has dedicado más horas?"
+  },
+  {
+    "main": "¿Qué género de videojuegos prefieres?",
+    "different": "¿Qué género de videojuegos no te gusta nada?"
+  },
+  {
+    "main": "¿Prefieres jugar solo o en multijugador?",
+    "different": "¿Cuál es el mejor juego para jugar con amigos?"
+  }
+]

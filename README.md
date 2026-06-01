@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎭 Party Games
 
-## Getting Started
+Una plataforma moderna de juegos sociales para grupos, diseñada para jugarse localmente pasando un solo dispositivo. Sin necesidad de internet (una vez cargado), sin cuentas y sin configuraciones complicadas.
 
-First, run the development server:
+## 🌟 Visión del Proyecto
+Crear la mejor colección de juegos de fiesta en español, con interfaces modernas, vibrantes y una experiencia de usuario fluida basada en animaciones táctiles y diseño premium.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🛠️ Stack Tecnológico
+- **Core:** Next.js 15 (App Router)
+- **Lenguaje:** TypeScript (Tipado estricto)
+- **Diseño:** Tailwind CSS 4 (Gradientes, Glassmorphism, Variables CSS)
+- **Animaciones:** Framer Motion (Transiciones de fase, Flip cards 3D)
+- **Iconos:** Lucide React
+- **Persistencia:** Local Storage (Persistencia de configuración sin base de datos)
+- **Branding:** ONI Games.
+
+## 🎮 Suite de Juegos
+
+### 1. 🎭 Impostor (Completado)
+El juego de deducción social estrella.
+- **Estado:** ✅ 100% Funcional.
+- **Contenido:** 23 categorías, +3,700 palabras.
+- **Características:** Selección múltiple de categorías, pistas inteligentes de una sola palabra, soporte para múltiples impostores.
+- **Documentación:** [Ver detalles de Impostor](./IMPOSTOR_DOCS.md)
+
+### 2. 🔍 Palabra Similar (Planeado)
+Todos reciben la misma palabra, excepto uno que recibe una muy parecida.
+- **Estado:** ⏳ Pendiente de implementación.
+
+### 3. ❓ Pregunta Diferente (Planeado)
+Todos responden a la misma pregunta, pero un jugador recibe una pregunta distinta que lo hará quedar en evidencia.
+- **Estado:** ⏳ Pendiente de implementación.
+
+## 📁 Estructura del Proyecto
+```text
+party-games/
+├── app/                  # Rutas y páginas (Next.js App Router)
+│   └── games/            # Páginas individuales de cada juego
+├── components/           # Componentes UI reutilizables y específicos
+├── src/
+│   ├── data/             # Datasets JSON (Palabras, preguntas, categorías)
+│   ├── lib/              # Lógica pura de los juegos (Helpers, Shufflers)
+│   └── types/            # Definiciones de TypeScript
+└── public/               # Assets estáticos
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ⚙️ Configuración del Entorno de Desarrollo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Instalar dependencias:
+   ```bash
+   npm install
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. Ejecutar servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
 
-## Learn More
+3. Abrir [http://localhost:3000](http://localhost:3000)
 
-To learn more about Next.js, take a look at the following resources:
+## 📝 Convenciones del Proyecto
+- **Pistas en Impostor:** Siempre deben ser de una sola palabra.
+- **Estilo:** Seguir el diseño minimalista de Zinc/Black (dark mode).
+- **Tipos:** Cada juego debe tener su propio archivo de tipos en `src/types/`.
+- **Lógica:** Evitar lógica pesada en los componentes; moverla a `src/lib/`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Desarrollado con ❤️ para crear momentos divertidos entre amigos.*

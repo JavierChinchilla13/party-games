@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { Suspense } from "react";
 import AppHeader from "@/components/layout/AppHeader";
+import { ChaosModeProvider } from "@/src/hooks/useChaosMode";
+import { cookies } from "next/headers";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -18,14 +21,18 @@ export const metadata: Metadata = {
   description: "Juegos divertidos para jugar en grupo con un solo dispositivo.",
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  // Leer la cookie en el servidor para evitar flickering
+  const cookieStore = await cookies();
+  const chaosEnabled = cookieStore.get("oni-games-chaos-mode")?.value === "true";
+
   return (
     <html
-      lang="en"
+      lang="es"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col selection:bg-primary selection:text-white">
@@ -37,7 +44,11 @@ export default function RootLayout({
         </div>
         
         <AppHeader />
-        <main className="flex-1 relative z-10">{children}</main>
+        <Suspense fallback={null}>
+          <ChaosModeProvider initialValue={chaosEnabled}>
+            <main className="flex-1 relative z-10">{children}</main>
+          </ChaosModeProvider>
+        </Suspense>
       </body>
     </html>
   );

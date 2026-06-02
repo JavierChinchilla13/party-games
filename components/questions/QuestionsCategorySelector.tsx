@@ -1,7 +1,8 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Tag, Check, CheckSquare, Square } from "lucide-react";
+import { Tag, Check, CheckSquare, Square, Flame } from "lucide-react";
+import { useChaosMode } from "@/src/hooks/useChaosMode";
 
 interface QuestionsCategorySelectorProps {
   selectedCategories: string[];
@@ -22,13 +23,18 @@ const CATEGORIES = [
   { id: "tecnologia", name: "Tecnología", icon: "💻" },
   { id: "hipoteticas", name: "Hipotéticas", icon: "🤔" },
   { id: "memes", name: "Memes", icon: "😂" },
+  { id: "preguntas-personales", name: "Preguntas Personales", icon: "🙋" },
   { id: "quien-del-grupo", name: "¿Quién del Grupo?", icon: "👥" },
+  { id: "chaos", name: "Modo Caos", icon: "🔥", secret: true },
 ];
 
 export default function QuestionsCategorySelector({
   selectedCategories = [],
   setSelectedCategories,
 }: QuestionsCategorySelectorProps) {
+  const chaosUnlocked = useChaosMode();
+
+  const availableCategories = CATEGORIES.filter(c => !c.secret || chaosUnlocked);
   const safeSelectedCategories = selectedCategories || [];
 
   const toggleCategory = (categoryId: string) => {
@@ -40,7 +46,7 @@ export default function QuestionsCategorySelector({
   };
 
   const selectAll = () => {
-    setSelectedCategories(CATEGORIES.map((c) => c.id));
+    setSelectedCategories(availableCategories.map((c) => c.id));
   };
 
   const deselectAll = () => {
@@ -50,11 +56,11 @@ export default function QuestionsCategorySelector({
   return (
     <div className="space-y-6">
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-        <h2 className="text-xl font-black tracking-tight flex items-center gap-2">
+        <h2 className="text-xl font-black tracking-tight flex items-center gap-2 text-white">
           <Tag className="w-5 h-5 text-questions" />
           CATEGORÍAS
           <span className="text-sm font-bold bg-white/10 px-2 py-0.5 rounded-md text-white/40 ml-2">
-            {safeSelectedCategories.length} / {CATEGORIES.length}
+            {safeSelectedCategories.length} / {availableCategories.length}
           </span>
         </h2>
 
@@ -81,8 +87,10 @@ export default function QuestionsCategorySelector({
       </div>
 
       <div className="flex flex-wrap gap-3">
-        {CATEGORIES.map((category) => {
+        {availableCategories.map((category) => {
           const isSelected = safeSelectedCategories.includes(category.id);
+          const isChaos = category.id === "chaos";
+
           return (
             <motion.button
               key={category.id}
@@ -91,17 +99,27 @@ export default function QuestionsCategorySelector({
               onClick={() => toggleCategory(category.id)}
               className={`relative flex items-center gap-3 px-4 py-2.5 rounded-2xl border transition-all duration-300 font-bold text-sm ${
                 isSelected
-                  ? "bg-questions/20 border-questions text-white shadow-[0_0_20px_rgba(244,63,94,0.2)]"
+                  ? isChaos
+                    ? "bg-orange-600/20 border-orange-500 text-white shadow-[0_0_20px_rgba(249,115,22,0.3)]"
+                    : "bg-questions/20 border-questions text-white shadow-[0_0_20px_rgba(244,63,94,0.2)]"
                   : "bg-white/5 border-white/10 text-white/50 hover:bg-white/10 hover:border-white/20"
               }`}
             >
               <span className="text-lg">{category.icon}</span>
-              {category.name}
+              <div className="flex flex-col items-start leading-tight">
+                <span>{category.name}</span>
+                {isChaos && (
+                  <span className="text-[8px] uppercase tracking-tighter text-orange-400 flex items-center gap-0.5">
+                    <Flame className="w-2 h-2" />
+                    Modo Especial
+                  </span>
+                )}
+              </div>
               {isSelected && (
                 <motion.div
                   initial={{ scale: 0 }}
                   animate={{ scale: 1 }}
-                  className="bg-questions text-white rounded-full p-0.5"
+                  className={`${isChaos ? 'bg-orange-500' : 'bg-questions'} text-white rounded-full p-0.5 ml-1`}
                 >
                   <Check className="w-3 h-3 stroke-[4]" />
                 </motion.div>

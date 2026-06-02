@@ -15,7 +15,7 @@ Se han generado **+1,600 parejas de palabras** distribuidas en 11 categorías te
 #### Categorías Expandidas:
 - `animales.json`: Fauna silvestre, mascotas, especies relacionadas.
 - `comidas-bebidas.json`: Platillos, ingredientes y bebidas de todo el mundo.
-- `videojuegos.json`: Consolas, franquicias y personajes icónicos.
+- `videojuegos.json`: Consolas, franchise y personajes icónicos.
 - `tecnologia.json`: Apps, marcas de hardware y software.
 - `personas-famosas.json`: Deportistas, músicos y figuras históricas.
 - `paises-ciudades.json`: Geografía global y puntos de interés.
@@ -23,11 +23,13 @@ Se han generado **+1,600 parejas de palabras** distribuidas en 11 categorías te
 - `marcas-logos.json`: Competidores comerciales directos.
 - `costa-rica.json`: Cultura, comida y lugares locales.
 - `memes.json`: Clásicos del internet y tendencias modernas.
-- `clash-royale.json`: ⚔️ Tropas, hechizos y estructuras del universo de Supercell (¡NUEVO!).
+- `clash-royale.json`: ⚔️ Tropas, hechizos y estructuras del universo de Supercell.
+- `chaos.json`: 🔥 **Modo Caos**: Parejas de palabras diseñadas para generar máxima controversia.
 
 ## 🚀 Mejoras Recientes
 - **Selección Inteligente:** Añadidos botones para seleccionar todas o ninguna categoría instantáneamente.
 - **Modales de Validación:** Nuevo sistema de avisos integrados para prevenir el inicio de partidas sin categorías, eliminando las alertas estándar del navegador.
+- **🌀 Modo Caos:** Integración con el sistema de activación secreta para desbloquear contenido especial.
 
 ## 🎮 Flujo del Juego
 1. **Configuración:** Se eligen jugadores, categorías y la cantidad de "jugadores diferentes".

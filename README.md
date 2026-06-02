@@ -35,6 +35,11 @@ Todos responden a la misma pregunta, pero uno o varios jugadores reciben una pre
 - **Contenido:** 14 categorías con más de 2,500 parejas de preguntas.
 - **Características:** Selección múltiple de categorías, respuestas integradas, revelación automática y nueva categoría 👥 "¿Quién del Grupo?".
 
+### 🌀 Modo Caos (Secreto)
+Un modo especial que desbloquea contenido picante y atrevido en todos los juegos.
+- **Activación:** `/chaos` o `?chaos=true`.
+- **Efecto:** Desbloquea la categoría "Modo Caos 🔥" con cientos de nuevas palabras y preguntas.
+
 
 
 ## 📁 Estructura del Proyecto

@@ -44,6 +44,11 @@
 - **Selección Rápida:** Implementación de botones "TODAS" y "NINGUNA" en el selector de categorías para facilitar la configuración de partidas personalizadas.
 - **Validación Premium:** Sustitución de alertas del sistema por modales de confirmación integrados en la estética de ONI Games para notificar cuando faltan categorías seleccionadas.
 
+### 8. 🔥 Modo Caos (Activación Secreta)
+- **Desbloqueo:** Acceso mediante la ruta oculta `/chaos`.
+- **Contenido Exclusivo:** Se habilita la categoría "Modo Caos 🔥" que incluye palabras y situaciones más intensas, diseñadas para grupos de confianza.
+- **UI Adaptativa:** La categoría Chaos aparece con un estilo visual de fuego y resplandor naranja cuando el modo está activo.
+
 ## 📂 Estructura de Archivos Clave
 - `app/games/impostor/page.tsx`: Contenedor principal y gestión del estado del juego.
 - `src/lib/impostor-logic.ts`: Lógica de barajado, generación de partida y carga de palabras.

@@ -25,6 +25,7 @@ export const CATEGORIES = [
   { id: 'clash-royale', name: 'Clash Royale' },
   { id: 'clima-naturaleza', name: 'Clima y naturaleza' },
   { id: 'memes', name: 'Memes' },
+  { id: 'chaos', name: 'Modo Caos 🔥' },
 ];
 
 export function shuffleArray<T>(array: T[]): T[] {

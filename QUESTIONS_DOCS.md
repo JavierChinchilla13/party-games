@@ -30,6 +30,7 @@ El juego cuenta con **14 categorías** con más de **2,500 parejas de preguntas*
 - Situaciones Hipotéticas
 - Memes
 - ¿Quién del Grupo? 👥 (¡NUEVO!)
+- **Modo Caos 🔥** (Secreto): Preguntas picantes y atrevidas para romper el hielo (o la amistad).
 
 
 ## 📂 Archivos del Juego

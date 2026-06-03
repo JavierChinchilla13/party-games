@@ -12,26 +12,19 @@
 - **Selección Rápida:** Botones "TODAS" y "NINGUNA" para gestionar las 14 categorías rápidamente.
 - **Validación Integrada:** Modales personalizados para avisos de configuración.
 
-## 🛠️ Estructura de Datos
-El juego cuenta con **14 categorías** con más de **2,500 parejas de preguntas** en total. Cada categoría tiene entre 150 y 200+ entradas, lo que garantiza una altísima rejugabilidad.
+## 🎯 Identidad de Categorías
+Recientemente se realizó un refactor masivo para asegurar que cada categoría tenga su propia "voz" y no dependa únicamente del formato "¿Quién del grupo...?".
 
-### Categorías:
-- General
-- Comida
-- Entretenimiento
-- Videojuegos
-- Deportes
-- Fútbol
-- Música
-- Costa Rica 🇨🇷
-- Trabajo
-- Viajes
-- Tecnología
-- Situaciones Hipotéticas
-- Memes
-- ¿Quién del Grupo? 👥 (¡NUEVO!)
-- **Modo Caos 🔥** (Secreto): Preguntas picantes y atrevidas para romper el hielo (o la amistad).
+### Distribución de Formatos:
+- **¿Quién del Grupo? 👥:** El hogar de las preguntas clásicas de votación grupal.
+- **Personales 👤:** Confesiones, dilemas éticos y "Qué harías si...".
+- **Modo Caos 🔥:** Una mezcla explosiva de escenarios absurdos, dilemas morales y preguntas "funables".
+- **Temáticas (Comida, Viajes, Tech) 🍕:** Debates de opinión, preferencias extremas y experiencias compartidas.
 
+## 🚀 Mejoras de Contenido
+- **Variedad Estructural:** Se mezclan preguntas directas, rankings, apuestas y decisiones imposibles.
+- **Pares Estratégicos:** Los pares `main` y `different` están diseñados para ser lo suficientemente similares como para pasar desapercibidos al principio, pero lo suficientemente distintos como para causar caos en la discusión.
+- **Dataset Curado:** Se eliminaron miles de entradas mediocres para dejar solo las mejores preguntas que garantizan conversación real.
 
 ## 📂 Archivos del Juego
 - `app/games/questions/page.tsx`: Gestor de estado principal y fases.

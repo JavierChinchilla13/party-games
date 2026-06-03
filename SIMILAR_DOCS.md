@@ -10,7 +10,10 @@
 - **Detección de Discrepancias:** El juego termina cuando el grupo cree haber identificado a los jugadores con la palabra diferente.
 
 ## 🛠️ Estructura de Datos
-Se han generado **+1,600 parejas de palabras** distribuidas en 11 categorías temáticas. Cada archivo contiene aproximadamente 150 entradas diseñadas para maximizar la confusión y el debate.
+Se han curado **12 categorías** temáticas. Cada archivo ha sido filtrado para eliminar parejas irrelevantes, asegurando que cada partida genere debate real.
+
+- **Filtro de Comparabilidad:** Solo se mantienen parejas donde un jugador puede confundirse fácilmente (ej: PlayStation vs Xbox).
+- **¿Quién del Grupo?:** Esta categoría ha sido totalmente rediseñada para enfocarse en dinámicas sociales divertidas y rasgos de personalidad, eliminando preguntas genéricas.
 
 #### Categorías Expandidas:
 - `animales.json`: Fauna silvestre, mascotas, especies relacionadas.

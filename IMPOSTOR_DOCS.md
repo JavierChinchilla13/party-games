@@ -36,9 +36,11 @@
 - **Optimización de Espacio:** Refactorización de la pantalla de revelación para eliminar scroll innecesario en móviles.
 - **Feedback Táctil:** Animaciones de escala y resplandor al interactuar con botones y tarjetas.
 
-### 6. Nuevas Categorías y Mejoras de Dataset
-- **⚔️ Clash Royale:** Incorporación de un dataset masivo con más de 100 cartas, hechizos y mecánicas del juego, cada una con su propia pista estratégica.
-- **Optimización de Contenido:** Revisión y expansión de todas las categorías existentes para garantizar variedad en partidas largas.
+## 📊 Estado del Contenido
+El juego cuenta con un dataset curado de **25 categorías** seleccionadas por su potencial para generar pistas creativas y sospechas.
+
+- **Refactor de Calidad:** Se han eliminado cientos de términos mediocres o abstractos. Ahora, cada categoría (desde Animales hasta Videojuegos) contiene palabras icónicas que todos conocen, facilitando la participación.
+- **Regla de Oro:** Las pistas automáticas son de **una sola palabra**, diseñadas para ser lo suficientemente amplias para que el impostor pueda camuflarse, pero lo suficientemente específicas para los jugadores normales.
 
 ### 7. Mejoras de UX en Configuración
 - **Selección Rápida:** Implementación de botones "TODAS" y "NINGUNA" en el selector de categorías para facilitar la configuración de partidas personalizadas.

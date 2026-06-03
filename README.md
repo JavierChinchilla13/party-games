@@ -19,7 +19,8 @@ Crear la mejor colección de juegos de fiesta en español, con interfaces modern
 ### 1. 🎭 Impostor (Completado)
 El juego de deducción social estrella.
 - **Estado:** ✅ 100% Funcional.
-- **Contenido:** 23 categorías, +3,700 palabras.
+- **Contenido:** 25 categorías curadas.
+- **Filosofía:** Calidad sobre cantidad. Cada palabra y pista ha sido seleccionada para maximizar la diversión y el engaño.
 - **Características:** Selección múltiple de categorías, pistas inteligentes de una sola palabra, soporte para múltiples impostores.
 - **Documentación:** [Ver detalles de Impostor](./IMPOSTOR_DOCS.md)
 
@@ -27,13 +28,20 @@ El juego de deducción social estrella.
 Todos reciben la misma palabra, excepto uno o varios que reciben una muy parecida.
 - **Estado:** ✅ 100% Funcional.
 - **Mecánica:** Nadie sabe si tiene la palabra diferente. Debate puro para encontrar la discrepancia.
-- **Contenido:** 10 categorías optimizadas para comparaciones.
+- **Contenido:** Categorías optimizadas con parejas de palabras altamente comparables.
 
 ### 3. ❓ Pregunta Diferente (Completado)
 Todos responden a la misma pregunta, pero uno o varios jugadores reciben una pregunta distinta que los hará quedar en evidencia.
 - **Estado:** ✅ 100% Funcional.
-- **Contenido:** 14 categorías con más de 2,500 parejas de preguntas.
-- **Características:** Selección múltiple de categorías, respuestas integradas, revelación automática y nueva categoría 👥 "¿Quién del Grupo?".
+- **Contenido:** 14 categorías curadas para generar discusión grupal.
+- **Características:** Selección múltiple de categorías, respuestas integradas, revelación automática y categoría 👥 "¿Quién del Grupo?".
+
+## ✨ Filosofía de Contenido: Calidad sobre Cantidad
+ONI Games se diferencia por ofrecer un catálogo curado manualmente donde cada entrada debe:
+1. Generar conversación.
+2. Ser divertida en un entorno de fiesta.
+3. Producir argumentos y discusión real.
+4. Evitar el relleno abstracto o aburrido.
 
 ### 🌀 Modo Caos (Secreto)
 Un modo especial que desbloquea contenido picante y atrevido en todos los juegos.

@@ -3,6 +3,7 @@ import { Player, Word, GameSettings, GameState } from '../types/impostor';
 export const CATEGORIES = [
   { id: 'objetos-cotidianos', name: 'Objetos cotidianos' },
   { id: 'personas-famosas', name: 'Personas famosas' },
+  { id: 'animacion', name: 'Disney y Animación' },
   { id: 'comidas-bebidas', name: 'Comidas y bebidas' },
   { id: 'animales', name: 'Animales' },
   { id: 'marcas-logos', name: 'Marcas y logos' },

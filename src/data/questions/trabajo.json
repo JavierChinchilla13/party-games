@@ -1,152 +1,362 @@
 [
-  { "main": "¿Qué es lo que más te gusta de tu trabajo actual?", "different": "¿Qué es lo que menos te gusta de trabajar en general?" },
-  { "main": "¿Cuál sería tu trabajo ideal si el dinero no importara?", "different": "¿Qué querías ser de grande cuando eras niño?" },
-  { "main": "¿Qué es lo primero que haces al llegar a la oficina?", "different": "¿Qué es lo último que haces antes de terminar tu jornada laboral?" },
-  { "main": "¿Qué prefieres: trabajar desde casa o en la oficina?", "different": "¿Cuál es tu lugar favorito para concentrarte?" },
-  { "main": "¿Cuál es la tarea que más pospones?", "different": "¿Qué es lo que más tiempo te quita en el día?" },
-  { "main": "¿Qué es lo más raro que has visto en una entrevista de trabajo?", "different": "¿Cuál ha sido tu peor experiencia en una entrevista?" },
-  { "main": "¿Qué prefieres: un jefe estricto o uno muy relajado?", "different": "¿Cómo describirías a tu jefe ideal?" },
-  { "main": "¿Cuál es el mejor beneficio que podría ofrecer una empresa?", "different": "¿Qué es lo que más valoras de tu contrato actual?" },
-  { "main": "¿Qué es lo que más te motiva a trabajar duro?", "different": "¿Por qué elegiste tu profesión actual?" },
-  { "main": "¿Qué prefieres: una oficina abierta o con cubículos?", "different": "¿Cómo sería tu espacio de trabajo perfecto?" },
-  { "main": "¿Cuál ha sido tu mayor logro profesional hasta ahora?", "different": "¿De qué proyecto te sientes más orgulloso?" },
-  { "main": "¿Qué es lo más gracioso que ha pasado en una reunión?", "different": "¿Qué es lo que más odias de las reuniones interminables?" },
-  { "main": "¿Qué prefieres: un sueldo alto o más tiempo libre?", "different": "¿Qué harías si te ganaras la lotería y no tuvieras que trabajar más?" },
-  { "main": "¿Cuál es tu snack favorito para la oficina?", "different": "¿Qué sueles almorzar en un día de trabajo?" },
-  { "main": "¿Qué es lo primero que harías si fueras el CEO por un día?", "different": "¿Qué cambio radical harías en tu empresa actual?" },
-  { "main": "¿Qué prefieres: trabajar solo o en un equipo grande?", "different": "¿Cómo te gusta colaborar con tus compañeros?" },
-  { "main": "¿Cuál es la habilidad más útil que has aprendido trabajando?", "different": "¿Qué herramienta de software dominas mejor?" },
-  { "main": "¿Qué es lo más vergonzoso que te ha pasado frente a tus colegas?", "different": "¿Qué anécdota de oficina siempre cuentas en las fiestas?" },
-  { "main": "¿Qué prefieres: madrugar para salir temprano o entrar tarde?", "different": "¿Cuál es tu horario de trabajo ideal?" },
-  { "main": "¿Cuál es el mejor consejo profesional que has recibido?", "different": "¿Qué le dirías a alguien que está empezando en tu área?" },
-  { "main": "¿Qué es lo que más te distrae en el trabajo?", "different": "¿Qué aplicación o sitio web visitas cuando quieres perder el tiempo?" },
-  { "main": "¿Qué prefieres: un trabajo creativo o uno rutinario?", "different": "¿Qué parte de tu trabajo te resulta más aburrida?" },
-  { "main": "¿Cuál ha sido el trabajo más raro que has tenido?", "different": "¿Qué es lo más extraño que has tenido que hacer por dinero?" },
-  { "main": "¿Qué es lo que más te gusta de tus compañeros de trabajo?", "different": "¿Con quién de la oficina te llevas mejor?" },
-  { "main": "¿Qué prefieres: café o té durante la jornada laboral?", "different": "¿Cuántas tazas de cafeína tomas para sobrevivir al día?" },
-  { "main": "¿Cuál es tu mayor resto profesional para este año?", "different": "¿Qué nueva habilidad quieres aprender pronto?" },
-  { "main": "¿Qué es lo que más te estresa del trabajo?", "different": "¿Cómo manejas la presión cuando tienes muchas entregas?" },
-  { "main": "¿Qué prefieres: una empresa grande o una startup?", "different": "¿En qué tipo de ambiente laboral te sientes más cómodo?" },
-  { "main": "¿Cuál es la mentira más común que se dice en el trabajo?", "different": "¿Qué excusa has usado alguna vez para faltar?" },
-  { "main": "¿Qué es lo que más extrañas de no trabajar?", "different": "¿Qué hacías en tus vacaciones más largas?" },
-  { "main": "¿Qué prefieres: un trabajo con muchos viajes o estar siempre en el mismo lugar?", "different": "¿Cuál ha sido el viaje de negocios más interesante que has hecho?" },
-  { "main": "¿Cuál es el objeto más raro que tienes en tu escritorio?", "different": "¿Qué es lo que nunca falta en tu lugar de trabajo?" },
-  { "main": "¿Qué es lo que más te hace reír de la cultura corporativa?", "different": "¿Qué frase de oficina o 'buzzword' no soportas?" },
-  { "main": "¿Qué prefieres: tener un mentor o ser el mentor de alguien?", "different": "¿Quién ha sido la persona que más te ha enseñado en tu carrera?" },
-  { "main": "¿Cuál es tu forma favorita de celebrar un éxito laboral?", "different": "¿Qué haces cuando terminas un proyecto muy difícil?" },
-  { "main": "¿Qué es lo que más te sorprende de tu industria?", "different": "¿Cómo crees que será tu trabajo en 10 años?" },
-  { "main": "¿Qué prefieres: trabajar bajo presión o con mucha calma?", "different": "¿En qué momento del día eres más productivo?" },
-  { "main": "¿Cuál es el error más grande que has cometido en el trabajo?", "different": "¿Qué lección aprendiste de la manera difícil?" },
-  { "main": "¿Qué es lo que más te gusta de los lunes?", "different": "¿Cómo te preparas para empezar la semana?" },
-  { "main": "¿Qué prefieres: una vestimenta formal o casual en la oficina?", "different": "¿Qué ropa sueles usar para ir a trabajar?" },
-  { "main": "¿Cuál es la mejor oficina en la que has estado?", "different": "¿Qué es lo que más te gusta del edificio donde trabajas?" },
-  { "main": "¿Qué es lo que más te motiva a cambiar de trabajo?", "different": "¿Qué buscarías en una nueva oportunidad laboral?" },
-  { "main": "¿Qué prefieres: un bono anual o un aumento de sueldo?", "different": "¿Qué es lo primero que haces cuando recibes tu salario?" },
-  { "main": "¿Cuál es el mito más grande sobre tu profesión?", "different": "¿Qué es lo que la gente no entiende de lo que haces?" },
-  { "main": "¿Qué es lo que más te relaja después de un día intenso?", "different": "¿Cuál es tu rutina al llegar a casa después de trabajar?" },
-  { "main": "¿Qué prefieres: feedback directo o más sutil?", "different": "¿Cómo te gusta que reconozcan tu trabajo?" },
-  { "main": "¿Cuál es el mejor evento de integración que has tenido?", "different": "¿Qué actividad de equipo te gustaría proponer?" },
-  { "main": "¿Qué es lo que más te ilusiona de tu carrera a largo plazo?", "different": "¿Qué puesto te gustaría alcanzar algún día?" },
-  { "main": "¿Qué prefieres: una jornada de 4 días o de 5 días más cortos?", "different": "¿Cómo distribuirías tus horas de trabajo ideales?" },
-  { "main": "¿Cuál es la canción que te pone en modo trabajo?", "different": "¿Qué escuchas mientras estás concentrado en una tarea?" },
-  { "main": "¿Qué es lo más valioso que has aprendido de un fracaso laboral?", "different": "¿Qué consejo le darías a tu 'yo' del primer día de trabajo?" },
-  { "main": "¿Qué prefieres: trabajar en silencio total o con ruido ambiente?", "different": "¿En qué lugar fuera de la oficina te gusta trabajar?" },
-  { "main": "¿Cuál es el hábito que te hace ser más eficiente?", "different": "¿Qué aplicación de productividad usas siempre?" },
-  { "main": "¿Qué es lo que más te gusta de las despedidas de soltero de la oficina?", "different": "¿Qué es lo que más te gusta de los almuerzos de equipo?" },
-  { "main": "¿Qué prefieres: un trabajo estable o uno con muchos retos?", "different": "¿Qué es lo que más te aburre de la estabilidad?" },
-  { "main": "¿Cuál es el mejor regalo que te ha dado la empresa?", "different": "¿Qué objeto de merchandising de tu oficina usas de verdad?" },
-  { "main": "¿Qué es lo que más te molesta de las videollamadas?", "different": "¿Qué es lo que siempre haces mientras estás en una reunión por Zoom?" },
-  { "main": "¿Qué prefieres: mandar un email o hacer una llamada rápida?", "different": "¿Cuál es tu forma favorita de comunicarte con tus clientes?" },
-  { "main": "¿Cuál es el mejor horario para tener una reunión?", "different": "¿A qué hora prefieres que te dejen tranquilo para trabajar?" },
-  { "main": "¿Qué es lo que más te enorgullece de tu equipo actual?", "different": "¿Qué cualidad valoras más en un colega?" },
-  { "main": "¿Qué prefieres: un trabajo con mucha responsabilidad o uno tranquilo?", "different": "¿Qué harías si te ofrecieran un ascenso mañana?" },
-  { "main": "¿Cuál es el mejor lugar para ir a un 'after office'?", "different": "¿Qué bebes cuando sales con tus compañeros de trabajo?" },
-  { "main": "¿Qué es lo que más te ha costado aprender en tu puesto?", "different": "¿Qué certificación o curso te gustaría hacer?" },
-  { "main": "¿Qué prefieres: trabajar con luz natural o artificial?", "different": "¿Cuál es el detalle que hace tu oficina más acogedora?" },
-  { "main": "¿Cuál es el mejor momento del día en la oficina?", "different": "¿A qué hora sueles ir a buscar un snack?" },
-  { "main": "¿Qué es lo que más te gusta de las vacaciones de la empresa?", "different": "¿A dónde te gustaría viajar en tus próximas vacaciones?" },
-  { "main": "¿Qué prefieres: una oficina en el centro o cerca de casa?", "different": "¿Cuánto tiempo tardas en llegar al trabajo?" },
-  { "main": "¿Cuál es el mayor desafío de liderar a otras personas?", "different": "¿Qué es lo que más te gusta de tener personas a cargo?" },
-  { "main": "¿Qué es lo que más te sorprende de las nuevas generaciones en el trabajo?", "different": "¿Qué consejo le darías a alguien que recién sale de la universidad?" },
-  { "main": "¿Qué prefieres: un trabajo con objetivos claros o con libertad total?", "different": "¿Cómo te organizas para cumplir con tus metas?" },
-  { "main": "¿Cuál es el mejor cumplido que te ha hecho un cliente?", "different": "¿Qué es lo que más te agradecen tus compañeros?" },
-  { "main": "¿Qué es lo que más te asusta de un cambio de carrera?", "different": "¿En qué otra profesión crees que te iría bien?" },
-  { "main": "¿Qué prefieres: trabajar en una oficina moderna o en una clásica?", "different": "¿Qué objeto de diseño te gustaría tener en tu escritorio?" },
-  { "main": "¿Cuál es el mejor curso de capacitación que has tomado?", "different": "¿Qué tema te gustaría enseñar a otros?" },
-  { "main": "¿Qué es lo que más te gusta de las fiestas de fin de año de la empresa?", "different": "¿Qué es lo más loco que has visto en una fiesta de oficina?" },
-  { "main": "¿Qué prefieres: trabajar con metas diarias o mensuales?", "different": "¿Cómo mides tu propio éxito personal?" },
-  { "main": "¿Cuál es el mejor lugar para almorzar cerca de tu trabajo?", "different": "¿Qué es lo que siempre pides cuando sales a comer con colegas?" },
-  { "main": "¿Qué es lo que más te ha inspirado de un líder que has tenido?", "different": "¿A quién admiras en tu ámbito profesional?" },
-  { "main": "¿Qué prefieres: una oficina con mucha gente o una tranquila?", "different": "¿Qué es lo que más te gusta de la soledad en el trabajo?" },
-  { "main": "¿Cuál es el mejor truco que conoces de Excel o de tu herramienta principal?", "different": "¿Qué atajo de teclado usas constantemente?" },
-  { "main": "¿Qué es lo que más te gusta de los viernes en el trabajo?", "different": "¿Qué planes sueles tener para el viernes después de las 6?" },
-  { "main": "¿Qué prefieres: un trabajo presencial o híbrido?", "different": "¿Cuántos días a la semana te gustaría ir a la oficina?" },
-  { "main": "¿Cuál es el mayor sacrificio que has hecho por tu carrera?", "different": "¿Qué es lo que nunca estarías dispuesto a hacer por trabajo?" },
-  { "main": "¿Qué es lo que más te gusta de la flexibilidad horaria?", "different": "¿A qué hora prefieres empezar tu día laboral?" },
-  { "main": "¿Qué prefieres: trabajar en un proyecto largo o en muchos pequeños?", "different": "¿Qué tipo de tareas te dan más satisfacción?" },
-  { "main": "¿Cuál es el mejor consejo para una entrevista por video?", "different": "¿Qué es lo primero que miras en el perfil de LinkedIn de alguien?" },
-  { "main": "¿Qué es lo que más te gusta de las conferencias o eventos de tu área?", "different": "¿A qué evento profesional te gustaría asistir algún día?" },
-  { "main": "¿Qué prefieres: un trabajo con mucha visibilidad o uno más discreto?", "different": "¿Cómo manejas el protagonismo en las reuniones?" },
-  { "main": "¿Cuál es el mejor sistema para organizar tus correos?", "different": "¿Cuántos emails sin leer tienes en este momento?" },
-  { "main": "¿Qué es lo que más te gusta de los días de pago?", "different": "¿Cuál es tu mayor capricho cuando cobras el sueldo?" },
-  { "main": "¿Qué prefieres: trabajar para alguien o ser tu propio jefe?", "different": "¿Qué idea de negocio has tenido alguna vez?" },
-  { "main": "¿Cuál es el mejor lugar para ir a buscar inspiración?", "different": "¿Qué haces cuando te sientes bloqueado creativamente?" },
-  { "main": "¿Qué es lo que más te gusta de la cultura de tu empresa?", "different": "¿Qué valor corporativo te parece el más importante?" },
-  { "main": "¿Qué prefieres: una oficina con gimnasio o con sala de juegos?", "different": "¿Qué zona de relax te gustaría que tuviera tu oficina?" },
-  { "main": "¿Cuál es el mayor aprendizaje de trabajar con gente difícil?", "different": "¿Cómo resuelves un conflicto con un compañero?" },
-  { "main": "¿Qué es lo que más te gusta de los proyectos internacionales?", "different": "¿Con personas de qué país te ha gustado más trabajar?" },
-  { "main": "¿Qué prefieres: un trabajo con mucha estructura o con mucha autonomía?", "different": "¿Cómo manejas la incertidumbre en el trabajo?" },
-  { "main": "¿Cuál es el mejor consejo para mantener el equilibrio entre vida y trabajo?", "different": "¿Qué haces para desconectar totalmente del trabajo?" },
-  { "main": "¿Qué es lo que más te gusta de los desafíos técnicos?", "different": "¿Cuál ha sido el problema más difícil que has resuelto?" },
-  { "main": "¿Qué prefieres: trabajar con hardware o con software?", "different": "¿Qué gadget tecnológico es indispensable para tu trabajo?" },
-  { "main": "¿Cuál es el mejor lugar para tener una reunión informal?", "different": "¿En qué café te reunirías con un cliente importante?" },
-  { "main": "¿Qué es lo que más te gusta de las mentorías?", "different": "¿Qué es lo más importante que le has enseñado a alguien?" },
-  { "main": "¿Qué prefieres: un trabajo que te apasione o uno que sea fácil?", "different": "¿Qué es lo que te hace sentir que el tiempo vuela en el trabajo?" },
-  { "main": "¿Cuál es el mayor beneficio de trabajar en equipo?", "different": "¿Qué es lo que más aprendes de tus subordinados o jefes?" },
-  { "main": "¿Qué es lo que más te gusta de la innovación en tu empresa?", "different": "¿Qué tecnología crees que va a cambiar tu forma de trabajar?" },
-  { "main": "¿Qué prefieres: una oficina con plantas o minimalista?", "different": "¿Cómo decoras tu espacio de trabajo?" },
-  { "main": "¿Cuál es el mejor consejo para manejar el correo electrónico?", "different": "¿Qué es lo que más te molesta de recibir demasiados emails?" },
-  { "main": "¿Qué es lo que más te gusta de los días de 'casual Friday'?", "different": "¿Qué prenda de ropa te hace sentir más seguro en el trabajo?" },
-  { "main": "¿Qué prefieres: trabajar para una ONG o para una corporación?", "different": "¿En qué tipo de impacto te gustaría que tuviera tu trabajo?" },
-  { "main": "¿Cuál es el mejor lugar para ir a buscar nuevas oportunidades laborales?", "different": "¿Qué es lo primero que actualizas en tu CV?" },
-  { "main": "¿Qué es lo que más te gusta de la diversidad en el trabajo?", "different": "¿Qué has aprendido de trabajar con personas de diferentes culturas?" },
-  { "main": "¿Qué prefieres: un trabajo con mucha movilidad o uno de escritorio?", "different": "¿Cuál es la parte más activa de tu jornada laboral?" },
-  { "main": "¿Cuál es el mejor consejo para pedir un aumento de sueldo?", "different": "¿Cómo mides tu propio valor en el mercado laboral?" },
-  { "main": "¿Qué es lo que más te gusta de los programas de bienestar de la empresa?", "different": "¿Qué actividad saludable haces durante tu tiempo de trabajo?" },
-  { "main": "¿Qué prefieres: trabajar con plazos cortos o largos?", "different": "¿Cómo manejas el estrés de una fecha de entrega cercana?" },
-  { "main": "¿Cuál es el mejor lugar para ir a pensar en nuevas ideas?", "different": "¿Qué haces cuando necesitas un momento de calma en la oficina?" },
-  { "main": "¿Qué es lo que más te gusta de la colaboración interdisciplinaria?", "different": "¿Con qué otro departamento de tu empresa te gusta más trabajar?" },
-  { "main": "¿Qué prefieres: un trabajo con mucha competencia o muy colaborativo?", "different": "¿Qué es lo que más te motiva a superarte a ti mismo?" },
-  { "main": "¿Cuál es el mejor consejo para liderar reuniones efectivas?", "different": "¿Qué es lo que más valoras de una reunión bien organizada?" },
-  { "main": "¿Qué es lo que más te gusta de la formación continua?", "different": "¿Qué libro profesional has leído recientemente?" },
-  { "main": "¿Qué prefieres: trabajar en una ciudad grande o en una pequeña?", "different": "¿Dónde te gustaría que estuviera ubicada tu oficina ideal?" },
-  { "main": "¿Cuál es el mayor beneficio de tener un buen ambiente laboral?", "different": "¿Qué haces tú para mejorar el clima en tu oficina?" },
-  { "main": "¿Qué es lo que más te gusta de la autonomía en el trabajo?", "different": "¿Cómo te mangas las decisiones más importantes en tu puesto?" },
-  { "main": "¿Qué prefieres: un trabajo con mucho contacto humano o más técnico?", "different": "¿Qué es lo que más disfrutas de hablar con la gente en el trabajo?" },
-  { "main": "¿Cuál es el mejor consejo para alguien que busca su primer empleo?", "different": "¿Qué es lo que más te costó de tu primera experiencia laboral?" },
-  { "main": "¿Qué es lo que más te gusta de los retos intelectuales?", "different": "¿Qué tipo de problemas te gusta más resolver?" },
-  { "main": "¿Qué prefieres: un trabajo con mucho orden o uno más caótico?", "different": "¿Cómo manejas los imprevistos en tu día a día?" },
-  { "main": "¿Cuál es el mejor lugar para ir a celebrar un ascenso?", "different": "¿A quién fue la primera persona que llamaste cuando conseguiste tu trabajo?" },
-  { "main": "¿Qué es lo que más te gusta de la cultura de aprendizaje en tu empresa?", "different": "¿Qué es lo último que has aprendido de un colega?" },
-  { "main": "¿Qué prefieres: trabajar con clientes externos o internos?", "different": "¿Qué es lo que más te gusta de dar un buen servicio?" },
-  { "main": "¿Cuál es el mejor consejo para mantener la motivación a largo plazo?", "different": "¿Qué es lo que te hace sentir orgulloso de tu carrera?" },
-  { "main": "¿Qué es lo que más te gusta de la tecnología en el trabajo?", "different": "¿Qué herramienta digital te ha facilitado más la vida?" },
-  { "main": "¿Qué prefieres: un trabajo con mucha historia o uno nuevo?", "different": "¿Qué es lo que más te atrae de las empresas con tradición?" },
-  { "main": "¿Cuál es el mejor lugar para ir a buscar inspiración para un proyecto?", "different": "¿Qué haces cuando necesitas un enfoque fresco para una tarea?" },
-  { "main": "¿Qué es lo que más te gusta de la transparencia en la empresa?", "different": "¿Qué información te parece vital conocer sobre tu lugar de trabajo?" },
-  { "main": "¿Qué prefieres: trabajar en un ambiente ruidoso o silencioso?", "different": "¿Qué tipo de música te ayuda a ser más productivo?" },
-  { "main": "¿Cuál es el mejor consejo para manejar el tiempo de manera efectiva?", "different": "¿Qué técnica de gestión del tiempo usas a diario?" },
-  { "main": "¿Qué es lo que más te gusta de los beneficios no monetarios?", "different": "¿Qué ventaja de tu trabajo actual no cambiarías por nada?" },
-  { "main": "¿Qué prefieres: trabajar con personas de tu misma edad o de diferentes edades?", "different": "¿Qué es lo que más aprendes de las personas con más experiencia?" },
-  { "main": "¿Cuál es el mejor lugar para ir a desconectar durante el almuerzo?", "different": "¿Qué haces para recargar energías a mitad del día?" },
-  { "main": "¿Qué es lo que más te gusta de la cultura de innovación?", "different": "¿Qué idea innovadora has propuesto recientemente?" },
-  { "main": "¿Qué prefieres: un trabajo con mucha rutina o muy variado?", "different": "¿Qué es lo que más te gusta de la variedad en tu puesto?" },
-  { "main": "¿Cuál es el mejor consejo para alguien que quiere cambiar de industria?", "different": "¿Qué habilidades transferibles crees que tienes?" },
-  { "main": "¿Qué es lo que más te gusta de los proyectos con impacto social?", "different": "¿En qué causa te gustaría colaborar a través de tu trabajo??" },
-  { "main": "¿Qué prefieres: un trabajo con mucha supervisión o con libertad?", "different": "¿Cómo demuestras que eres responsable en tu puesto?" },
-  { "main": "¿Cuál es el mejor lugar para ir a buscar nuevas ideas para tu negocio?", "different": "¿Qué haces cuando necesitas innovar en tu área?" },
-  { "main": "¿Qué es lo que más te gusta de la cultura de feedback?", "different": "¿Cómo ha ayudado un comentario constructivo a tu crecimiento?" },
-  { "main": "¿Qué prefieres: trabajar con un equipo pequeño o grande?", "different": "¿Qué es lo que más te gusta de la dinámica de tu equipo actual?" },
-  { "main": "¿Cuál es el mejor consejo para manejar el estrés laboral?", "different": "¿Qué actividad fuera del trabajo te ayuda a liberar tensiones?" },
-  { "main": "¿Qué es lo que más te gusta de la posibilidad de crecer en tu empresa?", "different": "¿Qué pasos estás dando para alcanzar tu próximo objetivo profesional?" }
+  {
+    "main": "¿Quién del grupo es más probable que renuncie a su trabajo de un día para otro por un capricho?",
+    "different": "¿Quién del grupo sería capaz de quedarse 20 años en la misma empresa solo por comodidad?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de su jefe o de sus compañeros de trabajo?",
+    "different": "¿Quién del grupo es el 'pelota' que siempre le ríe las gracias al jefe?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se quede dormido en mitad de una reunión importante?",
+    "different": "¿Quién del grupo siempre llega 15 minutos antes a todas las citas de trabajo?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el escritorio más desordenado y lleno de papeles viejos?",
+    "different": "¿Quién del grupo tiene un escritorio tan limpio que parece que nadie trabaja ahí?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que use ChatGPT para hacer todo su trabajo y que no se den cuenta?",
+    "different": "¿Quién del grupo es un adicto al trabajo que contesta correos a las 3 de la mañana?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más veces ha fingido estar enfermo para no ir a trabajar?",
+    "different": "¿Quién del grupo iría a trabajar incluso con 40 de fiebre por pura responsabilidad?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse millonario con una idea de negocio absurda?",
+    "different": "¿Quién del grupo es más probable que acabe arruinado por invertir en un negocio malísimo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más snacks roba de la cocina de la oficina?",
+    "different": "¿Quién del grupo es el que siempre trae comida casera saludable en un tupper?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea despedido por algo que publicó en sus redes sociales?",
+    "different": "¿Quién del grupo tiene LinkedIn tan actualizado que parece que busca trabajo cada día?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor jefe de una empresa multinacional?",
+    "different": "¿Quién del grupo causaría el caos absoluto si tuviera a tres personas a su cargo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más tiempo pasa en el baño de la oficina 'trabajando' con el móvil?",
+    "different": "¿Quién del grupo es capaz de estar 8 horas seguidas sin levantarse de la silla?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de un compañero de trabajo?",
+    "different": "¿Quién del grupo cree firmemente que no hay que hacer amigos en el trabajo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más 'buzzwords' de oficina usa (sinergia, feedback, mindset)?",
+    "different": "¿Quién del grupo no entiende ni la mitad de los términos modernos que usan sus jefes?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sabotee a un compañero para conseguir un ascenso?",
+    "different": "¿Quién del grupo es tan buena persona que ayudaría a su competencia a mejorar?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en montar una huelga si le quitan el café gratis?",
+    "different": "¿Quién del grupo sobrevive a base de bebidas energéticas y comida rápida?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la firma de correo electrónico más pretenciosa y larga?",
+    "different": "¿Quién del grupo contesta a los correos importantes con un simple 'ok'?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un 'nómada digital' y trabaje desde la playa?",
+    "different": "¿Quién del grupo necesita el ruido y el caos de una oficina para poder concentrarse?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en ser pillado viendo videos de gatitos en horas de trabajo?",
+    "different": "¿Quién del grupo es tan eficiente que termina su jornada en solo 4 horas?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se emociona con las cenas de empresa y las fiestas?",
+    "different": "¿Quién del grupo busca cualquier excusa para no ir a los eventos de 'teambuilding'?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor en una entrevista de trabajo incluso sin tener ni idea del puesto?",
+    "different": "¿Quién del grupo se pone tan nervioso en las entrevistas que olvida hasta su nombre?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que robe el tupper de otra persona de la nevera común?",
+    "different": "¿Quién del grupo etiqueta su comida con nombre, fecha y advertencia de veneno?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más habla por el chat interno de la empresa?",
+    "different": "¿Quién del grupo tiene 500 mensajes sin leer y le da igual?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en el CEO de su propia empresa?",
+    "different": "¿Quién del grupo prefiere ser un empleado raso toda su vida para no tener responsabilidades?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de los lunes en redes sociales?",
+    "different": "¿Quién del grupo es el 'motivador' que manda frases positivas el lunes a las 8 AM?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que tenga un romance secreto con alguien de recursos humanos?",
+    "different": "¿Quién del grupo le tiene pánico a la gente de recursos humanos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en pedir un aumento de sueldo después de solo una semana?",
+    "different": "¿Quién del grupo lleva años cobrando lo mismo por miedo a pedir más dinero?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más pestañas de Amazon tiene abiertas mientras 'trabaja'?",
+    "different": "¿Quién del grupo se siente culpable si se toma un descanso de cinco minutos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea un espía industrial infiltrado?",
+    "different": "¿Quién del grupo cuenta todos los secretos de la empresa a la primera persona que le invita a una cerveza?"
+  },
+  {
+    "main": "¿Quién del grupo es el que mejor sabe 'vender la moto' y convencer a los clientes?",
+    "different": "¿Quién del grupo sería incapaz de venderle agua a alguien en el desierto?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un 'coach' motivacional insoportable?",
+    "different": "¿Quién del grupo odia la positividad tóxica en el entorno laboral?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la libreta de notas más bonita y organizada?",
+    "different": "¿Quién del grupo lo apunta todo en trozos de servilletas que luego pierde?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer que los viernes se trabaje en pijama?",
+    "different": "¿Quién del grupo va siempre vestido de forma impecable aunque trabaje desde casa?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más memes de oficina manda al grupo de amigos?",
+    "different": "¿Quién del grupo no entiende el humor corporativo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea pillado durmiendo una siesta debajo de la mesa?",
+    "different": "¿Quién del grupo es capaz de tomarse 5 cafés seguidos sin que le tiemble el pulso?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor organizador de la lotería de Navidad de la oficina?",
+    "different": "¿Quién del grupo es el que nunca pone dinero para los regalos de cumpleaños de los colegas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que acabe trabajando para la competencia por un poco más de dinero?",
+    "different": "¿Quién del grupo es extremadamente leal a su empresa aunque le traten regular?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se distrae con cualquier mosca que pase?",
+    "different": "¿Quién del grupo es capaz de trabajar en mitad de una zona de obras sin inmutarse?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer que la oficina sea 'pet-friendly'?",
+    "different": "¿Quién del grupo odia que la gente lleve a sus perros o hijos al trabajo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un 'ermitaño' trabajando 100% remoto?",
+    "different": "¿Quién del grupo necesita ir a la oficina solo para cotillear con los compañeros?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de leyes laborales y siempre reclama sus derechos?",
+    "different": "¿Quién del grupo hace horas extra gratis sin que nadie se lo pida?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor presentador de una gala de premios de la empresa?",
+    "different": "¿Quién del grupo se escondería en el baño si le piden que hable en público?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea un experto en Excel pero no se lo diga a nadie para que no le pidan ayuda?",
+    "different": "¿Quién del grupo no sabe ni cómo sumar dos celdas en una hoja de cálculo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre propone ir de cañas justo cuando hay más trabajo?",
+    "different": "¿Quién del grupo es el 'aguafiestas' que nunca sale después de trabajar?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en crear un sindicato en su empresa?",
+    "different": "¿Quién del grupo cree que los sindicatos son cosas del pasado?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que acabe trabajando en algo que no tiene nada que ver con lo que estudió?",
+    "different": "¿Quién del grupo sabía exactamente lo que quería ser desde los 5 años y lo ha conseguido?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de la temperatura del aire acondicionado?",
+    "different": "¿Quién del grupo siempre tiene frío incluso en pleno agosto?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor actor para fingir que está muy ocupado cuando no hace nada?",
+    "different": "¿Quién del grupo va siempre corriendo de un lado a otro aunque no tenga nada urgente?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que gane el premio al 'empleado del mes'?",
+    "different": "¿Quién del grupo es más probable que sea nominado al 'empleado más invisible'?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más veces ha enviado un correo a la persona equivocada?",
+    "different": "¿Quién del grupo revisa tres veces el destinatario antes de darle a enviar?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer un viaje de empresa a Las Vegas?",
+    "different": "¿Quién del grupo prefiere un retiro espiritual de silencio como actividad de equipo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de que tenía una reunión por Zoom?",
+    "different": "¿Quién del grupo se conecta 5 minutos antes para probar que el micro funciona?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de los cotilleos amorosos de su oficina?",
+    "different": "¿Quién del grupo vive en una burbuja y no se entera de nada de lo que pasa?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor negociador para conseguir un contrato millonario?",
+    "different": "¿Quién del grupo acepta la primera oferta que le dan por vergüenza a regatear?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea pillado usando la impresora de la oficina para cosas personales?",
+    "different": "¿Quién del grupo pide permiso hasta para usar un clip de la empresa?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más aplicaciones de productividad tiene en el móvil (y no usa ninguna)?",
+    "different": "¿Quién del grupo usa una agenda de papel de toda la vida y le funciona perfecto?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en denunciar a un compañero por robarle una idea?",
+    "different": "¿Quién del grupo regala sus ideas a los demás por falta de confianza?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que trabaje hasta los 80 años porque le encanta lo que hace?",
+    "different": "¿Quién del grupo cuenta los minutos que le faltan para jubilarse desde que empezó a trabajar?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre tiene la webcam apagada en las reuniones?",
+    "different": "¿Quién del grupo usa fondos virtuales ridículos para llamar la atención?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor infiltrado en una empresa de la competencia?",
+    "different": "¿Quién del grupo lleva la camiseta con el logo de su empresa hasta los domingos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un 'influencer' de su profesión?",
+    "different": "¿Quién del grupo odia que su trabajo sea público y prefiere el anonimato?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de que 'en mis tiempos las cosas se hacían mejor'?",
+    "different": "¿Quién del grupo siempre quiere probar la última herramienta tecnológica que sale?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer que no haya jefes y todos sean iguales?",
+    "different": "¿Quién del grupo necesita que alguien le diga exactamente qué hacer en cada momento?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que acabe trabajando en el circo?",
+    "different": "¿Quién del grupo es tan serio que parece que trabaja en una funeraria?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más veces ha perdido las llaves o la tarjeta de la oficina?",
+    "different": "¿Quién del grupo lleva la tarjeta colgada del cuello hasta para ir al supermercado?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor mediador en un conflicto entre dos compañeros?",
+    "different": "¿Quién del grupo es el que siempre echa más leña al fuego cuando hay drama?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea pillado trabajando en calzoncillos/pijama por una videollamada?",
+    "different": "¿Quién del grupo se pone corbata o tacones incluso para una llamada de 2 minutos?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más tiempo pasa configurando su firma de correo?",
+    "different": "¿Quién del grupo tiene 'Enviado desde mi iPhone' como firma por pereza de cambiarlo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en pedir que pongan una mesa de ping-pong en la oficina?",
+    "different": "¿Quién del grupo cree que las oficinas modernas con juegos son una pérdida de tiempo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un adicto a los seminarios y cursos online?",
+    "different": "¿Quién del grupo cree que ya lo sabe todo y no necesita aprender nada más?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre llega tarde pero se va el primero?",
+    "different": "¿Quién del grupo es el que apaga las luces de la oficina porque siempre es el último en irse?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor para organizar una huelga de brazos caídos?",
+    "different": "¿Quién del grupo es el 'rompehuelgas' que sigue trabajando a escondidas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea pillado criticando al jefe por el chat de la empresa?",
+    "different": "¿Quién del grupo es el que siempre borra los mensajes por miedo a que los lean?"
+  },
+  {
+    "main": "¿Quién del grupo es el que tiene la voz más alta y molesta en toda la oficina?",
+    "different": "¿Quién del grupo habla tan bajito que nadie le oye en las reuniones?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer que el sueldo sea público para todos?",
+    "different": "¿Quién del grupo no le diría cuánto gana ni a su propia madre?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que acabe trabajando para una ONG en el tercer mundo?",
+    "different": "¿Quién del grupo solo trabajaría en algo que le haga ganar muchísimo dinero?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre trae las noticias más frescas sobre la empresa?",
+    "different": "¿Quién del grupo se entera de que han despedido a alguien tres meses después?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor para dar un discurso motivacional en un momento de crisis?",
+    "different": "¿Quién del grupo es el que empieza a llorar en cuanto las cosas se ponen difíciles?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea pillado haciendo compras online durante una presentación?",
+    "different": "¿Quién del grupo toma notas de forma obsesiva en cada palabra del orador?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de que 'hay demasiadas reuniones que podrían ser un email'?",
+    "different": "¿Quién del grupo convoca una reunión para decidir a qué hora será la siguiente reunión?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer que la oficina tenga barra libre los viernes?",
+    "different": "¿Quién del grupo cree que el alcohol y el trabajo nunca deben mezclarse?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que tenga un perfil falso en LinkedIn para espiar a otros?",
+    "different": "¿Quién del grupo tiene una foto de perfil de hace 15 años donde no se le reconoce?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre propone las ideas más locas e imposibles en las reuniones?",
+    "different": "¿Quién del grupo es el 'realista' que tumba todas las ideas por ser demasiado caras?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor para organizar la mudanza a una nueva oficina?",
+    "different": "¿Quién del grupo perdería la mitad de sus cosas en el proceso de mudanza?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que acabe siendo el dueño de su propia isla privada?",
+    "different": "¿Quién del grupo sería feliz trabajando de camarero en un chiringuito de playa?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se emociona con el material de oficina nuevo (bolígrafos, libretas)?",
+    "different": "¿Quién del grupo escribe con el primer trozo de lápiz mordido que encuentra?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en pedir una excedencia para irse a dar la vuelta al mundo?",
+    "different": "¿Quién del grupo se siente mal si se toma más de dos días de vacaciones seguidos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea pillado escuchando música a todo volumen con los cascos puestos?",
+    "different": "¿Quién del grupo se queja por el ruido de las teclas de sus compañeros?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre tiene las mejores anécdotas de 'mi anterior trabajo era peor'?",
+    "different": "¿Quién del grupo cree que su trabajo actual es el peor del mundo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor para dar las malas noticias a un cliente?",
+    "different": "¿Quién del grupo tartamudea y se pone rojo cuando tiene que decir 'no' a algo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea pillado haciendo deporte en su silla de oficina?",
+    "different": "¿Quién del grupo es el que más se encorva y tiene peor postura frente al ordenador?"
+  }
 ]

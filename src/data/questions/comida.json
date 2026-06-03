@@ -1,153 +1,322 @@
 [
-  { "main": "¿Cuál es el ingrediente que no puede faltar en una pizza?", "different": "¿Cuál es el ingrediente que arruina una pizza?" },
-  { "main": "¿Cuál es tu restaurante de comida rápida preferido?", "different": "¿Qué comida rápida nunca pedirías?" },
-  { "main": "¿Cuál es el mejor acompañamiento para unas papas fritas?", "different": "¿Cuál es tu salsa favorita?" },
-  { "main": "¿Cuál es tu bebida favorita para una fiesta?", "different": "¿Qué bebida tomas para refrescarte en un día caluroso?" },
-  { "main": "¿Cuál es el mejor sabor de helado?", "different": "¿Qué sabor de helado es el más extraño que has probado?" },
-  { "main": "¿Qué fruta es la más rica?", "different": "¿Qué fruta te parece la más difícil de comer?" },
-  { "main": "¿Cuál es tu desayuno ideal de domingo?", "different": "¿Qué es lo primero que puedes comer al despertar?" },
-  { "main": "¿Qué ingrediente le pones a todo?", "different": "¿Qué especia o condimento no soportas?" },
-  { "main": "¿Cuál es el mejor postre para una cena romántica?", "different": "¿Qué dulce te recuerda a tu infancia?" },
-  { "main": "¿Cómo prefieres los huevos: revueltos o fritos?", "different": "¿Qué es lo más difícil de cocinar con huevo?" },
-  { "main": "¿Cuál es tu tipo de carne favorito?", "different": "¿Qué carne nunca probarías?" },
-  { "main": "¿Qué prefieres: sushi o tacos?", "different": "¿Cuál es la mejor comida para compartir?" },
-  { "main": "¿Cuál es el mejor chocolate del mundo?", "different": "¿Qué tipo de chocolate prefieres: negro, con leche o blanco?" },
-  { "main": "¿Qué verdura odiabas de niño?", "different": "¿Cuál es la verdura que más cocinas ahora?" },
-  { "main": "¿Cuál es tu sopa favorita para un día frío?", "different": "¿Qué sopa te obligaban a tomar de pequeño?" },
-  { "main": "¿Qué bebida caliente prefieres por la tarde?", "different": "¿Cuál es tu infusión o té favorito?" },
-  { "main": "¿Qué le pones a un sándwich perfecto?", "different": "¿Qué ingrediente sobra en una hamburguesa?" },
-  { "main": "¿Cuál es el mejor queso que has probado?", "different": "¿Qué queso tiene el olor más fuerte?" },
-  { "main": "¿Qué comida te sale mejor cuando cocinas?", "different": "¿Cuál es tu especialidad en la cocina?" },
-  { "main": "¿Qué prefieres: pasta corta o larga?", "different": "¿Cuál es la salsa perfecta para la pasta?" },
-  { "main": "¿Qué es lo más raro que has encontrado en una ensalada?", "different": "¿Cuál es el ingrediente base de tu ensalada ideal?" },
-  { "main": "¿Qué fruta prefieres en un batido?", "different": "¿Cuál es la fruta más refrescante?" },
-  { "main": "¿Qué prefieres: picante o muy dulce?", "different": "¿Cuál es el plato más picante que has comido?" },
-  { "main": "¿Cuál es el mejor pan para el desayuno?", "different": "¿Qué tipo de pan compras siempre?" },
-  { "main": "¿Qué comida te hace sentir mejor cuando estás enfermo?", "different": "¿Qué te preparaba tu mamá cuando te dolía la panza?" },
-  { "main": "¿Cuál es tu marisco favorito?", "different": "¿Qué animal del mar te daría cosa comer?" },
-  { "main": "¿Qué le pones a las palomitas de maíz?", "different": "¿Qué snack no puede faltar en el cine?" },
-  { "main": "¿Cuál es el mejor jugo de frutas?", "different": "¿Qué jugo pides siempre en un restaurante?" },
-  { "main": "¿Qué prefieres: arroz blanco o con algo más?", "different": "¿Cómo preparas el arroz en casa?" },
-  { "main": "¿Qué comida típica de otro país te encanta?", "different": "¿A qué país viajarías solo por su comida?" },
-  { "main": "¿Cuál es el mejor lugar para comer pizza?", "different": "¿Dónde hacen las mejores hamburguesas de tu ciudad?" },
-  { "main": "¿Qué prefieres: vino tinto o blanco?", "different": "¿Cuál es tu bebida alcohólica favorita para brindar?" },
-  { "main": "¿Qué ingrediente secreto usas en tus platos?", "different": "¿Qué toque especial le das a la comida?" },
-  { "main": "¿Cuál es el mejor relleno para una empanada?", "different": "¿De qué pides siempre las empanadas?" },
-  { "main": "¿Qué prefieres: cocinar para muchos o para pocos?", "different": "¿A cuántas personas has llegado a cocinar a la vez?" },
-  { "main": "¿Cuál es la fruta que menos te gusta?", "different": "¿Qué fruta nunca comprarías en el supermercado?" },
-  { "main": "¿Qué le pones a un hot dog?", "different": "¿Qué ingrediente es indispensable en un perro caliente?" },
-  { "main": "¿Cuál es tu galleta favorita?", "different": "¿Qué galletas compras para mojar en la leche?" },
-  { "main": "¿Qué prefieres: ensalada de frutas o helado?", "different": "¿Cuál es el postre más saludable que te gusta?" },
-  { "main": "¿Qué comida te recuerda a la Navidad?", "different": "¿Qué platillo es tradicional en tu familia?" },
-  { "main": "¿Cuál es el mejor corte de carne para un asado?", "different": "¿Qué no puede faltar en una parrillada?" },
-  { "main": "¿Qué prefieres: papas al horno o fritas?", "different": "¿Cuál es la mejor forma de comer papas?" },
-  { "main": "¿Qué ingrediente te parece el más versátil?", "different": "¿Qué alimento tienes siempre en la despensa?" },
-  { "main": "¿Cuál es el mejor yogur?", "different": "¿De qué sabor prefieres el yogur?" },
-  { "main": "¿Qué prefieres: cerveza o artesanal?", "different": "¿Qué marca de cerveza tomas normalmente?" },
-  { "main": "¿Qué comida te parece la más difícil de preparar?", "different": "¿Qué receta has intentado hacer y te salió mal??" },
-  { "main": "¿Cuál es el mejor acompañamiento para el café?", "different": "¿Qué comes mientras tomas café?" },
-  { "main": "¿Qué prefieres: mermelada o dulce de leche?", "different": "¿Qué le untas a las tostadas?" },
-  { "main": "¿Cuál es la verdura más rica a la parilla?", "different": "¿Qué vegetales pones en un asado?" },
-  { "main": "¿Qué prefieres: comida casera o de restaurante?", "different": "¿Cuál es el plato estrella de tu abuela?" },
-  { "main": "¿Cuál es el mejor fruto seco?", "different": "¿Qué frutos secos le pones a una mezcla?" },
-  { "main": "¿Qué prefieres: agua con gas o sin gas?", "different": "¿Qué bebes cuando tienes mucha sed?" },
-  { "main": "¿Qué ingrediente te parece el más sobrevalorado?", "different": "¿Qué comida está de moda pero no te gusta tanto?" },
-  { "main": "¿Cuál es la mejor hora para cenar?", "different": "¿A qué hora sueles tener más hambre?" },
-  { "main": "¿Qué prefieres: tortilla de papa con o sin cebolla?", "different": "¿Cuál es el secreto de una buena tortilla?" },
-  { "main": "¿Cuál es el mejor sándwich que has comido?", "different": "¿En qué lugar venden los mejores sándwiches?" },
-  { "main": "¿Qué prefieres: mayonesa o kétchup?", "different": "¿Qué salsa le pones a casi todo?" },
-  { "main": "¿Cuál es la fruta más exótica que has probado?", "different": "¿Qué fruta te sorprendió por su sabor?" },
-  { "main": "¿Qué prefieres: té frío o caliente?", "different": "¿Cómo preparas el té en verano?" },
-  { "main": "¿Cuál es el mejor aderezo para una ensalada Césas?", "different": "¿Qué le da el toque a una ensalada verde?" },
-  { "main": "¿Qué prefieres: desayuno dulce o salado?", "different": "¿Qué desayunaste hoy?" },
-  { "main": "¿Cuál es la comida más barata que te encanta?", "different": "¿Qué compras para comer cuando tienes poco presupuesto?" },
-  { "main": "¿Qué prefieres: pizza de masa fina o gruesa?", "different": "¿Cómo es la pizza perfecta para ti?" },
-  { "main": "¿Cuál es el mejor aceite para cocinar?", "different": "¿Qué aceite usas para las ensaladas?" },
-  { "main": "¿Qué prefieres: cereales con leche o yogur?", "different": "¿Qué marca de cereales es tu favorita?" },
-  { "main": "¿Cuál es el mejor sabor de una empanada frita?", "different": "¿De qué prefieres las empanadas al horno?" },
-  { "main": "¿Qué prefieres: comer con las manos o con cubiertos?", "different": "¿Qué comida es imposible comer sin ensuciarse?" },
-  { "main": "¿Cuál es la mejor legumbre?", "different": "¿Qué plato con lentejas o garbanzos te gusta más?" },
-  { "main": "¿Qué prefieres: mostaza común o de Dijon?", "different": "¿Cuál es la salsa más fuerte que te gusta?" },
-  { "main": "¿Cuál es la mejor marca de gaseosa?", "different": "¿Qué refresco tomas cuando vas a un restaurante?" },
-  { "main": "¿Qué prefieres: pan integral o blanco?", "different": "¿Qué tipo de harina prefieres para cocinar?" },
-  { "main": "¿Cuál es el mejor momento para comer un postre?", "different": "¿A qué hora te dan ganas de comer algo dulce?" },
-  { "main": "¿Qué prefieres: hamburguesa de carne o de pollo?", "different": "¿Cuál es la mejor opción vegetariana que has probado?" },
-  { "main": "¿Cuál es el mejor queso para derretir?", "different": "¿Qué queso le pones a un sándwich caliente?" },
-  { "main": "¿Qué prefieres: aceitunas verdes o negras?", "different": "¿Qué ingrediente siempre sacas de la comida?" },
-  { "main": "¿Cuál es el mejor acompañamiento para un pescado?", "different": "¿Cómo prefieres cocinar el pescado?" },
-  { "main": "¿Qué prefieres: chocolate amargo o muy dulce?", "different": "¿Qué porcentaje de cacao prefieres?" },
-  { "main": "¿Cuál es el mejor plato de pasta que has comido?", "different": "¿En qué restaurante italiano has tenido la mejor experiencia?" },
-  { "main": "¿Qué prefieres: cebolla cruda o cocida?", "different": "¿Qué vegetal le da mejor sabor a los guisos?" },
-  { "main": "¿Cuál es el mejor snack para ver un partido?", "different": "¿Qué picas mientras ves la tele?" },
-  { "main": "¿Qué prefieres: jugo natural o de caja?", "different": "¿Qué sabor de jugo es el más clásico?" },
-  { "main": "¿Cuál es el mejor relleno para un taco?", "different": "¿Qué salsa no puede faltar en tus tacos?" },
-  { "main": "¿Qué prefieres: puré de papas o papas fritas?", "different": "¿Con qué acompañas una milanesa?" },
-  { "main": "¿Cuál es la mejor fruta para llevar de viaje?", "different": "¿Qué fruta aguanta más sin echarse a perder?" },
-  { "main": "¿Qué prefieres: leche entera o descremada?", "different": "¿Qué tipo de leche usas para el café?" },
-  { "main": "¿Cuál es el mejor aderezo para unos nuggets?", "different": "¿En qué salsa mojas el pollo frito?" },
-  { "main": "¿Qué prefieres: postre de chocolate o de fruta?", "different": "¿Cuál es el postre más fresco que conoces?" },
-  { "main": "¿Cuál es la mejor marca de snacks?", "different": "¿Qué papitas o chucherías compras siempre?" },
-  { "main": "¿Qué prefieres: pizza con piña o sin piña?", "different": "¿Cuál es el debate más grande sobre la comida?" },
-  { "main": "¿Cuál es la mejor comida para llevar a un picnic?", "different": "¿Qué preparas para comer al aire libre?" },
-  { "main": "¿Qué prefieres: ajo mucho o poco?", "different": "¿Qué especia es la que más usas?" },
-  { "main": "¿Cuál es el mejor sabor de chicle?", "different": "¿Qué caramelo o dulce te gusta más?" },
-  { "main": "¿Qué prefieres: comer en la mesa o en el sillón?", "different": "¿Dónde sueles almorzar los días de semana?" },
-  { "main": "¿Cuál es la mejor comida para una primera cita?", "different": "¿Qué comida es la más difícil de comer de forma elegante?" },
-  { "main": "¿Qué prefieres: picar antes de comer o el postre?", "different": "¿Cuál es tu entrada favorita?" },
-  { "main": "¿Cuál es el mejor tipo de arroz?", "different": "¿Qué marca de arroz prefieres?" },
-  { "main": "¿Qué prefieres: limonada o naranjada?", "different": "¿Cuál es el cítrico que más usas en la cocina?" },
-  { "main": "¿Cuál es el mejor relleno para una torta?", "different": "¿De qué sabor fue tu último pastel de cumpleaños?" },
-  { "main": "¿Qué prefieres: pan tostado o blando?", "different": "¿Cómo te gusta el pan de la mañana?" },
-  { "main": "¿Cuál es la mejor comida para un día de lluvia?", "different": "¿Qué te dan ganas de comer cuando está nublado?" },
-  { "main": "¿Qué prefieres: café con leche o solo?", "different": "¿Cuántas tazas de café tomas al día?" },
-  { "main": "¿Cuál es el mejor lugar para comprar facturas o pan dulce?", "different": "¿Qué es lo que más te gusta de la panadería?" },
-  { "main": "¿Qué prefieres: milanesa de carne o de pollo?", "different": "¿Cómo preparas las milanesas en casa?" },
-  { "main": "¿Cuál es el mejor sabor de mermelada?", "different": "¿Qué le pones al panqueque?" },
-  { "main": "¿Qué prefieres: comer temprano o tarde?", "different": "¿A qué hora desayunas normalmente?" },
-  { "main": "¿Cuál es la mejor comida para ver una película?", "different": "¿Qué snacks compras en el supermercado para el finde?" },
-  { "main": "¿Qué prefieres: sal fina o gruesa?", "different": "¿Qué condimento nunca te falta?" },
-  { "main": "¿Cuál es la mejor fruta para una ensalada de frutas?", "different": "¿Qué fruta es la que siempre sobra en la ensalada?" },
-  { "main": "¿Qué prefieres: cocinar con música o en silencio?", "different": "¿Qué música escuchas mientras cocinas?" },
-  { "main": "¿Cuál es la mejor comida para un cumpleaños infantil?", "different": "¿Qué es lo que más te gustaba comer en los cumpleaños de chico de pequeño?" },
-  { "main": "¿Qué prefieres: helado de palito o de cucurucho?", "different": "¿Cómo pides el helado en la heladería?" },
-  { "main": "¿Cuál es el mejor tipo de pasta?", "different": "¿Qué marca de pasta compras siempre?" },
-  { "main": "¿Qué prefieres: bebida fría o a temperatura ambiente?", "different": "¿Qué bebes durante el almuerzo?" },
-  { "main": "¿Cuál es el mejor relleno para un sándwich de miga?", "different": "¿De qué sabor prefieres los sándwiches de fiesta?" },
-  { "main": "¿Qué prefieres: puré de papas o de calabaza?", "different": "¿Cuál es tu vegetal favorito para hacer puré?" },
-  { "main": "¿Cuál es la mejor comida para llevar al trabajo?", "different": "¿Qué cocinas para el día siguiente?" },
-  { "main": "¿Qué prefieres: comer solo o acompañado?", "different": "¿Con quién te gusta compartir una buena comida?" },
-  { "main": "¿Cuál es el mejor sabor de yogur con cereales?", "different": "¿Qué desayunas cuando tienes poco tiempo?" },
-  { "main": "¿Qué prefieres: postre casero o comprado?", "different": "¿Cuál es el mejor postre que hace alguien de tu familia?" },
-  { "main": "¿Cuál es la mejor comida para un asado?", "different": "¿Qué es lo primero que comes en un asado?" },
-  { "main": "¿Qué prefieres: vino o cerveza?", "different": "¿Qué bebes en una salida con amigos?" },
-  { "main": "¿Cuál es el mejor sabor de helado de fruta?", "different": "¿Qué sabor de helado de crema prefieres?" },
-  { "main": "¿Qué prefieres: pizza casera o comprada?", "different": "¿Cuál es tu pizzería favorita?" },
-  { "main": "¿Cuál es la mejor comida para una cena con amigos?", "different": "¿Qué cocinas cuando vienen amigos a casa?" },
-  { "main": "¿Qué prefieres: gaseosa o jugo?", "different": "¿Qué es lo más saludable que bebes?" },
-  { "main": "¿Cuál es el mejor sabor de alfajor?", "different": "¿Qué golosina compras siempre en el kiosco?" },
-  { "main": "¿Qué prefieres: comer en casa o afuera?", "different": "¿Cuál es tu restaurante favorito del barrio?" },
-  { "main": "¿Cuál es la mejor comida para un día de mucho calor?", "different": "¿Qué cocinas cuando no tienes ganas de prender el horno?" },
-  { "main": "¿Qué prefieres: pan francés o de molde?", "different": "¿Qué pan usas para hacer sándwiches?" },
-  { "main": "¿Cuál es el mejor relleno para una tarta?", "different": "¿De qué pides siempre las tartas en el rotisería?" },
-  { "main": "¿Qué prefieres: dulce de leche o chocolate?", "different": "¿Cuál es el sabor más clásico de los dulces?" },
-  { "main": "¿Cuál es la mejor comida para recuperar energías?", "different": "¿Qué comes después de hacer ejercicio?" },
-  { "main": "¿Qué prefieres: cocinar con manteca o aceite?", "different": "¿Qué ingrediente le da más sabor a las comidas?" },
-  { "main": "¿Cuál es el mejor sabor de té?", "different": "¿Qué infusión tomas antes de dormir?" },
-  { "main": "¿Qué prefieres: papas rejilla o tradicionales?", "different": "¿Qué tipo de papas fritas te gustan más?" },
-  { "main": "¿Cuál es la mejor comida para una fiesta?", "different": "¿Qué es lo que más se come en los eventos?" },
-  { "main": "¿Qué prefieres: arroz con pollo o con carne?", "different": "¿Cómo preparas el arroz guisado?" },
-  { "main": "¿Cuál es el mejor sabor de jugo exprimido?", "different": "¿Qué fruta exprimes para el desayuno?" },
-  { "main": "¿Qué prefieres: ensalada de tomate o de lechuga?", "different": "¿Cuál es el ingrediente base de tus ensaladas?" },
-  { "main": "¿Cuál es el mejor postre de la carta de un restaurante?", "different": "¿Qué postre siempre te tienta?" },
-  { "main": "¿Qué prefieres: cocinar para ti o para otros?", "different": "¿Qué es lo que más te gusta de cocinar?" },
-  { "main": "¿Cuál es la mejor comida para un domingo en familia?", "different": "¿Qué se suele comer en tu casa los domingos?" },
-  { "main": "¿Qué prefieres: comer rápido o lento?", "different": "¿Cuánto tiempo te tomas para almorzar?" },
-  { "main": "¿Cuál es el mejor sabor de helado de chocolate?", "different": "¿Qué marca de helado es tu preferida?" },
-  { "main": "¿Qué prefieres: hamburguesa con todo o sencilla?", "different": "¿Qué ingrediente le sacarías a una hamburguesa completa?" },
-  { "main": "¿Cuál es el mejor lugar para tomar un café?", "different": "¿A qué cafetería vas siempre?" },
-  { "main": "¿Qué prefieres: comer en el comedor o en la cocina?", "different": "¿Dónde desayunas normalmente?" },
-  { "main": "¿Cuál es la mejor comida para un viaje largo?", "different": "¿Qué llevas para comer en el auto?" },
-  { "main": "¿Qué prefieres: postre con crema o sin crema?", "different": "¿Cuál es el ingrediente que hace todo más rico?" },
-  { "main": "¿Cuál es el mejor sabor de jugo en polvo?", "different": "¿Qué marca de jugo compras para el día a día?" },
-  { "main": "¿Qué prefieres: pizza de muzzarella o con gustos?", "different": "¿Cuál es tu gusto de pizza favorito?" }
+  {
+    "main": "¿Quién del grupo es más probable que coma algo que se cayó al piso hace 10 segundos?",
+    "different": "¿Quién del grupo es la persona más asquienta con la comida?"
+  },
+  {
+    "main": "¿Quién del grupo sería un chef con estrella Michelin?",
+    "different": "¿Quién del grupo es más probable que queme hasta el agua hervida?"
+  },
+  {
+    "main": "¿Quién es más probable que pida pizza con piña y la defienda a muerte?",
+    "different": "¿Quién es más probable que haga un berrinche si ve piña en su pizza?"
+  },
+  {
+    "main": "¿Quién del grupo gasta más dinero en aplicaciones de comida (Uber Eats/Rappi)?",
+    "different": "¿Quién del grupo siempre tiene la refrigeradora llena de comida casera?"
+  },
+  {
+    "main": "¿Quién es más probable que pida siempre lo más caro del menú?",
+    "different": "¿Quién es más probable que busque el plato más barato o pida solo una entrada?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma las sobras de los demás?",
+    "different": "¿Quién del grupo nunca comparte su comida con nadie?"
+  },
+  {
+    "main": "¿Quién es más probable que sea vegetariano o vegano en secreto?",
+    "different": "¿Quién del grupo no puede vivir un día sin comer carne?"
+  },
+  {
+    "main": "¿Quién del grupo tiene los gustos de comida más infantiles (nuggets, papas)?",
+    "different": "¿Quién del grupo tiene el paladar más sofisticado y exótico?"
+  },
+  {
+    "main": "¿Quién es más probable que se termine un frasco entero de Nutella en una sentada?",
+    "different": "¿Quién del grupo dice que 'no le gusta mucho el dulce'?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que le tome fotos a su comida antes de empezar a comer?",
+    "different": "¿Quién del grupo empieza a comer antes de que todos estén servidos?"
+  },
+  {
+    "main": "¿Quién es más probable que sea un crítico gastronómico despiadado?",
+    "different": "¿Quién del grupo dice que 'todo está rico' aunque la comida sea un desastre?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma un chile habanero por una apuesta?",
+    "different": "¿Quién del grupo no tolera ni un poquito de pimienta?"
+  },
+  {
+    "main": "¿Quién es más probable que sepa preparar los mejores cócteles?",
+    "different": "¿Quién del grupo se emborracha con solo oler una cerveza?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que tenga una reserva de snacks escondida en su cuarto?",
+    "different": "¿Quién del grupo siempre está a dieta?"
+  },
+  {
+    "main": "¿Quién es más probable que sepa cuál es el mejor restaurante de comida rápida de la ciudad?",
+    "different": "¿Quién del grupo cree que la comida rápida es veneno?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que invite a todos a comer y luego 'olvide' la billetera?",
+    "different": "¿Quién del grupo siempre quiere dividir la cuenta exactamente por lo que cada uno consumió?"
+  },
+  {
+    "main": "¿Quién es más probable que coma pizza fría de desayuno?",
+    "different": "¿Quién del grupo es el más exigente con la temperatura de su comida?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que gane un concurso de comer hamburguesas?",
+    "different": "¿Quién del grupo se llena con tres bocados?"
+  },
+  {
+    "main": "¿Quién es más probable que sea un experto en café y juzgue a los que toman café instantáneo?",
+    "different": "¿Quién del grupo le pone 5 cucharadas de azúcar al café?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que cocine para todos en una fiesta?",
+    "different": "¿Quién del grupo es el que siempre llega a comer pero nunca ayuda a lavar los platos?"
+  },
+  {
+    "main": "¿Quién es más probable que pruebe comida de perro solo por curiosidad?",
+    "different": "¿Quién del grupo no prueba nada nuevo si no sabe exactamente qué ingredientes tiene?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea adicto al sushi?",
+    "different": "¿Quién del grupo odia el pescado crudo?"
+  },
+  {
+    "main": "¿Quién es más probable que coma chocolate cuando está estresado?",
+    "different": "¿Quién del grupo prefiere comer algo salado o picante cuando está ansioso?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer un asado/parrillada perfecta?",
+    "different": "¿Quién del grupo es el que siempre quema la carne en la parrilla?"
+  },
+  {
+    "main": "¿Quién es más probable que sea un 'foodie' que solo va a lugares por el concepto y la decoración?",
+    "different": "¿Quién del grupo prefiere los lugares 'de mala muerte' pero con comida deliciosa?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que coma con las manos siempre que puede?",
+    "different": "¿Quién del grupo usa cubiertos hasta para comer pizza o hamburguesas?"
+  },
+  {
+    "main": "¿Quién es más probable que sepa qué vino combina con cada comida?",
+    "different": "¿Quién del grupo toma vino en vaso de plástico con hielo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea el primero en emborracharse con barra libre?",
+    "different": "¿Quién del grupo es el que siempre toma solo agua o refresco natural?"
+  },
+  {
+    "main": "¿Quién es más probable que tenga una colección de tazas o platos raros?",
+    "different": "¿Quién del grupo tiene solo un plato y un tenedor en su casa?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma el borde de la pizza de los demás?",
+    "different": "¿Quién del grupo deja siempre los bordes de la pizza?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre propone ir a comer después de la fiesta?",
+    "different": "¿Quién del grupo se va directo a dormir después de salir?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa cocinar comida china o japonesa?",
+    "different": "¿Quién del grupo cree que la comida oriental es solo arroz frito?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre trae postre a las reuniones?",
+    "different": "¿Quién del grupo es el que siempre llega con las manos vacías?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que tenga un huerto con sus propios vegetales?",
+    "different": "¿Quién del grupo no sabe distinguir entre perejil y cilantro?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre elige dónde comer?",
+    "different": "¿Quién del grupo siempre dice 'lo que ustedes quieran' pero luego se queja?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que coma cereal de cena?",
+    "different": "¿Quién del grupo necesita una cena formal de tres tiempos?"
+  },
+  {
+    "main": "¿Quién es más probable que sea un adicto a las bebidas energéticas?",
+    "different": "¿Quién del grupo solo toma té verde y jugos detox?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer los mejores postres?",
+    "different": "¿Quién del grupo prefiere comprar todo hecho en la panadería?"
+  },
+  {
+    "main": "¿Quién es más probable que coma algo vencido por un día?",
+    "different": "¿Quién del grupo bota la comida si falta un día para que venza?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea el que más come pero nunca engorda?",
+    "different": "¿Quién del grupo engorda solo con ver una foto de una dona?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre pide extra queso?",
+    "different": "¿Quién del grupo es intolerante a la lactosa y sufre en silencio?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa dónde venden los mejores tacos?",
+    "different": "¿Quién del grupo cree que Taco Bell es comida mexicana real?"
+  },
+  {
+    "main": "¿Quién es más probable que sea un experto en quesos?",
+    "different": "¿Quién del grupo cree que el único queso que existe es el amarillo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer pan casero?",
+    "different": "¿Quién del grupo compra el pan más barato del supermercado?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre pide para llevar lo que sobró?",
+    "different": "¿Quién del grupo deja la mitad del plato por pena a pedir una bolsa?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea adicto a la salsa picante?",
+    "different": "¿Quién del grupo le pone salsa Lizano a absolutamente todo?"
+  },
+  {
+    "main": "¿Quién es más probable que sepa hacer la mejor pasta casera?",
+    "different": "¿Quién del grupo cree que los fideos instantáneos son alta cocina?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea el que siempre organiza las cenas de cumpleaños?",
+    "different": "¿Quién del grupo es el que nunca confirma su asistencia hasta el último minuto?"
+  },
+  {
+    "main": "¿Quién es más probable que coma en la cama viendo series?",
+    "different": "¿Quién del grupo tiene prohibido comer fuera del comedor?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea un fanático de las parrilladas?",
+    "different": "¿Quién del grupo prefiere una ensalada ligera antes que un corte de carne?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre pide el postre antes que el plato fuerte?",
+    "different": "¿Quién del grupo nunca pide postre por cuidar la línea?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer las mejores empanadas?",
+    "different": "¿Quién del grupo no sabe ni cómo encender la cocina?"
+  },
+  {
+    "main": "¿Quién es más probable que sea un adicto al chocolate oscuro?",
+    "different": "¿Quién del grupo solo come chocolate con leche o blanco?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que coma limones con sal como snack?",
+    "different": "¿Quién del grupo odia los sabores ácidos?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre pide una bebida diferente en cada ronda?",
+    "different": "¿Quién del grupo toma lo mismo desde hace 10 años?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa cocinar mariscos perfectamente?",
+    "different": "¿Quién del grupo le tiene miedo a comer ostras o pulpo?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre tiene hambre a media noche?",
+    "different": "¿Quién del grupo hace ayuno intermitente y no come nada después de las 6 PM?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea un fanático de los helados?",
+    "different": "¿Quién del grupo dice que el helado le da dolor de cabeza?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre trae comida rara de sus viajes?",
+    "different": "¿Quién del grupo solo busca un McDonald's cuando viaja al extranjero?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer la mejor tortilla española?",
+    "different": "¿Quién del grupo cree que la tortilla es solo huevo con papas fritas?"
+  },
+  {
+    "main": "¿Quién es más probable que sea un experto en tés e infusiones?",
+    "different": "¿Quién del grupo cree que el té es solo para cuando uno está enfermo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que coma ajo en exceso y no le importe el aliento?",
+    "different": "¿Quién del grupo es un vampiro que odia el olor a ajo?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre pide la hamburguesa más grande del menú?",
+    "different": "¿Quién del grupo pide la hamburguesa sin pan y con lechuga?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer los mejores ceviches?",
+    "different": "¿Quién del grupo cree que el pescado se cocina solo con limón?"
+  },
+  {
+    "main": "¿Quién es más probable que sea un adicto a las palomitas de maíz?",
+    "different": "¿Quién del grupo odia el olor de las palomitas de cine?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer la mejor lasaña?",
+    "different": "¿Quién del grupo cree que la lasaña de microondas es aceptable?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre pide el menú del día por ahorrar?",
+    "different": "¿Quién del grupo gasta lo que no tiene en una cena de lujo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que coma mantequilla de maní a cucharadas?",
+    "different": "¿Quién del grupo odia la textura de la mantequilla de maní?"
+  },
+  {
+    "main": "¿Quién es más probable que sea un experto en cervezas artesanales?",
+    "different": "¿Quién del grupo cree que todas las cervezas saben a lo mismo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer los mejores tamales?",
+    "different": "¿Quién del grupo es el que siempre se come los tamales pero nunca ayuda a amarrarlos?"
+  },
+  {
+    "main": "¿Quién es más probable que sea un adicto a las aceitunas?",
+    "different": "¿Quién del grupo aparta las aceitunas de cualquier comida?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa cocinar comida hindú o tailandesa?",
+    "different": "¿Quién del grupo cree que el curry es demasiado fuerte?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre pide un café después de comer?",
+    "different": "¿Quién del grupo dice que el café de noche no lo deja dormir?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que coma pizza con cubiertos?",
+    "different": "¿Quién del grupo come hasta la lasaña con las manos si nadie lo ve?"
+  },
+  {
+    "main": "¿Quién es más probable que sea un experto en chocolates finos?",
+    "different": "¿Quién del grupo prefiere un chocolate barato de supermercado?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer el mejor arroz con pollo?",
+    "different": "¿Quién del grupo siempre deja el arroz con pollo seco?"
+  },
+  {
+    "main": "¿Quién es más probable que sea el que siempre pide agua mineral con gas?",
+    "different": "¿Quién del grupo dice que el agua con gas sabe a medicina?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que coma tocino en cada desayuno?",
+    "different": "¿Quién del grupo cree que el tocino es el pecado más grande?"
+  },
+  {
+    "main": "¿Quién es más probable que sea un experto en repostería?",
+    "different": "¿Quién del grupo prefiere comer algo salado antes que cualquier postre?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer los mejores nachos?",
+    "different": "¿Quién del grupo es el que se come todo el queso y deja los nachos solos?"
+  }
 ]

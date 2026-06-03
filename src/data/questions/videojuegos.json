@@ -1,150 +1,362 @@
 [
-  { "main": "¿Cuál es la mejor consola de videojuegos de la historia?", "different": "¿Cuál fue tu primera consola de videojuegos?" },
-  { "main": "¿Cuál es tu videojuego favorito de la infancia?", "different": "¿A qué videojuego le has dedicado más horas?" },
-  { "main": "¿Qué género de videojuegos prefieres?", "different": "¿Qué género de videojuegos no te gusta nada?" },
-  { "main": "¿Prefieres jugar solo o en multijugador?", "different": "¿Cuál es el mejor juego para jugar con amigos?" },
-  { "main": "¿Cuál es el mejor villano de los videojuegos?", "different": "¿Qué jefe final te costó más derrotar?" },
-  { "main": "¿Qué videojuego crees que tiene la mejor historia?", "different": "¿Qué final de un juego te dejó más impactado?" },
-  { "main": "¿Prefieres Nintendo, PlayStation o Xbox?", "different": "¿Qué marca de videojuegos crees que tiene los mejores exclusivos?" },
-  { "main": "¿Cuál es el juego más difícil que has terminado?", "different": "¿Qué juego te hizo abandonar por pura frustración?" },
-  { "main": "¿Qué personaje de videojuegos te gustaría ser por un día?", "different": "¿Con qué personaje de videojuegos te identificas más?" },
-  { "main": "¿Cuál es la mejor banda sonora de un videojuego?", "different": "¿Qué melodía de un juego podrías reconocer al instante?" },
-  { "main": "¿Prefieres los juegos físicos o digitales?", "different": "¿Qué juego te gustaría tener en una edición especial coleccionista?" },
-  { "main": "¿Cuál es el mejor juego de mundo abierto?", "different": "¿En qué mundo de un videojuego te gustaría vivir?" },
-  { "main": "¿Qué videojuego crees que está más sobrevalorado?", "different": "¿Qué juego le gusta a todo el mundo menos a ti?" },
-  { "main": "¿Cuál es el mejor juego de deportes?", "different": "¿Qué juego de competición te hace ser más competitivo?" },
-  { "main": "¿Qué videojuego te ha hecho llorar o emocionarte mucho?", "different": "¿Qué historia de un juego te pareció más conmovedora?" },
-  { "main": "¿Prefieres PC Gaming o consolas?", "different": "¿Qué plataforma crees que es la mejor para jugar profesionalmente?" },
-  { "main": "¿Cuál es el mejor juego de terror?", "different": "¿Qué juego te ha dado los sustos más grandes?" },
-  { "main": "¿Qué juego de móviles es tu placer culpable?", "different": "¿A qué juego juegas más cuando estás aburrido con el móvil?" },
-  { "main": "¿Cuál es el mejor juego de disparos (FPS)?", "different": "¿En qué juego de disparos eres (o eras) imbatible?" },
-  { "main": "¿Qué videojuego debería tener una película de gran presupuesto?", "different": "¿Qué serie de televisión basada en un juego es la mejor?" },
-  { "main": "¿Cuál es el mejor juego de lucha?", "different": "¿Con qué personaje de lucha eres invencible?" },
-  { "main": "¿Qué juego crees que tiene los mejores gráficos?", "different": "¿Qué juego te dejó con la boca abierta por su apartado visual?" },
-  { "main": "¿Prefieres los juegos retro o los modernos?", "different": "¿Qué consola clásica te trae mejores recuerdos?" },
-  { "main": "¿Cuál es el mejor juego de plataformas?", "different": "¿Qué nivel de un juego te pareció el más creativo?" },
-  { "main": "¿Qué videojuego es una obra maestra incomprendida?", "different": "¿Qué juego infravalorado recomendarías a todo el mundo?" },
-  { "main": "¿Cuál es la mejor saga de videojuegos de todos los tiempos?", "different": "¿Qué franquicia de juegos nunca debería dejar de existir?" },
-  { "main": "¿Prefieres jugar con mando o con teclado y ratón?", "different": "¿Qué periférico de juego te parece el más cómodo?" },
-  { "main": "¿Cuál es el mejor juego de rol (RPG)?", "different": "¿En qué juego de rol has creado a tu personaje favorito?" },
-  { "main": "¿Qué videojuego te ha enseñado algo valioso?", "different": "¿Qué juego te hizo reflexionar sobre la vida?" },
-  { "main": "¿Cuál es el mejor mapa de un videojuego multijugador?", "different": "¿En qué escenario de juego te conoces cada rincón?" },
-  { "main": "¿Qué juego de simulación te gusta más?", "different": "¿A qué te gustaría dedicarte si tu vida fuera un simulador?" },
-  { "main": "¿Cuál es el mejor juego de sigilo?", "different": "¿Qué personaje de videojuegos es el mejor infiltrándose?" },
-  { "main": "¿Qué videojuego te gustaría olvidar para volver a jugarlo de cero?", "different": "¿Qué juego te marcó un antes y un después como jugador?" },
-  { "main": "¿Cuál es el mejor juego de estrategia?", "different": "¿En qué juego te sientes como un auténtico estratega?" },
-  { "main": "¿Qué mecánica de un videojuego te parece la más innovadora?", "different": "¿Qué poder o habilidad de un personaje te gustaría tener?" },
-  { "main": "¿Cuál es el mejor remake o remasterización?", "different": "¿Qué juego antiguo necesita urgentemente un remake?" },
-  { "main": "¿Qué estudio de videojuegos es tu favorito?", "different": "¿De qué desarrolladora compras los juegos sin mirar el tráiler?" },
-  { "main": "¿Cuál es el mejor juego de puzles o acertijos?", "different": "¿Qué juego puso a prueba tu inteligencia al máximo?" },
-  { "main": "¿Qué juego multijugador te ha dado las mejores amistades?", "different": "¿Con quién sueles jugar más a menudo online?" },
-  { "main": "¿Cuál es el mejor juego de carreras?", "different": "¿Qué coche de un videojuego te gustaría conducir?" },
-  { "main": "¿Qué videojuego tiene el mejor diseño de personajes?", "different": "¿Qué protagonista de videojuego tiene el mejor estilo?" },
-  { "main": "¿Prefieres los juegos cortos e intensos o los muy largos?", "different": "¿Cuántas horas crees que debe durar un juego para ser bueno?" },
-  { "main": "¿Cuál es el mejor juego 'indie' que has jugado?", "different": "¿Qué juego pequeño te parece mejor que muchos grandes?" },
-  { "main": "¿Qué videojuego te da más nostalgia?", "different": "¿Qué sonido de un juego te transporta a tu infancia?" },
-  { "main": "¿Cuál es el mejor juego de supervivencia?", "different": "¿Cuánto tiempo crees que durarías en un mundo postapocalíptico?" },
-  { "main": "¿Qué videojuego tiene la mejor ambientación?", "different": "¿En qué época histórica te gustaría que se ambientara un juego?" },
-  { "main": "¿Cuál es el mejor periférico o accesorio de la historia?", "different": "¿Qué invento para jugar te pareció el más inútil?" },
-  { "main": "¿Qué juego de gestión te ha tenido más horas enganchado?", "different": "¿Qué ciudad o imperio de un juego te gustaría gobernar?" },
-  { "main": "¿Cuál es el mejor juego de aventuras gráficas?", "different": "¿Qué misterio de un videojuego te costó más resolver?" },
-  { "main": "¿Qué videojuego crees que define mejor esta generación?", "different": "¿Qué juego le enseñarías a alguien que nunca ha jugado a nada?" },
-  { "main": "¿Cuál es el mejor momento de la historia de los videojuegos?", "different": "¿Qué noticia sobre juegos te hizo saltar de alegría?" },
-  { "main": "¿Qué juego tiene el mejor sistema de combate?", "different": "¿Qué arma de videojuego es la más icónica para ti?" },
-  { "main": "¿Prefieres los juegos en primera o tercera persona?", "different": "¿Qué cámara te resulta más cómoda para jugar?" },
-  { "main": "¿Cuál es el mejor juego de cartas digital?", "different": "¿Qué juego de mesa te gustaría ver convertido en videojuego?" },
-  { "main": "¿Qué videojuego te parece el más relajante?", "different": "¿A qué juego recurres cuando quieres desconectar de todo?" },
-  { "main": "¿Cuál es el mejor juego basado en una película?", "different": "¿Qué película crees que sería un videojuego increíble?" },
-  { "main": "¿Qué personaje de videojuegos es el más carismático?", "different": "¿Qué actor te gustaría que pusiera voz a un personaje?" },
-  { "main": "¿Cuál es el mejor juego de mundo persistente (MMO)?", "different": "¿A qué comunidad de jugadores perteneces o has pertenecido?" },
-  { "main": "¿Qué videojuego tiene el mejor tutorial?", "different": "¿Qué juego aprendiste a jugar casi sin darte cuenta?" },
-  { "main": "¿Prefieres la realidad virtual o el juego tradicional?", "different": "¿Qué experiencia en VR te ha impresionado más?" },
-  { "main": "¿Cuál es el mejor juego para jugar en portátil?", "different": "¿Dónde es el lugar más extraño donde has jugado?" },
-  { "main": "¿Qué videojuego te parece el más divertido de ver en streaming?", "different": "¿Quién es tu streamer o youtuber de confianza?" },
-  { "main": "¿Cuál es el mejor juego de zombies?", "different": "¿Qué harías si mañana empezara un brote como el de un juego?" },
-  { "main": "¿Qué juego tiene la mejor personalización de personaje?", "different": "¿Cuánto tiempo pasas creando a tu personaje antes de empezar?" },
-  { "main": "¿Cuál es el mejor juego de deportes extremos?", "different": "¿Qué locura de un videojuego te gustaría hacer en la realidad?" },
-  { "main": "¿Qué videojuego te parece el más adictivo?", "different": "¿Qué juego te ha hecho decir 'una partida más' hasta las 3 AM?" },
-  { "main": "¿Cuál es el mejor juego de naves o combate espacial?", "different": "¿Qué galaxia de un videojuego te gustaría explorar?" },
-  { "main": "¿Qué juego tiene la mejor inteligencia artificial?", "different": "¿Qué enemigo de un juego te pareció el más listo?" },
-  { "main": "¿Prefieres los juegos lineales o con múltiples finales?", "different": "¿Qué decisión en un juego te costó más tomar?" },
-  { "main": "¿Cuál es el mejor juego de detectives?", "different": "¿Qué pista en un juego te hizo sentir como un genio?" },
-  { "main": "¿Qué videojuego te parece el más original?", "different": "¿Qué juego te hizo pensar '¿cómo se les ha ocurrido esto?'?" },
-  { "main": "¿Cuál es el mejor juego de baile o ritmo?", "different": "¿Qué canción de videojuego te sabes de memoria?" },
-  { "main": "¿Qué juego tiene el mejor modo fotografía?", "different": "¿De qué juego tienes más capturas de pantalla guardadas?" },
-  { "main": "¿Prefieres jugar en una pantalla grande o en un monitor?", "different": "¿Cuál es tu rincón favorito de la casa para jugar?" },
-  { "main": "¿Cuál es el mejor juego de LEGO?", "different": "¿Qué franquicia debería tener su propia versión de LEGO?" },
-  { "main": "¿Qué videojuego te parece el más educativo?", "different": "¿Qué has aprendido gracias a los videojuegos?" },
-  { "main": "¿Cuál es el mejor juego de superhéroes?", "different": "¿Qué superpoder de un juego te gustaría tener?" },
-  { "main": "¿Qué juego tiene el mejor sistema de botín (loot)?", "different": "¿Qué objeto legendario te costó más conseguir?" },
-  { "main": "¿Prefieres los juegos realistas o con estilo artístico?", "different": "¿Qué estilo visual de un juego te parece el más bonito?" },
-  { "main": "¿Cuál es el mejor juego de sigilo y espionaje?", "different": "¿Qué gadget de un juego de espías te parece el más útil?" },
-  { "main": "¿Qué videojuego te parece el más frustrante?", "different": "¿Qué mando o periférico has estado a punto de romper?" },
-  { "main": "¿Cuál es el mejor juego de 'metroidvania'?", "different": "¿Qué mapa de juego te parece el mejor diseñado?" },
-  { "main": "¿Qué juego tiene la mejor comunidad de 'modding'?", "different": "¿Qué mod de un juego te parece mejor que el juego original?" },
-  { "main": "¿Prefieres los juegos con micropagos o de pago único?", "different": "¿Qué DLC o expansión crees que vale realmente la pena?" },
-  { "main": "¿Cuál es el mejor juego de 'battle royale'?", "different": "¿Qué se siente al ser el único superviviente en una partida?" },
-  { "main": "¿Qué videojuego te parece el más infravalorado por la crítica?", "different": "¿Qué juego tiene una nota injusta en Metacritic?" },
-  { "main": "¿Cuál es el mejor juego de 'mundo abierto' postapocalíptico?", "different": "¿Qué harías para sobrevivir en un yermo radiactivo?" },
-  { "main": "¿Qué juego tiene el mejor sistema de magia?", "different": "¿Qué hechizo de videojuego usarías en la vida real?" },
-  { "main": "¿Prefieres los juegos de ritmo rápido o pausados?", "different": "¿Qué juego requiere más reflejos de los que tienes?" },
-  { "main": "¿Cuál es el mejor juego para jugar en familia?", "different": "¿A qué juego le ganarías a tus padres o hermanos sin esfuerzo?" },
-  { "main": "¿Qué videojuego te parece el más terrorífico psicológicamente?", "different": "¿Qué juego te dejó pensando en él durante días?" },
-  { "main": "¿Cuál es el mejor juego de piratas?", "different": "¿Qué tesoro de un videojuego te gustaría encontrar?" },
-  { "main": "¿Qué juego tiene el mejor diseño de niveles?", "different": "¿Qué fase de un juego te parece una obra de arte?" },
-  { "main": "¿Prefieres los juegos con doblaje o con subtítulos?", "different": "¿Qué voz de personaje de videojuego es tu favorita?" },
-  { "main": "¿Cuál es el mejor juego de 'roguelike'?", "different": "¿Cuántas veces has muerto en tu juego más difícil?" },
-  { "main": "¿Qué videojuego te parece el más épico?", "different": "¿Qué batalla multitudinaria de un juego te puso los pelos de punta?" },
-  { "main": "¿Cuál es el mejor juego sobre el espacio?", "different": "¿Qué nave espacial de un juego te gustaría pilotar?" },
-  { "main": "¿Qué juego tiene la mejor física de objetos?", "different": "¿Qué juego te gusta solo por romper cosas en él?" },
-  { "main": "¿Prefieres los juegos con mucha acción o mucha exploración?", "different": "¿Qué rincón escondido de un mapa te sorprendió más?" },
-  { "main": "¿Cuál es el mejor juego de construcción?", "different": "¿Qué es lo más increíble que has construido en un juego?" },
-  { "main": "¿Qué videojuego te parece el más triste de la historia?", "different": "¿Qué pérdida de un personaje te dolió más?" },
-  { "main": "¿Cuál es el mejor juego de 'party' para fiestas?", "different": "¿En qué juego de grupo eres el alma de la fiesta?" },
-  { "main": "¿Qué juego tiene el mejor sistema de crafteo (fabricación)?", "different": "¿Qué objeto has fabricado con más orgullo en un juego?" },
-  { "main": "¿Prefieres los juegos competitivos o cooperativos?", "different": "¿Qué compañero de equipo es el mejor que has tenido?" },
-  { "main": "¿Cuál es el mejor juego de vaqueros?", "different": "¿Qué harías si vivieras en el viejo oeste de un juego?" },
-  { "main": "¿Qué videojuego te parece el más violento?", "different": "¿Qué ejecución o movimiento final de un juego es el más brutal?" },
-  { "main": "¿Cuál es el mejor juego de 'souls-like'?", "different": "¿Qué jefe de la saga Souls te hizo llorar de rabia?" },
-  { "main": "¿Qué juego tiene los mejores diálogos y guion?", "different": "¿Qué frase de un videojuego tienes grabada en la mente?" },
-  { "main": "¿Prefieres jugar en una silla gamer o en el sofá?", "different": "¿En qué postura sueles jugar cuando la cosa se pone seria?" },
-  { "main": "¿Cuál es el mejor juego de 'tycoon' o negocios?", "different": "¿Qué empresa de un videojuego te gustaría dirigir?" },
-  { "main": "¿Qué videojuego te parece el más estético o 'aesthetic'?", "different": "¿Qué juego usarías para hacerte fotos de perfil?" },
-  { "main": "¿Cuál es el mejor juego de vikingos o mitología?", "different": "¿Qué Dios de videojuego te parece el más poderoso?" },
-  { "main": "¿Qué juego tiene el mejor sistema de sigilo?", "different": "¿Cuál es tu escondite favorito en un juego?" },
-  { "main": "¿Prefieres los juegos con mundo abierto o lineales?", "different": "¿Qué prefieres: libertad total o una buena historia guiada?" },
-  { "main": "¿Cuál es el mejor juego de cyberpunk?", "different": "¿Qué implante tecnológico de un juego te pondrías?" },
-  { "main": "¿Qué videojuego te parece el más difícil de aprender?", "different": "¿Qué juego te costó semanas entender cómo funcionaba?" },
-  { "main": "¿Cuál es el mejor juego de naves?", "different": "¿Qué juego de disparos lateral te gusta más?" },
-  { "main": "¿Qué juego tiene el mejor diseño de sonido?", "different": "¿Qué efecto de sonido de un juego te resulta satisfactorio?" },
-  { "main": "¿Prefieres los juegos de terror gore o psicológico?", "different": "¿Qué monstruo de videojuego te da más asco?" },
-  { "main": "¿Cuál es el mejor juego de 'skate' o deportes urbanos?", "different": "¿Qué truco de un juego de skate te gustaría saber hacer?" },
-  { "main": "¿Qué videojuego te parece el más largo que has jugado?", "different": "¿A qué juego le has echado más de 100 horas?" },
-  { "main": "¿Cuál es el mejor juego de 'farm simulator'?", "different": "¿Qué cultivo o animal de granja te gusta más cuidar?" },
-  { "main": "¿Qué juego tiene la mejor representación de una ciudad real?", "different": "¿En qué ciudad del mundo real te gustaría que se basara un juego?" },
-  { "main": "¿Prefieres los juegos que son arte o los que son puro divertimento?", "different": "¿Qué juego te parece una auténtica obra de arte?" },
-  { "main": "¿Cuál es el mejor juego de 'hack and slash'?", "different": "¿Qué combo de un juego de acción es el más satisfactorio?" },
-  { "main": "¿Qué videojuego te parece el más misterioso?", "different": "¿Qué secreto de un juego tardaste años en descubrir?" },
-  { "main": "¿Cuál es el mejor juego de barcos?", "different": "¿Qué batalla naval de un juego ha sido la más épica?" },
-  { "main": "¿Qué juego tiene los mejores puzles ambientales?", "different": "¿Qué mecanismo de un juego te hizo sentir muy listo al activarlo?" },
-  { "main": "¿Prefieres los juegos con vista cenital o lateral?", "different": "¿Qué perspectiva te parece la más retro?" },
-  { "main": "¿Cuál es el mejor juego de 'mechas' o robots gigantes?", "different": "¿Qué robot gigante de un juego te gustaría pilotar?" },
-  { "main": "¿Qué videojuego te parece el más colorido?", "different": "¿Qué mundo de juego te parece el más alegre?" },
-  { "main": "¿Cuál es el mejor juego de aviones?", "different": "¿Qué maniobra de vuelo de un juego te costó más aprender?" },
-  { "main": "¿Qué juego tiene el mejor sistema de sigilo social?", "different": "¿En qué juego te gusta más pasar desapercibido entre la gente?" },
-  { "main": "¿Prefieres los juegos con música licenciada o original?", "different": "¿Qué canción famosa descubriste gracias a un videojuego?" },
-  { "main": "¿Cuál es el mejor juego de 'walking simulator'?", "different": "¿Qué paisaje de un juego te quedarías mirando horas?" },
-  { "main": "¿Qué videojuego te parece el más oscuro o deprimente?", "different": "¿Qué juego te dejó una sensación de vacío al terminarlo?" },
-  { "main": "¿Cuál es el mejor juego de 'tower defense'?", "different": "¿Qué torre o defensa es tu favorita en estos juegos?" },
-  { "main": "¿Qué juego tiene el mejor sistema de clima dinámico?", "different": "¿Qué fenómeno atmosférico de un juego te parece el más realista?" },
-  { "main": "¿Prefieres los juegos con mucha sangre o aptos para todos?", "different": "¿Qué juego es el que más te ha hecho saltar del asiento?" },
-  { "main": "¿Cuál es el mejor juego de 'escape room' digital?", "different": "¿Qué acertijo de una habitación te llevó más tiempo resolver?" },
-  { "main": "¿Qué videojuego te parece el más innovador de los últimos años?", "different": "¿Qué nueva forma de jugar te ha sorprendido más?" },
-  { "main": "¿Cuál es el mejor juego de golf o minigolf?", "different": "¿Qué hoyo en uno de un juego te hizo sentir como un profesional?" },
-  { "main": "¿Qué juego tiene el mejor sistema de relaciones entre personajes?", "different": "¿Qué romance de videojuego es tu favorito?" },
-  { "main": "¿Prefieres los juegos rápidos tipo 'arcade' o profundos?", "different": "¿Qué máquina recreativa era tu favorita de niño?" },
-  { "main": "¿Cuál es el mejor juego de tanques?", "different": "¿Qué vehículo blindado de un juego te parece el más potente?" },
-  { "main": "¿Qué videojuego te parece el más 'raro' pero bueno?", "different": "¿Qué juego no sabrías ni cómo explicar de qué trata?" },
-  { "main": "¿Cuál es el mejor juego de 'survival horror' clásico?", "different": "¿Qué puerta de un juego te daba miedo abrir?" },
-  { "main": "¿Qué juego tiene el mejor final de todos?", "different": "¿Qué juego te hizo aplaudir a la pantalla al terminarlo?" }
+  {
+    "main": "¿Quién del grupo sería capaz de gastarse miles de dólares en skins o cosméticos de un juego?",
+    "different": "¿Quién del grupo cree que gastar dinero real en un juego gratuito es una tontería absoluta?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que rompa un mando o el teclado por un ataque de rabia jugando?",
+    "different": "¿Quién del grupo mantiene la calma absoluta incluso cuando pierde de la forma más injusta?"
+  },
+  {
+    "main": "¿Quién del grupo es el más 'viciado' que ha pasado más de 24 horas seguidas jugando sin dormir?",
+    "different": "¿Quién del grupo se cansa de jugar después de solo media hora y prefiere hacer otra cosa?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un streamer famoso con millones de seguidores?",
+    "different": "¿Quién del grupo tiene pánico a que alguien le vea jugar porque dice que es malísimo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre propone jugar a juegos de miedo solo para ver cómo gritan los demás?",
+    "different": "¿Quién del grupo es un 'miedica' que no puede ni ver el tráiler de un juego de terror?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en dejar su trabajo si le dieran la oportunidad de ser jugador profesional?",
+    "different": "¿Quién del grupo cree que los videojuegos son solo para niños y una pérdida de tiempo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se pica y deja de hablar a sus amigos si pierde en el Mario Kart?",
+    "different": "¿Quién del grupo juega solo por diversión y le da exactamente igual quién gane?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que use hacks o trucos para ganar a escondidas?",
+    "different": "¿Quién del grupo es tan honrado que prefiere perder antes que usar una ventaja injusta?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de vivir dentro de un videojuego de mundo abierto como el GTA si pudiera?",
+    "different": "¿Quién del grupo odia los juegos con mapas gigantes porque se pierde y se agobia?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre quiere jugar de forma cooperativa y ayudar a todos?",
+    "different": "¿Quién del grupo es el más egoísta que solo busca tener la mejor puntuación individual?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de un personaje de videojuego ficticio?",
+    "different": "¿Quién del grupo cree que las historias de los videojuegos son aburridas y se salta todas las cinemáticas?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en comprarse la última consola el día de salida por puro hype?",
+    "different": "¿Quién del grupo sigue jugando con una consola de hace 15 años y está tan feliz?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de la historia y el 'lore' oculto de los videojuegos?",
+    "different": "¿Quién del grupo no sabe ni cómo se llama el protagonista del juego que está jugando?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un 'toxic player' que insulta por el chat?",
+    "different": "¿Quién del grupo es el que siempre está calmando los ánimos y pidiendo respeto en la partida?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de pasarse un juego ultra difícil tipo Dark Souls sin morir ni una vez?",
+    "different": "¿Quién del grupo abandona el juego en cuanto el primer jefe le mata dos veces?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más dinero se gasta en juegos que luego nunca llega a instalar?",
+    "different": "¿Quién del grupo solo tiene un juego y le echa 2000 horas al año?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se grabe haciendo un cosplay de su personaje favorito?",
+    "different": "¿Quién del grupo siente una vergüenza ajena extrema con la cultura friki?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor estratega para liderar un clan en un juego de guerra?",
+    "different": "¿Quién del grupo es el que va siempre 'a lo loco' sin ningún plan y muere el primero?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se emociona con los juegos retro de 8 bits y píxeles?",
+    "different": "¿Quién del grupo solo juega a cosas que tengan los mejores gráficos fotorrealistas del mercado?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer un torneo de juegos de lucha (Street Fighter, Smash, etc.)?",
+    "different": "¿Quién del grupo solo sabe apretar todos los botones a la vez y esperar que pase algo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de comer o ducharse por estar enganchado a un juego nuevo?",
+    "different": "¿Quién del grupo tiene un horario súper estricto de juego y nunca se pasa ni un minuto?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de aprenderse de memoria todos los movimientos de un personaje?",
+    "different": "¿Quién del grupo se olvida de cómo se salta en cuanto deja de jugar dos días?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre quiere jugar con la configuración más difícil posible?",
+    "different": "¿Quién del grupo pone los juegos en modo 'historia' o fácil para no estresarse nada?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que trabaje diseñando sus propios videojuegos algún día?",
+    "different": "¿Quién del grupo no sabe ni cómo encender la consola sin ayuda?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en comprar unas gafas de realidad virtual para vivir en Matrix?",
+    "different": "¿Quién del grupo se marea y vomita a los dos minutos de ponerse un casco VR?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más tiempo pasa personalizando la cara de su personaje antes de empezar?",
+    "different": "¿Quién del grupo le da a 'aleatorio' y empieza a jugar sin mirar cómo es su avatar?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un experto en juegos de simulación aburridos (granjas, camiones, etc.)?",
+    "different": "¿Quién del grupo necesita acción constante y explosiones cada tres segundos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en viajar al otro lado del mundo para ir a una convención de juegos?",
+    "different": "¿Quién del grupo cree que las ferias de videojuegos son para gente sin vida social?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más presume de sus trofeos y logros de PlayStation o Xbox?",
+    "different": "¿Quién del grupo no sabe ni para qué sirven los puntos que le dan al completar misiones?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea pillado jugando en el móvil durante una cena importante?",
+    "different": "¿Quién del grupo es capaz de dejar el celular en casa y no acordarse de él en todo el día?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor detective resolviendo un misterio en un juego de investigación?",
+    "different": "¿Quién del grupo es el que siempre acusa al inocente y se deja engañar por el asesino?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja del 'lag' de la conexión cada vez que pierde?",
+    "different": "¿Quién del grupo admite que ha perdido porque el otro era simplemente mejor?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de completar un juego al 100% consiguiendo hasta el último coleccionable?",
+    "different": "¿Quién del grupo se pasa la historia principal a toda prisa y nunca vuelve a tocar el juego?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que use un nombre de usuario ridículo o vergonzoso que creó a los 12 años?",
+    "different": "¿Quién del grupo cambia su gamertag cada mes para parecer más profesional?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer un juego de bailar tipo Just Dance en una fiesta?",
+    "different": "¿Quién del grupo prefiere quedarse sentado mirando la pared antes que bailar delante de una consola?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más veces ha dicho 'una partida más y me voy a dormir' y han acabado siendo las 5 AM?",
+    "different": "¿Quién del grupo es capaz de dejar una partida a medias solo porque es su hora de irse a la cama?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor piloto en un juego de carreras realista?",
+    "different": "¿Quién del grupo conduce por el campo y se choca contra todos los árboles por diversión?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un coleccionista obsesivo de consolas antiguas?",
+    "different": "¿Quién del grupo tira a la basura las cajas de los juegos en cuanto los abre?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de ganar a todos los demás jugando con los ojos cerrados o con una mano?",
+    "different": "¿Quién del grupo es el 'noob' eterno que siempre necesita que le expliquen los controles?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se emociona con los anuncios de juegos nuevos en el E3 o Summer Game Fest?",
+    "different": "¿Quién del grupo cree que las presentaciones de juegos son marketing vacío para engañar a la gente?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que acabe casándose en una boda temática de su videojuego favorito?",
+    "different": "¿Quién del grupo cree que mezclar la vida real con los juegos es de gente inmadura?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor francotirador en un juego de disparos (sniper)?",
+    "different": "¿Quién del grupo dispara a lo loco y gasta toda la munición sin darle a nadie?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre encuentra los errores (bugs) y glitches más raros del juego?",
+    "different": "¿Quién del grupo se desespera en cuanto algo no funciona perfecto y apaga la consola?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de aprender un idioma ficticio (como el élfico o el simlish) solo por un juego?",
+    "different": "¿Quién del grupo no sabe ni hablar bien su propio idioma como para aprender uno inventado?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un experto en juegos de cartas digitales (Hearthstone, etc.)?",
+    "different": "¿Quién del grupo cree que los juegos de cartas son aburridos y lentos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer una sesión de juegos de mesa convertidos a videojuego?",
+    "different": "¿Quién del grupo prefiere el tablero de cartón y los dados reales de toda la vida?"
+  },
+  {
+    "main": "¿Quién del grupo es el que tiene la silla gamer más cara y aparatosa de todas?",
+    "different": "¿Quién del grupo juega sentado en un taburete de cocina o tirado en la alfombra?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de que está en una videollamada y se ponga a jugar?",
+    "different": "¿Quién del grupo es capaz de separar perfectamente su vida laboral de su tiempo de ocio?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor para sobrevivir en un apocalipsis zombie real basado en lo que ha aprendido jugando?",
+    "different": "¿Quién del grupo sería el primero en ser mordido por intentar hacerse un selfie con un zombie?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de que 'los juegos de antes eran mejores y más difíciles'?",
+    "different": "¿Quién del grupo cree que los juegos antiguos son injugables por culpa de los controles y gráficos?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de pasarse un juego entero usando solo un cuchillo o el ataque más básico?",
+    "different": "¿Quién del grupo siempre busca el arma más chetada y poderosa para ir sobrado?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que acabe siendo el dueño de una tienda de videojuegos friki?",
+    "different": "¿Quién del grupo no sabe ni distinguir entre una PlayStation y una Xbox?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer ir a un bar temático de videojuegos en Japón?",
+    "different": "¿Quién del grupo prefiere ir a una discoteca normal y corriente a bailar reggaeton?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre está probando mods locos que cambian totalmente el juego?",
+    "different": "¿Quién del grupo tiene miedo de instalar nada externo por si le entra un virus?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor para resolver un puzzle complicadísimo en una aventura gráfica?",
+    "different": "¿Quién del grupo busca la solución en YouTube en cuanto tarda más de un minuto en avanzar?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un historiador de los videojuegos?",
+    "different": "¿Quién del grupo solo conoce el juego que está de moda en TikTok en ese momento?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de ganar a un niño de 10 años en el Fortnite?",
+    "different": "¿Quién del grupo se siente un anciano cuando intenta entender cómo funciona el Fortnite?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre tiene el setup más limpio y ordenado, sin un solo cable a la vista?",
+    "different": "¿Quién del grupo tiene la consola llena de polvo y los mandos pegajosos de comer snacks?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer un viaje a Chernobyl solo por haber jugado al STALKER o Fallout?",
+    "different": "¿Quién del grupo le tiene pánico a la radiación y a cualquier sitio que no tenga un Starbucks cerca?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se haga un tatuaje de un código de barras o un logo de un juego?",
+    "different": "¿Quién del grupo cree que tatuarse algo de un videojuego es algo de lo que te arrepentirás a los 40?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor para infiltrarse en una base enemiga sin ser detectado (sigilo)?",
+    "different": "¿Quién del grupo es el que hace ruido, pisa una mina y alerta a todo el mapa a los cinco segundos?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se gasta en periféricos innecesarios (volantes, pedales, joysticks)?",
+    "different": "¿Quién del grupo juega a todo con el mismo mando desgastado desde hace 5 años?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de inventar su propio lenguaje de señas para comunicarse durante una partida silenciosa?",
+    "different": "¿Quién del grupo grita tanto por el micrófono que los vecinos han llamado a la policía alguna vez?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que acabe trabajando como probador de videojuegos (QA tester)?",
+    "different": "¿Quién del grupo odia repetir la misma fase dos veces y prefiere cambiar de juego?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer jugar a un juego de 'party' tipo Among Us solo para poder mentir a sus amigos?",
+    "different": "¿Quién del grupo se pone rojo y tartamudea en cuanto tiene que decir una mentira en un juego?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre tiene las mejores recomendaciones de juegos 'indie' desconocidos?",
+    "different": "¿Quién del grupo solo juega a los 'Triple A' que salen anunciados en la televisión?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de pasarse un juego de rol de 100 horas en solo tres días?",
+    "different": "¿Quién del grupo tarda un año entero en terminarse un juego de solo 10 horas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un 'troll' que solo juega para molestar a los demás?",
+    "different": "¿Quién del grupo es el que siempre está ayudando a los nuevos jugadores a aprender?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor para diseñar los mapas y niveles de un juego nuevo?",
+    "different": "¿Quién del grupo se pierde en un pasillo recto si no hay una flecha en el suelo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de los micropagos y las cajas de botín (loot boxes)?",
+    "different": "¿Quién del grupo es un 'ballena' que se compra todos los pases de batalla de todos los juegos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer ir a un museo de la computación y los videojuegos?",
+    "different": "¿Quién del grupo cree que la tecnología vieja debería estar en la basura y no en un museo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se aprenda la banda sonora de un juego y la escuche en Spotify a diario?",
+    "different": "¿Quién del grupo quita la música de los juegos porque dice que le desconcentra?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor para manejar una economía compleja en un juego de gestión de ciudades?",
+    "different": "¿Quién del grupo arruina su ciudad y provoca un incendio masivo en solo 10 minutos de partida?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más veces ha dicho 'esta consola es una mierda' y se la ha acabado comprando?",
+    "different": "¿Quién del grupo es un fanboy radical de una marca y odia a todas las demás?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de jugar a un videojuego mientras hace ejercicio en una cinta de correr?",
+    "different": "¿Quién del grupo se asfixia solo con tener que levantarse a por el mando que está en la mesa?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sea pillado viendo tutoriales de cómo pasarse una fase en mitad de una cita?",
+    "different": "¿Quién del grupo prefiere descubrirlo todo por sí mismo aunque tarde tres semanas?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer una maratón de juegos de 48 horas con pizza y bebidas energéticas?",
+    "different": "¿Quién del grupo prefiere una cena tranquila con vino y hablar de política?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se emociona con las ediciones coleccionista que traen figuritas de plástico?",
+    "different": "¿Quién del grupo cree que llenar la casa de figuras de juegos es de gente que no ha madurado?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor para sobrevivir en un mundo tipo Minecraft construyendo su propia casa y comida?",
+    "different": "¿Quién del grupo se moriría de hambre porque no sabe ni cómo se pica una piedra?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un 'dataminer' que busca secretos en el código del juego?",
+    "different": "¿Quién del grupo cree que buscar secretos es arruinar la sorpresa del juego?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer ir a un karaoke a cantar solo canciones de videojuegos?",
+    "different": "¿Quién del grupo prefiere cantar baladas románticas de los años 80 antes que algo friki?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre tiene el mando con más batería y los cascos cargados?",
+    "different": "¿Quién del grupo siempre está pidiendo un cable porque se le acaba de apagar todo en mitad de la partida?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de ganar una partida de ajedrez contra una Inteligencia Artificial nivel experto?",
+    "different": "¿Quién del grupo pierde contra el ordenador en el nivel más fácil y se enfada?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un crítico de videojuegos amargado que le pone un 0 a todo?",
+    "different": "¿Quién del grupo es capaz de encontrarle algo bueno hasta al juego más roto y aburrido del mundo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer jugar a un juego de mesa de 8 horas de duración en una consola?",
+    "different": "¿Quién del grupo prefiere los minijuegos rápidos de 30 segundos tipo WarioWare?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de la inteligencia artificial de sus aliados cuando fallan?",
+    "different": "¿Quién del grupo es el que falla más que la propia máquina y le echa la culpa al juego?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de jugar a un videojuego de tenis mientras llueve de verdad en la calle?",
+    "different": "¿Quién del grupo no sale de casa si hay una sola nube por miedo a que se vaya la luz?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que acabe siendo el protagonista de un documental sobre la adicción a los juegos?",
+    "different": "¿Quién del grupo es capaz de pasar un mes entero sin tocar una pantalla y no le importa nada?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer ir a una isla privada para hacer un torneo de supervivencia real?",
+    "different": "¿Quién del grupo se agobia si no tiene una ducha con agua caliente y jabón de marca?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre tiene las mejores anécdotas de 'aquella partida mítica en la que gané yo solo'?",
+    "different": "¿Quién del grupo olvida lo que ha pasado en la partida en cuanto apaga la televisión?"
+  }
 ]

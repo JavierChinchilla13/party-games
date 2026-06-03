@@ -1,156 +1,370 @@
 [
-  { "main": "¿Cuál es tu película favorita?", "different": "¿Cuál es tu serie favorita?" },
-  { "main": "¿Cuánto pagarías por una hamburguesa?", "different": "¿Cuánto pagarías por una pizza?" },
-  { "main": "¿Cuál es tu comida favorita?", "different": "¿Cuál es tu postre favorito?" },
-  { "main": "¿Qué comprarías con $1000?", "different": "¿Qué comprarías con $5000?" },
-  { "main": "¿Cuál fue tu primer trabajo?", "different": "¿Cuál era tu trabajo soñado de niño?" },
-  { "main": "¿Qué llevarías a una isla desierta?", "different": "¿Qué salvarías de tu casa si hubiera un incendio?" },
-  { "main": "¿Cuál es el mejor invento de la historia?", "different": "¿Qué objeto actual será obsoleto en 20 años?" },
-  { "main": "¿A qué época viajarías con una máquina del tiempo?", "different": "¿En qué país te gustaría vivir un año?" },
-  { "main": "¿Qué es lo más caro que has comprado?", "different": "¿Qué es lo que más te arrepientes de haber comprado?" },
-  { "main": "¿Qué superpoder te gustaría tener?", "different": "¿Qué habilidad te gustaría aprender en un día?" },
-  { "main": "¿Cuál es tu lugar favorito en el mundo?", "different": "¿A dónde irías si pudieras viajar gratis hoy mismo?" },
-  { "main": "¿Cuál es tu canción favorita de todos los tiempos?", "different": "¿Qué canción no puedes dejar de escuchar últimamente?" },
-  { "main": "¿Qué es lo primero que haces al despertar?", "different": "¿Qué es lo último que haces antes de dormir?" },
-  { "main": "¿Cuál es tu red social favorita?", "different": "¿Qué aplicación usas más en tu celular?" },
-  { "main": "¿Qué animal te gustaría ser?", "different": "¿Cuál es tu animal favorito?" },
-  { "main": "¿Prefieres el frío o el calor?", "different": "¿Cuál es tu estación del año favorita?" },
-  { "main": "¿Cuál es tu libro favorito?", "different": "¿Qué libro recomendarías a todo el mundo?" },
-  { "main": "¿Qué es lo más valiente que has hecho?", "different": "¿Qué es lo más loco que has hecho por amor?" },
-  { "main": "¿Cuál es tu deporte favorito?", "different": "¿Qué deporte te gustaría practicar profesionalmente?" },
-  { "main": "¿Qué hobby te gustaría empezar?", "different": "¿A qué dedicas tu tiempo libre?" },
-  { "main": "¿Cuál es tu recuerdo más feliz?", "different": "¿Qué momento de tu vida repetirías?" },
-  { "main": "¿Qué es lo que más te gusta de ti?", "different": "¿Qué es lo primero que la gente nota de ti?" },
-  { "main": "¿Cuál es tu marca de ropa favorita?", "different": "¿Dónde sueles comprar tu ropa?" },
-  { "main": "¿Qué instrumento te gustaría saber tocar?", "different": "¿Cuál es tu instrumento musical favorito?" },
-  { "main": "¿Cuál es tu mayor miedo?", "different": "¿A qué le tenías miedo de niño?" },
-  { "main": "¿Qué es lo más raro que has comido?", "different": "¿Qué comida nunca probarías?" },
-  { "main": "¿Cuál es tu color favorito?", "different": "¿De qué color pintarías tu habitación?" },
-  { "main": "¿Qué es lo que más te hace reír?", "different": "¿Quién es la persona más graciosa que conoces?" },
-  { "main": "¿Cuál es tu día favorito de la semana?", "different": "¿Qué día de la semana sueles estar más ocupado?" },
-  { "main": "¿Qué prefieres: Netflix o ir al cine?", "different": "¿Cuál fue la última película que viste?" },
-  { "main": "¿Qué idioma te gustaría hablar con fluidez?", "different": "¿Cuál es el idioma más difícil de aprender?" },
-  { "main": "¿Cuál es tu mayor sueño?", "different": "¿Qué quieres lograr antes de morir?" },
-  { "main": "¿Qué es lo más importante en una amistad?", "different": "¿Qué buscas en una pareja?" },
-  { "main": "¿Cuál es tu festividad favorita?", "different": "¿Qué celebras siempre con tu familia?" },
-  { "main": "¿Qué prefieres: dulce o salado?", "different": "¿Cuál es tu snack favorito?" },
-  { "main": "¿Cuál es tu juego de mesa favorito?", "different": "¿A qué te gustaba jugar de niño?" },
-  { "main": "¿Qué es lo más emocionante que has vivido?", "different": "¿Cuál ha sido tu mayor aventura?" },
-  { "main": "¿A qué famoso te gustaría conocer?", "different": "¿A quién admiras profundamente?" },
-  { "main": "¿Qué es lo que más te molesta de los demás?", "different": "¿Qué hábito ajeno no soportas?" },
-  { "main": "¿Cuál es tu rutina de ejercicio?", "different": "¿Qué actividad física disfrutas más?" },
-  { "main": "¿Qué prefieres: ciudad o campo?", "different": "¿Dónde te gustaría tener una casa de vacaciones?" },
-  { "main": "¿Cuál es tu aplicación de música favorita?", "different": "¿Cómo escuchas música normalmente?" },
-  { "main": "¿Qué es lo mejor de ser adulto?", "different": "¿Qué extrañas de ser niño?" },
-  { "main": "¿Cuál es tu talento oculto?", "different": "¿Qué se te da muy bien hacer?" },
-  { "main": "¿Qué es lo más vergonzoso que te ha pasado?", "different": "¿Qué anécdota graciosa siempre cuentas?" },
-  { "main": "¿Cuál es tu mayor logro?", "different": "¿De qué te sientes más orgulloso?" },
-  { "main": "¿Qué prefieres: madrugar o trasnochar?", "different": "¿A qué hora sueles tener más energía?" },
-  { "main": "¿Cuál es tu tipo de clima favorito?", "different": "¿Cómo está el clima hoy?" },
-  { "main": "¿Qué es lo que más te inspira?", "different": "¿Cuál es tu frase motivadora favorita?" },
-  { "main": "¿Cuál es tu objeto más preciado?", "different": "¿Qué es lo que siempre llevas contigo?" },
-  { "main": "¿Qué es lo más romántico que has hecho?", "different": "¿Cuál es tu cita ideal?" },
-  { "main": "¿Qué género musical prefieres?", "different": "¿Qué música escuchas cuando estás triste?" },
-  { "main": "¿Qué es lo más generoso que has hecho?", "different": "¿Cómo te gusta ayudar a los demás?" },
-  { "main": "¿Cuál es tu mayor debilidad?", "different": "¿Qué aspecto de tu personalidad te gustaría mejorar?" },
-  { "main": "¿Qué prefieres: leer un libro o ver una película?", "different": "¿Cómo prefieres informarte de las noticias?" },
-  { "main": "¿Cuál es tu lugar favorito de tu casa?", "different": "¿En qué parte de tu casa pasas más tiempo?" },
-  { "main": "¿Qué es lo más inteligente que has dicho?", "different": "¿Cuál es el mejor consejo que has recibido?" },
-  { "main": "¿Qué prefieres: viajar solo o acompañado?", "different": "¿Con quién te gusta ir de viaje?" },
-  { "main": "¿Cuál es tu postre favorito?", "different": "¿Qué dulce no puedes dejar de comer?" },
-  { "main": "¿Qué es lo que más valoras en una persona?", "different": "¿Qué cualidad te hace confiar en alguien?" },
-  { "main": "¿Cuál es tu superhéroe favorito?", "different": "¿A qué personaje de ficción te pareces?" },
-  { "main": "¿Qué es lo más extraño que has visto?", "different": "¿Qué fenómeno paranormal te gustaría presenciar?" },
-  { "main": "¿Cuál es tu estación de radio favorita?", "different": "¿Qué podcast escuchas siempre?" },
-  { "main": "¿Qué es lo más difícil que has aprendido?", "different": "¿Qué habilidad te costó más dominar?" },
-  { "main": "¿Qué prefieres: gato o perro?", "different": "¿Qué mascota tendrías si pudieras?" },
-  { "main": "¿Cuál es tu mayor capricho?", "different": "¿En qué te gastas el dinero sin pensarlo?" },
-  { "main": "¿Qué es lo que más te relaja?", "different": "¿Qué haces cuando estás muy estresado?" },
-  { "main": "¿Cuál es tu aplicación de mensajería favorita?", "different": "¿Cómo te comunicas con tus amigos?" },
-  { "main": "¿Qué es lo más creativo que has hecho?", "different": "¿Qué proyecto personal te ilusiona?" },
-  { "main": "¿Cuál es tu tipo de café favorito?", "different": "¿Cómo tomas el café por la mañana?" },
-  { "main": "¿Qué es lo más sorprendente que has descubierto?", "different": "¿Qué dato curioso conoces?" },
-  { "main": "¿Qué prefieres: montaña o playa?", "different": "¿Cuál es tu paisaje natural favorito?" },
-  { "main": "¿Cuál es tu videojuego favorito?", "different": "¿A qué juego le has dedicado más horas?" },
-  { "main": "¿Qué es lo más útil que has aprendido en YouTube?", "different": "¿Qué tutorial has visto recientemente?" },
-  { "main": "¿Cuál es tu mayor virtud?", "different": "¿Qué es lo que más agradeces de tu vida?" },
-  { "main": "¿Qué prefieres: pizza o pasta?", "different": "¿Cuál es tu plato italiano favorito?" },
-  { "main": "¿Cuál es tu canal de televisión favorito?", "different": "¿Qué programa veías siempre de niño?" },
-  { "main": "¿Qué es lo más emocionante de tu futuro?", "different": "¿Qué esperas lograr el próximo año?" },
-  { "main": "¿Cuál es tu mayor distracción?", "different": "¿Qué te hace perder el tiempo fácilmente?" },
-  { "main": "¿Qué prefieres: té o chocolate caliente?", "different": "¿Qué bebes cuando hace mucho frío?" },
-  { "main": "¿Cuál es tu herramienta de trabajo indispensable?", "different": "¿Qué objeto tienes siempre en tu escritorio?" },
-  { "main": "¿Qué es lo más valioso que has perdido?", "different": "¿Qué objeto te dolió mucho perder?" },
-  { "main": "¿Cuál es tu palabra favorita?", "different": "¿Qué palabra usas con demasiada frecuencia?" },
-  { "main": "¿Qué prefieres: bailar o cantar?", "different": "¿Qué haces siempre en las fiestas?" },
-  { "main": "¿Cuál es tu mayor vicio?", "different": "¿Qué tentación no puedes resistir?" },
-  { "main": "¿Qué es lo más bonito que has visto?", "different": "¿Cuál ha sido el atardecer más espectacular?" },
-  { "main": "¿Cuál es tu mayor curiosidad?", "different": "¿Sobre qué tema te gustaría investigar más?" },
-  { "main": "¿Qué prefieres: avión o tren?", "different": "¿Cómo prefieres viajar largas distancias?" },
-  { "main": "¿Cuál es tu mayor reto actual?", "different": "¿Qué meta te has propuesto este mes?" },
-  { "main": "¿Qué es lo más divertido que has hecho con amigos?", "different": "¿Cuál es el mejor plan de fin de semana?" },
-  { "main": "¿Cuál es tu mayor preocupación?", "different": "¿Qué te quita el sueño a veces?" },
-  { "main": "¿Qué prefieres: caminar o andar en bici?", "different": "¿Cómo te desplazas por la ciudad?" },
-  { "main": "¿Cuál es tu mayor fuente de alegría?", "different": "¿Qué te pone una sonrisa en la cara inmediatamente?" },
-  { "main": "¿Qué es lo más interesante que has leído hoy?", "different": "¿Qué noticia te ha llamado la atención?" },
-  { "main": "¿Cuál es tu mayor secreto?", "different": "¿Qué es algo que casi nadie sabe de ti?" },
-  { "main": "¿Qué prefieres: cocinar o pedir comida?", "different": "¿Qué cocinas cuando quieres impresionar a alguien?" },
-  { "main": "¿Cuál es tu mayor influencia?", "different": "¿Quién ha marcado un antes y un después en tu vida?" },
-  { "main": "¿Qué es lo más emocionante de viajar?", "different": "¿Qué es lo primero que haces al llegar a un lugar nuevo?" },
-  { "main": "¿Cuál es tu mayor defecto?", "different": "¿Qué te han criticado constructivamente alguna vez?" },
-  { "main": "¿Qué prefieres: llamar o mensajear?", "different": "¿Cuál es tu forma de comunicación preferida?" },
-  { "main": "¿Cuál es tu mayor pasatiempo?", "different": "¿En qué se te pasan las horas volando?" },
-  { "main": "¿Qué es lo más gratificante de tu vida?", "different": "¿Qué te hace sentir que todo vale la pena?" },
-  { "main": "¿Cuál es tu mayor deseo para el mundo?", "different": "¿Qué cambio te gustaría ver en la sociedad?" },
-  { "main": "¿Qué prefieres: trabajar solo o en equipo?", "different": "¿Cómo te gusta colaborar con los demás?" },
-  { "main": "¿Cuál es tu mayor motivación?", "different": "¿Qué te impulsa a levantarte cada mañana?" },
-  { "main": "¿Qué es lo más inesperado que te ha pasado?", "different": "¿Qué sorpresa te ha dado la vida recientemente?" },
-  { "main": "¿Cuál es tu mayor duda existencial?", "different": "¿Qué pregunta le harías a un sabio?" },
-  { "main": "¿Qué prefieres: madrugar un lunes o trabajar un sábado?", "different": "¿Qué parte de la semana te resulta más pesada?" },
-  { "main": "¿Cuál es tu mayor talento?", "different": "¿Qué habilidad te gustaría presumir?" },
-  { "main": "¿Qué es lo más valiente que has dicho?", "different": "¿En qué momento defendiste tus ideales?" },
-  { "main": "¿Cuál es tu mayor sueño por cumplir?", "different": "¿Qué viaje tienes pendiente en tu lista?" },
-  { "main": "¿Qué prefieres: ver el futuro o cambiar el pasado?", "different": "¿Qué momento histórico te gustaría haber vivido?" },
-  { "main": "¿Cuál es tu mayor aprendizaje de este año?", "different": "¿Qué lección te ha dado la vida últimamente?" },
-  { "main": "¿Qué es lo más absurdo que has creído?", "different": "¿Qué mentira te dijeron de niño y te creíste?" },
-  { "main": "¿Cuál es tu mayor debilidad por la comida?", "different": "¿Qué plato no puedes rechazar nunca?" },
-  { "main": "¿Qué prefieres: zapatos cómodos o elegantes?", "different": "¿Qué calzado usas a diario?" },
-  { "main": "¿Cuál es tu mayor orgullo familiar?", "different": "¿De qué miembro de tu familia te sientes orgulloso?" },
-  { "main": "¿Qué es lo más gracioso que has visto en internet?", "different": "¿Qué meme es tu favorito?" },
-  { "main": "¿Cuál es tu mayor aspiración profesional?", "different": "¿Dónde te vemos trabajando en cinco años?" },
-  { "main": "¿Qué prefieres: lluvia o nieve?", "different": "¿Qué fenómeno meteorológico te fascina?" },
-  { "main": "¿Cuál es tu mayor hábito saludable?", "different": "¿Qué haces para cuidar tu salud?" },
-  { "main": "¿Qué es lo más valiente que has hecho por un amigo?", "different": "¿Cómo demuestras tu lealtad?" },
-  { "main": "¿Cuál es tu mayor descubrimiento personal?", "different": "¿Qué has aprendido sobre ti mismo recientemente?" },
-  { "main": "¿Qué prefieres: un concierto o una obra de teatro?", "different": "¿Cuál fue el último evento cultural al que fuiste?" },
-  { "main": "¿Cuál es tu mayor éxito personal?", "different": "¿Qué meta alcanzaste con mucho esfuerzo?" },
-  { "main": "¿Qué es lo más romántico que te han dicho?", "different": "¿Qué cumplido te ha emocionado más?" },
-  { "main": "¿Cuál es tu mayor resto para el futuro?", "different": "¿Qué te asusta un poco de lo que viene?" },
-  { "main": "¿Qué prefieres: madrugar para ver el amanecer o trasnochar para ver las estrellas?", "different": "¿Qué momento del día te parece más mágico?" },
-  { "main": "¿Cuál es tu mayor pasión?", "different": "¿A qué le dedicas toda tu energía?" },
-  { "main": "¿Qué es lo más generoso que alguien ha hecho por ti?", "different": "¿Qué detalle te ha conmovido profundamente?" },
-  { "main": "¿Cuál es tu mayor duda sobre el universo?", "different": "¿Qué misterio te gustaría resolver?" },
-  { "main": "¿Qué prefieres: una cena tranquila o una fiesta loca?", "different": "¿Cómo celebras tu cumpleaños?" },
-  { "main": "¿Cuál es tu mayor refugio?", "different": "¿A dónde vas cuando necesitas estar solo?" },
-  { "main": "¿Qué es lo más emocionante que has comprado?", "different": "¿Qué objeto te hizo mucha ilusión estrenar?" },
-  { "main": "¿Cuál es tu mayor arrepentimiento?", "different": "¿Qué oportunidad dejaste pasar y ahora lamentas?" },
-  { "main": "¿Qué prefieres: un libro de papel o un e-book?", "different": "¿Cómo prefieres leer tus historias favoritas?" },
-  { "main": "¿Cuál es tu mayor fuente de inspiración?", "different": "¿Qué artista o pensador admiras?" },
-  { "main": "¿Qué es lo más valioso que te han enseñado?", "different": "¿Qué valor es fundamental para ti?" },
-  { "main": "¿Cuál es tu mayor desafío creativo?", "different": "¿Qué te bloquea a la hora de crear?" },
-  { "main": "¿Qué prefieres: un viaje de aventura o de relax?", "different": "¿Qué tipo de vacaciones necesitas ahora mismo?" },
-  { "main": "¿Cuál es tu mayor descubrimiento este mes?", "different": "¿Qué canción o artista nuevo has encontrado?" },
-  { "main": "¿Qué es lo más gracioso que te ha pasado en un viaje?", "different": "¿Qué contratiempo se convirtió en una buena historia?" },
-  { "main": "¿Cuál es tu mayor meta para este año?", "different": "¿Qué propósito de año nuevo sigues intentando cumplir?" },
-  { "main": "¿Qué prefieres: una casa moderna o una rústica?", "different": "¿Cómo sería la casa de tus sueños?" },
-  { "main": "¿Cuál es tu mayor aprendizaje de vida?", "different": "¿Qué le dirías a tu 'yo' de hace diez años?" },
-  { "main": "¿Qué es lo más emocionante que has hecho solo?", "different": "¿Qué actividad disfrutas hacer por tu cuenta?" },
-  { "main": "¿Cuál es tu mayor tesoro personal?", "different": "¿Qué objeto tiene un valor sentimental incalculable?" },
-  { "main": "¿Qué prefieres: un perro grande o uno pequeño?", "different": "¿Qué raza de perro te gusta más?" },
-  { "main": "¿Cuál es tu mayor motivo para sonreír?", "different": "¿Qué es lo primero que te hace feliz al despertar?" },
-  { "main": "¿Qué es lo más increíble que has presenciado?", "different": "¿Qué espectáculo de la naturaleza te ha dejado sin palabras?" },
-  { "main": "¿Cuál es tu mayor reto en el trabajo?", "different": "¿Qué es lo que más te cuesta de tu rutina laboral?" },
-  { "main": "¿Qué prefieres: un helado o un pastel?", "different": "¿Cuál es el postre que siempre pides en un restaurante?" },
-  { "main": "¿Cuál es tu mayor fuente de paz?", "different": "¿Qué sonido te resulta más relajante?" },
-  { "main": "¿Qué es lo más sorprendente que has aprendido hoy?", "different": "¿Qué curiosidad te ha dejado pensando?" }
+  {
+    "main": "¿Quién del grupo sería el primero en morir en un apocalipsis zombie por intentar hacerse amigo de un zombie?",
+    "different": "¿Quién del grupo sobreviviría hasta el final en un apocalipsis zombie porque no tiene piedad?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de vender a sus amigos por un millón de dólares?",
+    "different": "¿Quién del grupo se sacrificaría heroicamente para salvar al resto en una situación de peligro?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine en la cárcel por algo que no cometió?",
+    "different": "¿Quién del grupo es tan listo que cometería el crimen perfecto y nunca lo atraparían?"
+  },
+  {
+    "main": "¿Quién del grupo gasta más dinero en tonterías innecesarias de Amazon?",
+    "different": "¿Quién del grupo es el más tacaño y ahorra hasta el último céntimo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse millonario con un invento absurdo?",
+    "different": "¿Quién del grupo perdería todo su dinero en una estafa piramidal por creerse demasiado listo?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se olvide del cumpleaños de su mejor amigo?",
+    "different": "¿Quién del grupo sabe perfectamente el signo zodiacal y la fecha de nacimiento de todos?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el historial de búsqueda de Google más turbio y vergonzoso?",
+    "different": "¿Quién del grupo es tan correcto que su historial de búsqueda parece el de un santo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en llorar en una boda aunque no conozca a los novios?",
+    "different": "¿Quién del grupo tiene un corazón de piedra y no se emociona ni con la película más triste?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se pierda yendo al baño en un restaurante?",
+    "different": "¿Quién del grupo tiene un sentido de la orientación perfecto y es el GPS humano?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor presidente del país por lo bien que miente?",
+    "different": "¿Quién del grupo es tan honesto que sería un político desastroso y duraría dos días?"
+  },
+  {
+    "main": "¿Quién del grupo es el más fiestero y siempre es el último en irse a dormir?",
+    "different": "¿Quién del grupo es el más 'abuelo' y a las 11 de la noche ya quiere estar en la cama?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse viral por hacer algo ridículo en público?",
+    "different": "¿Quién del grupo tiene tanto pánico al qué dirán que nunca hace nada fuera de lo común?"
+  },
+  {
+    "main": "¿Quién del grupo cocina tan mal que podría envenenar a todos por accidente?",
+    "different": "¿Quién del grupo se cree un chef estrella Michelin pero solo sabe hacer pasta?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se case con un millonario solo por el dinero?",
+    "different": "¿Quién del grupo cree en el amor verdadero y se casaría con alguien aunque fuera pobre como una rata?"
+  },
+  {
+    "main": "¿Quién del grupo es el más adicto al móvil y no puede estar 5 minutos sin mirar Instagram?",
+    "different": "¿Quién del grupo vive en una cueva digital y nunca contesta a los WhatsApps?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en unirse a una secta si le prometen paz mental?",
+    "different": "¿Quién del grupo es el más escéptico y no se cree nada de lo que ve en internet?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se tatúe el nombre de su pareja y luego rompan?",
+    "different": "¿Quién del grupo cree que tatuarse es una decisión permanente de la que siempre te arrepentirás?"
+  },
+  {
+    "main": "¿Quién del grupo es el más hipocondríaco y cree que se va a morir por un simple estornudo?",
+    "different": "¿Quién del grupo nunca va al médico aunque tenga un brazo colgando?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en aparecer en las noticias por una pelea en un supermercado?",
+    "different": "¿Quién del grupo es el más tranquilo y nunca ha discutido con nadie en su vida?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que gane la lotería y no le diga nada a nadie?",
+    "different": "¿Quién del grupo se gastaría todo el dinero de la lotería en una semana de fiesta?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor detective privado porque se entera de todos los cotilleos?",
+    "different": "¿Quién del grupo es el último en enterarse de todo lo que pasa en su propio grupo de amigos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que hable solo por la calle cuando está estresado?",
+    "different": "¿Quién del grupo es tan reservado que no cuenta sus problemas ni a su psicólogo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en irse a vivir a una isla desierta para no aguantar a la gente?",
+    "different": "¿Quién del grupo no puede estar solo ni un segundo y necesita atención constante?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un 'loco de los gatos'?",
+    "different": "¿Quién del grupo no soporta a los animales y prefiere vivir en un ambiente estéril?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en creerse un avistamiento de un OVNI?",
+    "different": "¿Quién del grupo cree que todo lo paranormal es una tontería para gente ingenua?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se haga famoso en TikTok por un baile estúpido?",
+    "different": "¿Quién del grupo odia las redes sociales y cree que TikTok es el fin de la humanidad?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor espía internacional porque nadie sospecharía de él?",
+    "different": "¿Quién del grupo es tan torpe que lo atraparían en su primera misión como espía?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que llegue tarde a su propia boda?",
+    "different": "¿Quién del grupo es tan puntual que llega 20 minutos antes a todas partes?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en comer algo que se ha caído al suelo hace 10 minutos?",
+    "different": "¿Quién del grupo es un maniático de la limpieza y desinfecta todo antes de tocarlo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se pelee con un niño por un juguete o un asiento?",
+    "different": "¿Quién del grupo es un trozo de pan y dejaría que cualquiera le pasara por encima?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en confesar un crimen que no ha cometido solo por la presión?",
+    "different": "¿Quién del grupo aguantaría una tortura de la CIA sin soltar ni una palabra?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se enamore de un personaje de inteligencia artificial?",
+    "different": "¿Quién del grupo cree que la tecnología nos está volviendo menos humanos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor líder de una banda criminal?",
+    "different": "¿Quién del grupo sería el primer arrestado de la banda por cometer un error tonto?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se olvide de dónde ha aparcado el coche?",
+    "different": "¿Quién del grupo tiene una memoria fotográfica y se acuerda de detalles de hace 10 años?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en mudarse a otro país sin avisar a nadie?",
+    "different": "¿Quién del grupo es tan apegado a su casa que nunca se irá de su ciudad natal?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se haga un retoque estético y le salga fatal?",
+    "different": "¿Quién del grupo cree en la belleza natural y nunca se operaría nada?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en participar en un reality show tipo 'Supervivientes'?",
+    "different": "¿Quién del grupo no duraría ni una hora sin aire acondicionado ni comida preparada?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se ría en el momento más inapropiado, como un funeral?",
+    "different": "¿Quién del grupo es el más serio y sabe comportarse perfectamente en cada situación?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en comprarse un coche de lujo aunque no tenga dinero para comer?",
+    "different": "¿Quién del grupo es un genio de las finanzas y siempre tiene ahorros?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se crea una noticia falsa de WhatsApp al instante?",
+    "different": "¿Quién del grupo verifica todas las fuentes de información antes de creerse nada?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor actor de Hollywood porque siempre está fingiendo?",
+    "different": "¿Quién del grupo tiene la cara tan transparente que se le nota todo lo que piensa?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un ermitaño y viva en una montaña?",
+    "different": "¿Quién del grupo necesita el ruido y el caos de la ciudad para ser feliz?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar ligar con un camarero o camarera?",
+    "different": "¿Quién del grupo es tan tímido que no es capaz de pedir la cuenta en un restaurante?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que pierda las llaves de casa tres veces por semana?",
+    "different": "¿Quién del grupo es tan organizado que tiene una copia de las llaves en cada lugar posible?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en arruinar una sorpresa contándola antes de tiempo?",
+    "different": "¿Quién del grupo es una tumba y puede guardar un secreto para toda la vida?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se haga un tatuaje ridículo estando borracho?",
+    "different": "¿Quién del grupo nunca bebe tanto como para perder el control de sus actos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor concursante de un programa de preguntas de cultura general?",
+    "different": "¿Quién del grupo cree que el sol gira alrededor de la tierra y no sabe situar su país en un mapa?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un influencer de éxito?",
+    "different": "¿Quién del grupo odia la fama y cree que los influencers son una plaga?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar convencer a todos de que la tierra es plana por aburrimiento?",
+    "different": "¿Quién del grupo se toma la ciencia muy en serio y odia las teorías conspiranoicas?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se quede encerrado en un ascensor y entre en pánico?",
+    "different": "¿Quién del grupo mantendría la calma en un ascensor estropeado y organizaría a todos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse el sueldo en una sola noche de fiesta?",
+    "different": "¿Quién del grupo lleva un registro exacto de todos sus gastos en una hoja de Excel?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en el jefe de todos los demás?",
+    "different": "¿Quién del grupo prefiere ser un empleado raso y no tener ninguna responsabilidad?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en comerse un insecto por una apuesta de 10 euros?",
+    "different": "¿Quién del grupo no comería nada raro ni por un millón de euros?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se crea que es el protagonista de una película?",
+    "different": "¿Quién del grupo tiene los pies en la tierra y sabe que su vida es de lo más normal?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en ir a trabajar en pijama si le dejaran?",
+    "different": "¿Quién del grupo se viste de gala hasta para ir a comprar el pan?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se olvide de que tiene una cita?",
+    "different": "¿Quién del grupo tiene su agenda organizada al minuto y nunca se le pasa nada?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar domesticar a un animal salvaje?",
+    "different": "¿Quién del grupo tiene miedo hasta de un hámster?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un villano de película?",
+    "different": "¿Quién del grupo es el héroe que siempre intenta ayudar a todo el mundo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en dejarlo todo para seguir a una banda de rock?",
+    "different": "¿Quién del grupo cree que la estabilidad laboral es lo más importante de la vida?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se haga un cambio de look radical y se arrepienta al día siguiente?",
+    "different": "¿Quién del grupo lleva el mismo corte de pelo y estilo desde los 12 años?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en entrar en una casa encantada por pura curiosidad?",
+    "different": "¿Quién del grupo cree en los fantasmas y no entraría ni por todo el dinero del mundo?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un escritor famoso de novelas eróticas?",
+    "different": "¿Quién del grupo es tan recatado que le da vergüenza hablar de cualquier tema picante?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar hackear el Pentágono por diversión?",
+    "different": "¿Quién del grupo no sabe ni cómo cambiar la contraseña del wifi?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se haga una foto con un famoso y no sepa quién es?",
+    "different": "¿Quién del grupo se sabe la vida de todas las estrellas de Hollywood?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastar todos sus ahorros en una colección de figuritas?",
+    "different": "¿Quién del grupo cree que coleccionar cosas es una pérdida de espacio y dinero?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un gurú de la autoayuda?",
+    "different": "¿Quién del grupo cree que la autoayuda es una estafa para gente desesperada?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en participar en un concurso de comida extrema?",
+    "different": "¿Quién del grupo tiene el estómago muy delicado y solo come cosas ligeras?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se olvide el pasaporte antes de un viaje internacional?",
+    "different": "¿Quién del grupo revisa la maleta cinco veces antes de salir de casa?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar hablar con las plantas?",
+    "different": "¿Quién del grupo se le mueren hasta los cactus?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un detective de internet para pillar a una pareja infiel?",
+    "different": "¿Quién del grupo es tan despreocupado que no se enteraría de una infidelidad aunque fuera delante de él?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en ir a una fiesta a la que no ha sido invitado?",
+    "different": "¿Quién del grupo tiene tanto miedo al rechazo que solo va a donde le insisten mil veces?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se haga un tatuaje con una falta de ortografía?",
+    "different": "¿Quién del grupo es un nazi de la ortografía y corrige a todos hasta por WhatsApp?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar vivir sin dinero durante un año?",
+    "different": "¿Quién del grupo no puede vivir sin sus lujos diarios y su café caro?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un maestro del disfraz?",
+    "different": "¿Quién del grupo destaca tanto que es imposible que pase desapercibido?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en llorar viendo un anuncio de comida de perro?",
+    "different": "¿Quién del grupo cree que los anuncios están hechos para manipular a los débiles mentales?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se olvide de recoger a alguien en el aeropuerto?",
+    "different": "¿Quién del grupo es el chófer oficial de todos sus amigos porque es el más responsable?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar inventar una nueva religión?",
+    "different": "¿Quién del grupo cree que todas las religiones son lo mismo y no sigue a ninguna?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un experto en vinos solo para parecer sofisticado?",
+    "different": "¿Quién del grupo no distingue un vino de 2 euros de uno de 200?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar convivir con una tribu perdida en el Amazonas?",
+    "different": "¿Quién del grupo necesita cobertura 5G y Starbucks para poder sobrevivir?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se olvide de apagar el fuego de la cocina al salir?",
+    "different": "¿Quién del grupo es un obsesivo de la seguridad y revisa el gas diez veces?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer un brindis en el momento más inadecuado?",
+    "different": "¿Quién del grupo odia ser el centro de atención y nunca hablaría en público?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un coleccionista de arte abstracto carísimo?",
+    "different": "¿Quién del grupo cree que el arte moderno lo podría hacer un niño de 5 años?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar cruzar el océano en un barco de papel?",
+    "different": "¿Quién del grupo tiene miedo al agua y no se mete ni en una piscina?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un crítico gastronómico despiadado?",
+    "different": "¿Quién del grupo dice que todo está rico solo por no herir los sentimientos del cocinero?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar clonar a su mascota fallecida?",
+    "different": "¿Quién del grupo cree que la muerte es parte de la vida y hay que aceptarla?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un experto en artes marciales por haber visto demasiadas películas?",
+    "different": "¿Quién del grupo saldría corriendo ante la más mínima amenaza de pelea?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar vivir en un centro comercial sin que le pillen?",
+    "different": "¿Quién del grupo es tan honesto que se entregaría a la policía por haber robado un chicle?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se olvide del nombre de la persona con la que está ligando?",
+    "different": "¿Quién del grupo tiene un don para las personas y se acuerda de todo el mundo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar viajar al espacio en un cohete casero?",
+    "different": "¿Quién del grupo tiene vértigo hasta cuando se sube a una silla?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un activista radical por cualquier causa?",
+    "different": "¿Quién del grupo es un pasota total y no le importa nada que no le afecte directamente?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar batir un récord Guinness absurdo?",
+    "different": "¿Quién del grupo cree que los récords Guinness son una pérdida de tiempo para gente aburrida?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se convierta en un fantasma y se dedique a asustar a sus amigos?",
+    "different": "¿Quién del grupo descansaría en paz y no querría saber nada más de este mundo?"
+  }
 ]

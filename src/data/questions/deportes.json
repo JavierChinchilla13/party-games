@@ -1,156 +1,322 @@
 [
-  { "main": "¿Cuál es tu deporte favorito para practicar?", "different": "¿Cuál es el deporte que más te gusta ver por TV?" },
-  { "main": "¿Quién es el mejor deportista de la historia?", "different": "¿Cuál es el deportista que más admiras actualmente?" },
-  { "main": "¿Qué deporte te parece el más aburrido?", "different": "¿Qué deporte extremo te atreverías a probar?" },
-  { "main": "¿A qué edad empezaste a practicar algún deporte?", "different": "¿A qué edad crees que un deportista debe retirarse?" },
-  { "main": "¿Cuál es la competición deportiva más emocionante?", "different": "¿Qué evento deportivo te gustaría ver en vivo alguna vez?" },
-  { "main": "¿Prefieres los deportes individuales o en equipo?", "different": "¿En qué tipo de deporte crees que eres mejor?" },
-  { "main": "¿Qué accesorio deportivo usas con más frecuencia?", "different": "¿Qué prenda de ropa deportiva te resulta más cómoda?" },
-  { "main": "¿A qué hora del día prefieres hacer ejercicio?", "different": "¿A qué hora crees que rinden mejor los atletas?" },
-  { "main": "¿Cuál es el mejor lugar para salir a correr?", "different": "¿Dónde te gustaría entrenar si tuvieras presupuesto ilimitado?" },
-  { "main": "¿Qué bebida tomas siempre después de entrenar?", "different": "¿Qué bebida crees que es la más refrescante para un atleta?" },
-  { "main": "¿Cuál es tu marca de zapatillas deportivas favorita?", "different": "¿Qué marca patrocina a los mejores deportistas del mundo?" },
-  { "main": "¿Qué deporte crees que requiere más disciplina?", "different": "¿Qué deporte te parece el más difícil de aprender?" },
-  { "main": "¿Cuál es la lesión más común en el deporte que practicas?", "different": "¿A qué le tienes más miedo cuando haces ejercicio físico?" },
-  { "main": "¿Qué canción te motiva más para entrenar?", "different": "¿Qué música pondrías en la megafonía de un estadio?" },
-  { "main": "¿Cuál es el mejor país en los Juegos Olímpicos?", "different": "¿En qué país se vive el deporte con más pasión?" },
-  { "main": "¿Qué deporte crees que debería ser olímpico?", "different": "¿Qué deporte quitarías del programa de los Juegos Olímpicos?" },
-  { "main": "¿Cuál es el estadio más impresionante que conoces?", "different": "¿En qué estadio te gustaría jugar una final?" },
-  { "main": "¿Quién es el mejor entrenador de la actualidad?", "different": "¿Qué cualidad es la más importante en un líder deportivo?" },
-  { "main": "¿Cuál es tu ejercicio favorito en el gimnasio?", "different": "¿Qué ejercicio de entrenamiento te resulta más pesado?" },
-  { "main": "¿Qué suplemento deportivo has probado alguna vez?", "different": "¿Qué producto no puede faltar en la dieta de un atleta?" },
-  { "main": "¿Prefieres ver los deportes solo o con amigos?", "different": "¿Cómo disfrutas más de una final importante?" },
-  { "main": "¿Qué deporte acuático te gusta más?", "different": "¿Qué deporte de invierno te parece más espectacular?" },
-  { "main": "¿Cuál es el récord mundial más difícil de batir?", "different": "¿Qué logro deportivo te dejó más impactado?" },
-  { "main": "¿Qué habilidad física te gustaría mejorar?", "different": "¿En qué aspecto físico crees que destaca un campeón?" },
-  { "main": "¿Cuál es el deporte más popular en tu ciudad?", "different": "¿Qué deporte se practicaba más en tu escuela?" },
-  { "main": "¿Qué opinas del VAR en los deportes?", "different": "¿Crees que la tecnología ayuda o perjudica al arbitraje?" },
-  { "main": "¿Cuál es tu equipo favorito de cualquier deporte?", "different": "¿Qué equipo tiene los colores más bonitos en su uniforme?" },
-  { "main": "¿Qué haces para calentar antes de una actividad?", "different": "¿Cómo te relajas después de una competición intensa?" },
-  { "main": "¿Cuál es el deporte más peligroso del mundo?", "different": "¿Qué actividad física te da más respeto realizar?" },
-  { "main": "¿A qué deportista famoso te gustaría conocer?", "different": "¿Quién sería tu invitado ideal para hablar de superación?" },
-  { "main": "¿Qué medalla olímpica te parece más difícil de ganar?", "different": "¿Cuál es el premio más prestigioso que puede recibir un atleta?" },
-  { "main": "¿Qué deporte de contacto prefieres?", "different": "¿Qué disciplina de lucha te parece la más técnica?" },
-  { "main": "¿Cuál es el mejor momento para estirar los músculos?", "different": "¿Cuándo sientes que tu cuerpo necesita un descanso total?" },
-  { "main": "¿Qué deporte se te daba mejor de niño?", "different": "¿A qué juego solías jugar en el recreo del colegio?" },
-  { "main": "¿Cuál es el torneo más largo que has seguido?", "different": "¿Qué competición deportiva dura demasiado en tu opinión?" },
-  { "main": "¿Qué red social usas para seguir noticias deportivas?", "different": "¿Dónde te informas primero sobre los resultados de los partidos?" },
-  { "main": "¿Qué deporte te parece el más elegante?", "different": "¿En qué deporte se cuida más la estética de los movimientos?" },
-  { "main": "¿Cuál es la mejor ciudad para celebrar unas Olimpiadas?", "different": "¿Qué lugar tiene las mejores instalaciones deportivas que has visto?" },
-  { "main": "¿Qué deporte requiere más inteligencia táctica?", "different": "¿En qué deporte crees que la estrategia es más importante que el físico?" },
-  { "main": "¿Cuál es el mejor horario para ver deportes por TV?", "different": "¿A qué hora te gusta más ir al gimnasio o a entrenar?" },
-  { "main": "¿Qué deporte de motor te gusta más?", "different": "¿Qué tipo de carreras te resultan más emocionantes?" },
-  { "main": "¿Cuál es la superficie más cómoda para jugar?", "different": "¿Dónde prefieres que se dispute un torneo importante?" },
-  { "main": "¿Qué objeto de colección deportiva tienes o te gustaría tener?", "different": "¿Qué prenda de un equipo te pondrías a diario?" },
-  { "main": "¿Qué deporte te gustaría que practicaran tus hijos?", "different": "¿Qué actividad física crees que es mejor para los niños?" },
-  { "main": "¿Cuál es el mayor sacrificio que hace un deportista?", "different": "¿Qué es lo más difícil de mantener en una vida saludable?" },
-  { "main": "¿Qué deporte se juega con el balón más curioso?", "different": "¿Con qué tipo de pelota te resulta más fácil jugar?" },
-  { "main": "¿Cuál es la mejor marca de equipamiento para montaña?", "different": "¿Qué marca elegirías para comprarte ropa de abrigo técnica?" },
-  { "main": "¿Qué deporte te parece que tiene las reglas más raras?", "different": "¿En qué deporte te pierdes un poco con la puntuación?" },
-  { "main": "¿Cuál es el mejor canal de televisión de deportes?", "different": "¿Dónde prefieres escuchar las narraciones de los partidos?" },
-  { "main": "¿Qué deportista retirado echas más de menos?", "different": "¿Qué leyenda del deporte te habría gustado ver en directo?" },
-  { "main": "¿Cuál es el deporte más relajante que conoces?", "different": "¿Qué actividad física te ayuda a desconectar del estrés?" },
-  { "main": "¿Qué deporte te parece el más caro de practicar?", "different": "¿En qué deporte se gasta más dinero en equipamiento?" },
-  { "main": "¿Cuál es el mejor snack para ver un partido?", "different": "¿Qué comida rápida sueles pedir cuando hay una final?" },
-  { "main": "¿Qué cualidad valoras más en un compañero de equipo?", "different": "¿Qué rasgo define mejor a un buen capitán?" },
-  { "main": "¿Cuál es el deporte con la afición más ruidosa?", "different": "¿En qué recinto deportivo se siente más la presión del público?" },
-  { "main": "¿Qué deporte te parece el más veraniego?", "different": "¿Qué actividad física prefieres hacer cuando hace mucho calor?" },
-  { "main": "¿Qué deporte de raqueta prefieres?", "different": "¿Cuál te parece el deporte más rápido de reflejos?" },
-  { "main": "¿Cuál es el mejor ejercicio para fortalecer las piernas?", "different": "¿Qué parte del cuerpo crees que es más importante en el deporte?" },
-  { "main": "¿Qué deporte te parece el más cinematográfico?", "different": "¿De qué deporte has visto las mejores películas o documentales?" },
-  { "main": "¿Cuál es el trofeo más bonito del mundo?", "different": "¿Qué copa te gustaría levantar si fueras profesional?" },
-  { "main": "¿Qué deporte se practica más en la playa?", "different": "¿Qué juego te gusta jugar cuando estás en la arena?" },
-  { "main": "¿Cuál es el mejor ejercicio de cardio?", "different": "¿Qué actividad te cansa más rápido físicamente?" },
-  { "main": "¿Qué deporte te parece el más aburrido de ver por tele?", "different": "¿Qué disciplina olímpica te cuesta entender del todo?" },
-  { "main": "¿Cuál es el mejor equipo de baloncesto de la historia?", "different": "¿Qué franquicia deportiva te parece la más exitosa?" },
-  { "main": "¿Qué deporte te gustaría aprender a los 80 años?", "different": "¿Qué actividad física crees que es más sana para la vejez?" },
-  { "main": "¿Cuál es la mejor aplicación para registrar tus entrenamientos?", "different": "¿Cómo llevas el control de tus progresos físicos?" },
-  { "main": "¿Qué deporte de riesgo nunca harías?", "different": "¿Qué actividad te parece una locura total?" },
-  { "main": "¿Cuál es el mejor color para una equipación deportiva?", "different": "¿Qué color te gusta más para tus zapatillas de correr?" },
-  { "main": "¿Qué deporte tiene los mejores comentaristas?", "different": "¿En qué deporte se gritan más los puntos o goles?" },
-  { "main": "¿Cuál es el mejor ejercicio para abdominales?", "different": "¿Qué zona del cuerpo te cuesta más tonificar?" },
-  { "main": "¿Qué deporte te hace sudar más?", "different": "¿Qué actividad te deja más agotado al terminar?" },
-  { "main": "¿Cuál es el mejor deporte para jugar en pareja?", "different": "¿Con quién te gusta más competir de forma amistosa?" },
-  { "main": "¿Qué deporte te parece el más violento?", "different": "¿Qué disciplina deportiva te genera más tensión al verla?" },
-  { "main": "¿Cuál es la mejor ciudad para hacer surf?", "different": "¿A qué lugar del mundo irías solo por sus olas?" },
-  { "main": "¿Qué deporte tiene los entrenamientos más duros?", "different": "¿En qué disciplina crees que se sufre más durante la preparación?" },
-  { "main": "¿Cuál es el mejor invento tecnológico aplicado al deporte?", "different": "¿Qué accesorio digital usas cuando haces ejercicio?" },
-  { "main": "¿Qué deporte te parece el más tradicional?", "different": "¿Qué actividad física tiene más historia detrás?" },
-  { "main": "¿Cuál es el mejor deporte para desarrollar la flexibilidad?", "different": "¿Qué disciplina te parece la más armoniosa?" },
-  { "main": "¿Qué deporte se juega mejor con música de fondo?", "different": "¿Qué ambiente prefieres cuando estás entrenando?" },
-  { "main": "¿Cuál es el mejor deporte para practicar en la montaña?", "different": "¿Qué actividad te permite disfrutar mejor de la naturaleza?" },
-  { "main": "¿Qué deporte tiene las mejores zapatillas?", "different": "¿En qué calzado deportivo inviertes más dinero?" },
-  { "main": "¿Cuál es el mejor momento para ver un resumen deportivo?", "different": "¿Cuándo sueles ponerte al día con las noticias del día?" },
-  { "main": "¿Qué deporte te parece el más creativo?", "different": "¿En qué disciplina se inventan jugadas más increíbles?" },
-  { "main": "¿Cuál es el mejor lugar para ver una carrera de ciclismo?", "different": "¿Dónde te pondrías para animar a los corredores?" },
-  { "main": "¿Qué deporte te parece que tiene más futuro?", "different": "¿Qué nueva disciplina crees que se pondrá de moda?" },
-  { "main": "¿Cuál es el mejor deporte para ganar fuerza?", "different": "¿Qué tipo de atleta te parece el más potente físicamente?" },
-  { "main": "¿Qué deporte tiene las reglas más fáciles?", "different": "¿A qué juego podría jugar cualquiera sin explicación?" },
-  { "main": "¿Cuál es el mejor deporte para desestresarse?", "different": "¿Qué haces cuando necesitas soltar toda la energía acumulada?" },
-  { "main": "¿Qué deporte te parece el más injusto a veces?", "different": "¿En qué deporte influye más la suerte en el resultado final?" },
-  { "main": "¿Cuál es el mejor país para practicar deportes de invierno?", "different": "¿A dónde irías si quisieras ver nieve y competición?" },
-  { "main": "¿Qué deporte tiene los uniformes más feos?", "different": "¿Qué vestimenta deportiva te parece ridícula?" },
-  { "main": "¿Cuál es el mejor ejercicio para mejorar la postura?", "different": "¿Qué actividad física te hace sentir más estilizado?" },
-  { "main": "¿Qué deporte te gustaría que fuera más popular?", "different": "¿Qué disciplina infravalorada merece más atención mediática?" },
-  { "main": "¿Cuál es el mejor deporte para jugar en familia?", "different": "¿A qué jugáis cuando os juntáis muchos amigos?" },
-  { "main": "¿Qué deporte tiene los mejores estadios de tenis?", "different": "¿En qué pista te gustaría ver un partido de Grand Slam?" },
-  { "main": "¿Cuál es el mejor deporte para quemar calorías?", "different": "¿Qué ejercicio te parece el más efectivo para perder peso?" },
-  { "main": "¿Qué deporte te parece el más aburrido de practicar solo?", "different": "¿Qué actividad física requiere obligatoriamente compañía?" },
-  { "main": "¿Cuál es el mejor accesorio para nadar?", "different": "¿Qué objeto es imprescindible en tu bolsa de deporte?" },
-  { "main": "¿Qué deporte tiene la temporada más emocionante?", "different": "¿En qué época del año se disfrutan más las competiciones?" },
-  { "main": "¿Cuál es el mejor deporte para mejorar el equilibrio?", "different": "¿Qué actividad te exige más concentración mental?" },
-  { "main": "¿Qué deporte te parece el más noble?", "different": "¿En qué disciplina se ve más compañerismo entre rivales?" },
-  { "main": "¿Cuál es el mejor lugar para practicar yoga?", "different": "¿Dónde buscas la paz cuando haces ejercicio suave?" },
-  { "main": "¿Qué deporte tiene los mejores trofeos de motor?", "different": "¿Qué premio te parece el más icónico del automovilismo?" },
-  { "main": "¿Cuál es el mejor ejercicio de calentamiento para los brazos?", "different": "¿Qué parte del cuerpo sueles ejercitar primero?" },
-  { "main": "¿Qué deporte te parece el más técnico de todos?", "different": "¿En qué disciplina un pequeño error te deja fuera?" },
-  { "main": "¿Cuál es el mejor deporte para hacer en un parque?", "different": "¿Qué ves a la gente practicar más cuando vas a una zona verde?" },
-  { "main": "¿Qué deporte tiene los mejores espectáculos en los descansos?", "different": "¿En qué evento deportivo importa tanto el show como el juego?" },
-  { "main": "¿Cuál es el mejor deporte para aprender defensa personal?", "different": "¿Qué arte marcial te parece la más efectiva?" },
-  { "main": "¿Qué deporte te parece el más completo para el cuerpo?", "different": "¿Qué disciplina ejercita todos los músculos a la vez?" },
-  { "main": "¿Cuál es el mejor lugar para ver el Tour de Francia?", "different": "¿Qué etapa de una carrera ciclista es tu favorita?" },
-  { "main": "¿Qué deporte tiene los mejores deportistas pagados?", "different": "¿En qué disciplina se mueve más dinero en contratos?" },
-  { "main": "¿Cuál es el mejor deporte para practicar en solitario?", "different": "¿Qué actividad física prefieres hacer para estar contigo mismo?" },
-  { "main": "¿Qué deporte te parece el más estratégico en el tablero?", "different": "¿Qué juego mental consideras un deporte de verdad?" },
-  { "main": "¿Cuál es el mejor deporte para mejorar la velocidad?", "different": "¿Qué atleta te parece el más rápido de la historia?" },
-  { "main": "¿Qué deporte tiene las mejores instalaciones en tu país?", "different": "¿Dónde se invierte más dinero público en infraestructuras?" },
-  { "main": "¿Cuál es el mejor deporte para jugar en un gimnasio cerrado?", "different": "¿Qué actividad prefieres hacer a cubierto cuando llueve?" },
-  { "main": "¿Qué deporte te parece el más rítmico?", "different": "¿En qué disciplina es fundamental seguir el compás?" },
-  { "main": "¿Cuál es el mejor deporte para practicar en un lago?", "different": "¿Qué actividad acuática te parece la más tranquila?" },
-  { "main": "¿Qué deporte tiene los seguidores más fanáticos?", "different": "¿En qué estadio se vive el ambiente más hostil para el visitante?" },
-  { "main": "¿Cuál es el mejor deporte para desarrollar la resistencia?", "different": "¿Qué tipo de carrera te parece la más agónica?" },
-  { "main": "¿Qué deporte te parece el más fotogénico?", "different": "¿En qué disciplina se sacan las mejores fotos de acción?" },
-  { "main": "¿Cuál es el mejor deporte para practicar de noche?", "different": "¿A qué hora te gusta más encender los focos para jugar?" },
-  { "main": "¿Qué deporte tiene los mejores balones de diseño?", "different": "¿Qué pelota te gusta más por su tacto o aspecto?" },
-  { "main": "¿Cuál es el mejor deporte para mejorar la coordinación?", "different": "¿Qué actividad física te parece la más difícil de coordinar?" },
-  { "main": "¿Qué deporte te parece el más aburrido de explicar?", "different": "¿Qué reglamento te parece un dolor de cabeza?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver boxeo?", "different": "¿Qué ciudad es la capital mundial de los combates?" },
-  { "main": "¿Qué deporte tiene los mejores atletas olímpicos?", "different": "¿Quién crees que es el rey de los Juegos Olímpicos?" },
-  { "main": "¿Cuál es el mejor deporte para practicar con tu mascota?", "different": "¿Qué actividad física compartes con tu perro?" },
-  { "main": "¿Qué deporte te parece el más refrescante en verano?", "different": "¿Qué haces para no pasar calor mientras entrenas?" },
-  { "main": "¿Cuál es el mejor deporte para desarrollar la paciencia?", "different": "¿Qué disciplina requiere esperar el momento exacto para actuar?" },
-  { "main": "¿Qué deporte tiene los mejores documentales en Netflix?", "different": "¿Qué historia de deportistas te ha conmovido más en la pantalla?" },
-  { "main": "¿Cuál es el mejor deporte para practicar en una ciudad grande?", "different": "¿Qué actividad urbana ves más por las calles?" },
-  { "main": "¿Qué deporte te parece el más ruidoso de todos?", "different": "¿Qué ambiente deportivo te deja los oídos pitando?" },
-  { "main": "¿Cuál es el mejor deporte para mejorar la potencia de salto?", "different": "¿Qué jugador te ha impresionado más por su capacidad de vuelo?" },
-  { "main": "¿Qué deporte tiene las mejores gorras?", "different": "¿Qué accesorio para la cabeza usas más en el deporte?" },
-  { "main": "¿Cuál es el mejor deporte para practicar en un bosque?", "different": "¿Qué actividad te hace sentir más conectado con los árboles?" },
-  { "main": "¿Qué deporte te parece el más injusto con los árbitros?", "different": "¿En qué disciplina es más difícil impartir justicia?" },
-  { "main": "¿Cuál es el mejor deporte para mejorar la agilidad?", "different": "¿Qué animal te recuerda a un deportista ágil?" },
-  { "main": "¿Qué deporte tiene los mejores patrocinios de bebidas?", "different": "¿Qué logo de bebida energética ves en todas partes?" },
-  { "main": "¿Cuál es el mejor deporte para practicar en la nieve?", "different": "¿Qué actividad de montaña te da más adrenalina?" },
-  { "main": "¿Qué deporte te parece el más humilde?", "different": "¿En qué disciplina los campeones son más cercanos a la gente?" },
-  { "main": "¿Cuál es el mejor deporte para mejorar los reflejos?", "different": "¿Qué juego te exige estar atento cada milisegundo?" },
-  { "main": "¿Qué deporte tiene las mejores mochilas o bolsas?", "different": "¿Dónde guardas todo tu equipo cuando vas a entrenar?" },
-  { "main": "¿Cuál es el mejor deporte para practicar en un río?", "different": "¿Qué actividad de aguas bravas te atreverías a probar?" },
-  { "main": "¿Qué deporte te parece el más solitario de todos?", "different": "¿En qué disciplina crees que el atleta está más solo ante el peligro?" },
-  { "main": "¿Cuál es el mejor deporte para mejorar la puntería?", "different": "¿En qué actividad eres capaz de dar siempre en el blanco?" },
-  { "main": "¿Qué deporte tiene los mejores estadios modernos?", "different": "¿Qué edificio deportivo te parece una obra de arte?" },
-  { "main": "¿Cuál es el mejor deporte para practicar al amanecer?", "different": "¿A qué hora te levantas para hacer tu primera actividad?" },
-  { "main": "¿Qué deporte te parece el más difícil de fotografiar?", "different": "¿En qué disciplina los movimientos son demasiado rápidos para la cámara?" },
-  { "main": "¿Cuál es el mejor deporte para mejorar la respiración?", "different": "¿Qué actividad física te ayuda a controlar mejor tus pulmones?" },
-  { "main": "¿Qué deporte tiene los mejores uniformes retro?", "different": "¿Qué estética deportiva de hace décadas te gusta más?" },
-  { "main": "¿Cuál es el mejor deporte para practicar en una azotea?", "different": "¿Qué actividad urbana te imaginas haciendo en lo alto de un edificio?" },
-  { "main": "¿Qué deporte te parece el más aburrido si no hay público?", "different": "¿Qué competición pierde toda la gracia a puerta cerrada?" },
-  { "main": "¿Cuál es el mejor deporte para mejorar la disciplina mental?", "different": "¿Qué actividad te ha enseñado más sobre la constancia?" }
+  {
+    "main": "¿Quién del grupo es el más competitivo y se enoja si pierde hasta en piedra, papel o tijera?",
+    "different": "¿Quién del grupo es el que siempre dice 'lo importante es divertirse' para ocultar que es malísimo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se rinda a los 5 minutos de empezar a correr?",
+    "different": "¿Quién del grupo podría correr una maratón mañana mismo sin entrenar?"
+  },
+  {
+    "main": "¿Quién del grupo se cree un experto en fútbol pero no sabe explicar qué es un fuera de juego?",
+    "different": "¿Quién del grupo sabe hasta quién es el suplente del equipo de tercera división de Japón?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se lesione haciendo absolutamente nada?",
+    "different": "¿Quién del grupo es un atleta natural que nunca se ha quebrado un hueso?"
+  },
+  {
+    "main": "¿Quién del grupo paga el gimnasio todos los meses pero solo va una vez al año?",
+    "different": "¿Quién del grupo es un adicto al gimnasio que publica fotos de sus músculos todos los días?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más grita e insulta al televisor viendo un partido?",
+    "different": "¿Quién del grupo se queda dormido en medio de una final de la Champions?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que intente un deporte extremo y termine en el hospital?",
+    "different": "¿Quién del grupo le tiene miedo hasta a subirse a una bicicleta?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor capitán de un equipo por su liderazgo?",
+    "different": "¿Quién del grupo sería el que siempre causa peleas dentro de su propio equipo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se gaste una fortuna en ropa deportiva que nunca va a usar?",
+    "different": "¿Quién del grupo hace ejercicio con una camiseta vieja y rota y no le importa nada?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre propone ir a jugar una mejenga (partido) y nunca llega?",
+    "different": "¿Quién del grupo es el que siempre organiza todo y trae hasta los uniformes?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un comentarista deportivo profesional?",
+    "different": "¿Quién del grupo no sabe ni cuántos jugadores hay en un equipo de baloncesto?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más hace trampa en los juegos de mesa o deportes?",
+    "different": "¿Quién del grupo es tan honesto que admite faltas que nadie vio?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se obsesione con un deporte raro como el curling o el bádminton?",
+    "different": "¿Quién del grupo solo ve fútbol y se niega a reconocer que existen otros deportes?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más 'vende humo' diciendo que estuvo a punto de ser profesional?",
+    "different": "¿Quién del grupo es un crack oculto que nunca presume de su talento?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se quede sin aire subiendo unas gradas?",
+    "different": "¿Quién del grupo siempre prefiere las gradas antes que el ascensor?"
+  },
+  {
+    "main": "¿Quién del grupo es el más propenso a llorar si su equipo pierde una final?",
+    "different": "¿Quién del grupo cambia de equipo cada vez que el suyo empieza a perder?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se aprenda todas las reglas de un deporte nuevo en 10 minutos?",
+    "different": "¿Quién del grupo lleva años viendo un deporte y todavía no entiende cómo se puntúa?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda pidiendo 'un tiempo fuera' porque está cansado?",
+    "different": "¿Quién del grupo tiene una energía inagotable y cansa a todos los demás?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de irse a otro país solo para ver un partido de su equipo?",
+    "different": "¿Quién del grupo no iría al estadio ni aunque le regalen la entrada en palco?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se lesione haciendo yoga?",
+    "different": "¿Quién del grupo es tan flexible que parece que no tiene huesos?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más presume de sus suplementos y proteínas?",
+    "different": "¿Quién del grupo cree que la mejor dieta deportiva es una hamburguesa con doble queso?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un entrenador de niños y termine gritándoles?",
+    "different": "¿Quién del grupo es el más paciente y enseñaría a cualquiera a jugar desde cero?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre tiene una excusa médica para no hacer ejercicio?",
+    "different": "¿Quién del grupo hace ejercicio aunque esté enfermo o lesionado?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que gane una medalla de oro en los Juegos Olímpicos de la vagancia?",
+    "different": "¿Quién del grupo no puede estar sentado más de 10 minutos sin querer moverse?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de estadísticas y datos curiosos del deporte?",
+    "different": "¿Quién del grupo confunde a Messi con Cristiano Ronaldo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se meta en una pelea en las gradas del estadio?",
+    "different": "¿Quién del grupo es el que siempre calma a los demás cuando se calientan los ánimos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en doparse para ganar una competencia amistosa?",
+    "different": "¿Quién del grupo es un purista del deporte que odia cualquier tipo de ayuda externa?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se compre una bicicleta carísima y solo la use de perchero?",
+    "different": "¿Quién del grupo usa su bicicleta vieja para ir a todo lado?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre propone hacer retos de ejercicios en redes sociales?",
+    "different": "¿Quién del grupo tiene todas sus redes sociales silenciadas para no ver nada de ejercicio?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se pierda haciendo senderismo en una montaña?",
+    "different": "¿Quién del grupo tiene un sentido de la orientación digno de un GPS profesional?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor jugador de póker por su cara de piedra?",
+    "different": "¿Quién del grupo se pone nervioso y empieza a sudar en cuanto hay algo de presión?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un fanático loco de la Fórmula 1?",
+    "different": "¿Quién del grupo cree que las carreras de autos son solo 'dar vueltas en un círculo'?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda con una bola de fútbol en el carro por si acaso?",
+    "different": "¿Quién del grupo odia ensuciarse y prefiere los deportes de salón?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa nadar como un delfín?",
+    "different": "¿Quién del grupo le tiene miedo al agua y se baña solo donde toca el piso?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor arquero (portero) por sus reflejos?",
+    "different": "¿Quién del grupo es tan lento que le meten goles hasta desde la otra cancha?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se obsesione con el Fantasy Football?",
+    "different": "¿Quién del grupo elige a sus jugadores solo porque le gusta el color del uniforme?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre dice 'en mis tiempos yo jugaba mejor'?",
+    "different": "¿Quién del grupo está en su mejor momento físico justo ahora?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se duerma viendo el Super Bowl?",
+    "different": "¿Quién del grupo prepara todo un banquete solo para ver los comerciales del Super Bowl?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor juez o árbitro por su imparcialidad?",
+    "different": "¿Quién del grupo siempre favorece a sus amigos aunque sea obvio que perdieron?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se compre una raqueta de tenis solo para verse cool?",
+    "different": "¿Quién del grupo juega tenis tan fuerte que rompe las cuerdas cada semana?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda buscando 'mejengas' de baloncesto?",
+    "different": "¿Quién del grupo cree que el baloncesto es solo para gente alta?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un maestro de yoga zen?",
+    "different": "¿Quién del grupo es tan tieso que no llega ni a tocarse las rodillas?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en apostar todo su dinero a un equipo que va perdiendo?",
+    "different": "¿Quién del grupo nunca apuesta nada porque le da miedo perder hasta un colón?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa boxear y nadie lo sepa?",
+    "different": "¿Quién del grupo es un pacifista que huiría de cualquier pelea?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda con una gorra deportiva puesta?",
+    "different": "¿Quién del grupo siempre anda perfectamente peinado y odia usar gorras?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un maratonista de Netflix antes que de atletismo?",
+    "different": "¿Quién del grupo no tiene ni una sola aplicación de streaming porque siempre está afuera?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor jugador de golf por su paciencia infinita?",
+    "different": "¿Quién del grupo se desespera si algo no sale bien a la primera?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa patinar como un profesional?",
+    "different": "¿Quién del grupo se cae solo con ponerse los patines?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre propone ir a ver partidos de ligas menores?",
+    "different": "¿Quién del grupo solo ve finales de mundiales?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa jugar ajedrez a un nivel competitivo?",
+    "different": "¿Quién del grupo cree que el ajedrez es aburrido y no es un deporte?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor escalador de montañas por su tenacidad?",
+    "different": "¿Quién del grupo tiene vértigo hasta de subirse a una silla?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un fanático de los e-sports?",
+    "different": "¿Quién del grupo cree que los videojuegos no tienen nada que ver con el deporte?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda buscando donde jugar voleibol de playa?",
+    "different": "¿Quién del grupo odia la arena y el sol?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer surf y nunca lo haya mencionado?",
+    "different": "¿Quién del grupo se ahoga hasta con una ola de 20 centímetros?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor corredor de 100 metros planos por su velocidad explosiva?",
+    "different": "¿Quién del grupo es como una tortuga, lento pero seguro?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se obsesione con el Crossfit?",
+    "different": "¿Quién del grupo cree que el Crossfit es una secta peligrosa?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda con una toalla deportiva en el carro?",
+    "different": "¿Quién del grupo nunca suda, parece que tiene aire acondicionado interno?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa jugar ping-pong a una velocidad increíble?",
+    "different": "¿Quién del grupo siempre pierde la pelotita de ping-pong?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor lanzador de béisbol por su puntería?",
+    "different": "¿Quién del grupo no le pega a una piñata ni con los ojos abiertos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un experto en artes marciales mixtas (MMA)?",
+    "different": "¿Quién del grupo cree que la violencia nunca es la respuesta?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda buscando 'compañeros de gimnasio'?",
+    "different": "¿Quién del grupo prefiere entrenar solo en su casa para que nadie lo vea?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se sepa todos los cánticos de un equipo de fútbol?",
+    "different": "¿Quién del grupo se siente incómodo con los ruidos fuertes del estadio?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor jugador de fútbol americano por su fuerza bruta?",
+    "different": "¿Quién del grupo es delicado y evita cualquier contacto físico?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa jugar billar perfectamente?",
+    "different": "¿Quién del grupo siempre rompe el paño de la mesa de billar?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre propone ir a caminar a la montaña un domingo a las 5 AM?",
+    "different": "¿Quién del grupo cree que el domingo es para dormir hasta mediodía?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un fanático del ciclismo de montaña?",
+    "different": "¿Quién del grupo le tiene miedo a las bajadas rápidas?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor tirador con arco por su concentración?",
+    "different": "¿Quién del grupo se distrae con el vuelo de una mosca?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer trucos con la bola de fútbol?",
+    "different": "¿Quién del grupo tropieza con sus propios pies al intentar dominar la bola?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda buscando donde jugar bolos?",
+    "different": "¿Quién del grupo siempre tira la bola al canal en los bolos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa esquiar o hacer snowboard aunque viva en el trópico?",
+    "different": "¿Quién del grupo odia el frío y la nieve?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor jinete por su conexión con los animales?",
+    "different": "¿Quién del grupo le tiene miedo hasta a los caballos de carrusel?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un fanático del rugby?",
+    "different": "¿Quién del grupo cree que el rugby es demasiado rudo y desordenado?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda buscando donde hay una mesa de futbolito?",
+    "different": "¿Quién del grupo es el que siempre hace 'molinillo' en el futbolito?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa jugar balonmano?",
+    "different": "¿Quién del grupo no sabe que el balonmano es un deporte olímpico?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor atleta de salto alto por su agilidad?",
+    "different": "¿Quién del grupo no salta ni un charco de agua?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se obsesione con el Padel?",
+    "different": "¿Quién del grupo dice que el Padel es 'tenis para gente que no sabe jugar tenis'?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda buscando donde jugar dardos?",
+    "different": "¿Quién del grupo es un peligro público con los dardos en la mano?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa hacer gimnasia artística?",
+    "different": "¿Quién del grupo se marea solo con dar una vuelta de carnero?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor jugador de waterpolo por su resistencia en el agua?",
+    "different": "¿Quién del grupo se cansa solo de flotar en la piscina?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un historiador del deporte?",
+    "different": "¿Quién del grupo vive solo en el presente y no sabe nada del pasado deportivo?"
+  }
 ]

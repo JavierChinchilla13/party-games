@@ -1,149 +1,402 @@
 [
-  { "main": "¿Cuál es tu género musical favorito?", "different": "¿Qué género musical no soportas escuchar?" },
-  { "main": "¿Cuál es el mejor concierto al que has asistido?", "different": "¿A qué artista te gustaría ver en vivo antes de morir?" },
-  { "main": "¿Qué instrumento musical te gustaría saber tocar?", "different": "¿Qué instrumento crees que es el más difícil de aprender?" },
-  { "main": "¿Cuál es tu banda o artista favorito de todos los tiempos?", "different": "¿Qué artista crees que está más sobrevalorado actualmente?" },
-  { "main": "¿Cuál es la canción que más veces has escuchado en tu vida?", "different": "¿Qué canción te recuerda a un momento muy especial?" },
-  { "main": "¿Prefieres escuchar música con auriculares o con altavoces?", "different": "¿Cuál es tu lugar favorito para escuchar música tranquilamente?" },
-  { "main": "¿Qué década crees que tuvo la mejor música?", "different": "¿Qué estilo musical del pasado crees que debería volver?" },
-  { "main": "¿Cuál es tu canción favorita para cantar en un karaoke?", "different": "¿Qué canción te da mucha vergüenza admitir que te gusta?" },
-  { "main": "¿Prefieres los festivales de música o los conciertos íntimos?", "different": "¿Cuál ha sido el viaje más largo que has hecho por un concierto?" },
-  { "main": "¿Cuál es el mejor álbum de la historia en tu opinión?", "different": "¿Qué disco podrías escuchar de principio a fin sin saltar canciones?" },
-  { "main": "¿Qué artista o grupo musical te marcó durante la adolescencia?", "different": "¿Qué música escuchabas de niño que ahora te parece mala?" },
-  { "main": "¿Prefieres la música en inglés, en español o en otros idiomas?", "different": "¿Qué idioma crees que suena mejor para una canción de amor?" },
-  { "main": "¿Cuál es la mejor banda sonora de una película que recuerdes?", "different": "¿Qué canción te hace sentir como si estuvieras en una película?" },
-  { "main": "¿Qué músico crees que es un auténtico genio?", "different": "¿Qué celebridad musical te gustaría que fuera tu amigo?" },
-  { "main": "¿Prefieres el sonido del vinilo o la comodidad del streaming?", "different": "¿Cuál fue el primer disco o cassette que compraste?" },
-  { "main": "¿Cuál es la mejor canción para bailar en una fiesta?", "different": "¿Qué canción te hace levantarte de la silla al instante?" },
-  { "main": "¿Qué instrumento crees que suena más sexy o elegante?", "different": "¿Cuál es el instrumento más infravalorado de una banda?" },
-  { "main": "¿Cuál es el videoclip musical más icónico que has visto?", "different": "¿Qué vídeo musical te dejó más impactado por su estética?" },
-  { "main": "¿Qué canción elegirías para que sonara en tu entrada triunfal?", "different": "¿Qué canción describe mejor tu personalidad actual?" },
-  { "main": "¿Cuál es el mejor festival de música del mundo?", "different": "¿A qué evento musical irías todos los años si pudieras?" },
-  { "main": "¿Prefieres la música alegre y movida o la triste y lenta?", "different": "¿Qué canción es tu refugio cuando estás de bajón?" },
-  { "main": "¿Qué artista fallecido te gustaría haber visto en concierto?", "different": "¿Si pudieras resucitar a un músico por un día, a quién elegirías?" },
-  { "main": "¿Cuál es la mejor colaboración entre dos artistas que has oído?", "different": "¿Qué dos artistas crees que deberían hacer una canción juntos?" },
-  { "main": "¿Qué canción te parece que tiene la letra más profunda?", "different": "¿Qué frase de una canción se te quedó grabada para siempre?" },
-  { "main": "¿Prefieres ir a un concierto solo o acompañado?", "different": "¿Con quién compartes más gustos musicales?" },
-  { "main": "¿Cuál es el mejor solo de guitarra (o de otro instrumento)?", "different": "¿Qué parte de una canción te pone siempre los pelos de punta?" },
-  { "main": "¿Qué canción te ayuda más a concentrarte o estudiar?", "different": "¿Qué música te pones de fondo para hacer las tareas de casa?" },
-  { "main": "¿Cuál es el artista que más te ha decepcionado en directo?", "different": "¿Qué concierto superó todas tus expectativas?" },
-  { "main": "¿Qué canción crees que es un himno generacional?", "different": "¿Qué canción conoce todo el mundo sin importar su edad?" },
-  { "main": "¿Prefieres las voces masculinas, femeninas o de grupos mixtos?", "different": "¿Qué voz te parece la más increíble del panorama musical?" },
-  { "main": "¿Cuál es el género musical más divertido para bailar?", "different": "¿Qué baile típico se te da mejor (o peor)?" },
-  { "main": "¿Qué instrumento te parece el más difícil de transportar?", "different": "¿Qué instrumento te gustaría tener como decoración en casa?" },
-  { "main": "¿Cuál es la canción más larga que te gusta escuchar?", "different": "¿Qué canción se te hace corta cada vez que suena?" },
-  { "main": "¿Prefieres la música acústica o la electrónica?", "different": "¿Qué sintetizador o sonido digital te parece más moderno?" },
-  { "main": "¿Cuál es el mejor nombre de una banda de música?", "different": "¿Si tuvieras un grupo, cómo lo llamarías?" },
-  { "main": "¿Qué canción te gusta para conducir por la carretera?", "different": "¿Qué música te pones para un viaje largo en coche?" },
-  { "main": "¿Cuál es el mejor musical de Broadway o del cine?", "different": "¿Qué canción de musical te sabes de memoria?" },
-  { "main": "¿Qué artista crees que tiene el mejor sentido del espectáculo?", "different": "¿Qué famoso da los mejores discursos en las entregas de premios?" },
-  { "main": "¿Prefieres comprar merchandising de bandas o solo la música?", "different": "¿Qué camiseta de un grupo es tu posesión más preciada?" },
-  { "main": "¿Cuál es la mejor canción para dedicar a alguien?", "different": "¿Qué canción te han dedicado alguna vez y te emocionó?" },
-  { "main": "¿Qué género musical crees que desaparecerá en el futuro?", "different": "¿Qué tipo de música crees que nunca pasará de moda?" },
-  { "main": "¿Cuál es el mejor coro o estribillo de la historia?", "different": "¿Qué canción no puedes dejar de tararear hoy?" },
-  { "main": "¿Qué canción te parece la más romántica?", "different": "¿Qué canción pondrías en tu boda (o en una ideal)?" },
-  { "main": "¿Prefieres la música grabada en estudio o las sesiones en vivo?", "different": "¿Qué álbum en directo te parece mejor que el original?" },
-  { "main": "¿Cuál es el mejor compositor de música clásica?", "different": "¿Qué pieza instrumental te relaja más?" },
-  { "main": "¿Qué canción te motiva más para hacer ejercicio?", "different": "¿Qué música te da energía cuando estás cansado?" },
-  { "main": "¿Cuál es la mejor plataforma para descubrir música nueva?", "different": "¿Cómo encuentras tus canciones favoritas últimamente?" },
-  { "main": "¿Qué artista tiene la base de fans más intensa?", "different": "¿De qué artista eres tú un auténtico 'fanboy' o 'fangirl'?" },
-  { "main": "¿Prefieres las letras con mensaje social o las de amor?", "different": "¿Qué canción te ha hecho pensar más en el mundo?" },
-  { "main": "¿Cuál es el mejor sitio para ver un concierto en tu ciudad?", "different": "¿En qué lugar inusual te gustaría ver a tu banda favorita?" },
-  { "main": "¿Qué canción te recuerda a las vacaciones de verano?", "different": "¿Cuál es la canción del verano más pesada que recuerdas?" },
-  { "main": "¿Cuál es el instrumento que mejor define el rock?", "different": "¿Qué instrumento asocias más con la música jazz?" },
-  { "main": "¿Qué artista crees que ha tenido la mejor evolución?", "different": "¿Qué grupo cambió tanto que ya no te gusta?" },
-  { "main": "¿Prefieres los ritmos latinos o el pop anglosajón?", "different": "¿Qué canción en español es un clásico instantáneo para ti?" },
-  { "main": "¿Cuál es la canción más triste que conoces?", "different": "¿Qué canción te hace llorar siempre que la escuchas?" },
-  { "main": "¿Qué músico te parece que tiene el mejor estilo vistiendo?", "different": "¿Qué estética musical te gusta más?" },
-  { "main": "¿Prefieres la música grabada con instrumentos reales o digitales?", "different": "¿Qué sonido de la naturaleza te parece música?" },
-  { "main": "¿Cuál es la mejor canción para empezar el día con energía?", "different": "¿Qué canción es tu alarma del despertador?" },
-  { "main": "¿Qué artista te gustaría que escribiera una canción sobre ti?", "different": "¿Si tu vida fuera una canción, de qué género sería?" },
-  { "main": "¿Cuál es el mejor solo de batería que has visto?", "different": "¿Qué ritmo es el que más te cuesta seguir con las manos?" },
-  { "main": "¿Prefieres las canciones cortas de 2 minutos o las de 10?", "different": "¿Cuánto crees que debe durar la canción perfecta?" },
-  { "main": "¿Cuál es el mejor grupo de K-pop o J-pop?", "different": "¿Qué opinas del fenómeno fan de la música asiática?" },
-  { "main": "¿Qué canción te parece la más difícil de cantar?", "different": "¿A qué artista intentas imitar cuando cantas en la ducha?" },
-  { "main": "¿Prefieres la música indie o las listas de éxitos (mainstream)?", "different": "¿Qué artista 'desconocido' crees que debería ser famoso?" },
-  { "main": "¿Cuál es la mejor versión (cover) de una canción famosa?", "different": "¿Qué canción es mejor en su versión cover que la original?" },
-  { "main": "¿Qué músico crees que es el más carismático en el escenario?", "different": "¿A qué famoso de la música te gustaría entrevistar?" },
-  { "main": "¿Cuál es el mejor servicio de streaming musical?", "different": "¿Cuántas playlists tienes creadas en tu cuenta?" },
-  { "main": "¿Qué canción te recuerda a tu mejor amigo o amiga?", "different": "¿Qué canción solías escuchar mucho con tu grupo de amigos?" },
-  { "main": "¿Prefieres la música para bailar solo o en pareja?", "different": "¿Cuál es el baile más difícil que has intentado aprender?" },
-  { "main": "¿Cuál es el mejor festival de música electrónica?", "different": "¿Qué DJ te parece el más creativo produciendo?" },
-  { "main": "¿Qué canción te parece que tiene la mejor producción sonora?", "different": "¿Con qué canción pondrías a prueba unos altavoces nuevos?" },
-  { "main": "¿Qué artista crees que es el más versátil de todos?", "different": "¿Qué músico ha tocado más géneros diferentes?" },
-  { "main": "¿Prefieres la música con muchos instrumentos o minimalista?", "different": "¿Qué sonido te parece el más puro y simple?" },
-  { "main": "¿Cuál es la mejor canción de rap o hip-hop?", "different": "¿Qué rapero crees que tiene las mejores rimas?" },
-  { "main": "¿Qué canción te pone de buen humor pase lo que pase?", "different": "¿Qué canción es tu 'rayo de sol' en un día gris?" },
-  { "main": "¿Cuál es el mejor instrumento de viento?", "different": "¿Qué instrumento te parece el más elegante visualmente?" },
-  { "main": "¿Qué músico te gustaría que fuera tu profesor de música?", "different": "¿Qué lección de vida has aprendido de un artista?" },
-  { "main": "¿Prefieres la música para escuchar tumbado o de pie?", "different": "¿Cuál es la canción más relajante de tu biblioteca?" },
-  { "main": "¿Cuál es la mejor canción de una serie de televisión?", "different": "¿Qué intro de serie nunca te saltas por su música?" },
-  { "main": "¿Qué artista crees que ha sido el más influyente?", "different": "¿Qué músico cambió la historia para siempre?" },
-  { "main": "¿Prefieres las bandas de muchos miembros o los solistas?", "different": "¿Cuál es el mejor dúo musical de la historia?" },
-  { "main": "¿Cuál es la mejor canción para una cena romántica?", "different": "¿Qué música de fondo pondrías en una primera cita?" },
-  { "main": "¿Qué canción te parece la más inquietante o extraña?", "different": "¿Qué música te da un poco de miedo escuchar a solas?" },
-  { "main": "¿Qué instrumento asocias más con la música country o folk?", "different": "¿Qué sonido te recuerda más al campo o la montaña?" },
-  { "main": "¿Qué artista tiene la voz más potente que has oído?", "different": "¿Qué cantante te ha dejado sordo con un grito?" },
-  { "main": "¿Prefieres los videoclips con historia o solo con la banda?", "different": "¿Qué vídeo musical te parece una obra de arte visual?" },
-  { "main": "¿Cuál es la mejor canción para una noche de lluvia?", "different": "¿Qué música te gusta escuchar cuando miras por la ventana?" },
-  { "main": "¿Qué músico crees que es el mejor guitarrista?", "different": "¿Qué técnica de guitarra te parece la más impresionante?" },
-  { "main": "¿Prefieres la música de los 60, 70 u 80?", "different": "¿Qué disco de vinilo te gustaría heredar de tus padres?" },
-  { "main": "¿Cuál es la mejor canción de heavy metal?", "different": "¿Qué te hace sentir la música más potente y ruidosa?" },
-  { "main": "¿Qué artista te gustaría que diera un concierto privado para ti?", "different": "¿Qué canción pedirías en una serenata?" },
-  { "main": "¿Cuál es el mejor piano de la historia de la música?", "different": "¿Qué melodía de piano es tu favorita?" },
-  { "main": "¿Qué canción te recuerda a tu época escolar?", "different": "¿Qué música sonaba en todas las fiestas de tu instituto?" },
-  { "main": "¿Prefieres los conciertos en estadios o en teatros?", "different": "¿Cuál es la mejor acústica que has experimentado?" },
-  { "main": "¿Cuál es la mejor canción de reggaetón o trap?", "different": "¿Qué artista urbano crees que tiene más talento?" },
-  { "main": "¿Qué músico crees que es el mejor compositor actual?", "different": "¿Qué famoso escribe las canciones más pegadizas?" },
-  { "main": "¿Prefieres las canciones con rima o de verso libre?", "different": "¿Qué poema te gustaría ver convertido en canción?" },
-  { "main": "¿Cuál es el mejor instrumento de percusión aparte de la batería?", "different": "¿Qué ritmo de percusión te hace mover los pies?" },
-  { "main": "¿Qué canción te gusta escuchar cuando estás enfadado?", "different": "¿Qué música te ayuda a soltar toda tu rabia?" },
-  { "main": "¿Qué artista crees que es el más humilde?", "different": "¿Qué músico parece ser el más majo con sus fans?" },
-  { "main": "¿Prefieres la música para cantar o para bailar?", "different": "¿Cuál es tu paso de baile prohibido?" },
-  { "main": "¿Cuál es la mejor canción de soul o R&B?", "different": "¿Qué voz te parece la más cálida y acogedora?" },
-  { "main": "¿Qué canción te hace sentir mucha nostalgia de los 2000?", "different": "¿Qué tendencia musical de los 2000 debería volver?" },
-  { "main": "¿Cuál es el mejor director de orquesta que conoces?", "different": "¿Qué banda sonora de videojuego es la mejor?" },
-  { "main": "¿Qué canción te parece que tiene el mejor bajo?", "different": "¿Qué línea de bajo es la más mítica para ti?" },
-  { "main": "¿Prefieres la música con un mensaje político fuerte?", "different": "¿Qué canción es para ti un símbolo de libertad?" },
-  { "main": "¿Cuál es la mejor canción de punk rock?", "different": "¿Qué es lo más rebelde que has hecho escuchando música?" },
-  { "main": "¿Qué artista te gustaría que fuera tu pareja?", "different": "¿Qué celebridad musical te parece la más atractiva?" },
-  { "main": "¿Cuál es el mejor instrumento para tocar en una hoguera?", "different": "¿Qué canción cantarías con tus amigos frente al fuego?" },
-  { "main": "¿Qué canción te recuerda a alguien que ya no está?", "different": "¿Qué música te ayuda a recordar los buenos momentos?" },
-  { "main": "¿Prefieres los álbumes conceptuales o los de grandes éxitos?", "different": "¿Qué historia de un disco te ha fascinado más?" },
-  { "main": "¿Cuál es la mejor canción de blues?", "different": "¿Qué te hace sentir la música más melancólica?" },
-  { "main": "¿Qué músico crees que es el mejor teclista?", "different": "¿Qué sonido electrónico es tu favorito?" },
-  { "main": "¿Prefieres la música para dormir o para despertar?", "different": "¿Cuál es el sonido más relajante que conoces?" },
-  { "main": "¿Cuál es la mejor canción de una película de Disney?", "different": "¿Qué personaje de Disney tiene la mejor canción?" },
-  { "main": "¿Qué artista crees que tiene el mejor club de fans?", "different": "¿Qué locura harías por conocer a tu ídolo?" },
-  { "main": "¿Prefieres la música de autor o las grandes producciones?", "different": "¿Qué cantautor te llega más al corazón?" },
-  { "main": "¿Cuál es la mejor canción de funk?", "different": "¿Qué música te hace sentir con más 'flow'?" },
-  { "main": "¿Qué canción te gusta escuchar cuando viajas en avión?", "different": "¿Qué música te hace sentir que estás volando?" },
-  { "main": "¿Qué músico crees que es el más infravalorado?", "different": "¿A qué artista recomendarías a todo el mundo ahora mismo?" },
-  { "main": "¿Prefieres las canciones con mucha letra o más instrumentales?", "different": "¿Qué canción sin letra te cuenta una historia mejor?" },
-  { "main": "¿Cuál es la mejor canción de flamenco o música tradicional?", "different": "¿Qué música te hace sentir más orgulloso de tu cultura?" },
-  { "main": "¿Qué canción te parece la más adecuada para un funeral?", "different": "¿Cómo te gustaría que te recordaran musicalmente?" },
-  { "main": "¿Qué instrumento asocias más con la paz y la tranquilidad?", "different": "¿Qué sonido te ayuda a meditar o relajarte?" },
-  { "main": "¿Qué artista tiene el mejor diseño de portadas de discos?", "different": "¿Qué portada de álbum te parece una obra de arte?" },
-  { "main": "¿Prefieres la música con mucha distorsión o limpia?", "different": "¿Qué pedal de efectos te parece el más curioso?" },
-  { "main": "¿Cuál es la mejor canción de indie pop?", "different": "¿Qué festival pequeño es tu favorito?" },
-  { "main": "¿Qué canción te hace sentir que puedes con todo?", "different": "¿Qué música te pones antes de un reto importante?" },
-  { "main": "¿Qué músico crees que es el mejor saxofonista?", "different": "¿Qué momento musical te parece el más elegante?" },
-  { "main": "¿Prefieres la música grabada en directo en un club pequeño?", "different": "¿Qué ambiente de local de música te gusta más?" },
-  { "main": "¿Cuál es la mejor canción de reggae?", "different": "¿Qué artista te transmite más paz y buenas vibras?" },
-  { "main": "¿Qué canción te recuerda a tu primer amor?", "different": "¿Qué música escuchabas cuando te rompieron el corazón?" },
-  { "main": "¿Qué instrumento te parece el más difícil de afinar?", "different": "¿Qué músico crees que tiene el mejor oído musical?" },
-  { "main": "¿Prefieres la música para trabajar o para descansar?", "different": "¿Qué lista de reproducción es tu favorita para el trabajo?" },
-  { "main": "¿Cuál es la mejor canción de ska o ritmos tropicales?", "different": "¿Qué canción te hace sentir que estás en la playa?" },
-  { "main": "¿Qué músico crees que es el mejor violinista?", "different": "¿Qué melodía de violín te pone la piel de gallina?" },
-  { "main": "¿Prefieres las canciones con un final épico o que se desvanecen?", "different": "¿Qué cierre de canción te parece el más perfecto?" },
-  { "main": "¿Cuál es la mejor canción de synthwave o retro?", "different": "¿Qué música te hace sentir en los años 80 sin haberlos vivido?" },
-  { "main": "¿Qué artista crees que tiene la mejor presencia escénica?", "different": "¿Qué famoso llena el escenario solo con su presencia?" },
-  { "main": "¿Prefieres la música para leer o para escribir?", "different": "¿Qué banda sonora es la mejor para leer un libro?" },
-  { "main": "¿Cuál es la mejor canción de jazz vocal?", "different": "¿Qué cantante de jazz te parece la más icónica?" },
-  { "main": "¿Qué canción te gustaría que sonara en el espacio?", "different": "¿Qué música le enviarías a los extraterrestres?" },
-  { "main": "¿Qué instrumento te parece el más ruidoso de todos?", "different": "¿A qué vecino músico no soportarías tener?" },
-  { "main": "¿Prefieres la música para cocinar o para comer?", "different": "¿Qué música pondrías en una cena con amigos?" },
-  { "main": "¿Cuál es la mejor canción de folk rock?", "different": "¿Qué artista te parece el más auténtico contando historias?" },
-  { "main": "¿Qué canción te hace sentir más libre cuando la cantas?", "different": "¿Qué canción gritas a pleno pulmón en el coche?" },
-  { "main": "¿Qué músico crees que es el más adelantado a su tiempo?", "different": "¿Qué música de hoy se escuchará dentro de 100 años?" }
+  {
+    "main": "¿Quién del grupo tiene el gusto musical más cuestionable de todos?",
+    "different": "¿Quién del grupo oculta que le gusta la música que los demás odian?"
+  },
+  {
+    "main": "¿Quién del grupo daría más vergüenza ajena en un karaoke?",
+    "different": "¿Quién del grupo se cree que canta como Adele pero suena como un gato atropellado?"
+  },
+  {
+    "main": "¿Quién del grupo sigue escuchando la misma música que cuando tenía 15 años?",
+    "different": "¿Quién del grupo se quedó atrapado en su etapa 'emo' o 'rebelde' de la adolescencia?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que llore en un concierto de reggaetón?",
+    "different": "¿Quién del grupo es el más emocionalmente inestable con la música romántica?"
+  },
+  {
+    "main": "¿Quién del grupo se sabe todas las canciones de Disney de memoria y las canta a gritos?",
+    "different": "¿Quién del grupo es secretamente una princesa de Disney en su tiempo libre?"
+  },
+  {
+    "main": "¿Quién del grupo juzga a los demás por lo que escuchan en Spotify?",
+    "different": "¿Quién del grupo se cree superior musicalmente por escuchar bandas que nadie conoce?"
+  },
+  {
+    "main": "¿Quién del grupo finge que le gusta el techno o el jazz solo para parecer interesante?",
+    "different": "¿Quién del grupo es el más pretencioso con sus gustos culturales?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de un cantante y crea de verdad que tiene posibilidades?",
+    "different": "¿Quién del grupo tiene posters de artistas en su habitación a su edad?"
+  },
+  {
+    "main": "¿Quién del grupo gasta más dinero en conciertos que en cosas necesarias como comida o alquiler?",
+    "different": "¿Quién del grupo se iría a la quiebra por ver a su artista favorito en primera fila?"
+  },
+  {
+    "main": "¿Quién del grupo se cree crítico musical por haber leído un par de reseñas en internet?",
+    "different": "¿Quién del grupo arruina las canciones analizando la producción en lugar de disfrutarlas?"
+  },
+  {
+    "main": "¿Quién del grupo tiene una playlist de 'placeres culposos' que le daría vergüenza mostrar?",
+    "different": "¿Quién del grupo escucha música de 'gasolinera' cuando nadie lo ve?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se suba al escenario en un concierto sin invitación?",
+    "different": "¿Quién del grupo acabaría arrestado por intentar abrazar a su ídolo?"
+  },
+  {
+    "main": "¿Quién del grupo canta en la ducha tan fuerte que los vecinos ya se saben su repertorio?",
+    "different": "¿Quién del grupo cree que el baño tiene la mejor acústica del mundo?"
+  },
+  {
+    "main": "¿Quién del grupo es capaz de escuchar la misma canción 50 veces seguidas en un solo día?",
+    "different": "¿Quién del grupo tiene una obsesión poco sana con un solo artista?"
+  },
+  {
+    "main": "¿Quién del grupo baila como si estuviera teniendo un ataque en lugar de seguir el ritmo?",
+    "different": "¿Quién del grupo tiene prohibido acercarse a la pista de baile por el bien común?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse un tatuaje del logo de una banda y arrepentirse al año?",
+    "different": "¿Quién del grupo toma decisiones permanentes basadas en modas musicales pasajeras?"
+  },
+  {
+    "main": "¿Quién del grupo se sabe las letras de las canciones pero inventa el idioma cuando no se las sabe?",
+    "different": "¿Quién del grupo es un experto en 'wachingueo'?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un DJ de bodas fracasado?",
+    "different": "¿Quién del grupo siempre intenta robar el cable auxiliar para poner su música horrible?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el volumen de los auriculares tan alto que puedes oír su música desde otra habitación?",
+    "different": "¿Quién del grupo se va a quedar sordo antes de los 40?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que gaste sus ahorros en un equipo de sonido que no sabe usar?",
+    "different": "¿Quién del grupo se cree audiófilo por comprar auriculares de 300 euros?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor integrante de una 'boy band' o 'girl band'?",
+    "different": "¿Quién del grupo nació para ser una estrella del pop coreano (K-Pop)?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la risa que parece un instrumento desafinado?",
+    "different": "¿Quién del grupo hace ruidos más raros que la música experimental?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que deje a su pareja porque no le gusta su grupo favorito?",
+    "different": "¿Quién del grupo es un radical de la compatibilidad musical?"
+  },
+  {
+    "main": "¿Quién del grupo se cree un rapero malote cuando escucha hip-hop?",
+    "different": "¿Quién del grupo cambia su personalidad según el género musical que esté sonando?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más tarda en enterarse de que una canción ya no está de moda?",
+    "different": "¿Quién del grupo sigue cantando 'Despacito' de forma no irónica?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en dormirse en un concierto de música clásica?",
+    "different": "¿Quién del grupo tiene el nivel cultural de una piedra para el arte?"
+  },
+  {
+    "main": "¿Quién del grupo tiene una colección de vinilos que nunca escucha solo para decorar?",
+    "different": "¿Quién del grupo es un 'poser' musical de manual?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que gane un Grammy aunque no sepa tocar ni el triángulo?",
+    "different": "¿Quién del grupo tiene tanta suerte que podría triunfar sin talento?"
+  },
+  {
+    "main": "¿Quién del grupo se pone música épica para hacer cosas normales como limpiar o estudiar?",
+    "different": "¿Quién del grupo cree que su vida es una película con banda sonora?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se aprenda una coreografía entera de un videoclip?",
+    "different": "¿Quién del grupo ensaya pasos de baile frente al espejo cuando está solo?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el historial de búsqueda de Spotify más perturbador?",
+    "different": "¿Quién del grupo escucha ruidos de lluvia o ballenas para poder dormir?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se pelee por defender a un artista que ni siquiera sabe que existe?",
+    "different": "¿Quién del grupo es un 'fanático' tóxico en redes sociales?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en sobrevivir como músico callejero si se queda sin trabajo?",
+    "different": "¿Quién del grupo tiene alma de artista incomprendido?"
+  },
+  {
+    "main": "¿Quién del grupo toca la 'air guitar' (guitarra imaginaria) con demasiada pasión?",
+    "different": "¿Quién del grupo se cree que está en el escenario cuando suena un solo de guitarra?"
+  },
+  {
+    "main": "¿Quién del grupo es el más probable que se aprenda la letra de una canción en otro idioma sin entender nada?",
+    "different": "¿Quién del grupo es un loro que repite sonidos sin sentido?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la lista de reproducción más deprimente para cuando está triste?",
+    "different": "¿Quién del grupo disfruta regocijándose en su propia miseria con música lenta?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más critica el reggaetón pero luego es el primero en perrear?",
+    "different": "¿Quién del grupo es un hipócrita musical de primera?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor manager de una banda de rock?",
+    "different": "¿Quién del grupo tiene más capacidad para lidiar con artistas borrachos y egocéntricos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que confunda a un artista famoso con otro totalmente distinto?",
+    "different": "¿Quién del grupo no tiene ni idea de cultura pop básica?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el tono de llamada más ridículo o molesto?",
+    "different": "¿Quién del grupo sigue usando canciones como despertador hasta que las odia?"
+  },
+  {
+    "main": "¿Quién del grupo se cree que tiene 'flow' pero camina como un pingüino?",
+    "different": "¿Quién del grupo intenta ser guay y solo consigue dar lástima?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un fanático de la ópera a los 50 años?",
+    "different": "¿Quién del grupo tiene alma de viejo prematuro?"
+  },
+  {
+    "main": "¿Quién del grupo escucha villancicos en pleno mes de julio?",
+    "different": "¿Quién del grupo está obsesionado con la Navidad de forma enfermiza?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en desmayarse al ver a su ídolo de cerca?",
+    "different": "¿Quién del grupo tiene menos autocontrol ante las celebridades?"
+  },
+  {
+    "main": "¿Quién del grupo tiene una voz que suena como si estuviera siempre a punto de estornudar?",
+    "different": "¿Quién del grupo tiene la voz más nasal y extraña?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que cree una banda con sus amigos y se separen a la semana por una pelea?",
+    "different": "¿Quién del grupo es el más difícil para trabajar en equipo?"
+  },
+  {
+    "main": "¿Quién del grupo se sabe los nombres reales de todos los artistas de trap?",
+    "different": "¿Quién del grupo consume demasiado contenido de chismes urbanos?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la colección de CDs más inútil del mundo en pleno 2024?",
+    "different": "¿Quién del grupo se niega a aceptar que el formato físico está muriendo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor compositor de letras de canciones de despecho?",
+    "different": "¿Quién del grupo tiene más drama acumulado en su vida amorosa?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa la música para evitar hablar con la gente en el transporte público?",
+    "different": "¿Quién del grupo es un antisocial profesional?"
+  },
+  {
+    "main": "¿Quién del grupo sería más probable que se haga famoso por una canción absurda que se vuelve meme?",
+    "different": "¿Quién del grupo tiene potencial para ser el próximo 'Chombo' o 'Rodolfo el Reno'?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el gusto musical más 'aburrido' (solo escucha lo que sale en la radio)?",
+    "different": "¿Quién del grupo no tiene personalidad propia para elegir música?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se aprenda a tocar el ukelele solo para ligar?",
+    "different": "¿Quién del grupo usa la música como una herramienta de seducción barata?"
+  },
+  {
+    "main": "¿Quién del grupo tiene una risa que suena como un solo de batería mal ejecutado?",
+    "different": "¿Quién del grupo es el más ruidoso y descoordinado?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse el sueldo en una entrada de festival y luego no ir por pereza?",
+    "different": "¿Quién del grupo es el más irresponsable con sus planes?"
+  },
+  {
+    "main": "¿Quién del grupo escucha música metal para relajarse y dormir?",
+    "different": "¿Quién del grupo tiene el cerebro configurado al revés que los demás?"
+  },
+  {
+    "main": "¿Quién del grupo se cree que es el protagonista de un musical cuando camina por la calle?",
+    "different": "¿Quién del grupo vive en una realidad paralela constante?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más probabilidades de terminar siendo un 'viejito' que se queja de la música moderna?",
+    "different": "¿Quién del grupo odia todo lo que escuchan los jóvenes de hoy?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor locutor de radio nocturna?",
+    "different": "¿Quién del grupo tiene la voz más seductora y relajante?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se aprenda una canción entera de rap en un solo día?",
+    "different": "¿Quién del grupo tiene una memoria privilegiada para las tonterías?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la playlist de fiesta más aburrida de la historia?",
+    "different": "¿Quién del grupo tiene prohibido tocar el equipo de música en los cumpleaños?"
+  },
+  {
+    "main": "¿Quién del grupo se cree que sabe bailar salsa pero solo da vueltas como un trompo?",
+    "different": "¿Quién del grupo es un peligro público en las bodas?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en unirse a una tuna universitaria?",
+    "different": "¿Quién del grupo tiene gustos musicales de otra época (y no para bien)?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de la letra de su propia canción favorita en medio de un karaoke?",
+    "different": "¿Quién del grupo se bloquea bajo presión social?"
+  },
+  {
+    "main": "¿Quién del grupo tiene una voz que suena exactamente igual que un dibujo animado famoso?",
+    "different": "¿Quién del grupo es el mejor imitando voces raras?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en ir a un concierto solo porque la entrada es gratis?",
+    "different": "¿Quién del grupo es el más tacaño con el ocio?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más probabilidades de hacerse viral cantando mal en TikTok?",
+    "different": "¿Quién del grupo sería famoso por su falta de talento?"
+  },
+  {
+    "main": "¿Quién del grupo escucha bandas sonoras de videojuegos para ir al gimnasio?",
+    "different": "¿Quién del grupo es el más friki en sus hábitos diarios?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor cantante de heavy metal por su capacidad de gritar?",
+    "different": "¿Quién del grupo pierde los nervios con más facilidad?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se case con un músico solo para poder entrar gratis a los eventos?",
+    "different": "¿Quién del grupo es el más interesado del grupo?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el gusto musical más 'fresa' o comercial?",
+    "different": "¿Quién del grupo solo escucha lo que dictan las listas de éxitos de Instagram?"
+  },
+  {
+    "main": "¿Quién del grupo se cree un experto en música indie pero solo conoce a las 3 bandas más famosas?",
+    "different": "¿Quién del grupo es un 'falso' alternativo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en llorar si se cancela el concierto de su artista favorito?",
+    "different": "¿Quién del grupo basa su felicidad en cosas externas que no puede controlar?"
+  },
+  {
+    "main": "¿Quién del grupo tiene una risa que suena como el chirrido de una puerta oxidada?",
+    "different": "¿Quién del grupo necesita aceite en las cuerdas vocales?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se aprenda un instrumento raro como la gaita o el arpa?",
+    "different": "¿Quién del grupo siempre quiere ser el centro de atención con cosas extravagantes?"
+  },
+  {
+    "main": "¿Quién del grupo escucha música a las 3 de la mañana a todo volumen sin importarle los demás?",
+    "different": "¿Quién del grupo es el vecino más molesto que podrías tener?"
+  },
+  {
+    "main": "¿Quién del grupo se cree que canta bien en inglés pero solo dice palabras al azar?",
+    "different": "¿Quién del grupo es el rey del 'spanglish' musical?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor juez de un programa de talentos por lo cruel que es con sus críticas?",
+    "different": "¿Quién del grupo es el más destructivo con las opiniones ajenas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de que tiene el altavoz Bluetooth conectado y ponga algo vergonzoso?",
+    "different": "¿Quién del grupo es el más descuidado con su tecnología?"
+  },
+  {
+    "main": "¿Quién del grupo tiene una playlist específica para cuando está bañando a su mascota?",
+    "different": "¿Quién del grupo está más loco por los animales?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en mudarse a Nashville o Los Ángeles para 'intentar triunfar' sin saber cantar?",
+    "different": "¿Quién del grupo tiene las expectativas de vida más irreales?"
+  },
+  {
+    "main": "¿Quién del grupo escucha música country de forma no irónica?",
+    "different": "¿Quién del grupo tiene gustos que nadie más en este país comparte?"
+  },
+  {
+    "main": "¿Quién del grupo se cree un 'sex symbol' cuando baila reggaetón antiguo?",
+    "different": "¿Quién del grupo tiene la autoestima por las nubes sin motivo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse los ahorros en un sintetizador que nunca aprenderá a usar?",
+    "different": "¿Quién del grupo es el más caprichoso con los gadgets musicales?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la risa que suena como un motor que no arranca?",
+    "different": "¿Quién del grupo es el más cómico sin intentarlo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor protagonista de una película sobre la vida de Freddie Mercury?",
+    "different": "¿Quién del grupo es el más dramático y talentoso (en su cabeza)?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine siendo un fanático de los podcasts de crímenes reales en lugar de escuchar música?",
+    "different": "¿Quién del grupo tiene los gustos más oscuros y morbosos?"
+  },
+  {
+    "main": "¿Quién del grupo se cree un genio incomprendido por escuchar música ambiental de 10 horas?",
+    "different": "¿Quién del grupo es el más aburrido en las fiestas?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en intentar ligar con el cantante de la banda en un bar?",
+    "different": "¿Quién del grupo tiene debilidad por los músicos con problemas?"
+  },
+  {
+    "main": "¿Quién del grupo tiene una voz que suena como si estuviera siempre bajo el agua?",
+    "different": "¿Quién del grupo es el más difícil de entender cuando habla?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor DJ de una fiesta infantil?",
+    "different": "¿Quién del grupo tiene el alma más inocente (o infantil)?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se aprenda la discografía entera de un artista en una sola noche?",
+    "different": "¿Quién del grupo es el más obsesivo cuando le gusta algo nuevo?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la playlist de gimnasio más floja de la historia?",
+    "different": "¿Quién del grupo entrena con música que da ganas de dormir?"
+  },
+  {
+    "main": "¿Quién del grupo se cree un 'rockstar' por acostarse tarde y beber una cerveza?",
+    "different": "¿Quién del grupo tiene la idea más distorsionada de lo que es ser rebelde?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en unirse a un coro de iglesia solo por la comida del final?",
+    "different": "¿Quién del grupo es el más hambriento y oportunista?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine siendo un coleccionista obsesivo de púas de guitarra usadas?",
+    "different": "¿Quién del grupo tiene los fetiches más raros con la música?"
+  },
+  {
+    "main": "¿Quién del grupo tiene una risa que suena como un pájaro carpintero?",
+    "different": "¿Quién del grupo es el más constante y molesto?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor integrante de un grupo de música folclórica?",
+    "different": "¿Quién del grupo está más conectado con sus raíces (o es un antiguo)?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de quitar la música cuando entra a una reunión seria?",
+    "different": "¿Quién del grupo tiene el peor 'timing' de la historia?"
+  },
+  {
+    "main": "¿Quién del grupo cree de verdad que la música de hoy en día es 'ruido'?",
+    "different": "¿Quién del grupo se queja de todo lo que no sea rock de los 70?"
+  }
 ]

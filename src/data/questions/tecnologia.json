@@ -1,153 +1,362 @@
 [
-  { "main": "¿Cuál es la aplicación que más usas en tu celular?", "different": "¿Cuál es la aplicación más inútil que tienes instalada?" },
-  { "main": "¿Qué marca de celular prefieres?", "different": "¿Qué marca de tecnología te parece la más innovadora?" },
-  { "main": "¿Cuál es el gadget tecnológico sin el que no podrías vivir?", "different": "¿Qué objeto tecnológico antiguo extrañas más?" },
-  { "main": "¿Prefieres usar una computadora de escritorio o un portátil?", "different": "¿Qué dispositivo usas más para trabajar o estudiar?" },
-  { "main": "¿Qué lenguaje de programación te gustaría aprender?", "different": "¿Qué lenguaje de programación crees que es el más difícil?" },
-  { "main": "¿Cuál es el mejor invento tecnológico de la historia?", "different": "¿Qué tecnología crees que ha cambiado más el mundo?" },
-  { "main": "¿Qué opinas de la inteligencia artificial actual?", "different": "¿Crees que los robots dominarán el mundo en el futuro?" },
-  { "main": "¿Cuál es tu red social favorita?", "different": "¿En qué plataforma pasas más tiempo perdiendo el tiempo?" },
-  { "main": "¿Prefieres los videojuegos en consola o en PC?", "different": "¿Qué plataforma te parece que tiene los mejores gráficos?" },
-  { "main": "¿Qué accesorio tecnológico llevas siempre puesto?", "different": "¿Qué dispositivo 'wearable' te parece el más útil?" },
-  { "main": "¿Cuál es el mejor buscador de internet?", "different": "¿Qué sitio web consultas primero cuando tienes una duda?" },
-  { "main": "¿Qué componente de hardware es el más importante en una PC?", "different": "¿En qué pieza de tu computadora gastarías más dinero?" },
-  { "main": "¿Cuál es la mejor plataforma de streaming de películas?", "different": "¿Dónde ves tus series favoritas normalmente?" },
-  { "main": "¿Qué opinas de los coches eléctricos?", "different": "¿Crees que el futuro del transporte es totalmente autónomo?" },
-  { "main": "¿Cuál es el mejor sistema operativo para computadoras?", "different": "¿Qué entorno de software te resulta más fácil de usar?" },
-  { "main": "¿Qué gadget te gustaría que inventaran mañana?", "different": "¿Qué problema cotidiano te gustaría resolver con tecnología?" },
-  { "main": "¿Cuál es el mejor servicio de música en streaming?", "different": "¿Dónde escuchas tus podcasts o canciones preferidas?" },
-  { "main": "¿Qué opinas del metaverso y la realidad virtual?", "different": "¿Te gustaría vivir en un mundo digital paralelo?" },
-  { "main": "¿Cuál es la mejor marca de televisores?", "different": "¿Qué pantalla te ofrece la mejor calidad de imagen que has visto?" },
-  { "main": "¿Qué haces cuando se cae el internet en tu casa?", "different": "¿Qué es lo primero que echas de menos cuando no tienes conexión?" },
-  { "main": "¿Cuál es el mejor navegador de internet para celular?", "different": "¿Qué aplicación usas para navegar por la web?" },
-  { "main": "¿Qué opinas de las criptomonedas?", "different": "¿Crees que el dinero físico desaparecerá pronto?" },
-  { "main": "¿Cuál es la mejor marca de cámaras fotográficas?", "different": "¿Qué dispositivo usas para sacar tus fotos de mayor calidad?" },
-  { "main": "¿Qué prefieres: auriculares de cable o inalámbricos?", "different": "¿Qué accesorio de audio usas más a diario?" },
-  { "main": "¿Cuál es la mejor tienda online de tecnología?", "different": "¿Dónde sueles comprar tus gadgets o componentes electrónicos?" },
-  { "main": "¿Qué opinas de la domótica y las casas inteligentes?", "different": "¿Qué objeto de tu casa te gustaría controlar con el celular?" },
-  { "main": "¿Cuál es la mejor herramienta de trabajo remoto?", "different": "¿Qué aplicación de videollamadas te parece la más estable?" },
-  { "main": "¿Qué prefieres: leer libros en papel o en ebook?", "different": "¿En qué formato consumes más información escrita?" },
-  { "main": "¿Cuál es la mejor marca de relojes inteligentes?", "different": "¿Qué dispositivo usas para medir tus pasos o salud?" },
-  { "main": "¿Qué opinas de los drones?", "different": "¿Para qué usarías un vehículo aéreo no tripulado?" },
-  { "main": "¿Cuál es el mejor programa para editar fotos?", "different": "¿Qué software usas cuando quieres retocar una imagen?" },
-  { "main": "¿Qué prefieres: teclado mecánico o de membrana?", "different": "¿Qué accesorio de escritura te resulta más cómodo?" },
-  { "main": "¿Cuál es la mejor marca de portátiles para juegos?", "different": "¿Qué computadora te parece la más potente del mercado?" },
-  { "main": "¿Qué opinas de los asistentes de voz como Alexa o Siri?", "different": "¿A qué inteligencia artificial le pides cosas a menudo?" },
-  { "main": "¿Cuál es el mejor almacenamiento en la nube?", "different": "¿Dónde guardas tus fotos y documentos importantes?" },
-  { "main": "¿Qué prefieres: pantalla curva o plana?", "different": "¿Qué diseño de monitor te parece el más inmersivo?" },
-  { "main": "¿Cuál es la mejor marca de altavoces?", "different": "¿Qué dispositivo usas para poner música en una fiesta?" },
-  { "main": "¿Qué opinas de la tecnología 5G?", "different": "¿Crees que la velocidad de internet es suficiente hoy en día?" },
-  { "main": "¿Cuál es el mejor software de seguridad o antivirus?", "different": "¿Qué programa usas para proteger tu computadora?" },
-  { "main": "¿Qué prefieres: ratón con cable o inalámbrico?", "different": "¿Qué periférico de control te parece más preciso?" },
-  { "main": "¿Cuál es la mejor marca de tablets?", "different": "¿Qué dispositivo usarías para dibujar o tomar notas digitales?" },
-  { "main": "¿Qué opinas de la impresión 3D?", "different": "¿Qué objeto te gustaría fabricar en tu propia casa?" },
-  { "main": "¿Cuál es el mejor lenguaje para hacer páginas web?", "different": "¿Qué tecnología crees que es la base de todo internet?" },
-  { "main": "¿Qué prefieres: modo oscuro o modo claro?", "different": "¿Cómo tienes configurada la interfaz de tu celular?" },
-  { "main": "¿Cuál es la mejor marca de procesadores?", "different": "¿Qué cerebro electrónico prefieres para tu computadora?" },
-  { "main": "¿Qué opinas de la biometría (huella, rostro)?", "different": "¿Cuál te parece el método de desbloqueo más seguro?" },
-  { "main": "¿Cuál es el mejor servicio de correo electrónico?", "different": "¿Qué plataforma usas para enviar tus mensajes formales?" },
-  { "main": "¿Qué prefieres: monitor ultra ancho o doble monitor?", "different": "¿Cómo es tu configuración ideal para trabajar?" },
-  { "main": "¿Cuál es la mejor marca de tarjetas gráficas?", "different": "¿Qué componente hace que tus juegos se vean increíbles?" },
-  { "main": "¿Qué opinas de los robots aspiradores?", "different": "¿Qué tarea del hogar te gustaría automatizar por completo?" },
-  { "main": "¿Cuál es el mejor programa para editar video?", "different": "¿Qué software usarías para hacer una película casera?" },
-  { "main": "¿Qué prefieres: carga rápida o batería de larga duración?", "different": "¿Qué es lo que más te molesta de la batería de tu celular?" },
-  { "main": "¿Cuál es la mejor marca de consolas?", "different": "¿Bajo qué logo has pasado las mejores tardes de juego?" },
-  { "main": "¿Qué opinas de los viajes espaciales comerciales?", "different": "¿Te irías de vacaciones a la Luna si pudieras permitírtelo?" },
-  { "main": "¿Cuál es el mejor formato de archivo de audio?", "different": "¿En qué calidad prefieres escuchar tu música favorita?" },
-  { "main": "¿Qué prefieres: trabajar en la oficina o teletrabajar?", "different": "¿En qué entorno te sientes más productivo con la tecnología?" },
-  { "main": "¿Cuál es la mejor marca de discos duros?", "different": "¿En qué dispositivo confías para no perder tus datos?" },
-  { "main": "¿Qué opinas de la tecnología Deepfake?", "different": "¿Crees que ya no podemos confiar en lo que vemos en video?" },
-  { "main": "¿Cuál es el mejor sitio para aprender programación gratis?", "different": "¿Dónde buscas tutoriales de tecnología?" },
-  { "main": "¿Qué prefieres: internet por fibra o por satélite?", "different": "¿Cuál crees que es la mejor forma de conectar el mundo?" },
-  { "main": "¿Cuál es la mejor marca de routers?", "different": "¿Qué aparato es el corazón de la red en tu casa?" },
-  { "main": "¿Qué opinas de la vigilancia masiva con cámaras?", "different": "¿Te sientes más seguro o más observado con tanta tecnología?" },
-  { "main": "¿Cuál es el mejor motor de videojuegos?", "different": "¿Con qué herramienta se han hecho los juegos más famosos?" },
-  { "main": "¿Qué prefieres: aplicaciones nativas o web apps?", "different": "¿Qué tipo de software te parece más rápido y eficiente?" },
-  { "main": "¿Cuál es la mejor marca de proyectores?", "different": "¿Qué usarías para montar un cine en tu salón?" },
-  { "main": "¿Qué opinas de la obsolescencia programada?", "different": "¿Cuánto tiempo te dura de media un aparato electrónico?" },
-  { "main": "¿Cuál es el mejor IDE para programar?", "different": "¿En qué editor de texto pasas tus horas escribiendo código?" },
-  { "main": "¿Qué prefieres: redes sociales con fotos o con texto?", "different": "¿Qué tipo de contenido consumes más en internet?" },
-  { "main": "¿Cuál es la mejor marca de memorias RAM?", "different": "¿Qué componente ayuda más a que tu PC no se trabe?" },
-  { "main": "¿Qué opinas de la neutralidad de la red?", "different": "¿Crees que internet debería ser libre e igual para todos?" },
-  { "main": "¿Cuál es el mejor sitio de noticias tecnológicas?", "different": "¿Cómo te mantienes al día de los últimos lanzamientos?" },
-  { "main": "¿Qué prefieres: realidad aumentada o realidad virtual?", "different": "¿Qué tecnología te parece más útil para la vida diaria?" },
-  { "main": "¿Cuál es la mejor marca de placas base?", "different": "¿Qué pieza une todos los componentes de tu computadora?" },
-  { "main": "¿Qué opinas de los implantes tecnológicos en humanos?", "different": "¿Te pondrías un chip en el cuerpo para mejorar tus capacidades?" },
-  { "main": "¿Cuál es el mejor gestor de contraseñas?", "different": "¿Cómo haces para no olvidar tus claves de internet?" },
-  { "main": "¿Qué prefieres: código abierto o software propietario?", "different": "¿Qué filosofía de desarrollo de software apoyas más?" },
-  { "main": "¿Cuál es la mejor marca de periféricos gaming?", "different": "¿Qué marca tiene las luces LED más bonitas en sus aparatos?" },
-  { "main": "¿Qué opinas del teletransporte (teóricamente)?", "different": "¿Qué tecnología de ciencia ficción te gustaría que fuera real?" },
-  { "main": "¿Cuál es el mejor lenguaje para aprender ciencia de datos?", "different": "¿Qué tecnología se usa para analizar el Big Data?" },
-  { "main": "¿Qué prefieres: un celular pequeño o uno grande?", "different": "¿Qué tamaño de pantalla te resulta más cómodo en la mano?" },
-  { "main": "¿Cuál es la mejor marca de fuentes de alimentación?", "different": "¿Qué componente garantiza que tu PC no se queme?" },
-  { "main": "¿Qué opinas del reconocimiento de voz?", "different": "¿Prefieres escribir o dictar tus mensajes al celular?" },
-  { "main": "¿Cuál es el mejor servicio de hosting?", "different": "¿Dónde alojarías tu propia página web?" },
-  { "main": "¿Qué prefieres: pantalla OLED o LCD?", "different": "¿Qué tecnología de panel te parece que tiene mejores colores?" },
-  { "main": "¿Cuál es la mejor marca de auriculares de estudio?", "different": "¿Qué marca elegirías si fueras un profesional del sonido?" },
-  { "main": "¿Qué opinas de la colonización de Marte?", "different": "¿Crees que el ser humano debería vivir en otros planetas?" },
-  { "main": "¿Cuál es el mejor framework de JavaScript?", "different": "¿Qué herramienta usarías para crear una app moderna?" },
-  { "main": "¿Qué prefieres: botones físicos o controles táctiles?", "different": "¿Cómo te gusta interactuar con tus dispositivos?" },
-  { "main": "¿Cuál es la mejor marca de drones profesionales?", "different": "¿Qué marca domina el mercado de la fotografía aérea?" },
-  { "main": "¿Qué opinas de la tecnología Blockchain más allá de las criptos?", "different": "¿Crees que el registro digital seguro es el futuro?" },
-  { "main": "¿Cuál es el mejor cliente de correo electrónico?", "different": "¿Qué aplicación usas para gestionar tus bandejas de entrada?" },
-  { "main": "¿Qué prefieres: conexión por cable ethernet o WiFi?", "different": "¿Qué tipo de conexión a internet te parece la más fiable?" },
-  { "main": "¿Cuál es la mejor marca de cajas de PC?", "different": "¿Qué diseño de torre te parece el más elegante?" },
-  { "main": "¿Qué opinas de los asistentes virtuales en el hogar?", "different": "¿A quién le pides que ponga música o apague las luces?" },
-  { "main": "¿Cuál es el mejor sitio para descargar programas seguros?", "different": "¿Dónde confías para bajar software sin virus?" },
-  { "main": "¿Qué prefieres: fotos digitales o impresas?", "different": "¿Cómo guardas tus recuerdos visuales más queridos?" },
-  { "main": "¿Cuál es la mejor marca de monitores para oficina?", "different": "¿Qué pantalla usarías para trabajar 8 horas al día?" },
-  { "main": "¿Qué opinas de la edición genética con tecnología?", "different": "¿Crees que deberíamos poder 'programar' el ADN?" },
-  { "main": "¿Cuál es el mejor programa para hacer videollamadas?", "different": "¿Qué aplicación usas para ver a tus amigos a distancia?" },
-  { "main": "¿Qué prefieres: una tablet o un lector de libros?", "different": "¿Qué dispositivo te llevarías para leer en la playa?" },
-  { "main": "¿Cuál es la mejor marca de teclados inalámbricos?", "different": "¿Qué marca hace los periféricos más minimalistas?" },
-  { "main": "¿Qué opinas de los robots humanoides?", "different": "¿Te daría miedo tener un robot que parezca una persona en casa?" },
-  { "main": "¿Cuál es el mejor lenguaje para programar apps móviles?", "different": "¿Qué tecnología crees que dominará los celulares?" },
-  { "main": "¿Qué prefieres: una Smart TV o un proyector?", "different": "¿Cómo prefieres disfrutar de una noche de cine en casa?" },
-  { "main": "¿Cuál es la mejor marca de sillas ergonómicas?", "different": "¿En qué objeto tecnológico para sentarte invertirías más?" },
-  { "main": "¿Qué opinas de la computación cuántica?", "different": "¿Crees que pronto tendremos computadoras infinitamente rápidas?" },
-  { "main": "¿Cuál es el mejor sitio para comprar componentes de PC?", "different": "¿Dónde buscas las mejores ofertas en hardware?" },
-  { "main": "¿Qué prefieres: cargar el móvil por la noche o por el día?", "different": "¿Cómo gestionas el nivel de batería de tus aparatos?" },
-  { "main": "¿Cuál es la mejor marca de sistemas de sonido?", "different": "¿Qué marca de audio es sinónimo de máxima calidad?" },
-  { "main": "¿Qué opinas del algoritmo de recomendación de YouTube?", "different": "¿Crees que internet sabe demasiado bien lo que te gusta?" },
-  { "main": "¿Cuál es el mejor programa para comprimir archivos?", "different": "¿Qué software usas para enviar muchos archivos juntos?" },
-  { "main": "¿Qué prefieres: usar el móvil con una mano o con dos?", "different": "¿Qué tamaño de dispositivo te parece el más ergonómico?" },
-  { "main": "¿Cuál es la mejor marca de impresoras?", "different": "¿Qué marca de oficina te parece la más fiable?" },
-  { "main": "¿Qué opinas del teletrabajo permanente?", "different": "¿Crees que las oficinas físicas van a desaparecer?" },
-  { "main": "¿Cuál es el mejor lenguaje para aprender lógica?", "different": "¿Qué tecnología recomendarías a alguien que empieza de cero?" },
-  { "main": "¿Qué prefieres: un ratón ergonómico o uno de diseño?", "different": "¿Qué priorizas al comprar un periférico de control?" },
-  { "main": "¿Cuál es la mejor marca de discos SSD?", "different": "¿Qué componente hace que tu PC arranque en segundos?" },
-  { "main": "¿Qué opinas de la tecnología de reconocimiento facial?", "different": "¿Crees que es el método de seguridad más cómodo?" },
-  { "main": "¿Cuál es el mejor sitio para ver tutoriales de hardware?", "different": "¿A quién sigues para aprender a montar una PC?" },
-  { "main": "¿Qué prefieres: auriculares de diadema o de botón?", "different": "¿Qué formato de audio te resulta más cómodo para viajar?" },
-  { "main": "¿Cuál es la mejor marca de webcams?", "different": "¿Qué cámara usarías si fueras un streamer famoso?" },
-  { "main": "¿Qué opinas de la privacidad en internet hoy en día?", "different": "¿Crees que realmente existe el anonimato digital?" },
-  { "main": "¿Cuál es el mejor programa para gestionar proyectos?", "different": "¿Qué software usas para organizar tus tareas diarias?" },
-  { "main": "¿Qué prefieres: una computadora todo en uno o por piezas?", "different": "¿Cómo te gusta que sea estéticamente tu lugar de trabajo?" },
-  { "main": "¿Cuál es la mejor marca de cables y cargadores?", "different": "¿En qué marca confías para no quemar tus dispositivos?" },
-  { "main": "¿Qué opinas de la inteligencia artificial generativa de imágenes?", "different": "¿Crees que la IA puede ser realmente creativa?" },
-  { "main": "¿Cuál es el mejor sitio para descargar fondos de pantalla?", "different": "¿Dónde buscas imágenes para personalizar tu escritorio?" },
-  { "main": "¿Qué prefieres: usar un lápiz digital o el dedo?", "different": "¿Cómo te gusta interactuar con las pantallas táctiles?" },
-  { "main": "¿Cuál es la mejor marca de maletines para portátiles?", "different": "¿Dónde guardas tu computadora cuando sales de casa?" },
-  { "main": "¿Qué opinas de la energía solar en la tecnología?", "different": "¿Crees que pronto todos nuestros gadgets se cargarán con el sol?" },
-  { "main": "¿Cuál es el mejor programa para hacer presentaciones?", "different": "¿Qué software usarías para exponer un proyecto importante?" },
-  { "main": "¿Qué prefieres: una red WiFi abierta o usar tus datos?", "different": "¿Qué tan precavido eres con la seguridad en lugares públicos?" },
-  { "main": "¿Cuál es la mejor marca de accesorios para celular?", "different": "¿Qué marca de fundas o protectores te gusta más?" },
-  { "main": "¿Qué opinas del impacto ambiental de la tecnología?", "different": "¿Qué haces con tus aparatos viejos o rotos?" },
-  { "main": "¿Cuál es el mejor sitio para comparar precios de tecnología?", "different": "¿Dónde buscas antes de comprar un gadget nuevo?" },
-  { "main": "¿Qué prefieres: una computadora silenciosa o una potente?", "different": "¿Qué es lo que más te molesta del ruido de una PC?" },
-  { "main": "¿Cuál es la mejor marca de adaptadores y hubs?", "different": "¿Qué marca elegirías para conectar todo a tu portátil?" },
-  { "main": "¿Qué opinas de los bots en las redes sociales?", "different": "¿Crees que gran parte de internet es contenido falso?" },
-  { "main": "¿Cuál es el mejor programa para tomar notas rápidas?", "different": "¿Qué aplicación tienes abierta siempre para apuntar ideas?" },
-  { "main": "¿Qué prefieres: una pantalla con mucho brillo o colores reales?", "different": "¿En qué te fijas más al ver una pantalla de celular?" },
-  { "main": "¿Cuál es la mejor marca de fuentes para PC?", "different": "¿Qué marca te da más seguridad eléctrica en tu casa?" },
-  { "main": "¿Qué opinas del futuro de la tecnología en 50 años?", "different": "¿Cómo crees que será la vida diaria a finales de siglo?" },
-  { "main": "¿Cuál es el mejor programa para leer PDFs?", "different": "¿Qué software usas para consultar documentos digitales?" },
-  { "main": "¿Qué prefieres: usar la tecnología para ocio o para trabajo?", "different": "¿Para qué usas principalmente tus dispositivos electrónicos?" },
-  { "main": "¿Cuál es la mejor marca de tecnología de tu país?", "different": "¿Qué empresa local te parece la más innovadora?" },
-  { "main": "¿Qué opinas de los pagos con el reloj o el celular?", "different": "¿Cómo sueles pagar cuando vas a una tienda física?" },
-  { "main": "¿Cuál es el mejor sitio para ver reviews de móviles?", "different": "¿A qué experto en tecnología crees más cuando analiza algo?" },
-  { "main": "¿Qué prefieres: un teclado con luces o uno sobrio?", "different": "¿Cómo te gusta que sea la iluminación de tu escritorio?" },
-  { "main": "¿Cuál es la mejor marca de micrófonos para podcast?", "different": "¿Qué aparato usarías para grabar tu propia voz con calidad?" },
-  { "main": "¿Qué opinas de la educación online frente a la presencial?", "different": "¿Crees que la tecnología ha mejorado la forma de aprender?" },
-  { "main": "¿Cuál es el mejor programa para limpiar el PC?", "different": "¿Qué software usas para mantener tu equipo rápido y limpio?" }
+  {
+    "main": "¿Quién del grupo tiene la aplicación más inútil o extraña instalada en su celular?",
+    "different": "¿Quién del grupo pasa más horas al día pegado a la pantalla del móvil?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se compre el último iPhone el mismo día que salga?",
+    "different": "¿Quién del grupo sigue usando un dispositivo tecnológico que ya debería estar en un museo?"
+  },
+  {
+    "main": "¿Quién del grupo es el 'técnico' oficial al que todos llaman cuando se les rompe algo?",
+    "different": "¿Quién del grupo es capaz de romper un aparato electrónico solo con mirarlo?"
+  },
+  {
+    "main": "¿Quién del grupo cree firmemente que la Inteligencia Artificial dominará el mundo pronto?",
+    "different": "¿Quién del grupo sería el primero en hacerse amigo de un robot humanoide?"
+  },
+  {
+    "main": "¿Quién del grupo gasta más dinero en gadgets tecnológicos que no necesita?",
+    "different": "¿Quién del grupo tiene el escritorio lleno de cables enredados y desordenados?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en implantarse un chip en el cerebro para ser más inteligente?",
+    "different": "¿Quién del grupo tiene más miedo de que el gobierno nos espíe a través de la cámara del portátil?"
+  },
+  {
+    "main": "¿Quién del grupo duraría menos de una hora si se quedara sin internet en casa?",
+    "different": "¿Quién del grupo sería el más feliz viviendo en una cabaña en el bosque sin tecnología?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más pestañas abiertas en el navegador ahora mismo?",
+    "different": "¿Quién del grupo es más probable que borre sus redes sociales por un 'detox digital'?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que caiga en una estafa de criptomonedas?",
+    "different": "¿Quién del grupo cree que el Bitcoin es el futuro del dinero?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la casa más 'inteligente' llena de luces y asistentes de voz?",
+    "different": "¿Quién del grupo sigue prefiriendo los libros de papel y los relojes analógicos?"
+  },
+  {
+    "main": "¿Quién del grupo se ha peleado alguna vez con un asistente de voz como Alexa o Siri?",
+    "different": "¿Quién del grupo trata a los robots con demasiada educación 'por si acaso'?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más tarda en contestar a los mensajes de WhatsApp?",
+    "different": "¿Quién del grupo siempre tiene el celular en 'No molestar' o en silencio?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor piloto de drones profesional?",
+    "different": "¿Quién del grupo perdería un dron a los cinco minutos de volarlo?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la galería de fotos más llena de memes en lugar de fotos reales?",
+    "different": "¿Quién del grupo es el que más fotos se hace frente al espejo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en irse a vivir a una colonia en Marte?",
+    "different": "¿Quién del grupo cree que los extraterrestres ya están entre nosotros vigilando internet?"
+  },
+  {
+    "main": "¿Quién del grupo gasta más dinero en servicios de streaming que casi nunca usa?",
+    "different": "¿Quién del grupo sigue compartiendo su contraseña de Netflix con medio mundo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un 'influencer' de tecnología?",
+    "different": "¿Quién del grupo no sabe ni cómo cambiar el fondo de pantalla de su computadora?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el teclado más sucio y lleno de migas?",
+    "different": "¿Quién del grupo limpia la pantalla de su celular obsesivamente varias veces al día?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que aprenda a programar solo por diversión?",
+    "different": "¿Quién del grupo cree que la programación es magia negra?"
+  },
+  {
+    "main": "¿Quién del grupo se compraría unas gafas de realidad virtual solo para no salir de casa?",
+    "different": "¿Quién del grupo se marea a los dos minutos de ponerse un casco de realidad virtual?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de hardware y componentes de PC?",
+    "different": "¿Quién del grupo se compraría una computadora solo porque tiene muchas luces LED de colores?"
+  },
+  {
+    "main": "¿Quién del grupo es el más paranoico con la privacidad y usa VPN para todo?",
+    "different": "¿Quién del grupo usa la misma contraseña para todas sus cuentas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que use ChatGPT para escribir un mensaje de amor?",
+    "different": "¿Quién del grupo usa la Inteligencia Artificial para que le haga todo el trabajo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja cuando el internet va un poco lento?",
+    "different": "¿Quién del grupo siempre tiene la batería del celular al 1%?"
+  },
+  {
+    "main": "¿Quién del grupo es capaz de montar una PC desde cero sin mirar un tutorial?",
+    "different": "¿Quién del grupo no sabe ni qué procesador tiene su propia computadora?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en comprarse un coche que se conduce solo?",
+    "different": "¿Quién del grupo le tiene pánico a los coches autónomos?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más correos sin leer en su bandeja de entrada?",
+    "different": "¿Quién del grupo es un maniático del orden digital y tiene todo en carpetas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide el celular en un baño público?",
+    "different": "¿Quién del grupo no puede ir ni al baño sin llevarse el celular?"
+  },
+  {
+    "main": "¿Quién del grupo es el más 'hater' de las actualizaciones de software?",
+    "different": "¿Quién del grupo actualiza todas sus apps en cuanto sale el botón?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de hackear la cuenta de Instagram de su ex?",
+    "different": "¿Quién del grupo no sabe ni cómo recuperar su propia contraseña?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el celular con la pantalla más astillada o rota?",
+    "different": "¿Quién del grupo usa un protector de pantalla que ya está todo amarillento?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más aplicaciones de comida a domicilio tiene?",
+    "different": "¿Quién del grupo gasta una fortuna en suscripciones premium de todo tipo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que use un smartwatch hasta para dormir?",
+    "different": "¿Quién del grupo cree que los relojes inteligentes son una pérdida de dinero?"
+  },
+  {
+    "main": "¿Quién del grupo se queda dormido con el celular en la mano todas las noches?",
+    "different": "¿Quién del grupo deja el celular en otra habitación antes de irse a dormir?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de los últimos lanzamientos de móviles?",
+    "different": "¿Quién del grupo no sabe ni qué modelo de celular tiene en la mano?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que gane un debate sobre Android vs iOS?",
+    "different": "¿Quién del grupo cree que la marca del celular es un símbolo de estatus?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más fotos de comida en su Instagram que de personas?",
+    "different": "¿Quién del grupo publica una foto cada vez que sale de casa?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en perderse si le quitas Google Maps?",
+    "different": "¿Quién del grupo todavía sabe leer un mapa de papel o guiarse por el sol?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más tiempo pasa viendo TikToks o Reels?",
+    "different": "¿Quién del grupo dice que no tiene redes sociales pero nos espía a todos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor moderador de un foro de tecnología?",
+    "different": "¿Quién del grupo siempre acaba metido en discusiones absurdas en Twitter?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un ermitaño digital?",
+    "different": "¿Quién del grupo se siente solo si no recibe notificaciones constantes?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de cámaras y edición de fotos?",
+    "different": "¿Quién del grupo usa filtros tan exagerados que no parece ni la misma persona?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en comprar ropa virtual para el Metaverso?",
+    "different": "¿Quién del grupo cree que el Metaverso es el mayor fracaso de la historia?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el historial de búsqueda de Google más vergonzoso?",
+    "different": "¿Quién del grupo usa siempre el modo incógnito para no dejar rastro?"
+  },
+  {
+    "main": "¿Quién del grupo gasta más dinero en auriculares de alta gama?",
+    "different": "¿Quién del grupo sigue usando los auriculares de cable que venían con el móvil?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en ser reemplazado por una IA en su trabajo?",
+    "different": "¿Quién del grupo es tan creativo que ninguna IA podrá superarlo nunca?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más aplicaciones de bancos e inversiones?",
+    "different": "¿Quién del grupo tiene miedo de pagar con el celular en las tiendas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de cargar el celular antes de una cita importante?",
+    "different": "¿Quién del grupo siempre lleva una batería externa encima por si acaso?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de la batería de su dispositivo?",
+    "different": "¿Quién del grupo hace malabares para que el celular le dure dos días?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en ser engañado por un Deepfake de un famoso?",
+    "different": "¿Quién del grupo analiza cada video que ve para ver si es real o falso?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de ciberseguridad?",
+    "different": "¿Quién del grupo deja su sesión de Facebook abierta en computadoras públicas?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de vivir un mes entero solo con tecnología de los años 90?",
+    "different": "¿Quién del grupo no sabría ni cómo usar un teléfono de disco?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más 'seguidores' que no conoce en la vida real?",
+    "different": "¿Quién del grupo tiene sus redes sociales tan privadas que parecen el FBI?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se grabe haciendo un baile viral de internet?",
+    "different": "¿Quién del grupo siente una vergüenza ajena extrema con las tendencias de TikTok?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de coches eléctricos y Tesla?",
+    "different": "¿Quién del grupo extrañará el olor a gasolina cuando todos los coches sean eléctricos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en comprar una casa controlada totalmente por un robot?",
+    "different": "¿Quién del grupo cree que los robots aspiradores nos están espiando los pies?"
+  },
+  {
+    "main": "¿Quién del grupo gasta más dinero en juegos de azar online o skins?",
+    "different": "¿Quién del grupo nunca ha gastado ni un céntimo en una aplicación?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se emociona con los eventos de Apple o Google?",
+    "different": "¿Quién del grupo cree que todas las marcas de tecnología son iguales?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la suscripción a YouTube Premium solo para no ver anuncios?",
+    "different": "¿Quién del grupo usa bloqueadores de anuncios hasta en el microondas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un streamer famoso?",
+    "different": "¿Quién del grupo tiene pánico a hablar delante de una cámara?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más aplicaciones de salud y ejercicio que nunca usa?",
+    "different": "¿Quién del grupo se obsesiona con contar cada caloría en una app?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de sonido y altavoces?",
+    "different": "¿Quién del grupo escucha música con el altavoz del celular a todo volumen en público?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en usar un traductor simultáneo en un viaje?",
+    "different": "¿Quién del grupo prefiere aprender el idioma a base de señas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que use una tablet para todo en lugar de una PC?",
+    "different": "¿Quién del grupo cree que las tablets son solo celulares gigantes innecesarios?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más dispositivos conectados al WiFi de su casa?",
+    "different": "¿Quién del grupo se queja de que el vecino le roba el internet?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en probar la teletransportación si existiera?",
+    "different": "¿Quién del grupo cree que la tecnología nos está volviendo más vagos?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más aplicaciones de edición de video tiene?",
+    "different": "¿Quién del grupo hace videos de sus vacaciones que parecen películas de Hollywood?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en comprar una mascota robótica?",
+    "different": "¿Quién del grupo prefiere mil veces un perro de verdad que uno de metal?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que trabaje en una empresa de tecnología gigante?",
+    "different": "¿Quién del grupo odia trabajar con computadoras y prefiere el aire libre?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el fondo de pantalla más infantil o gracioso?",
+    "different": "¿Quién del grupo usa una foto suya de fondo de pantalla?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de 'trucos' ocultos del celular?",
+    "different": "¿Quién del grupo descubre funciones de su móvil tres años después de comprarlo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en usar tecnología para leer el pensamiento?",
+    "different": "¿Quién del grupo tiene miedo de que la tecnología nos quite la humanidad?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más tiempo pasa configurando un aparato nuevo?",
+    "different": "¿Quién del grupo tira el manual de instrucciones sin ni siquiera abrirlo?"
+  },
+  {
+    "main": "¿Quién del grupo sería más feliz si viviéramos en una película de ciencia ficción?",
+    "different": "¿Quién del grupo cree que el futuro tecnológico será una distopía horrible?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de una voz de Inteligencia Artificial?",
+    "different": "¿Quién del grupo cree que las relaciones humanas son insustituibles por máquinas?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más gadgets innecesarios en su cocina (freidoras de aire, etc.)?",
+    "different": "¿Quién del grupo no sabe ni cómo encender la vitrocerámica táctil?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de redes sociales y algoritmos?",
+    "different": "¿Quién del grupo publica algo y lo borra a los cinco minutos si no tiene likes?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en presentarse voluntario para probar un chip de memoria?",
+    "different": "¿Quién del grupo prefiere olvidar las cosas de forma natural?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el celular lleno de aplicaciones que no ha abierto en un año?",
+    "different": "¿Quién del grupo desinstala una app en cuanto deja de usarla?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que gane un concurso de mecanografía rápida?",
+    "different": "¿Quién del grupo escribe con dos dedos y mirando el teclado?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en comprarse ropa inteligente que cambia de color?",
+    "different": "¿Quién del grupo cree que la tecnología en la moda es una tontería?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de astronomía y telescopios digitales?",
+    "different": "¿Quién del grupo se queda mirando las estrellas pensando en el Big Bang?"
+  },
+  {
+    "main": "¿Quién del grupo sería más capaz de sobrevivir a un apocalipsis robótico?",
+    "different": "¿Quién del grupo se rendiría ante los robots a la primera de cambio?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más cargadores diferentes en su cajón de los enredos?",
+    "different": "¿Quién del grupo siempre está pidiendo un cargador prestado?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de impresión 3D?",
+    "different": "¿Quién del grupo se imprimiría su propia vajilla si pudiera?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en denunciar a una empresa por usar sus datos?",
+    "different": "¿Quién del grupo acepta todos los términos y condiciones sin leer nada?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más seguidores en una red social que nadie más del grupo conoce?",
+    "different": "¿Quién del grupo es un 'fantasma' digital que no deja rastro?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en casarse en una ceremonia virtual?",
+    "different": "¿Quién del grupo cree que lo virtual nunca podrá superar a lo real?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que use un alias o nombre falso en internet?",
+    "different": "¿Quién del grupo pone su nombre completo y foto real en todos lados?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en comprar un espejo inteligente que le diga qué ropa le queda bien?",
+    "different": "¿Quién del grupo se viste a oscuras y le da igual lo que digan?"
+  }
 ]

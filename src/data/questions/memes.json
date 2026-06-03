@@ -1,151 +1,402 @@
 [
-  { "main": "¿Cuál es tu meme favorito de todos los tiempos?", "different": "¿Qué meme crees que nunca pasará de moda?" },
-  { "main": "¿Qué red social usas más para ver memes?", "different": "¿En qué plataforma encuentras los videos más graciosos?" },
-  { "main": "¿Cuál es tu emoji más usado últimamente?", "different": "¿Qué emoji crees que define mejor tu estado de ánimo actual?" },
-  { "main": "¿Prefieres los memes de imágenes o los videos cortos tipo TikTok?", "different": "¿Qué tipo de contenido viral te hace perder más el tiempo?" },
-  { "main": "¿Cuál es el meme que más has compartido con tus amigos?", "different": "¿Qué imagen graciosa tienes guardada en favoritos?" },
-  { "main": "¿Qué tendencia de internet te parece la más absurda?", "different": "¿Qué reto viral te dio más vergüenza ajena?" },
-  { "main": "¿Prefieres los stickers de WhatsApp o los GIFs?", "different": "¿Qué pack de stickers es el que más usas para responder?" },
-  { "main": "¿Cuál es el meme que mejor describe tu vida amorosa?", "different": "¿Qué situación graciosa de pareja te ha pasado de verdad?" },
-  { "main": "¿Qué 'influencer' o creador de contenido te hace más gracia?", "different": "¿A qué famoso de internet te gustaría conocer en persona?" },
-  { "main": "¿Cuál es el sonido viral de TikTok que no puedes sacarte de la cabeza?", "different": "¿Qué canción de fondo de videos te parece la más irritante?" },
-  { "main": "¿Qué meme de animales te parece el más tierno?", "different": "¿Qué video de gatos o perros es tu favorito?" },
-  { "main": "¿Prefieres el humor negro o el humor absurdo (shitposting)?", "different": "¿Qué tipo de chistes te hacen reír pero te da apuro admitirlo?" },
-  { "main": "¿Cuál es la expresión de internet que más usas en la vida real?", "different": "¿Qué palabra nueva has aprendido gracias a las redes sociales?" },
-  { "main": "¿Qué meme te parece el más icónico de la cultura hispana?", "different": "¿Qué personaje de televisión se ha convertido en el mejor meme?" },
-  { "main": "¿Cuál es tu 'red flag' favorita en un meme?", "different": "¿Qué comportamiento te hace decir 'amiga date cuenta'?" },
-  { "main": "¿Qué situación de trabajo te parece la más 'memeable'?", "different": "¿Qué cara pones cuando te llega un correo el viernes por la tarde?" },
-  { "main": "¿Cuál es el meme que usas para expresar decepción?", "different": "¿Qué imagen pones cuando algo no sale como esperabas?" },
-  { "main": "¿Qué aplicación de edición usas para hacer tus propios memes?", "different": "¿Alguna vez te has hecho viral por algo que publicaste?" },
-  { "main": "¿Cuál es el meme de 'expectativa vs realidad' que más te dolió?", "different": "¿Qué compra por internet te salió fatal?" },
-  { "main": "¿Qué opinas de los memes sobre la Inteligencia Artificial?", "different": "¿Crees que los robots acabarán siendo más graciosos que nosotros?" },
-  { "main": "¿Cuál es el meme más antiguo que recuerdas haber visto?", "different": "¿Cómo era el internet cuando empezaste a usarlo?" },
-  { "main": "¿Qué meme de 'POV' (punto de vista) te parece el más acertado?", "different": "¿En qué situación cotidiana te sientes como si estuvieras en un meme?" },
-  { "main": "¿Prefieres los memes de deportes o los de política?", "different": "¿De qué tema crees que es más fácil sacar un chiste?" },
-  { "main": "¿Cuál es el meme de 'perro grande vs perro pequeño' que más te gusta?", "different": "¿En qué aspecto te sientes como el perro pequeño?" },
-  { "main": "¿Qué emoji usarías para describir tu cuenta bancaria?", "different": "¿Qué imagen graciosa describe tu situación financiera?" },
-  { "main": "¿Cuál es el meme de 'Drake' que más sentido tiene para ti?", "different": "¿Qué cosa prefieres rechazar y qué prefieres aceptar?" },
-  { "main": "¿Qué video de YouTube te hizo reír hasta llorar la primera vez?", "different": "¿Cuál es el video más clásico de internet en tu opinión?" },
-  { "main": "¿Qué meme de 'mira ese potencial' usarías para ti mismo?", "different": "¿En qué crees que eres secretamente muy bueno?" },
-  { "main": "¿Prefieres Twitter (X), Instagram o Facebook para informarte?", "different": "¿En qué red social crees que la gente es más tóxica?" },
-  { "main": "¿Cuál es el meme de 'it's fine' (la casa en llamas) más real para ti?", "different": "¿Cómo gestionas el caos en tu día a día?" },
-  { "main": "¿Qué personaje de dibujos animados es el más 'memeado'?", "different": "¿A qué personaje de ficción te pareces cuando te enfadas?" },
-  { "main": "¿Cuál es el meme de 'stonks' que más te representa?", "different": "¿En qué inversión de tiempo o dinero te has sentido un genio?" },
-  { "main": "¿Qué audio de WhatsApp reenviado te pareció el más épico?", "different": "¿Cuál es el mensaje de voz más raro que has recibido?" },
-  { "main": "¿Qué meme de 'vaya, no encuentro fallas en su lógica' es tu favorito?", "different": "¿Qué argumento absurdo has usado para convencer a alguien?" },
-  { "main": "¿Prefieres los memes de anime o los de series de imagen real?", "different": "¿Qué escena dramática de una serie te parece ahora graciosa?" },
-  { "main": "¿Cuál es el meme de 'un clásico' que siempre usas?", "different": "¿Qué cosa nunca cambia por mucho que pase el tiempo?" },
-  { "main": "¿Qué opinas de los memes sobre los signos del zodiaco?", "different": "¿Crees que tu signo define realmente cómo eres?" },
-  { "main": "¿Cuál es el meme de 'change my mind' (cambia mi opinión) que pondrías?", "different": "¿Qué opinión impopular tienes que defenderías a muerte?" },
-  { "main": "¿Qué meme de 'pikachu sorprendido' describe tu última semana?", "different": "¿Qué cosa sabías que iba a pasar y aun así te sorprendió?" },
-  { "main": "¿Prefieres los hilos de Twitter o los carruseles de fotos?", "different": "¿Cuál es la historia más increíble que has leído en internet?" },
-  { "main": "¿Cuál es el meme de 'está pasando!' de The Office que más usas?", "different": "¿Qué noticia te ha hecho entrar en pánico (de broma)?" },
-  { "main": "¿Qué meme de 'bueno, quién tiene hambre?' usas para evadir temas?", "different": "¿De qué conversación incómoda has escapado recientemente?" },
-  { "main": "¿Cuál es el meme de 'es cine' que aplicarías a algo cotidiano?", "different": "¿Qué momento de tu vida te pareció una película?" },
-  { "main": "¿Qué opinas de los memes que usan fotos de bebés?", "different": "¿Tienes alguna foto de pequeño que sea un meme familiar?" },
-  { "main": "¿Cuál es el meme de 'no lo sé Rick, parece falso'?", "different": "¿Qué mentira te han intentado colar por redes sociales?" },
-  { "main": "¿Qué canción se volvió meme y ahora te gusta de verdad?", "different": "¿Qué música 'troll' tienes en tu lista de reproducción?" },
-  { "main": "¿Cuál es el meme de 'adiós chimuelo' que más te hizo reír?", "different": "¿Qué despedida fue la más trágica y cómica a la vez?" },
-  { "main": "¿Qué meme de 'traigan a ese hombre, voy a hacerlo vicepresidente' usarías?", "different": "¿A quién admiras por una tontería que hizo?" },
-  { "main": "¿Prefieres los memes con mucho texto o solo una imagen?", "different": "¿Qué imagen vale más que mil palabras para ti?" },
-  { "main": "¿Cuál es el meme de 'se tenía que decir y se dijo' que publicarías?", "different": "¿Qué verdad incómoda te gustaría soltar ahora mismo?" },
-  { "main": "¿Qué meme de 'mi momento ha llegado' describe tu habilidad oculta?", "different": "¿En qué situación de emergencia serías el héroe?" },
-  { "main": "¿Qué opinas de los memes sobre la diferencia generacional (boomers vs gen z)?", "different": "¿En qué te sientes más viejo de lo que realmente eres?" },
-  { "main": "¿Cuál es el meme de 'acaso yo...' (el mono mirando a cámara) favorito?", "different": "¿En qué problema te has metido por no saber decir que no?" },
-  { "main": "¿Qué meme de 'kha??' usas cuando no entiendes nada?", "different": "¿Qué noticia reciente te ha dejado más descolocado?" },
-  { "main": "¿Cuál es el meme de 'el futuro es hoy, oíste viejo?'?", "different": "¿Qué tecnología nueva te hace sentir que vives en el futuro?" },
-  { "main": "¿Qué meme de 'oblígame prro' usarías con tu jefe o padres?", "different": "¿Qué orden te cuesta más obedecer?" },
-  { "main": "¿Prefieres los memes de 'Cheems' (el perro ansioso) o los de 'Doge'?", "different": "¿En qué situación te sientes más ansioso de lo normal?" },
-  { "main": "¿Cuál es el meme de 'pero las risas no faltaron'?", "different": "¿Qué plan salió fatal pero os lo pasasteis bien?" },
-  { "main": "¿Qué meme de 'toma mi dinero' (Fry de Futurama) te representa?", "different": "¿En qué capricho te has gastado dinero innecesariamente?" },
-  { "main": "¿Cuál es el meme de 'es un simple trozo de papel' (Bob Esponja)?", "different": "¿A qué objeto sin valor le tienes mucho cariño?" },
-  { "main": "¿Qué meme de 'un precio razonable' (Rick Harrison) usarías?", "different": "¿Qué estarías dispuesto a intercambiar por un deseo?" },
-  { "main": "¿Qué opinas de los memes de 'gatito llorando'?", "different": "¿Qué cosa insignificante te pone muy triste?" },
-  { "main": "¿Cuál es el meme de 'mi cara cuando...' que más compartes?", "different": "¿Qué expresión facial es tu marca registrada?" },
-  { "main": "¿Qué meme de 'el macho' te parece el más gracioso?", "different": "¿Qué es lo más valiente (o estúpido) que has hecho por fardar?" },
-  { "main": "¿Cuál es el meme de 'qué elegancia la de Francia'?", "different": "¿Cuándo fue la última vez que te arreglaste mucho?" },
-  { "main": "¿Qué meme de 'ahora sí viene lo chido' usarías para el fin de semana?", "different": "¿Cuál es tu plan favorito para un viernes noche?" },
-  { "main": "¿Prefieres los memes de 'Spiderman señalando a Spiderman'?", "different": "¿Con qué persona te confunden siempre?" },
-  { "main": "¿Cuál es el meme de 'no debí hacer eso' (Hagrid)?", "different": "¿De qué decisión te arrepentiste a los cinco segundos?" },
-  { "main": "¿Qué meme de 'eres un monstruo' (Shrek) le dirías a un amigo?", "different": "¿Qué gusto raro tiene tu mejor amigo?" },
-  { "main": "¿Cuál es el meme de 'ia llegué'?", "different": "¿Cómo sueles entrar en una fiesta o reunión?" },
-  { "main": "¿Qué meme de 'estoy cansado jefe' describe tu lunes?", "different": "¿Qué es lo que más te agota de tu rutina?" },
-  { "main": "¿Cuál es el meme de 'el Pepe' o 'Ete Sech' que más odiaste?", "different": "¿Qué broma de internet se volvió pesada demasiado rápido?" },
-  { "main": "¿Qué meme de 'oblígame' usarías para no ir al gimnasio?", "different": "¿Qué excusa pones siempre para no hacer deporte?" },
-  { "main": "¿Cuál es el meme de 'no me quiero ir señor Stark'?", "different": "¿De qué lugar no te querías ir nunca?" },
-  { "main": "¿Qué meme de 'qué buen servicio' usarías para un restaurante?", "different": "¿Cuál es el mejor trato que has recibido en un local?" },
-  { "main": "¿Qué opinas de los memes sobre la gente que no sabe cocinar?", "different": "¿Cuál ha sido tu mayor desastre en la cocina?" },
-  { "main": "¿Cuál es el meme de 'la decepción, la traición amigo'?", "different": "¿Quién fue el último en fallarte en una tontería?" },
-  { "main": "¿Qué meme de 'claro que sí, campeón' usarías con sarcasmo?", "different": "¿A quién le darías un premio a la ironía?" },
-  { "main": "¿Cuál es el meme de 'ia nos exhibiste'?", "different": "¿Qué secreto tuyo ha contado alguien sin querer?" },
-  { "main": "¿Qué meme de 'me anotó un amigo' usarías para una situación rara?", "different": "¿En qué lío te has metido por culpa de otra persona?" },
-  { "main": "¿Prefieres los memes de 'kermit la rana' (la de la capucha)?", "different": "¿Qué dice tu lado oscuro cuando quieres portarte mal?" },
-  { "main": "¿Cuál es el meme de 'vaya dato perturbador' (Luisito Comunica)?", "different": "¿Qué curiosidad extraña conoces que nadie más sabe?" },
-  { "main": "¿Qué meme de 'eso no me lo esperaba' usarías para un final de serie?", "different": "¿Qué giro de los acontecimientos te dejó en shock?" },
-  { "main": "¿Cuál es el meme de 'a darle átomos'?", "different": "¿Qué frase dices para motivarte antes de trabajar?" },
-  { "main": "¿Qué meme de 'suéltame, me lastimas' usarías con el despertador?", "different": "¿A qué hora te gustaría despertarte todos los días?" },
-  { "main": "¿Qué opinas de los memes sobre vivir en Latinoamérica?", "different": "¿Qué es lo más 'tercermundista' que has visto en tu barrio?" },
-  { "main": "¿Cuál es el meme de 'estoy en peligro' (Ralph Wiggum)?", "different": "¿En qué situación te has sentido más expuesto?" },
-  { "main": "¿Qué meme de 'pero qué ven mis oídos' usarías para un chisme?", "different": "¿Cuál es el último cotilleo que te ha llegado?" },
-  { "main": "¿Cuál es el meme de 'soy ese'?", "different": "¿Con qué personaje de ficción te sientes 100% identificado?" },
-  { "main": "¿Qué meme de 'me sirve' usarías para una oferta?", "different": "¿Qué es lo más barato que has comprado y que más usas?" },
-  { "main": "¿Prefieres los memes de 'Gato en la mesa'?", "different": "¿Por qué cosa sin importancia discutirías horas?" },
-  { "main": "¿Cuál es el meme de 'tenemos un 33-12' (Monstruos S.A.)?", "different": "¿Cuál ha sido tu emergencia más tonta?" },
-  { "main": "¿Qué meme de 'disculpe, usted es el más tonto que existe?' usarías?", "different": "¿Qué es lo más absurdo que has oído decir a alguien?" },
-  { "main": "¿Cuál es el meme de 'ya siéntese señora'?", "different": "¿A quién le dirías que deje de quejarse por todo?" },
-  { "main": "¿Qué meme de 'por qué eres así?' usarías para ti mismo?", "different": "¿Qué manía tuya no soportas ni tú mismo?" },
-  { "main": "¿Qué opinas de los memes sobre la edad de Chabelo o Jordi Hurtado?", "different": "¿Quién crees que es inmortal en este mundo?" },
-  { "main": "¿Cuál es el meme de 'se tenía que decir y se dijo' sobre comida?", "different": "¿Qué ingrediente crees que sobra en todas las comidas?" },
-  { "main": "¿Qué meme de 'noticia de último momento' inventarías hoy?", "different": "¿Qué titular te gustaría leer mañana en la prensa?" },
-  { "main": "¿Cuál es el meme de 'no lo entenderías' (Joker)?", "different": "¿Qué chiste interno tienes con tus amigos que nadie más pilla?" },
-  { "main": "¿Qué meme de 'el futuro es hoy' usarías con un robot de cocina?", "different": "¿Qué electrodoméstico te parece magia negra?" },
-  { "main": "¿Prefieres los memes de 'compañero de clase que siempre falta'?", "different": "¿Eras de los que faltaban mucho a clase o de los que no fallaban?" },
-  { "main": "¿Cuál es el meme de 'perdí mi oportunidad'?", "different": "¿Qué tren dejaste pasar y ahora te arrepientes?" },
-  { "main": "¿Qué meme de 'qué buen Momo' usarías con un amigo que envía memes malos?", "different": "¿Quién de tu grupo tiene el peor gusto para los memes?" },
-  { "main": "¿Cuál es el meme de 'ia cállate'?", "different": "¿A qué persona mandarías callar ahora mismo si no hubiera consecuencias?" },
-  { "main": "¿Qué meme de 'es una trampa' (Almirante Ackbar) usarías para una oferta?", "different": "¿De qué ganga sospechas siempre?" },
-  { "main": "¿Qué opinas de los memes sobre la escuela y los exámenes?", "different": "¿Cuál fue el examen que más te costó aprobar?" },
-  { "main": "¿Cuál es el meme de 'en fin, la hipocresía'?", "different": "¿Qué doble moral te molesta más de la gente?" },
-  { "main": "¿Qué meme de 'alguien quiere pensar en los niños?' usarías?", "different": "¿Qué cosa te parece que es 'demasiado' para la sociedad actual?" },
-  { "main": "¿Cuál es el meme de 'vaya, eso escaló rápido'?", "different": "¿Qué pelea empezó por una tontería y terminó fatal?" },
-  { "main": "¿Qué meme de 'lo logramos, lo logramos' usarías para un viernes?", "different": "¿Qué meta pequeña has alcanzado esta semana?" },
-  { "main": "¿Prefieres los memes de 'Hide the Pain Harold' (el señor de la sonrisa falsa)?", "different": "¿En qué situación has tenido que fingir una sonrisa?" },
-  { "main": "¿Cuál es el meme de 'el conocimiento es poder'?", "different": "¿Qué dato inútil te hace sentir muy inteligente?" },
-  { "main": "¿Qué meme de 'quién sabe' (el de los hombros levantados) usarías?", "different": "¿Qué es lo más misterioso que te ha pasado?" },
-  { "main": "¿Cuál es el meme de 'ya me dio hambre'?", "different": "¿A qué hora te suele entrar el hambre de verdad?" },
-  { "main": "¿Qué meme de 'miren al nuevo' usarías en un trabajo?", "different": "¿Cómo fue tu primer día en tu actual puesto?" },
-  { "main": "¿Qué opinas de los memes sobre los impuestos?", "different": "¿En qué te gustaría que se gastara tu dinero realmente?" },
-  { "main": "¿Cuál es el meme de 'soy el mejor en esto'?", "different": "¿En qué juego o actividad eres imbatible?" },
-  { "main": "¿Qué meme de 'no me ayudes compadre' usarías?", "different": "¿Quién te ha intentado ayudar y lo ha empeorado todo?" },
-  { "main": "¿Cuál es el meme de 'ia se armó'?", "different": "¿Qué señal indica que va a empezar una buena fiesta?" },
-  { "main": "¿Qué meme de 'esto es arte, aprécienlo' usarías para un dibujo?", "different": "¿Qué creación tuya te hace sentir orgulloso?" },
-  { "main": "¿Prefieres los memes de 'Grumpy Cat'?", "different": "¿Qué cosa te pone de mal humor nada más verla?" },
-  { "main": "¿Cuál es el meme de 'me representa' más reciente que has visto?", "different": "¿Qué publicación de Instagram parece escrita por ti?" },
-  { "main": "¿Qué meme de 'eres grande, Drake' usarías para un logro personal?", "different": "¿Cuál ha sido tu mayor éxito del mes?" },
-  { "main": "¿Cuál es el meme de 'ia vámonos'?", "different": "¿Cuál es tu señal para irte de un sitio que te aburre?" },
-  { "main": "¿Qué meme de 'qué pro' usarías para alguien habilidoso?", "different": "¿Qué habilidad ajena te da mucha envidia (sana)?" },
-  { "main": "¿Qué opinas de los memes sobre el café y el sueño?", "different": "¿Cuántos cafés necesitas para ser persona por la mañana?" },
-  { "main": "¿Cuál es el meme de 'es un honor estar con usted'?", "different": "¿A qué persona admiras tanto que te pondrías nervioso al verla?" },
-  { "main": "¿Qué meme de 'todo es bronca y dolor' usarías para el fútbol?", "different": "¿Qué derrota deportiva te dolió más?" },
-  { "main": "¿Cuál es el meme de 'viva la libertad carajo'?", "different": "¿Qué es lo primero que haces cuando te quedas solo en casa?" },
-  { "main": "¿Qué meme de 'no te pases de lanza' usarías para una broma pesada?", "different": "¿Cuál ha sido la broma más pesada que te han hecho?" },
-  { "main": "¿Prefieres los memes de 'bad luck brian' (el chico de la mala suerte)?", "different": "¿Cuál ha sido tu momento de más mala suerte?" },
-  { "main": "¿Cuál es el meme de 'success kid' (el niño del puño)?", "different": "¿Qué pequeña victoria has celebrado hoy?" },
-  { "main": "¿Qué meme de 'señor, qué suerte tienen algunos' usarías?", "different": "¿Qué premio o sorteo te gustaría ganar?" },
-  { "main": "¿Cuál es el meme de 'ia me voy'?", "different": "¿Cómo te despides de los grupos de WhatsApp que no te interesan?" },
-  { "main": "¿Qué meme de 'esfuerzo máximo' usarías para estudiar?", "different": "¿Cuál es el mayor tiempo que has pasado concentrado?" },
-  { "main": "¿Qué opinas de los memes sobre la gente que no duerme?", "different": "¿Cuál es tu récord personal sin dormir?" },
-  { "main": "¿Cuál es el meme de 'pero qué ha pasado'?", "different": "¿Qué cambio radical en tu vida te ha sorprendido más?" },
-  { "main": "¿Qué meme de 'somos el mejor país de Chile' usarías para un error geográfico?", "different": "¿Cuál ha sido tu mayor confusión de nombres o lugares?" },
-  { "main": "¿Cuál es el meme de 'ia deja de jugar'?", "different": "¿Qué videojuego te tiene más enganchado ahora mismo?" },
-  { "main": "¿Qué meme de 'esto es el paraíso' usarías para unas vacaciones?", "different": "¿Cuál sería tu lugar ideal para perderte una semana?" },
-  { "main": "¿Prefieres los memes de 'Bernie Sanders con guantes'?", "different": "¿Qué prenda de ropa te parece la más cómoda del mundo?" },
-  { "main": "¿Cuál es el meme de 'confía en mí, soy ingeniero'?", "different": "¿Qué arreglo chapucero has hecho en casa que ha funcionado?" },
-  { "main": "¿Qué meme de 'me han timado' usarías para un examen?", "different": "¿Qué pregunta de examen te pareció la más injusta?" },
-  { "main": "¿Cuál es el meme de 'vayan por él'?", "different": "¿A qué amigo mandarías a por comida ahora mismo?" },
-  { "main": "¿Qué meme de 'esto se va a poner feo' usarías para una discusión?", "different": "¿Qué pelea de internet ha sido la más entretenida de leer?" },
-  { "main": "¿Qué opinas de los memes sobre los lunes por la mañana?", "different": "¿Cuál es tu truco para sobrevivir al primer día de la semana?" },
-  { "main": "¿Cuál es el meme de 'soy leyenda'?", "different": "¿Qué historia tuya crees que se contará durante años?" },
-  { "main": "¿Qué meme de 'un gran poder conlleva una gran responsabilidad' usarías?", "different": "¿Qué tarea importante te han confiado recientemente?" },
-  { "main": "¿Cuál es el meme de 'ia terminé'?", "different": "¿Qué sensación tienes cuando por fin acabas algo difícil?" }
+  {
+    "main": "¿Quién del grupo sigue usando el 'POV' mal en todas sus publicaciones?",
+    "different": "¿Quién del grupo cree que sus historias de Instagram son cine?"
+  },
+  {
+    "main": "¿Quién del grupo tiene un sticker de WhatsApp para cada situación, por específica que sea?",
+    "different": "¿Quién del grupo solo responde con stickers porque le da pereza escribir?"
+  },
+  {
+    "main": "¿Quién del grupo se ríe de memes que nadie más entiende (shitposting)?",
+    "different": "¿Quién del grupo tiene el humor más roto de todos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se vuelva viral por una caída estúpida?",
+    "different": "¿Quién del grupo acabaría en un video de 'personas haciendo el ridículo' con millones de vistas?"
+  },
+  {
+    "main": "¿Quién del grupo manda los TikToks más largos que nadie termina de ver?",
+    "different": "¿Quién del grupo te obliga a ver videos de 10 minutos en su celular sin dejarte ir?"
+  },
+  {
+    "main": "¿Quién del grupo sigue compartiendo memes de 2012 como si fueran nuevos?",
+    "different": "¿Quién del grupo es el 'boomer' oficial del internet en este grupo?"
+  },
+  {
+    "main": "¿Quién del grupo da más 'cringe' con lo que publica en sus redes sociales?",
+    "different": "¿Quién del grupo sube fotos con frases motivacionales profundas que nadie pidió?"
+  },
+  {
+    "main": "¿Quién del grupo usa emojis de forma no irónica (como el 🤣 o el 🧐)?",
+    "different": "¿Quién del grupo abusa de los emojis hasta que el mensaje es ilegible?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en caer en una estafa de criptomonedas o esquemas piramidales?",
+    "different": "¿Quién del grupo intentaría convencerte de que compres un NFT de un mono?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la galería llena de memes y ninguna foto suya?",
+    "different": "¿Quién del grupo tiene el celular al borde del colapso por falta de espacio?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que publique algo por error en la 'Close Friends' de la persona equivocada?",
+    "different": "¿Quién del grupo ha subido una historia borracho y se ha arrepentido al día siguiente?"
+  },
+  {
+    "main": "¿Quién del grupo se comunica exclusivamente por mensajes de voz de más de 3 minutos?",
+    "different": "¿Quién del grupo escucha los audios a velocidad 2x y aun así se aburre?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más stalkea a la gente en redes sociales?",
+    "different": "¿Quién del grupo sabe la vida entera de alguien solo con ver su perfil de Instagram dos minutos?"
+  },
+  {
+    "main": "¿Quién del grupo se cree 'influencer' pero no llega ni a los 500 seguidores?",
+    "different": "¿Quién del grupo pide descuentos en restaurantes a cambio de 'exposición'?"
+  },
+  {
+    "main": "¿Quién del grupo sigue usando Facebook de forma activa?",
+    "different": "¿Quién del grupo es el que más memes de 'piolín' recibe de su tía?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se pelee con un desconocido en los comentarios de Twitter?",
+    "different": "¿Quién del grupo se toma las opiniones de internet demasiado personales?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la cuenta de Instagram más estética y cuidada?",
+    "different": "¿Quién del grupo tarda 3 horas en editar una foto antes de subirla?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa la expresión 'lit' o 'basado' en la vida real?",
+    "different": "¿Quién del grupo habla como si viviera dentro de un video de YouTube?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se vuelva un 'meme viviente' en el trabajo o la universidad?",
+    "different": "¿Quién del grupo tiene una cara que ya de por sí es un meme?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más 'likes' le da a sus propias fotos?",
+    "different": "¿Quién del grupo borra una foto si no llega a cierta cantidad de likes en una hora?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el gusto más cuestionable para los videos de YouTube?",
+    "different": "¿Quién del grupo ve videos de 'ASMR de gente comiendo' por diversión?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine en un video de 'La Rosa de Guadalupe'?",
+    "different": "¿Quién del grupo es el más dramático del grupo en redes sociales?"
+  },
+  {
+    "main": "¿Quién del grupo usa más stickers de gatitos llorando?",
+    "different": "¿Quién del grupo es emocionalmente inestable en internet?"
+  },
+  {
+    "main": "¿Quién del grupo se sabe todos los bailes de TikTok aunque diga que no?",
+    "different": "¿Quién del grupo practica los trends frente al espejo a escondidas?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más ignora los mensajes en el grupo de WhatsApp?",
+    "different": "¿Quién del grupo deja a todo el mundo en 'visto' por sistema?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse una cuenta de OnlyFans si se queda sin dinero?",
+    "different": "¿Quién del grupo vende su dignidad por tres likes?"
+  },
+  {
+    "main": "¿Quién del grupo es el más adicto al celular en las reuniones sociales?",
+    "different": "¿Quién del grupo no puede estar 5 minutos sin revisar las notificaciones?"
+  },
+  {
+    "main": "¿Quién del grupo se cree muy gracioso pero sus chistes solo dan pena?",
+    "different": "¿Quién del grupo es el 'gracioso' oficial que nadie invitó?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se haga famoso por algo ilegal?",
+    "different": "¿Quién del grupo acabaría en las noticias por una broma que salió mal?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la foto de perfil más engañosa (catfish)?",
+    "different": "¿Quién del grupo abusa de los filtros de belleza hasta parecer otra especie?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa el meme de 'es cine' para cualquier tontería?",
+    "different": "¿Quién del grupo se cree crítico de cine por ver películas de Marvel?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se infiltre en una fiesta de influencers sin estar invitado?",
+    "different": "¿Quién del grupo haría lo que fuera por una foto con un famoso?"
+  },
+  {
+    "main": "¿Quién del grupo sigue traumado con algún video viral de los inicios de internet?",
+    "different": "¿Quién del grupo te recuerda memes de hace 15 años que ya nadie pilla?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el algoritmo de TikTok más turbio de todos?",
+    "different": "¿Quién del grupo tiene gustos en internet que harían que el FBI lo vigile?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más 'ghostea' a la gente?",
+    "different": "¿Quién del grupo desaparece de la faz de la tierra cuando le hablas de planes?"
+  },
+  {
+    "main": "¿Quién del grupo se cree un 'alfa' o 'sigma' de forma no irónica?",
+    "different": "¿Quién del grupo consume demasiado contenido motivacional de 'mentalidad de tiburón'?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la risa más escandalosa en la vida real?",
+    "different": "¿Quién del grupo se ríe tan fuerte que atrae la mirada de todo el restaurante?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que mande un mensaje al grupo equivocado criticando a alguien de ese mismo grupo?",
+    "different": "¿Quién del grupo es el más descuidado con su privacidad digital?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de la generación de cristal siendo parte de ella?",
+    "different": "¿Quién del grupo se ofende por absolutamente todo en internet?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en sobrevivir como ermitaño sin internet?",
+    "different": "¿Quién del grupo entraría en crisis existencial si se queda sin WiFi una hora?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más hace 'repost' de cosas que no lee?",
+    "different": "¿Quién del grupo comparte noticias falsas (fake news) constantemente?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el nombre de usuario más ridículo en redes sociales?",
+    "different": "¿Quién del grupo sigue usando el mismo nickname de cuando tenía 12 años?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que gane un concurso de comer cosas raras?",
+    "different": "¿Quién del grupo tiene el estómago de acero para la comida basura?"
+  },
+  {
+    "main": "¿Quién del grupo se viste como si fuera un personaje de un videojuego?",
+    "different": "¿Quién del grupo tiene el estilo más extravagante y extraño?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa el modo oscuro en todas las aplicaciones?",
+    "different": "¿Quién del grupo es un 'vampiro' que odia la luz blanca de las pantallas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se case con una inteligencia artificial en el futuro?",
+    "different": "¿Quién del grupo está más cerca de perder la cordura por la tecnología?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más gasta en juegos de celular tipo 'gacha'?",
+    "different": "¿Quién del grupo tiene una adicción real a las microtransacciones?"
+  },
+  {
+    "main": "¿Quién del grupo se cree hacker por saber cambiar la contraseña del WiFi?",
+    "different": "¿Quién del grupo es el servicio técnico oficial de su familia?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se vuelva un 'meme de reacción' sin querer?",
+    "different": "¿Quién del grupo tiene las expresiones faciales más exageradas?"
+  },
+  {
+    "main": "¿Quién del grupo sigue viendo tutoriales de 'cómo ser popular' en YouTube?",
+    "different": "¿Quién del grupo es el más desesperado por encajar socialmente?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se parece a un personaje de Los Simpson?",
+    "different": "¿Quién del grupo tiene una vida que parece escrita por guionistas de comedia?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine viviendo en una comuna hippie?",
+    "different": "¿Quién del grupo mandaría todo a la mierda para irse a plantar tomates?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la peor ortografía del grupo de WhatsApp?",
+    "different": "¿Quién del grupo escribe como si estuviera teniendo un derrame cerebral?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa el meme de 'toma mi dinero'?",
+    "different": "¿Quién del grupo es el más impulsivo a la hora de comprar tonterías por internet?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor villano de una película de terror?",
+    "different": "¿Quién del grupo da miedo cuando se queda en silencio mucho tiempo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que olvide su propia contraseña de banco?",
+    "different": "¿Quién del grupo es el más despistado con las cosas importantes?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la risa más contagiosa, aunque no sea gracioso?",
+    "different": "¿Quién del grupo hace que todo el mundo se ría solo por su forma de reír?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se parece físicamente a un meme famoso?",
+    "different": "¿Quién del grupo es el 'gemelo' perdido de alguna celebridad de internet?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un 'señor de los gatos/perros'?",
+    "different": "¿Quién del grupo prefiere a los animales antes que a las personas?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa el sticker de 'el Pepe' o memes muertos?",
+    "different": "¿Quién del grupo tiene un sentido del humor que se quedó atrapado en 2016?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en ser cancelado en Twitter por un comentario de hace 10 años?",
+    "different": "¿Quién del grupo tiene el pasado más 'oscuro' en internet?"
+  },
+  {
+    "main": "¿Quién del grupo es el más 'picado' cuando pierde en un videojuego?",
+    "different": "¿Quién del grupo ha roto un mando o teclado por un ataque de ira?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que gane un debate sobre un tema que no conoce?",
+    "different": "¿Quién del grupo tiene más capacidad para inventarse cosas y que parezcan verdad?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa la ironía para ocultar sus sentimientos?",
+    "different": "¿Quién del grupo es un laberinto de sarcasmo que nadie logra descifrar?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la habitación más desordenada, parecida a un vertedero?",
+    "different": "¿Quién del grupo vive en un caos absoluto pero sabe dónde está todo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de un personaje de anime?",
+    "different": "¿Quién del grupo tiene los gustos románticos más extraños?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más presume de cosas que no tiene?",
+    "different": "¿Quién del grupo vive una vida de mentira para impresionar en redes?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en unirse a una secta si le prometen 'paz mental'?",
+    "different": "¿Quién del grupo es el más fácil de manipular del grupo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa el meme de 'bueno, quién tiene hambre?' para evitar problemas?",
+    "different": "¿Quién del grupo huye de cualquier confrontación incómoda?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se vuelva un 'meme de stock' (fotos gratuitas)?",
+    "different": "¿Quién del grupo tiene la cara más genérica y olvidable?"
+  },
+  {
+    "main": "¿Quién del grupo es el más 'hater' de las cosas populares solo por ser populares?",
+    "different": "¿Quién del grupo odia todo lo que le gusta a los demás para sentirse especial?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más cuentas secundarias en Instagram para stalkear?",
+    "different": "¿Quién del grupo es el espía oficial del grupo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine en una isla desierta y se haga amigo de un coco?",
+    "different": "¿Quién del grupo perdería la cabeza más rápido si se queda solo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa el meme de 'no lo entenderías'?",
+    "different": "¿Quién del grupo se cree más inteligente de lo que realmente es?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el historial de YouTube lleno de teorías conspirativas?",
+    "different": "¿Quién del grupo cree que los pájaros son drones del gobierno?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que publique una foto llorando para llamar la atención?",
+    "different": "¿Quién del grupo es el más 'attention whore' de las redes sociales?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa el meme de 'stonks' cuando ahorra dos pesos?",
+    "different": "¿Quién del grupo se cree un tiburón de las finanzas por tener 20 euros en el banco?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor presentador de un programa de chismes?",
+    "different": "¿Quién del grupo es la fuente de información más fiable sobre la vida de los demás?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de que está en una videollamada y haga algo vergonzoso?",
+    "different": "¿Quién del grupo es el más descuidado con la cámara encendida?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la colección más grande de objetos inútiles?",
+    "different": "¿Quién del grupo es un acumulador compulsivo de tonterías?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa el meme de 'it's fine' mientras su vida se desmorona?",
+    "different": "¿Quién del grupo finge que todo va bien cuando es obvio que no?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se vuelva un fanático religioso o político extremo?",
+    "different": "¿Quién del grupo no tiene término medio con sus opiniones?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa stickers de perros graciosos?",
+    "different": "¿Quién del grupo es una 'dog person' obsesiva?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en morir en una película de terror por ir a investigar un ruido?",
+    "different": "¿Quién del grupo tiene el instinto de supervivencia más bajo?"
+  },
+  {
+    "main": "¿Quién del grupo es el más 'pick me boy/girl' del grupo?",
+    "different": "¿Quién del grupo hace todo para ser el centro de atención?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se mude a otro país solo por un meme o un video que vio?",
+    "different": "¿Quién del grupo es el más impulsivo con sus decisiones de vida?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la letra más fea, que parece de médico borracho?",
+    "different": "¿Quién del grupo es incapaz de escribir a mano de forma legible?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa el meme de 'se tenía que decir y se dijo'?",
+    "different": "¿Quién del grupo cree que sus opiniones impopulares son verdades absolutas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine en un video de 'ladrones más tontos del mundo'?",
+    "different": "¿Quién del grupo sería un criminal pésimo?"
+  },
+  {
+    "main": "¿Quién del grupo es el más 'simp' de alguna celebridad o streamer?",
+    "different": "¿Quién del grupo gastaría sus ahorros en donar a una VTuber?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el gusto más bizarro para la comida (ej. pizza con piña y ketchup)?",
+    "different": "¿Quién del grupo es un terrorista gastronómico?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se vuelva un 'ermitaño digital' y borre todas sus redes?",
+    "different": "¿Quién del grupo odia secretamente la sociedad moderna?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa el meme de 'mira ese potencial' con personas tóxicas?",
+    "different": "¿Quién del grupo tiene el peor gusto para elegir pareja?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor protagonista de un anime 'isekai'?",
+    "different": "¿Quién del grupo parece que no pertenece a este mundo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que gane un premio por no hacer nada?",
+    "different": "¿Quién del grupo es el más vago profesional del grupo?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la risa de villano de Disney más lograda?",
+    "different": "¿Quién del grupo tiene una risa que da miedo de verdad?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa el meme de 'ahora sí viene lo chido' antes de un plan que sale mal?",
+    "different": "¿Quién del grupo es el más optimista ante el desastre?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine siendo un 'fantasma' que asusta a los demás por diversión?",
+    "different": "¿Quién del grupo es el más pesado con las bromas de miedo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa stickers de políticos de forma irónica?",
+    "different": "¿Quién del grupo tiene el humor político más ácido?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que olvide que tiene el micrófono abierto en una reunión importante?",
+    "different": "¿Quién del grupo ha dicho algo privado pensando que nadie lo oía?"
+  }
 ]

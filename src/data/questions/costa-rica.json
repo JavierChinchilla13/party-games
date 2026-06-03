@@ -1,150 +1,322 @@
 [
-  { "main": "¿Qué es lo que más te gusta de vivir en Costa Rica?", "different": "¿Cuál es tu lugar favorito para vacacionar en Costa Rica?" },
-  { "main": "¿Cuál es tu comida típica costarricense favorita?", "different": "¿Qué platillo no puede faltar en un turno?" },
-  { "main": "¿Cuál es el mejor equipo de fútbol de Costa Rica?", "different": "¿Cuál es el estadio más bonito del país?" },
-  { "main": "¿Cuál es la playa más linda que has visitado?", "different": "¿A qué playa irías este fin de semana si pudieras?" },
-  { "main": "¿Qué es lo que más te gusta del cafecito de la tarde?", "different": "¿Con qué acompañás siempre el café?" },
-  { "main": "¿Cuál es tu volcán favorito de Costa Rica?", "different": "¿A qué lugar de la montaña te gusta ir para ver el paisaje?" },
-  { "main": "¿Qué palabra 'tica' usás más a menudo?", "different": "¿Cuál es tu expresión costarricense favorita?" },
-  { "main": "¿Qué preferís: el Puerto o Limón?", "different": "¿A qué provincia de la costa preferís ir?" },
-  { "main": "¿Cuál es el mejor lugar para comer un chifrijo?", "different": "¿Dónde has probado el mejor chifrijo de tu vida?" },
-  { "main": "¿Qué no puede faltar en un casado?", "different": "¿Cuál es tu parte favorita de un casado?" },
-  { "main": "¿Cuál es la mejor marca de café de Costa Rica?", "different": "¿Qué café comprás normalmente para la casa?" },
-  { "main": "¿Qué pensás de las presas en Costa Rica?", "different": "¿Qué es lo que más detestás de manejar en el GAM?" },
-  { "main": "¿Cuál es tu parque nacional favorito?", "different": "¿Dónde te gustaría ir a ver animales en su hábitat natural?" },
-  { "main": "¿Qué preferís: gallo pinto con natilla o con huevo?", "different": "¿Cómo te gusta el gallo pinto en el desayuno?" },
-  { "main": "¿Cuál es la mejor época del año en Costa Rica?", "different": "¿Qué preferís: la época lluviosa o la seca?" },
-  { "main": "¿Qué es lo más 'tico' que hacés?", "different": "¿Qué costumbre costarricense mantenés siempre?" },
-  { "main": "¿Cuál es tu pueblo favorito de Costa Rica?", "different": "¿A qué lugar tranquilo irías a retirarte?" },
-  { "main": "¿Qué preferís: una Imperial o una Pilsen?", "different": "¿Cuál es tu cerveza nacional preferida?" },
-  { "main": "¿Cuál es el mejor postre tico?", "different": "¿Qué dulce de la panadería tica te gusta más?" },
-  { "main": "¿Qué sentís cuando juega la Selección?", "different": "¿Dónde preferís ver los partidos de la Sele?" },
-  { "main": "¿Cuál es la leyenda de Costa Rica que más miedo te da?", "different": "¿Qué historia de espantos te contaban de niño?" },
-  { "main": "¿Qué es lo más lindo de la cultura tica?", "different": "¿Por qué crees que dicen que Costa Rica es el país más feliz?" },
-  { "main": "¿Cuál es tu animal favorito de Costa Rica?", "different": "¿Qué animal esperás ver siempre cuando vas de paseo?" },
-  { "main": "¿Qué preferís: el clima de San José o el de Alajuela?", "different": "¿En qué parte del Valle Central preferirías vivir?" },
-  { "main": "¿Cuál es la mejor feria del agricultor?", "different": "¿A qué feria vas a hacer las compras?" },
-  { "main": "¿Qué no puede faltar en un picadillo?", "different": "¿Cuál es tu picadillo favorito?" },
-  { "main": "¿Cuál es el mejor río para ir de paseo?", "different": "¿A dónde irías a pegarte un chapuzón en agua dulce?" },
-  { "main": "¿Qué preferís: pozol o olla de carne?", "different": "¿Qué sopa tradicional tica te gusta más?" },
-  { "main": "¿Cuál es el centro comercial más bonito?", "different": "¿A qué mall vas más seguido?" },
-  { "main": "¿Qué es lo primero que le recomendarías a un turista?", "different": "¿Cuál es el lugar 'imperdible' de Costa Rica?" },
-  { "main": "¿Qué preferís: empanada de queso o de frijol?", "different": "¿De qué pedís siempre la empanada en la soda?" },
-  { "main": "¿Cuál es la mejor soda que conocés?", "different": "¿Dónde sirven los mejores casados?" },
-  { "main": "¿Qué es lo que más extrañarías de Costa Rica si te fueras?", "different": "¿Qué es lo que hace a Costa Rica única?" },
-  { "main": "¿Cuál es el mejor lugar para ver el atardecer?", "different": "¿En qué playa has visto el mejor ocaso?" },
-  { "main": "¿Qué preferís: tamal con salsa Lizano o sin ella?", "different": "¿Cómo te comés el tamal en diciembre?" },
-  { "main": "¿Cuál es la mejor fiesta patronal de Costa Rica?", "different": "¿A qué tope o carnaval te gusta ir?" },
-  { "main": "¿Qué animal te da más miedo de la selva tica?", "different": "¿A qué bicho le tenés pavor cuando vas a la playa?" },
-  { "main": "¿Cuál es tu canción costarricense favorita?", "different": "¿Qué música tica te pone a bailar?" },
-  { "main": "¿Qué preferís: chocolate costarricense o café?", "different": "¿Cuál es el mejor producto de exportación de Costa Rica?" },
-  { "main": "¿Cuál es el mejor lugar para ir a las termales?", "different": "¿A dónde vas cuando querés relajarte en agua caliente?" },
-  { "main": "¿Qué pensás del servicio de tren en Costa Rica?", "different": "¿Cómo te movés por el centro de San José?" },
-  { "main": "¿Cuál es el mejor mirador de la ciudad?", "different": "¿A dónde vas para ver las luces de San José de noche?" },
-  { "main": "¿Qué preferís: pejibaye con mayonesa o solo?", "different": "¿Cómo te gusta comer el pejibaye?" },
-  { "main": "¿Cuál es el mejor lugar para comer mariscos?", "different": "¿Dónde sirven el mejor ceviche?" },
-  { "main": "¿Qué es lo que más te gusta de la Navidad en Costa Rica?", "different": "¿Qué hacés siempre el 24 de diciembre?" },
-  { "main": "¿Cuál es tu árbol favorito de Costa Rica?", "different": "¿Qué árbol te parece el más representativo del país?" },
-  { "main": "¿Qué preferís: ir a la montaña o a la playa en Semana Santa?", "different": "¿A dónde vas para huir del gentío en vacaciones?" },
-  { "main": "¿Cuál es el mejor lugar para comprar artesanías?", "different": "¿Qué le regalarías a alguien que viene del extranjero?" },
-  { "main": "¿Qué es lo más raro que has visto en una pulpería?", "different": "¿Qué es lo que siempre comprás en la pulpería de la esquina?" },
-  { "main": "¿Cuál es el mejor lugar para hacer rafting?", "different": "¿En qué río has tenido la mejor aventura?" },
-  { "main": "¿Qué preferís: arroz con pollo o arroz con guacho?", "different": "¿Cuál es tu forma favorita de comer arroz?" },
-  { "main": "¿Cuál es el mejor canal de televisión nacional?", "different": "¿Qué noticiero ves para informarte?" },
-  { "main": "¿Qué pensás de la educación en Costa Rica?", "different": "¿A qué escuela o colegio fuiste?" },
-  { "main": "¿Cuál es el mejor lugar para ir a caminar?", "different": "¿Dónde vas cuando querés respirar aire puro?" },
-  { "main": "¿Qué preferís: ceviche de pescado o de piangua?", "different": "¿Cuál es tu boca favorita en un bar?" },
-  { "main": "¿Cuál es el mejor lugar para ver ballenas?", "different": "¿A qué parte de la costa irías para ver animales marinos?" },
-  { "main": "¿Qué es lo más difícil de ser costarricense?", "different": "¿Qué es lo que menos te gusta de la idiosincrasia tica?" },
-  { "main": "¿Cuál es el mejor lugar para comer carne?", "different": "¿Dónde hacen los mejores chicharrones?" },
-  { "main": "¿Qué preferís: la Basílica de los Ángeles o el Teatro Nacional?", "different": "¿Cuál es el edificio más emblemático de Costa Rica?" },
-  { "main": "¿Cuál es el mejor lugar para ir de luna de miel en Costa Rica?", "different": "¿Cuál es el hotel más romántico que conocés?" },
-  { "main": "¿Qué es lo más gracioso que te ha pasado en un bus?", "different": "¿Qué ruta de bus tomás más seguido?" },
-  { "main": "¿Cuál es el mejor festival de música en Costa Rica?", "different": "¿A qué concierto nacional te gustaría ir?" },
-  { "main": "¿Qué preferís: rompope o chicha?", "different": "¿Qué bebida tradicional tica te gusta más?" },
-  { "main": "¿Cuál es el mejor lugar para aprender sobre historia tica?", "different": "¿A qué museo de Costa Rica has ido?" },
-  { "main": "¿Qué es lo que más te enorgullece de ser tico?", "different": "¿Qué decís cuando te preguntan de dónde sos?" },
-  { "main": "¿Cuál es el mejor lugar para ir a pescar?", "different": "¿Dónde irías a pasar un día tranquilo cerca del agua?" },
-  { "main": "¿Qué preferís: pan casero o de panadería?", "different": "¿Qué comprás para el café en la tarde?" },
-  { "main": "¿Cuál es el mejor lugar para ver aves?", "different": "¿En qué parte del país hay más naturaleza virgen?" },
-  { "main": "¿Qué pensás del clima de Cartago?", "different": "¿En qué provincia hace más frío?" },
-  { "main": "¿Cuál es el mejor lugar para ir de fiesta?", "different": "¿A qué zona vas cuando querés salir a bailar?" },
-  { "main": "¿Qué preferís: Churchill o ensalada de frutas?", "different": "¿Cuál es el mejor postre para un día de calor en el Puerto?" },
-  { "main": "¿Cuál es el mejor lugar para comprar ropa en Costa Rica?", "different": "¿A qué tienda vas cuando necesitás algo nuevo?" },
-  { "main": "¿Qué es lo más aventurero que has hecho en Costa Rica?", "different": "¿Qué tour de aventura recomendarías?" },
-  { "main": "¿Cuál es el mejor lugar para comer pizza en San José?", "different": "¿Dónde tienen la mejor comida rápida nacional?" },
-  { "main": "¿Qué preferís: maduro con queso o patacones?", "different": "¿Cuál es el mejor acompañamiento para un plato tico?" },
-  { "main": "¿Cuál es el mejor lugar para ir con niños?", "different": "¿A dónde llevarías a tu familia un domingo?" },
-  { "main": "¿Qué es lo que más te gusta de las fiestas de Zapote?", "different": "¿Qué es lo que siempre comés en Zapote?" },
-  { "main": "¿Cuál es el mejor lugar para ver el amanecer?", "different": "¿A qué lugar de la costa irías muy temprano?" },
-  { "main": "¿Qué preferís: salsa Lizano o chile picante?", "different": "¿Qué le ponés siempre a la comida tica?" },
-  { "main": "¿Cuál es el mejor lugar para ir a acampar?", "different": "¿Dónde dormirías bajo las estrellas en Costa Rica?" },
-  { "main": "¿Qué es lo que más te gusta de Guanacaste?", "different": "¿Cuál es la playa más famosa de Guanacaste?" },
-  { "main": "¿Cuál es el mejor lugar para comer en la carretera?", "different": "¿Dónde parás siempre a comer cuando vas de viaje?" },
-  { "main": "¿Qué preferís: un coco frío o un granizado?", "different": "¿Qué tomás para refrescarte en la playa?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver flores?", "different": "¿A qué jardín o parque botánico has ido?" },
-  { "main": "¿Qué es lo más extraño que has comido en Costa Rica?", "different": "¿Qué platillo exótico tico te atreverías a probar?" },
-  { "main": "¿Cuál es el mejor lugar para ir de compras en San José?", "different": "¿A qué mercado vas para encontrar cosas típicas?" },
-  { "main": "¿Qué preferís: chorreadas con natilla o solas?", "different": "¿Cuál es tu comida favorita a base de maíz?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver tortugas?", "different": "¿En qué playa se ve más vida silvestre?" },
-  { "main": "¿Qué es lo que más te gusta del Carnaval de Limón?", "different": "¿Qué es lo que más te gusta de la cultura caribeña?" },
-  { "main": "¿Cuál es el mejor lugar para ir a esquiar en agua?", "different": "¿A qué lago de Costa Rica has ido?" },
-  { "main": "¿Qué preferís: sopa de mondongo o de albóndigas?", "different": "¿Qué sopa tradicional tica es la que mejor te sale?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver un concierto?", "different": "¿En qué lugar de Costa Rica se escucha mejor la música en vivo?" },
-  { "main": "¿Qué pensás de la política en Costa Rica?", "different": "¿A quién votarías en las próximas elecciones?" },
-  { "main": "¿Cuál es el mejor lugar para ir a leer un libro?", "different": "¿En qué parque de San José te sentarías a descansar?" },
-  { "main": "¿Qué preferís: café negro o con leche?", "different": "¿Cómo tomás el café en el trabajo?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el fútbol?", "different": "¿A qué bar vas con tus amigos para ver los partidos?" },
-  { "main": "¿Qué es lo más bonito que te han dicho sobre Costa Rica?", "different": "¿Qué es lo que más presume un tico?" },
-  { "main": "¿Cuál es el mejor lugar para ir a caminar por la montaña?", "different": "¿En qué cerro has tenido la mejor vista?" },
-  { "main": "¿Qué preferís: gallina achiotada o arroz con pollo?", "different": "¿Cuál es el plato estrella de los turnos?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver las estrellas?", "different": "¿En qué parte de Costa Rica hay menos contaminación lumínica?" },
-  { "main": "¿Qué es lo más loco que has hecho por amor en Costa Rica?", "different": "¿A qué lugar romántico llevarías a tu pareja?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el amanecer en la playa?", "different": "¿En qué playa del Caribe te quedarías a ver el sol salir?" },
-  { "main": "¿Qué preferís: queque seco o lustre?", "different": "¿Qué pedazo de queque preferís en un cumpleaños?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver ballenas en el sur?", "different": "¿A qué parte de Osa irías de paseo?" },
-  { "main": "¿Qué pensás de la seguridad en Costa Rica?", "different": "¿Qué zonas evitás cuando andás solo de noche?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el fútbol nacional?", "different": "¿De qué equipo sos aficionado de corazón?" },
-  { "main": "¿Qué preferís: fresco de frutas o de cas?", "different": "¿Cuál es el fresco natural más rico de la soda?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el volcán Arenal?", "different": "¿En qué hotel de La Fortuna te hospedarías?" },
-  { "main": "¿Qué es lo más gracioso que te ha pasado con un extranjero?", "different": "¿Qué palabra tica le enseñarías a alguien que no habla español?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el volcán Poás?", "different": "¿A dónde vas cuando querés ver un cráter?" },
-  { "main": "¿Qué preferís: chicharrones de carne o de concha?", "different": "¿Cuál es tu parte favorita del cerdo?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el volcán Irazú?", "different": "¿En qué parte de Cartago se ve mejor el paisaje?" },
-  { "main": "¿Qué pensás de la comida rápida en Costa Rica?", "different": "¿A qué restaurante de cadena vas más seguido?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el fútbol en el estadio?", "different": "¿A qué estadio irías si te regalan una entrada?" },
-  { "main": "¿Qué preferís: cajeta de leche o de coco?", "different": "¿Cuál es el dulce más tradicional que comprás en la playa?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el atardecer en el Pacífico?", "different": "¿En qué playa de Puntarenas te quedarías hasta tarde?" },
-  { "main": "¿Qué es lo más bonito de la bandera de Costa Rica?", "different": "¿Qué colores te representan más como tico?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el fútbol internacional?", "different": "¿Qué equipo extranjero seguís?" },
-  { "main": "¿Qué preferís: maduro con queso o frito?", "different": "¿Cómo te gusta el plátano en el almuerzo?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el mar?", "different": "¿Dónde te sentarías a contemplar el horizonte?" },
-  { "main": "¿Qué pensás de la música nacional?", "different": "¿Qué banda o cantante tico recomendás?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el sol?", "different": "¿En qué parte del país hace más calor siempre??" },
-  { "main": "¿Qué preferís: arroz con leche o flan?", "different": "¿Cuál es el postre tico que más te recuerda a tu abuela?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el bosque nuboso?", "different": "¿A qué parte de Monteverde irías de caminata?" },
-  { "main": "¿Qué es lo más emocionante que has vivido en un partido de la Sele?", "different": "¿Qué mundial de fútbol recordás con más cariño?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el bosque seco?", "different": "¿En qué parque nacional de Guanacaste has estado?" },
-  { "main": "¿Qué preferís: chicha o vino de coyol?", "different": "¿Qué bebida artesanal tica te atreverías a tomar?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el bosque tropical?", "different": "¿A qué zona de Limón irías de aventura?" },
-  { "main": "¿Qué pensás del transporte público en Costa Rica?", "different": "¿Cuál es la ruta de bus más larga que has tomado?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el jardín botánico?", "different": "¿A qué parque de flores has ido recientemente?" },
-  { "main": "¿Qué preferís: sopa de mariscos o ceviche?", "different": "¿Qué comerías frente al mar?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el teatro?", "different": "¿Qué obra de teatro nacional te ha gustado más?" },
-  { "main": "¿Qué es lo más bonito de la gente de Costa Rica?", "different": "¿Qué es lo que más te gusta de tus amigos ticos?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el cine?", "different": "¿A qué sala de cine vas cuando querés estar cómodo?" },
-  { "main": "¿Qué preferís: pan integral o blanco en la mañana?", "different": "¿Qué desayunás los días que tenés prisa?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el arte nacional?", "different": "¿A qué galería de arte has ido en San José?" },
-  { "main": "¿Qué pensás de la cultura vial en Costa Rica?", "different": "¿Qué es lo que más te molesta de los otros conductores?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el desfile de faroles?", "different": "¿A qué escuela irías a ver las celebraciones de independencia?" },
-  { "main": "¿Qué preferís: tamal de asado o de pollo?", "different": "¿Qué es lo que más te gusta encontrar dentro de un tamal?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el festival de la luz?", "different": "¿Desde dónde preferís ver las carrozas en diciembre?" },
-  { "main": "¿Qué es lo más emocionante de las fiestas de Palmares?", "different": "¿A qué evento de Palmares has ido con tus amigos?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el fútbol femenino?", "different": "¿Qué equipo femenino de Costa Rica conocés?" },
-  { "main": "¿Qué preferís: jugo de naranja o de piña?", "different": "¿Cuál es la fruta que más se cosecha en tu zona?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el fútbol de segunda división?", "different": "¿De qué pueblo es el equipo que más apoyás?" },
-  { "main": "¿Qué pensás de la televisión costarricense?", "different": "¿Qué programa nacional ves siempre por la noche?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el fútbol playa?", "different": "¿En qué playa has visto jugar fútbol?" },
-  { "main": "¿Qué preferís: arroz con calamares o con camarones?", "different": "¿Qué plato del mar es tu debilidad?" },
-  { "main": "¿Cuál es el mejor lugar para ir a ver el fútbol sala?", "different": "¿En qué gimnasio de tu barrio jugás mejengas?" }
+  {
+    "main": "¿Quién del grupo es el más 'polo' (vergonzoso/anticuado) cuando trata de hablar en inglés?",
+    "different": "¿Quién del grupo es más probable que actúe como un turista gringo en su propio país?"
+  },
+  {
+    "main": "¿Quién del grupo le pone salsa Lizano hasta a la comida que no la necesita?",
+    "different": "¿Quién del grupo dice que no le gusta la salsa Lizano (y probablemente es un alien)?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se pierda yendo a Puntarenas aunque use Waze?",
+    "different": "¿Quién del grupo conoce todos los atajos para evitar las presas (tráfico)?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de las presas en la General Cañas?",
+    "different": "¿Quién del grupo es el que siempre llega tarde y culpa a 'la platina' o al tren?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se tome 10 tazas de café al día?",
+    "different": "¿Quién del grupo prefiere tomar té o fresco de sirope antes que café?"
+  },
+  {
+    "main": "¿Quién del grupo es el más 'fiestero' en los turnos de pueblo?",
+    "different": "¿Quién del grupo le tiene miedo a los toros y nunca se metería a la barrera?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se gaste todo el aguinaldo en la primera semana de diciembre?",
+    "different": "¿Quién del grupo es el más tacaño y ahorra hasta el último colón?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa la palabra 'mae' en una sola oración?",
+    "different": "¿Quién del grupo trata de hablar 'fino' y evita los tiquismos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se vaya a vivir a la playa y deje todo botado?",
+    "different": "¿Quién del grupo no soporta el calor y solo vive feliz en las nubes de Heredia?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda una Imperial en la mano en las fiestas?",
+    "different": "¿Quién del grupo es 'Pilsen de corazón' y no acepta otra cerveza?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un influencer de viajes por Costa Rica?",
+    "different": "¿Quién del grupo nunca ha salido de San José y cree que Escazú es el campo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más grita los goles de la Sele aunque sea un amistoso?",
+    "different": "¿Quién del grupo no sabe ni quién es el portero actual de la Sele?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que coma gallo pinto con natilla y huevo todos los días?",
+    "different": "¿Quién del grupo prefiere desayunar cereal o pan tostado como si viviera en Nueva York?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda pidiendo 'un tinto' (café negro)?",
+    "different": "¿Quién del grupo solo toma café de Starbucks con nombres raros?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se gane el acumulado de la JPS?",
+    "different": "¿Quién del grupo siempre juega los mismos números y nunca pega ni un terminación?"
+  },
+  {
+    "main": "¿Quién del grupo es el más 'rajón' (presumido) con sus viajes?",
+    "different": "¿Quién del grupo es de perfil bajo y nadie sabe qué hace con su vida?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se quede pegado en el barro yendo a una catarata?",
+    "different": "¿Quién del grupo tiene un 4x4 que solo usa para ir al mall?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre propone ir a comer chifrijo?",
+    "different": "¿Quién del grupo cree que el chifrijo está sobrevalorado?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se case en la Basílica de los Ángeles?",
+    "different": "¿Quién del grupo dice que nunca se va a casar y prefiere vivir en unión libre?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa expresiones como 'tuanis' o 'legal mae'?",
+    "different": "¿Quién del grupo parece que aprendió español viendo novelas mexicanas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma un Churchill entero él solo?",
+    "different": "¿Quién del grupo dice que el Churchill es 'mucha azúcar'?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda una sombrilla porque 'en este país nunca se sabe'?",
+    "different": "¿Quién del grupo siempre se moja porque nunca cree que va a llover?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se meta en una pelea por política en Facebook?",
+    "different": "¿Quién del grupo no sabe ni quién es el presidente actual?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más disfruta de una olla de carne un domingo al mediodía con 30 grados?",
+    "different": "¿Quién del grupo odia las sopas y prefiere comer algo seco?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en el próximo 'marido' o 'esposa' de alquiler?",
+    "different": "¿Quién del grupo es el que siempre está soltero y feliz?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda buscando 'promos' de 2x1?",
+    "different": "¿Quién del grupo gasta sin ver el precio y luego anda pidiendo prestado?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se vaya de romería solo por la caminata?",
+    "different": "¿Quién del grupo no camina ni a la esquina y prefiere pedir un Uber?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de leyendas ticas (La Llorona, El Cadejos)?",
+    "different": "¿Quién del grupo no le tiene miedo a nada y dice que todo son cuentos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma 5 tamales en una sentada en diciembre?",
+    "different": "¿Quién del grupo dice que los tamales le caen pesados?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre dice 'mañana le llego' y nunca llega?",
+    "different": "¿Quién del grupo es el más puntual y se enoja con los que llegan tarde?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine trabajando en un call center toda la vida?",
+    "different": "¿Quién del grupo tiene un emprendimiento propio de algo súper raro?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más disfruta de ir a Zapote a ver las corridas?",
+    "different": "¿Quién del grupo odia las fiestas populares por el desorden y el olor a fritanga?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se compre un lote en Pérez Zeledón para retirarse?",
+    "different": "¿Quién del grupo quiere vivir en un apartamento en el centro de San José?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda pidiendo que le traigan algo de la frontera (Golfito/Paso Canoas)?",
+    "different": "¿Quién del grupo prefiere comprar todo por Amazon aunque salga más caro?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que sepa bailar salsa, merengue y swing criollo perfectamente?",
+    "different": "¿Quién del grupo tiene dos pies izquierdos y le da vergüenza bailar en las bodas?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre dice 'está a la vuelta' y en realidad está a 2 kilómetros?",
+    "different": "¿Quién del grupo da las direcciones más exactas usando puntos cardinales?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se encuentre a una ex-pareja en Multiplaza?",
+    "different": "¿Quién del grupo nunca sale de su casa por miedo a encontrarse a alguien conocido?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda buscando donde comer 'comida de turno'?",
+    "different": "¿Quién del grupo es súper delicado con la higiene y solo come en restaurantes de cadena?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en una señora/señor de los gatos?",
+    "different": "¿Quién del grupo no quiere tener ninguna responsabilidad, ni una planta?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda con el celular descargado y pide cargador en todo lado?",
+    "different": "¿Quién del grupo anda hasta con batería externa y cable de repuesto?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se vaya a acampar a la montaña sin nada de equipo?",
+    "different": "¿Quién del grupo necesita un hotel con aire acondicionado y Wi-Fi para sobrevivir?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más sabe de 'chismes' de la farándula nacional?",
+    "different": "¿Quién del grupo no sabe ni quiénes son los presentadores de canal 7?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma un pejibaye con un montón de mayonesa?",
+    "different": "¿Quién del grupo dice que el pejibaye es feo (y debería ser expulsado del país)?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda diciendo 'pague usted y luego arreglamos'?",
+    "different": "¿Quién del grupo es el que siempre termina pagando todo por todos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se gane una beca para estudiar en el extranjero?",
+    "different": "¿Quién del grupo no quiere salir de Costa Rica ni de vacaciones?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda 'limpio' (sin dinero) a mitad de quincena?",
+    "different": "¿Quién del grupo siempre tiene ahorros hasta para emergencias ajenas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se haga un tatuaje de un yigüirro o una carreta?",
+    "different": "¿Quién del grupo dice que los tatuajes son 'polos'?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre quiere ir a ver el atardecer a una montaña?",
+    "different": "¿Quién del grupo prefiere quedarse en la casa jugando videojuegos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un político corrupto?",
+    "different": "¿Quién del grupo es el más honesto y siempre devuelve el cambio de más?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda pidiendo 'un campito' en el carro?",
+    "different": "¿Quién del grupo es el que siempre maneja y nunca le pagan la gasolina?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma una bolsa entera de Tronaditas él solo?",
+    "different": "¿Quién del grupo dice que solo come snacks saludables?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda con una gorra de la Sele o de su equipo de fútbol?",
+    "different": "¿Quién del grupo odia el fútbol y dice que son '22 maes corriendo tras una bola'?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se pierda en el Mercado Central de San José?",
+    "different": "¿Quién del grupo sabe dónde venden las mejores empanadas del mercado?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda diciendo '¡qué calor!' aunque esté en Cartago?",
+    "different": "¿Quién del grupo siempre tiene frío y anda con suéter en Limón?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un ermitaño en la montaña de Chirripó?",
+    "different": "¿Quién del grupo necesita vivir en el puro centro de la ciudad con ruido?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda buscando 'bocas' gratis en los bares?",
+    "different": "¿Quién del grupo prefiere pedir un plato fuerte para no compartir?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma un mango maduro con cáscara?",
+    "different": "¿Quién del grupo es súper especial y le quita hasta las semillas a las fresas?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre dice '¡qué nivel!' para todo?",
+    "different": "¿Quién del grupo es súper pesimista y siempre le busca el pero a todo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se case con un extranjero para jalar del país?",
+    "different": "¿Quién del grupo dice que no hay nada como vivir en Costa Rica?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda pidiendo un 'empujoncito' para el carro?",
+    "different": "¿Quién del grupo tiene el carro impecable y nunca le falla nada?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma un elote asado en la carretera?",
+    "different": "¿Quién del grupo le da miedo enfermarse por comer en la calle?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda diciendo '¡diay mae!' al inicio de cada frase?",
+    "different": "¿Quién del grupo trata de no usar muletillas y habla pausado?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un surfista profesional en Santa Teresa?",
+    "different": "¿Quién del grupo le tiene pavor a las olas y solo se moja los pies?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda buscando donde hay 'mejenga' (partido de fútbol)?",
+    "different": "¿Quién del grupo prefiere ir al gimnasio o hacer yoga?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma un maduro con queso de merienda?",
+    "different": "¿Quién del grupo cree que el plátano maduro es un insulto a la comida?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda con una 'mona' (bolsa de plástico) por si llueve?",
+    "different": "¿Quién del grupo siempre pierde las sombrillas en los buses?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se gane el premio al 'más tico' del año?",
+    "different": "¿Quién del grupo parece que nació en otro país y solo está de visita?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda diciendo '¡qué guava!' cuando alguien tiene suerte?",
+    "different": "¿Quién del grupo cree que todo en la vida es por puro esfuerzo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma una porción gigante de arroz con leche?",
+    "different": "¿Quién del grupo dice que el arroz con leche es 'comida de hospital'?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda buscando el 'fresco de cas' más ácido?",
+    "different": "¿Quién del grupo prefiere tomar gaseosas antes que frescos naturales?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un guía turístico de volcanes?",
+    "different": "¿Quién del grupo le tiene miedo a las alturas y a los temblores?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda diciendo '¡está solo!' cuando algo le gusta?",
+    "different": "¿Quién del grupo es súper difícil de impresionar?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma un taco de repollo de esos de feria?",
+    "different": "¿Quién del grupo solo come comida orgánica y artesanal?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda pidiendo que le den 'un ride'?",
+    "different": "¿Quién del grupo es el que siempre anda el carro lleno de cosas y no cabe nadie?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un experto en orquídeas?",
+    "different": "¿Quién del grupo mata hasta los cactus?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda diciendo '¡soque mae!' a los que caminan lento?",
+    "different": "¿Quién del grupo es el que camina más despacio y se queda viendo todo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se coma una chorreada con un montón de natilla?",
+    "different": "¿Quién del grupo prefiere los pancakes con miel de maple?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda buscando donde ver el 'Tope de San José'?",
+    "different": "¿Quién del grupo se encierra en la casa para no ver nada de las fiestas de fin de año?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un caficultor famoso?",
+    "different": "¿Quién del grupo prefiere tomar Red Bull para despertarse?"
+  },
+  {
+    "main": "¿Quién del grupo es el que siempre anda diciendo '¡pura vida!' para despedirse?",
+    "different": "¿Quién del grupo es súper seco y solo dice 'adiós'?"
+  }
 ]

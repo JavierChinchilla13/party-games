@@ -1,197 +1,402 @@
 [
-  { "main": "¿Quién del grupo sería más probable que se vuelva millonario?", "different": "¿Quién del grupo sería más probable que gastara todo su dinero?" },
-  { "main": "¿Quién del grupo sobreviviría más tiempo en una isla desierta?", "different": "¿Quién del grupo sería el primero en pedir rescate?" },
-  { "main": "¿Quién del grupo llegaría tarde a su propia boda?", "different": "¿Quién del grupo olvidaría la fecha de su propio aniversario?" },
-  { "main": "¿Quién del grupo sería el mejor presidente del país?", "different": "¿Quién del grupo sería el presidente más polémico?\"" },
-  { "main": "¿Quién del grupo ganaría un reality show de convivencia?", "different": "¿Quién del grupo sería el primer eliminado de un reality?" },
-  { "main": "¿Quién del grupo lloraría más viendo una película romántica?", "different": "¿Quién del grupo se reiría en un momento inapropiadamente serio?" },
-  { "main": "¿Quién del grupo se haría famoso en TikTok por su talento?", "different": "¿Quién del grupo se haría famoso por un meme vergonzoso?" },
-  { "main": "¿Quién del grupo ganaría la lotería y no le diría a nadie?", "different": "¿Quién del grupo perdería el boleto de lotería premiado?" },
-  { "main": "¿Quién del grupo viviría más de 100 años?", "different": "¿Quién del grupo viajaría al futuro si tuviera la oportunidad?" },
-  { "main": "¿Quién del grupo sería el mejor agente secreto?", "different": "¿Quién del grupo sería un supervillano carismático?" },
-  { "main": "¿Quién del grupo se perdería en un centro comercial?", "different": "¿Quién del grupo se perdería en un país donde no habla el idioma?" },
-  { "main": "¿Quién del grupo adoptaría a 10 gatos callejeros?", "different": "¿Quién del grupo tendría una mascota exótica e ilegal?" },
-  { "main": "¿Quién del grupo se quedaría dormido en pleno trabajo?", "different": "¿Quién del grupo se quedaría dormido en una fiesta ruidosa?" },
-  { "main": "¿Quién del grupo ganaría un premio Oscar a mejor actor?", "different": "¿Quién del grupo ganaría un Grammy aunque no sepa cantar?" },
-  { "main": "¿Quién del grupo sería capaz de comer algo caducado por error?", "different": "¿Quién del grupo comería algo extremadamente picante por una apuesta?" },
-  { "main": "¿Quién del grupo sería el primero en casarse?", "different": "¿Quién del grupo sería el último en casarse o nunca lo haría?" },
-  { "main": "¿Quién del grupo tendría su propio programa de cocina?", "different": "¿Quién del grupo tendría su propio programa de chismes?" },
-  { "main": "¿Quién del grupo sobreviviría a un apocalipsis zombie?", "different": "¿Quién del grupo sería el primer infectado del apocalipsis?" },
-  { "main": "¿Quién del grupo se iría a vivir a otro continente mañana mismo?", "different": "¿Quién del grupo viviría en la misma casa toda su vida?" },
-  { "main": "¿Quién del grupo ganaría un concurso de comer hamburguesas?", "different": "¿Quién del grupo ganaría un concurso de baile improvisado?" },
-  { "main": "¿Quién del grupo es el alma de todas las fiestas?", "different": "¿Quién del grupo se iría de la fiesta sin avisar a nadie?" },
-  { "main": "¿Quién del grupo tendría una colección de objetos extraños?", "different": "¿Quién del grupo tendría una casa perfectamente minimalista?" },
-  { "main": "¿Quién del grupo sería un chef con estrella Michelin?", "different": "¿Quién del grupo sería un crítico gastronómico despiadado?" },
-  { "main": "¿Quién del grupo participaría en los Juegos Olímpicos?", "different": "¿Quién del grupo ganaría un torneo mundial de ajedrez?" },
-  { "main": "¿Quién del grupo escribiría un libro de éxito mundial?", "different": "¿Quién del grupo dirigiría una película premiada en Cannes?" },
-  { "main": "¿Quién del grupo sería el favorito de sus suegros?", "different": "¿Quién del grupo siempre diría algo inapropiado frente a los suegros?" },
-  { "main": "¿Quién del grupo perdería las llaves de casa tres veces al mes?", "different": "¿Quién del grupo perdería el celular en un taxi?" },
-  { "main": "¿Quién del grupo sería un viajero mochilero eterno?", "different": "¿Quién del grupo solo viajaría a hoteles de 5 estrellas?" },
-  { "main": "¿Quién del grupo ganaría el Premio Nobel de la Paz?", "different": "¿Quién del grupo ganaría el Premio Nobel de Ciencias?" },
-  { "main": "¿Quién del grupo sería un influencer de vida saludable?", "different": "¿Quién del grupo sería un influencer de comida rápida?" },
-  { "main": "¿Quién del grupo olvidaría el cumpleaños de su mejor amigo?", "different": "¿Quién del grupo olvidaría su propia fecha de graduación?" },
-  { "main": "¿Quién del grupo sería un experto en supervivencia en el bosque?", "different": "¿Quién del grupo sería un experto en etiqueta y protocolo?" },
-  { "main": "¿Quién del grupo se reiría de sus propios chistes malos?", "different": "¿Quién del grupo no entendería el sarcasmo de los demás?" },
-  { "main": "¿Quién del grupo sería un maestro del disfraz?", "different": "¿Quién del grupo sería alguien que destaca en cualquier lugar?" },
-  { "main": "¿Quién del grupo ganaría una pelea contra un oso?", "different": "¿Quién del grupo ganaría una pelea contra un tiburón?" },
-  { "main": "¿Quién del grupo siempre tendría el celular al 100% de batería?", "different": "¿Quién del grupo siempre estaría pidiendo un cargador prestado?" },
-  { "main": "¿Quién del grupo se volvería un monje budista en el Tíbet?", "different": "¿Quién del grupo sería un exitoso corredor de bolsa en Wall Street?" },
-  { "main": "¿Quién del grupo descubriría una nueva especie de animal?", "different": "¿Quién del grupo descubriría una nueva galaxia lejana?" },
-  { "main": "¿Quién del grupo sería un fantasma bromista?", "different": "¿Quién del grupo sería un vampiro elegante?" },
-  { "main": "¿Quién del grupo tendría un auto deportivo de lujo?", "different": "¿Quién del grupo viviría viajando en una casa rodante?" },
-  { "main": "¿Quién del grupo cocinaría para todos en las reuniones?", "different": "¿Quién del grupo se ofrecería a lavar todos los platos?" },
-  { "main": "¿Quién del grupo hablaría más de cinco idiomas?", "different": "¿Quién del grupo tocaría más de tres instrumentos musicales?" },
-  { "main": "¿Quién del grupo correría una maratón completa?", "different": "¿Quién del grupo escalaría la montaña más alta del mundo?" },
-  { "main": "¿Quién del grupo tendría un meme para cada situación?", "different": "¿Quién del grupo nunca entendería las referencias de internet?" },
-  { "main": "¿Quién del grupo sería un pirata en el siglo XVIII?", "different": "¿Quién del grupo sería un vaquero en el viejo oeste?" },
-  { "main": "¿Quién del grupo se quejaría más por el calor?", "different": "¿Quién del grupo estaría feliz bajo una tormenta eléctrica?" },
-  { "main": "¿Quién del grupo sería el director de un circo famoso?", "different": "¿Quién del grupo sería un domador de leones valiente?" },
-  { "main": "¿Quién del grupo se quedaría encerrado en un ascensor y mantendría la calma?", "different": "¿Quién del grupo se quedaría encerrado en una biblioteca toda la noche?" },
-  { "main": "¿Quién del grupo siempre llegaría 15 minutos antes?", "different": "¿Quién del grupo llegaría justo en el último segundo?" },
-  { "main": "¿Quién del grupo sería un inventor loco con ideas brillantes?", "different": "¿Quién del grupo sería un filósofo incomprendido por su época?" },
-  { "main": "¿Quién del grupo tendría un guardaespaldas personal?", "different": "¿Quién del grupo tendría un asistente para organizar su vida?" },
-  { "main": "¿Quién del grupo mandaría más mensajes por WhatsApp?", "different": "¿Quién del grupo solo respondería con audios de 5 minutos?" },
-  { "main": "¿Quién del grupo sería un campeón profesional de póker?", "different": "¿Quién del grupo sería el mejor jugador de videojuegos del mundo?" },
-  { "main": "¿Quién del grupo perdería siempre el control remoto de la TV?", "different": "¿Quién del grupo siempre tendría el control total de la música?" },
-  { "main": "¿Quién del grupo sería un guía turístico muy divertido?", "different": "¿Quién del grupo sería un explorador solitario de lugares olvidados?" },
-  { "main": "¿Quién del grupo sabría todos los chismes antes que nadie?", "different": "¿Quién del grupo sería el último en enterarse de una noticia importante?" },
-  { "main": "¿Quién del grupo sería un doble de acción en películas?", "different": "¿Quién del grupo sería un actor de drama muy intenso?" },
-  { "main": "¿Quién del grupo propondría siempre los planes más locos?", "different": "¿Quién del grupo aceptaría cualquier plan sin preguntar?" },
-  { "main": "¿Quién del grupo sería un catador de vinos experto?", "different": "¿Quién del grupo sería un barista profesional de café?" },
-  { "main": "¿Quién del grupo siempre tendría dinero en efectivo a mano?", "different": "¿Quién del grupo siempre intentaría pagar todo con el celular?" },
-  { "main": "¿Quién del grupo sería un pintor famoso de arte moderno?", "different": "¿Quién del grupo sería un escultor reconocido internacionalmente?" },
-  { "main": "¿Quién del grupo se perdería conduciendo incluso con GPS?", "different": "¿Quién del grupo sería el copiloto que siempre da buenas indicaciones?" },
-  { "main": "¿Quién del grupo sería un espía internacional encubierto?", "different": "¿Quién del grupo sería un diplomático que evita guerras?" },
-  { "main": "¿Quién del grupo tendría su habitación perfectamente ordenada?", "different": "¿Quién del grupo viviría en un caos creativo total?" },
-  { "main": "¿Quién del grupo sería un jugador de fútbol profesional?", "different": "¿Quién del grupo sería una estrella del baloncesto?" },
-  { "main": "¿Quién del grupo bailaría aunque no hubiera música?", "different": "¿Quién del grupo nunca bailaría ni por un millón de dólares?" },
-  { "main": "¿Quién del grupo sería un poeta bohemio y misterioso?", "different": "¿Quién del grupo sería un conferencista motivacional famoso?" },
-  { "main": "¿Quién del grupo tendría siempre una anécdota increíble para contar?", "different": "¿Quién del grupo sería el que mejor sabe escuchar a los demás?" },
-  { "main": "¿Quién del grupo sería un diseñador de moda excéntrico?", "different": "¿Quién del grupo sería un modelo de pasarela internacional?" },
-  { "main": "¿Quién del grupo olvidaría responder un mensaje importante por días?", "different": "¿Quién del grupo respondería a cualquier mensaje en menos de 10 segundos?" },
-  { "main": "¿Quién del grupo sería un buscador de tesoros hundidos?", "different": "¿Quién del grupo sería un coleccionista de antigüedades raras?" },
-  { "main": "¿Quién del grupo siempre pediría el postre más caro?", "different": "¿Quién del grupo siempre se ofrecería a pagar la cuenta de todos?" },
-  { "main": "¿Quién del grupo sería un gran orador frente a miles de personas?", "different": "¿Quién del grupo sería un escritor que prefiere el anonimato?" },
-  { "main": "¿Quién del grupo siempre tendría frío incluso en verano?", "different": "¿Quién del grupo siempre tendría calor incluso en invierno?" },
-  { "main": "¿Quién del grupo sería un tatuador famoso con estilo propio?", "different": "¿Quién del grupo sería la persona con más tatuajes del mundo?" },
-  { "main": "¿Quién del grupo sacaría las mejores fotos en los viajes?", "different": "¿Quién del grupo sería el que siempre sale mejor en todas las fotos?" },
-  { "main": "¿Quién del grupo sería un mago profesional en Las Vegas?", "different": "¿Quién del grupo sería un hipnotista capaz de controlar mentes?" },
-  { "main": "¿Quién del grupo cantaría a todo pulmón en el coche?", "different": "¿Quién del grupo elegiría siempre la mejor música para el viaje?" },
-  { "main": "¿Quién del grupo sería un juez de la corte suprema?", "different": "¿Quién del grupo sería un abogado defensor muy astuto?" },
-  { "main": "¿Quién del grupo siempre tendría un remedio casero para todo?", "different": "¿Quién del grupo iría al médico por el más mínimo estornudo?" },
-  { "main": "¿Quién del grupo escalaría edificios sin usar cuerdas?", "different": "¿Quién del grupo saltaría en paracaídas desde un avión?" },
-  { "main": "¿Quién del grupo sabría dónde encontrar las mejores ofertas?", "different": "¿Quién del grupo compraría siempre lo más caro por impulso?" },
-  { "main": "¿Quién del grupo sería el primer astronauta en llegar a Marte?", "different": "¿Quién del grupo sería el líder de una colonia en la Luna?" },
-  { "main": "¿Quién del grupo se ríe en los funerales por los nervios?", "different": "¿Quién del grupo lloraría desconsoladamente en la boda de un extraño?" },
-  { "main": "¿Quién del grupo sería un detective de casos sin resolver?", "different": "¿Quién del grupo sería un médico forense muy meticuloso?" },
-  { "main": "¿Quién del grupo creería que siempre tiene la razón?", "different": "¿Quién del grupo sería el primero en admitir que se equivocó?" },
-  { "main": "¿Quién del grupo sería un piloto de Fórmula 1?", "different": "¿Quién del grupo sería un piloto de aviones comerciales?" },
-  { "main": "¿Quién del grupo rompería algo sin querer en una tienda de lujo?", "different": "¿Quién del grupo sería capaz de arreglar cualquier cosa rota?" },
-  { "main": "¿Quién del grupo sería un gurú espiritual con miles de seguidores?", "different": "¿Quién del grupo sería un magnate de la tecnología futurista?" },
-  { "main": "¿Quién del grupo siempre tendría una excusa para no salir?", "different": "¿Quién del grupo siempre diría la verdad aunque duela?" },
-  { "main": "¿Quién del grupo sería un boxeador profesional de peso pesado?", "different": "¿Quién del grupo sería un maestro de artes marciales mixtas?" },
-  { "main": "¿Quién del grupo querría ir de fiesta todas las noches?", "different": "¿Quién del grupo preferiría quedarse viendo películas en casa?" },
-  { "main": "¿Quién del grupo sería un arqueólogo que descubre una tumba egipcia?", "different": "¿Quién del grupo sería un historiador que escribe sobre civilizaciones perdidas?" },
-  { "main": "¿Quién del grupo se quedaría sin batería en el momento más inoportuno?", "different": "¿Quién del grupo llevaría siempre dos baterías externas encima?" },
-  { "main": "¿Quién del grupo sería un domador de dragones en un mundo de fantasía?", "different": "¿Quién del grupo sería un jinete de unicornios legendario?" },
-  { "main": "¿Quién del grupo ganaría siempre en las discusiones de política?", "different": "¿Quién del grupo evitaría cualquier tipo de conflicto o discusión?" },
-  { "main": "¿Quién del grupo sería el científico que crea un monstruo por error?", "different": "¿Quién del grupo sería el científico que salva a la humanidad?" },
-  { "main": "¿Quién del grupo se dormiría en medio de una película de acción?", "different": "¿Quién del grupo explicaría toda la trama de la película mientras la ve?" },
-  { "main": "¿Quién del grupo sería un rey medieval justo y amado?", "different": "¿Quién del grupo sería un emperador romano extravagante?" },
-  { "main": "¿Quién del grupo olvidaría dónde estacionó el coche en un centro comercial?", "different": "¿Quién del grupo tendría una memoria fotográfica para los detalles?" },
-  { "main": "¿Quién del grupo sería un fotógrafo de naturaleza salvaje?", "different": "¿Quién del grupo sería un paparazzi famoso por sus exclusivas?" },
-  { "main": "¿Quién del grupo siempre tendría la pantalla del celular rota?", "different": "¿Quién del grupo tendría siempre el último modelo de tecnología?" },
-  { "main": "¿Quién del grupo navegaría solo por el mundo en un velero?", "different": "¿Quién del grupo sería el capitán de un crucero de lujo?" },
-  { "main": "¿Quién del grupo siempre estaría gastando bromas pesadas?", "different": "¿Quién del grupo siempre caería en las bromas de los demás?" },
-  { "main": "¿Quién del grupo sería un genio incomprendido por la sociedad?", "different": "¿Quién del grupo sería una persona carismática pero sin ningún talento especial?" },
-  { "main": "¿Quién del grupo llevaría la maleta más pesada en un viaje?", "different": "¿Quién del grupo viajaría por el mundo solo con una mochila pequeña?" },
-  { "main": "¿Quién del grupo sería un alquimista buscando la piedra filosofal?", "different": "¿Quién del grupo sería un astrólogo que predice el futuro de los famosos?" },
-  { "main": "¿Quién del grupo se enamoraría a primera vista en el metro?", "different": "¿Quién del grupo sería la persona más difícil de conquistar emocionalmente?" },
-  { "main": "¿Quién del grupo sería un samurái leal a su código de honor?", "different": "¿Quién del grupo sería un ninja experto en infiltración?" },
-  { "main": "¿Quién del grupo sabría qué decir en el momento más incómodo?", "different": "¿Quién del grupo creería el momento más incómodo sin darse cuenta?" },
-  { "main": "¿Quién del grupo sería un director de orquesta muy exigente?", "different": "¿Quién del grupo sería un solista de ópera con una voz prodigiosa?" },
-  { "main": "¿Quién del grupo siempre tendría un dato curioso para compartir?", "different": "¿Quién del grupo siempre estaría haciendo preguntas sobre todo?" },
-  { "main": "¿Quién del grupo sería un artesano que hace cosas hermosas con las manos?", "different": "¿Quién del grupo sería un ingeniero que diseña máquinas complejas?" },
-  { "main": "¿Quién del grupo se perdería el final de todas las historias?", "different": "¿Quién del grupo haría spoilers de las series sin querer?" },
-  { "main": "¿Quién del grupo sería un vikingo rudo y explorador?", "different": "¿Quién del grupo sería un caballero de la mesa redonda muy noble?" },
-  { "main": "¿Quién del grupo se quejaría de la comida en un restaurante de lujo?", "different": "¿Quién del grupo diría que todo está rico aunque no lo esté?" },
-  { "main": "¿Quién del grupo sería un ilustrador de cómics de superhéroes?", "different": "¿Quién del grupo sería un escritor de novelas gráficas profundas?" },
-  { "main": "¿Quién del grupo tendría el mejor disfraz en una fiesta de Halloween?", "different": "¿Quién del grupo sería el único que no se disfraza en una fiesta?" },
-  { "main": "¿Quién del grupo sería un psicólogo que sabe lo que piensas?", "different": "¿Quién del grupo sería un psiquiatra que estudia comportamientos extraños?" },
-  { "main": "¿Quién del grupo sabría todos los atajos para llegar antes?", "different": "¿Quién del grupo seguiría el GPS ciegamente aunque esté equivocado?" },
-  { "main": "¿Quién del grupo sería un joyero que diseña piezas únicas?", "different": "¿Quién del grupo sería un falsificador de arte casi perfecto?" },
-  { "main": "¿Quién del grupo tendría siempre una planta muerta en su casa?", "different": "¿Quién del grupo tendría un jardín espectacular y cuidado?" },
-  { "main": "¿Quién del grupo sería un arquitecto de rascacielos futuristas?", "different": "¿Quién del grupo sería un diseñador de interiores muy detallista?" },
-  { "main": "¿Quién del grupo se quedaría sin palabras en una primera cita?", "different": "¿Quién del grupo hablaría sin parar durante toda la cita?" },
-  { "main": "¿Quién del grupo sería un cazador de tormentas y tornados?", "different": "¿Quién del grupo sería el meteorólogo que nunca acierta el clima?" },
-  { "main": "¿Quién del grupo tendría siempre la mejor suerte del mundo?", "different": "¿Quién del grupo tendría la peor suerte en las situaciones cotidianas?" },
-  { "main": "¿Quién del grupo sería un crítico de cine muy estricto?", "different": "¿Quién del grupo sería un guionista de películas taquilleras?" },
-  { "main": "¿Quién del grupo sabría cuándo alguien le está mintiendo?", "different": "¿Quién del grupo sería el mejor mentiroso de todo el grupo?" },
-  { "main": "¿Quién del grupo sería un paleontólogo que descubre un nuevo dinosaurio?", "different": "¿Quién del grupo sería un biólogo marino que estudia ballenas?" },
-  { "main": "¿Quién del grupo siempre tendría hambre sin importar cuánto coma?", "different": "¿Quién del grupo siempre estaría probando una dieta nueva?" },
-  { "main": "¿Quién del grupo sería un traductor en las Naciones Unidas?", "different": "¿Quién del grupo sería un escritor de diccionarios y enciclopedias?" },
-  { "main": "¿Quién del grupo querría hacerse un tatuaje nuevo cada mes?", "different": "¿Quién del grupo tendría un miedo irracional a las agujas?" },
-  { "main": "¿Quién del grupo sería un sommelier de chocolate de alta calidad?", "different": "¿Quién del grupo sería un experto catador de quesos del mundo?" },
-  { "main": "¿Quién del grupo se despertaría temprano sin necesidad de alarma?", "different": "¿Quién del grupo pondría diez alarmas y no escucharía ninguna?" },
-  { "main": "¿Quién del grupo sería un ornitólogo que conoce a todas las aves?", "different": "¿Quién del grupo sería un entomólogo que ama a los insectos?" },
-  { "main": "¿Quién del grupo siempre llevaría paraguas por si acaso llueve?", "different": "¿Quién del grupo siempre se mojaría por no llevar abrigo?" },
-  { "main": "¿Quién del grupo sería un bibliotecario en una gran ciudad?", "different": "¿Quién del grupo sería el dueño de una pequeña librería antigua?" },
-  { "main": "¿Quién del grupo querría probar siempre la comida más exótica?", "different": "¿Quién del grupo solo comería cosas que ya conoce bien?" },
-  { "main": "¿Quién del grupo sería un perfumista que crea fragancias únicas?", "different": "¿Quién del grupo sería un florista con una tienda llena de colores?" },
-  { "main": "¿Quién del grupo sabría el nombre de todas las canciones en la radio?", "different": "¿Quién del grupo tararearía mal todas las canciones que escucha?" },
-  { "main": "¿Quién del grupo sería un profesor universitario muy respetado?", "different": "¿Quién del grupo sería un maestro de preescolar muy cariñoso?" },
-  { "main": "¿Quién del grupo tendría el coche siempre impecable y limpio?", "different": "¿Quién del grupo tendría el coche lleno de papeles y cosas viejas?" },
-  { "main": "¿Quién del grupo sería un relojero capaz de arreglar piezas antiguas?", "different": "¿Quién del grupo sería un fabricante de instrumentos musicales de madera?" },
-  { "main": "¿Quién del grupo daría siempre los mejores consejos de vida?", "different": "¿Quién del grupo daría consejos que nunca aplica en su propia vida?" },
-  { "main": "¿Quién del grupo sería un geólogo que estudia volcanes activos?", "different": "¿Quién del grupo sería un vulcanólogo que vive cerca de un cráter?" },
-  { "main": "¿Quién del grupo sabría arreglar cualquier problema técnico?", "different": "¿Quién del grupo no sabría cómo usar el control remoto de la TV?" },
-  { "main": "¿Quién del grupo sería un piloto de helicópteros de rescate?", "different": "¿Quién del grupo sería un capitán de un submarino de investigación?" },
-  { "main": "¿Quién del grupo siempre estaría listo para una aventura improvisada?", "different": "¿Quién del grupo planearía sus vacaciones con un año de antelación?" },
-  { "main": "¿Quién del grupo sería un apicultor que produce su propia miel?", "different": "¿Quién del grupo sería un criador de caballos en una granja?" },
-  { "main": "¿Quién del grupo se reiría a carcajadas de sus propios errores?", "different": "¿Quién del grupo se frustraría muchísimo por fallar en algo simple?" },
-  { "main": "¿Quién del grupo sería un caricaturista que dibuja a la gente en la calle?", "different": "¿Quién del grupo sería un retratista que pinta cuadros al óleo?" },
-  { "main": "¿Quién del grupo sabría exactamente qué regalar a cada persona?", "different": "¿Quién del grupo siempre regalaría calcetines o cosas genéricas?" },
-  { "main": "¿Quién del grupo sería un experto en caligrafía artística?", "different": "¿Quién del grupo sería un graffitero famoso por su arte callejero?" },
-  { "main": "¿Quién del grupo tendría siempre una canción pegada en la cabeza?", "different": "¿Quién del grupo siempre olvidaría la letra de su canción favorita?" },
-  { "main": "¿Quién del grupo sería un malabarista en un circo itinerante?", "different": "¿Quién del grupo sería un equilibrista que camina por la cuerda floja?" },
-  { "main": "¿Quién del grupo encontraría siempre dinero tirado en el suelo?", "different": "¿Quién del grupo perdería monedas por los agujeros de sus bolsillos?" },
-  { "main": "¿Quién del grupo sería un sastre que hace trajes a medida?", "different": "¿Quién del grupo sería un zapatero que hace calzado artesanal?" },
-  { "main": "¿Quién del grupo sabría cómo terminar una discusión de forma pacífica?", "different": "¿Quién del grupo empezaría una discusión por un motivo tonto?" },
-  { "main": "¿Quién del grupo sería un coreógrafo de bailes modernos?", "different": "¿Quién del grupo sería el bailarín principal de un ballet clásico?" },
-  { "main": "¿Quién del grupo tendría siempre una respuesta ingeniosa y rápida?", "different": "¿Quién del grupo pensaría la respuesta perfecta tres horas después?" },
-  { "main": "¿Quién del grupo sería un enólogo que viaja por viñedos?", "different": "¿Quién del grupo sería un barman que crea cócteles increíbles?" },
-  { "main": "¿Quién del grupo sabría cuidar perfectamente de los demás cuando están enfermos?", "different": "¿Quién del grupo sería el que más cuidados necesita cuando se enferma?" },
-  { "main": "¿Quién del grupo sería un ceramista que hace vasijas a mano?", "different": "¿Quién del grupo sería un carpintero que construye muebles de lujo?" },
-  { "main": "¿Quién del grupo sabría exactamente cómo ahorrar mucho dinero?", "different": "¿Quién del grupo estaría siempre en números rojos al final del mes?" },
-  { "main": "¿Quién del grupo sería un taxidermista que estudia animales?", "different": "¿Quién del grupo sería un veterinario que salva vidas animales?" },
-  { "main": "¿Quién del grupo sabría todas las reglas de cualquier juego de mesa?", "different": "¿Quién del grupo intentaría hacer trampas sin que nadie se dé cuenta?" },
-  { "main": "¿Quién del grupo sería el director de un museo de historia?", "different": "¿Quién del grupo sería un curador de arte contemporáneo?" },
-  { "main": "¿Quién del grupo tendría siempre una historia de terror para contar?", "different": "¿Quién del grupo no podría dormir después de ver una película de miedo?" },
-  { "main": "¿Quién del grupo sería el joyero de una familia real?", "different": "¿Quién del grupo sería un buscador de oro en ríos lejanos?" },
-  { "main": "¿Quién del grupo sabría cómo calmar a un bebé que llora?", "different": "¿Quién del grupo no sabría ni cómo cargar a un bebé correctamente?" },
-  { "main": "¿Quién del grupo sería un experto en heráldica y escudos de armas?", "different": "¿Quién del grupo sería un genealogista que investiga antepasados?" },
-  { "main": "¿Quién del grupo querría tener siempre la última palabra en todo?", "different": "¿Quién del grupo sabría perfectamente cuándo es mejor guardar silencio?" },
-  { "main": "¿Quién del grupo sería un tipógrafo que diseña letras nuevas?", "different": "¿Quién del grupo sería un editor de libros muy riguroso?" },
-  { "main": "¿Quién del grupo sabría siempre dónde está el baño más cercano?", "different": "¿Quién del grupo siempre tendría sed en los momentos menos oportunos?" },
-  { "main": "¿Quién del grupo sería un oceanógrafo que vive en un barco?", "different": "¿Quién del grupo sería un limnólogo que estudia lagos y ríos?" },
-  { "main": "¿Quién del grupo sabría cuándo va a llover solo por el olor del aire?", "different": "¿Quién del grupo siempre llevaría gafas de sol aunque esté nublado?" },
-  { "main": "¿Quién del grupo sería un luthier que fabrica violines?", "different": "¿Quién del grupo sería un afinador de pianos muy perfeccionista?" },
-  { "main": "¿Quién del grupo sabría cómo arreglar una computadora rota?", "different": "¿Quién del grupo solo sabría apagarla y volverla a encender?" },
-  { "main": "¿Quién del grupo sería un ebanista que talla madera preciosa?", "different": "¿Quién del grupo sería un herrero que forja espadas y herramientas?" },
-  { "main": "¿Quién del grupo sabría qué película recomendar para cada ocasión?", "different": "¿Quién del grupo tardaría dos horas en elegir qué ver en Netflix?" },
-  { "main": "¿Quién del grupo sería un demógrafo que estudia la población mundial?", "different": "¿Quién del grupo sería un urbanista que diseña ciudades sostenibles?" },
-  { "main": "¿Quién del grupo sabría todos los ingredientes de un plato al probarlo?", "different": "¿Quién del grupo solo sabría decir si la comida está rica o no?" },
-  { "main": "¿Quién del grupo sería un herborista que conoce todas las plantas medicinales?", "different": "¿Quién del grupo sería un micólogo que busca setas en el bosque?" },
-  { "main": "¿Quién del grupo sabría cómo llegar a cualquier lugar caminando?", "different": "¿Quién del grupo pediría un taxi para ir de una calle a otra?" },
-  { "main": "¿Quién del grupo sería un encuadernador de libros de cuero?", "different": "¿Quién del grupo sería un calígrafo que escribe cartas de amor?" },
-  { "main": "¿Quién del grupo sabría cuándo alguien del grupo está triste?", "different": "¿Quién del grupo intentaría animar a todos con chistes en momentos serios?" },
-  { "main": "¿Quién del grupo sería un criptógrafo que descifra mensajes ocultos?", "different": "¿Quién del grupo sería un experto en símbolos y signos antiguos?" },
-  { "main": "¿Quién del grupo sabría qué ropa ponerse para cualquier evento?", "different": "¿Quién del grupo se cambiaría de ropa cinco veces antes de salir?" },
-  { "main": "¿Quién del grupo sería un viticultor que cultiva sus propias uvas?", "different": "¿Quién del grupo sería un sumiller que trabaja en un restaurante de lujo?" },
-  { "main": "¿Quién del grupo sabría cómo abrir una botella sin sacacorchos?", "different": "¿Quién del grupo rompería el corcho dentro de la botella al intentar abrirla?" },
-  { "main": "¿Quién del grupo sería un grabador que hace sellos de metal?", "different": "¿Quién del grupo sería un litógrafo que hace impresiones artísticas?" },
-  { "main": "¿Quién del grupo sabría la hora exacta sin mirar el reloj?", "different": "¿Quién del grupo estaría preguntando la hora a cada rato?" },
-  { "main": "¿Quién del grupo sería un numismático que colecciona monedas raras?", "different": "¿Quién del grupo sería un filatélico con una colección de sellos valiosos?" },
-  { "main": "¿Quién del grupo sabría qué libro recomendar para cambiarte la vida?", "different": "¿Quién del grupo leería el mismo libro diez veces seguidas?" },
-  { "main": "¿Quién del grupo sería un herpetólogo que estudia serpientes?", "different": "¿Quién del grupo sería un ornitólogo que estudia aves rapaces?" }
+  {
+    "main": "¿Quién del grupo sobreviviría más tiempo en una isla desierta?",
+    "different": "¿Quién del grupo sería el primero en intentar comerse a los demás para sobrevivir?"
+  },
+  {
+    "main": "¿Quién del grupo llegaría tarde a su propia boda?",
+    "different": "¿Quién del grupo se arrepentiría en el último segundo y saldría corriendo de la iglesia?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor presidente del país?",
+    "different": "¿Quién del grupo acabaría con la economía del país en menos de una semana?"
+  },
+  {
+    "main": "¿Quién del grupo ganaría un reality show de convivencia?",
+    "different": "¿Quién del grupo sería el más odiado por el público y expulsado con el 99% de los votos?"
+  },
+  {
+    "main": "¿Quién del grupo se reiría en un momento inapropiadamente serio (ej. un funeral)?",
+    "different": "¿Quién del grupo es incapaz de controlar sus nervios y acaba haciendo el ridículo siempre?"
+  },
+  {
+    "main": "¿Quién del grupo se haría famoso por un meme vergonzoso que le perseguirá toda la vida?",
+    "different": "¿Quién del grupo intentaría hacerse viral a propósito y daría mucha vergüenza ajena?"
+  },
+  {
+    "main": "¿Quién del grupo ganaría la lotería y no le diría a nadie para no invitar?",
+    "different": "¿Quién del grupo perdería el boleto de lotería premiado por dejarlo en el bolsillo de un pantalón que fue a la lavadora?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor agente secreto por su capacidad para llevar una doble vida?",
+    "different": "¿Quién del grupo sería un supervillano carismático que todos acabaríamos amando?"
+  },
+  {
+    "main": "¿Quién del grupo se perdería en un centro comercial que visita todas las semanas?",
+    "different": "¿Quién del grupo no sabe distinguir su derecha de su izquierda bajo presión?"
+  },
+  {
+    "main": "¿Quién del grupo se quedaría dormido en una fiesta ruidosa justo al lado de los altavoces?",
+    "different": "¿Quién del grupo es un 'viejito' que a las 11 de la noche ya se quiere ir a casa?"
+  },
+  {
+    "main": "¿Quién del grupo comería algo extremadamente picante solo por una apuesta de 5 euros?",
+    "different": "¿Quién del grupo tiene el estómago más delicado y le sienta mal hasta el agua?"
+  },
+  {
+    "main": "¿Quién del grupo sobreviviría a un apocalipsis zombie solo por pura suerte?",
+    "different": "¿Quién del grupo sería el 'paciente cero' por acercarse a acariciar a un zombie que le pareció mono?"
+  },
+  {
+    "main": "¿Quién del grupo se iría a vivir a otro continente mañana mismo sin despedirse de nadie?",
+    "different": "¿Quién del grupo es capaz de vivir en la misma habitación toda su vida por miedo al cambio?"
+  },
+  {
+    "main": "¿Quién del grupo es el alma de todas las fiestas pero no recuerda nada al día siguiente?",
+    "different": "¿Quién del grupo se va de las fiestas a la francesa (sin avisar) a la primera oportunidad?"
+  },
+  {
+    "main": "¿Quién del grupo siempre diría algo inapropiado frente a los suegros en la primera cena?",
+    "different": "¿Quién del grupo finge ser una persona totalmente distinta y perfecta cuando conoce a gente nueva?"
+  },
+  {
+    "main": "¿Quién del grupo perdería el celular en un taxi y se daría cuenta 3 horas después?",
+    "different": "¿Quién del grupo es un paranoico que revisa sus pertenencias cada 5 minutos?"
+  },
+  {
+    "main": "¿Quién del grupo olvidaría el cumpleaños de su mejor amigo aunque Facebook se lo recordara?",
+    "different": "¿Quién del grupo recuerda hasta el nombre de la primera mascota de sus conocidos?"
+  },
+  {
+    "main": "¿Quién del grupo se reiría de sus propios chistes aunque nadie más lo haga?",
+    "different": "¿Quién del grupo tiene un humor tan negro que a veces da miedo?"
+  },
+  {
+    "main": "¿Quién del grupo siempre está pidiendo un cargador prestado porque tiene el celular al 1%?",
+    "different": "¿Quién del grupo entra en pánico si su batería baja del 80%?"
+  },
+  {
+    "main": "¿Quién del grupo tendría un meme para cada situación trágica de su vida?",
+    "different": "¿Quién del grupo no entiende ninguna referencia de internet y hay que explicarle todo?"
+  },
+  {
+    "main": "¿Quién del grupo se quejaría más por una caminata de 10 minutos?",
+    "different": "¿Quién del grupo es un atleta frustrado que quiere obligar a todos a hacer deporte?"
+  },
+  {
+    "main": "¿Quién del grupo se quedaría encerrado en un ascensor y se comería toda su comida por los nervios?",
+    "different": "¿Quién del grupo intentaría abrir la puerta del ascensor a la fuerza como en las películas?"
+  },
+  {
+    "main": "¿Quién del grupo siempre llegaría justo en el último segundo antes de que cierren la puerta?",
+    "different": "¿Quién del grupo es el impuntual crónico que miente diciendo que 'ya está aparcando'?"
+  },
+  {
+    "main": "¿Quién del grupo solo respondería por WhatsApp con audios de más de 5 minutos?",
+    "different": "¿Quién del grupo es capaz de ignorar un mensaje durante semanas por pura pereza social?"
+  },
+  {
+    "main": "¿Quién del grupo perdería siempre el control remoto de la TV y acabaría buscándolo en la nevera?",
+    "different": "¿Quién del grupo es un obsesivo del orden que se enfada si mueves un cojín de sitio?"
+  },
+  {
+    "main": "¿Quién del grupo propondría siempre los planes más locos y caros que nadie puede pagar?",
+    "different": "¿Quién del grupo es el más tacaño y siempre busca el plan gratis?"
+  },
+  {
+    "main": "¿Quién del grupo se perdería conduciendo incluso siguiendo las indicaciones del GPS?",
+    "different": "¿Quién del grupo es el copiloto que siempre se duerme y no ayuda en nada?"
+  },
+  {
+    "main": "¿Quién del grupo bailaría aunque no hubiera música solo por llamar la atención?",
+    "different": "¿Quién del grupo es un tronco que no mueve ni un dedo aunque esté sonando su canción favorita?"
+  },
+  {
+    "main": "¿Quién del grupo olvidaría responder un mensaje importante por días porque se le pasó la notificación?",
+    "different": "¿Quién del grupo responde tan rápido que parece que no tiene vida propia?"
+  },
+  {
+    "main": "¿Quién del grupo sacaría las fotos más horribles de los demás y las publicaría sin permiso?",
+    "different": "¿Quién del grupo solo publica fotos donde sale bien él, aunque los demás salgan con los ojos cerrados?"
+  },
+  {
+    "main": "¿Quién del grupo escalaría un edificio solo por una foto espectacular de Instagram?",
+    "different": "¿Quién del grupo tiene vértigo hasta cuando se sube a una silla?"
+  },
+  {
+    "main": "¿Quién del grupo sabría dónde encontrar las mejores ofertas pero acabaría comprando algo roto?",
+    "different": "¿Quién del grupo es el comprador compulsivo que se gasta el sueldo el día 1 del mes?"
+  },
+  {
+    "main": "¿Quién del grupo creería que siempre tiene la razón aunque todos le demuestren lo contrario?",
+    "different": "¿Quién del grupo es el que siempre pide perdón aunque no haya hecho nada malo?"
+  },
+  {
+    "main": "¿Quién del grupo rompería algo sin querer en una tienda de lujo y fingiría que ya estaba así?",
+    "different": "¿Quién del grupo es el 'manitas' que cree que puede arreglar todo con cinta americana?"
+  },
+  {
+    "main": "¿Quién del grupo querría ir de fiesta todas las noches aunque al día siguiente trabaje?",
+    "different": "¿Quién del grupo prefiere quedarse viendo una serie aburrida antes que salir a tomar algo?"
+  },
+  {
+    "main": "¿Quién del grupo siempre estaría gastando bromas pesadas que a veces no hacen gracia?",
+    "different": "¿Quién del grupo es el más ingenuo y siempre cae en todas las bromas?"
+  },
+  {
+    "main": "¿Quién del grupo llevaría la maleta más pesada en un viaje de solo un fin de semana?",
+    "different": "¿Quién del grupo viajaría por el mundo solo con una mochila pequeña y la misma ropa?"
+  },
+  {
+    "main": "¿Quién del grupo se enamoraría a primera vista de alguien que solo vio pasar por la calle?",
+    "different": "¿Quién del grupo es un 'corazón de piedra' al que cuesta mucho conquistar?"
+  },
+  {
+    "main": "¿Quién del grupo haría spoilers de las series sin querer por no saber guardar un secreto?",
+    "different": "¿Quién del grupo es un paranoico de los spoilers que se tapa los oídos si hablas de una serie?"
+  },
+  {
+    "main": "¿Quién del grupo tendría el mejor disfraz en una fiesta de Halloween pero nadie sabría quién es?",
+    "different": "¿Quién del grupo es el que nunca se disfraza y dice que viene de 'persona normal'?"
+  },
+  {
+    "main": "¿Quién del grupo tendría siempre una planta muerta en su casa porque se olvida de regarla?",
+    "different": "¿Quién del grupo es el obsesivo de la limpieza que te obliga a quitarte los zapatos al entrar?"
+  },
+  {
+    "main": "¿Quién del grupo se quedaría sin palabras en una primera cita por los nervios?",
+    "different": "¿Quién del grupo hablaría sin parar durante toda la cita y no dejaría hablar al otro?"
+  },
+  {
+    "main": "¿Quién del grupo tendría siempre la mejor suerte del mundo sin esforzarse nada?",
+    "different": "¿Quién del grupo es un imán para las desgracias tontas de la vida cotidiana?"
+  },
+  {
+    "main": "¿Quién del grupo siempre tendría hambre sin importar cuánto acabe de comer?",
+    "different": "¿Quién del grupo siempre está probando una dieta nueva y rara que vio en internet?"
+  },
+  {
+    "main": "¿Quién del grupo querría hacerse un tatuaje nuevo cada vez que tiene un problema emocional?",
+    "different": "¿Quién del grupo tiene un miedo irracional a las agujas y a la sangre?"
+  },
+  {
+    "main": "¿Quién del grupo sabría el nombre de todas las canciones en la radio pero cantaría mal la letra?",
+    "different": "¿Quién del grupo vive en una cueva y no conoce a ningún artista actual?"
+  },
+  {
+    "main": "¿Quién del grupo sabría arreglar cualquier problema técnico reiniciando el aparato?",
+    "different": "¿Quién del grupo no sabría cómo encender la televisión sin ayuda?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en comprarse un gadget tecnológico inútil solo porque es nuevo?",
+    "different": "¿Quién del grupo sigue usando un celular de hace 6 años con la pantalla rota?"
+  },
+  {
+    "main": "¿Quién del grupo se cree un chef de estrella Michelin por saber hacer huevos fritos?",
+    "different": "¿Quién del grupo es capaz de quemar hasta el agua de los macarrones?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se una a un culto extraño sin darse cuenta?",
+    "different": "¿Quién del grupo es el más desconfiado y cree que todo el mundo le quiere engañar?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse un reto viral peligroso de TikTok?",
+    "different": "¿Quién del grupo es el 'abuelo' que critica todas las modas nuevas?"
+  },
+  {
+    "main": "¿Quién del grupo gastaría todos sus ahorros en una colección de figuras o cartas?",
+    "different": "¿Quién del grupo no se gasta ni un euro en hobbies y solo ahorra?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se case con un extraño en Las Vegas por una apuesta?",
+    "different": "¿Quién del grupo tiene miedo al compromiso y huye cuando la cosa se pone seria?"
+  },
+  {
+    "main": "¿Quién del grupo se cree un experto en vinos pero no diferencia el tinto del blanco?",
+    "different": "¿Quién del grupo es un 'barato' que prefiere el vino de cartón?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse influencer de algo muy ridículo?",
+    "different": "¿Quién del grupo odia salir en las fotos y prefiere ser el que las saca?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de que tiene una reunión importante?",
+    "different": "¿Quién del grupo vive pegado a su agenda y tiene todo organizado por horas?"
+  },
+  {
+    "main": "¿Quién del grupo se cree muy valiente pero grita si ve una araña pequeña?",
+    "different": "¿Quién del grupo es capaz de coger cualquier insecto con la mano sin miedo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más veces ha dicho 'esta es mi última cerveza' y ha mentido?",
+    "different": "¿Quién del grupo es el que siempre se encarga de cuidar a los borrachos del grupo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse el sueldo en una consola nueva?",
+    "different": "¿Quién del grupo no sabe ni cómo se agarra un mando de videojuegos?"
+  },
+  {
+    "main": "¿Quién del grupo se cree que sabe cantar en inglés pero solo inventa palabras?",
+    "different": "¿Quién del grupo es el políglota que corrige la pronunciación de los demás?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en adoptar un animal exótico e ilegal?",
+    "different": "¿Quién del grupo le tiene fobia a casi todos los animales, incluidos los perros?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se vuelva un fanático de los horóscopos?",
+    "different": "¿Quién del grupo cree que la astrología es la mayor tontería del mundo?"
+  },
+  {
+    "main": "¿Quién del grupo siempre tiene el coche sucio por dentro (lleno de papeles y botellas)?",
+    "different": "¿Quién del grupo limpia su coche todas las semanas y no deja comer dentro?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en aparecer en un video de 'caídas graciosas'?",
+    "different": "¿Quién del grupo es tan elegante que nunca tropieza ni hace nada torpe?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide la cartera en casa el día que le toca invitar?",
+    "different": "¿Quién del grupo siempre tiene cambio y billetes para todo?"
+  },
+  {
+    "main": "¿Quién del grupo se cree que tiene 'flow' vistiendo pero parece un payaso?",
+    "different": "¿Quién del grupo viste siempre igual (estilo uniforme) para no pensar?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en proponer un viaje a un sitio muy peligroso?",
+    "different": "¿Quién del grupo solo viaja a sitios donde sabe que hay un hospital cerca?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se quede sin gasolina en medio de la carretera?",
+    "different": "¿Quién del grupo es un obsesivo que llena el depósito cuando todavía le queda la mitad?"
+  },
+  {
+    "main": "¿Quién del grupo se cree un gran seductor pero sus tácticas son de 1990?",
+    "different": "¿Quién del grupo liga sin hacer absolutamente nada, solo por existir?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse un canal de YouTube sobre su vida aburrida?",
+    "different": "¿Quién del grupo tiene una vida tan misteriosa que nadie sabe qué hace el fin de semana?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se confunda de funeral y acabe llorando a un extraño?",
+    "different": "¿Quién del grupo es el más despistado en eventos sociales?"
+  },
+  {
+    "main": "¿Quién del grupo se cree que sabe de política pero solo repite lo que dice su padre?",
+    "different": "¿Quién del grupo odia hablar de política y se va de la habitación si sale el tema?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse el dinero en un curso de 'cómo ser tu propio jefe'?",
+    "different": "¿Quién del grupo es el trabajador más humilde y cumplidor de sus horarios?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de un bot de inteligencia artificial?",
+    "different": "¿Quién del grupo odia la tecnología y prefiere las cartas escritas a mano?"
+  },
+  {
+    "main": "¿Quién del grupo siempre tiene el pelo perfecto aunque haga un huracán?",
+    "different": "¿Quién del grupo parece que acaba de salir de la cama a todas horas del día?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en meterse en una pelea para defender a un desconocido?",
+    "different": "¿Quién del grupo es el más cobarde y sale corriendo a la mínima señal de conflicto?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de que tiene el micrófono encendido en clase o el trabajo?",
+    "different": "¿Quién del grupo es el más precavido con su privacidad y revisa la cámara 10 veces?"
+  },
+  {
+    "main": "¿Quién del grupo se cree que es gracioso pero sus chistes solo dan lástima?",
+    "different": "¿Quién del grupo es el que tiene la risa más escandalosa y contagiosa?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse un cambio de look radical y arrepentirse a los 5 minutos?",
+    "different": "¿Quién del grupo lleva el mismo corte de pelo desde que era un niño?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine viviendo en una comuna hippie en el monte?",
+    "different": "¿Quién del grupo no puede vivir sin aire acondicionado y Wi-Fi de alta velocidad?"
+  },
+  {
+    "main": "¿Quién del grupo siempre tiene una anécdota increíble que parece mentira (y probablemente lo sea)?",
+    "different": "¿Quién del grupo es tan aburrido que su mayor aventura fue ir al supermercado un domingo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse los ahorros en una obra de arte moderna horrible?",
+    "different": "¿Quién del grupo no entiende el arte y cree que un cuadro blanco es una estafa?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de cerrar el grifo y se inunde su casa?",
+    "different": "¿Quién del grupo es un obsesivo del ahorro de agua y luz?"
+  },
+  {
+    "main": "¿Quién del grupo se cree que sabe de fútbol pero no sabe qué es un fuera de juego?",
+    "different": "¿Quién del grupo es el fanático que se pone a gritarle a la televisión en los partidos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en presentarse a un concurso de talentos sin tener ninguno?",
+    "different": "¿Quién del grupo tiene un talento increíble pero le da demasiada vergüenza mostrarlo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de su jefe/a por puro interés?",
+    "different": "¿Quién del grupo es el más rebelde y siempre está a punto de que lo despidan?"
+  },
+  {
+    "main": "¿Quién del grupo siempre tiene un chicle o un caramelo cuando alguien lo necesita?",
+    "different": "¿Quién del grupo siempre está pidiendo comida a los demás porque nunca trae nada?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse un tatuaje de pareja y terminar a la semana?",
+    "different": "¿Quién del grupo es el más racional y nunca hace locuras por amor?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se pierda en su propia ciudad si no usa el móvil?",
+    "different": "¿Quién del grupo tiene un sentido de la orientación de explorador profesional?"
+  },
+  {
+    "main": "¿Quién del grupo siempre está cansado aunque haya dormido 10 horas?",
+    "different": "¿Quién del grupo tiene una energía inagotable y no para quieto nunca?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse el dinero en una vidente para que le lea el futuro?",
+    "different": "¿Quién del grupo es el más realista y no cree en nada que no pueda ver?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de que tiene una cita con el dentista?",
+    "different": "¿Quién del grupo es un hipocondríaco que va al médico por un estornudo?"
+  },
+  {
+    "main": "¿Quién del grupo siempre tiene la pantalla del móvil rota pero no la arregla?",
+    "different": "¿Quién del grupo es el más cuidadoso con sus cosas y las tiene siempre como nuevas?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse vegano y decírselo a todo el mundo cada 5 minutos?",
+    "different": "¿Quién del grupo no puede comer nada que no sea carne?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de una persona que conoció en un videojuego?",
+    "different": "¿Quién del grupo solo cree en el amor cara a cara y tradicional?"
+  },
+  {
+    "main": "¿Quién del grupo siempre tiene una excusa preparada para no salir de casa?",
+    "different": "¿Quién del grupo se apunta a un bombardeo y nunca dice que no a un plan?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse el sueldo en un curso de cocina y seguir pidiendo pizza?",
+    "different": "¿Quién del grupo es el más eficiente y aprovecha todo lo que aprende?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se confunda de día y aparezca en una cita cuando no toca?",
+    "different": "¿Quién del grupo es el más organizado con su calendario digital?"
+  },
+  {
+    "main": "¿Quién del grupo siempre tiene una opinión impopular que nadie le ha pedido?",
+    "different": "¿Quién del grupo prefiere callarse para no generar discusiones innecesarias?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en perdonar a un ex que le ha tratado fatal?",
+    "different": "¿Quién del grupo es el más orgulloso y no da segundas oportunidades jamás?"
+  }
 ]

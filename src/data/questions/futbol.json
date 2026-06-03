@@ -1,150 +1,322 @@
 [
-  { "main": "¿Quién es el mejor jugador de fútbol del mundo?", "different": "¿Quién es el mejor jugador de la historia del fútbol?" },
-  { "main": "¿Cuál es el club más grande de Europa?", "different": "¿Qué equipo tiene la mejor afición del mundo?" },
-  { "main": "¿Cuál fue el mejor mundial de fútbol que has visto?", "different": "¿Qué selección crees que ganará el próximo mundial?" },
-  { "main": "¿Qué liga de fútbol te parece la más competitiva?", "different": "¿Qué liga extranjera te gusta más seguir por televisión?" },
-  { "main": "¿Cuál es el estadio de fútbol más bonito que conoces?", "different": "¿En qué estadio te gustaría vivir un clásico o derbi?" },
-  { "main": "¿Quién es el mejor portero de la actualidad?", "different": "¿Qué portero histórico te parecía imbatible?" },
-  { "main": "¿Qué selección nacional tiene la camiseta más elegante?", "different": "¿Cuál es tu camiseta de fútbol favorita de todos los tiempos?" },
-  { "main": "¿Cuál es el mejor fichaje de esta temporada?", "different": "¿Qué jugador crees que está más sobrevalorado por su precio?" },
-  { "main": "¿Qué país vive el fútbol con más intensidad?", "different": "¿Dónde crees que se inventó el fútbol de verdad?" },
-  { "main": "¿Cuál es el mejor entrenador de la historia?", "different": "¿Qué técnico actual te parece un genio de la táctica?" },
-  { "main": "¿Qué competición prefieres: Champions o Mundial?", "different": "¿Qué torneo de fútbol te genera más nervios al verlo?" },
-  { "main": "¿Cuál es el gol más espectacular que has visto?", "different": "¿Qué gol de tu equipo celebraste con más fuerza?" },
-  { "main": "¿Qué dorsal es el más icónico en el fútbol?", "different": "¿Con qué número te gustaría jugar si fueras profesional?" },
-  { "main": "¿Qué jugador joven tiene más futuro?", "different": "¿Quién crees que ganará el próximo Balón de Oro?" },
-  { "main": "¿Cuál es el mejor horario para ir al estadio?", "different": "¿A qué hora prefieres que se jueguen los partidos importantes?" },
-  { "main": "¿Qué opinas del uso del VAR en el fútbol?", "different": "¿Crees que el fútbol era mejor antes de tanta tecnología?" },
-  { "main": "¿Cuál es la mejor ciudad para vivir un derbi?", "different": "¿A qué ciudad viajarías solo por ver un partido de fútbol?" },
-  { "main": "¿Qué jugador es el más carismático del mundo?", "different": "¿A qué futbolista te gustaría tener como amigo?" },
-  { "main": "¿Cuál es el mejor equipo de la historia?", "different": "¿Qué equipo jugaba el fútbol más vistoso que recuerdes?" },
-  { "main": "¿Qué posición es la más difícil de jugar?", "different": "¿En qué posición del campo destacarías tú?" },
-  { "main": "¿Cuál es la mejor marca de botas de fútbol?", "different": "¿Qué marca de ropa deportiva hace las mejores equipaciones?" },
-  { "main": "¿Qué haces cuando tu equipo pierde un partido importante?", "different": "¿Cómo celebras cuando tu equipo gana un título?" },
-  { "main": "¿Quién es el mejor lanzador de faltas?", "different": "¿A qué jugador le confiarías un penalti en el minuto 90?" },
-  { "main": "¿Cuál es el himno de fútbol más emocionante?", "different": "¿Qué canción de grada te pone los pelos de punta?" },
-  { "main": "¿Qué jugador retirado te gustaría que volviera a jugar?", "different": "¿Cuál era tu ídolo de la infancia en el fútbol?" },
-  { "main": "¿Cuál es el mejor premio individual que puede ganar un futbolista?", "different": "¿Qué trofeo colectivo es el más difícil de conseguir?" },
-  { "main": "¿Qué liga tiene los estadios más modernos?", "different": "¿En qué país se cuida más el césped de los campos?" },
-  { "main": "¿Qué jugador te parece el más infravalorado?", "different": "¿Qué futbolista hace el trabajo sucio que nadie ve?" },
-  { "main": "¿Cuál es el mejor plan para ver una final de Champions?", "different": "¿Con quién sueles ver los partidos de la selección?" },
-  { "main": "¿Qué país debería organizar el próximo mundial?", "different": "¿Cuál ha sido la mejor sede de un mundial en la historia?" },
-  { "main": "¿Qué jugador es el más rápido del mundo?", "different": "¿A qué futbolista es imposible quitarle el balón?" },
-  { "main": "¿Cuál es la mejor aplicación para seguir resultados de fútbol?", "different": "¿Dónde consultas las estadísticas de los jugadores?" },
-  { "main": "¿Qué defensa te parece el más difícil de superar?", "different": "¿Quién es el líder de la defensa de tu equipo?" },
-  { "main": "¿Cuál es el mejor color para una bota de fútbol?", "different": "¿Qué color de camiseta le queda mejor a un portero?" },
-  { "main": "¿Qué regla del fútbol cambiarías mañana mismo?", "different": "¿Qué norma del fútbol te parece más difícil de entender?" },
-  { "main": "¿Quién es el mejor comentarista de fútbol?", "different": "¿Qué narrador de partidos te gusta más escuchar?" },
-  { "main": "¿Cuál es el mejor equipo de tu país?", "different": "¿Qué club tiene la cantera más talentosa?" },
-  { "main": "¿Qué jugador tiene el mejor estilo fuera del campo?", "different": "¿Qué futbolista te parece un icono de la moda?" },
-  { "main": "¿Cuál es el mejor estadio para ver fútbol en familia?", "different": "¿En qué campo se respira un ambiente más sano?" },
-  { "main": "¿Qué selección te decepcionó más en el último mundial?", "different": "¿Qué equipo fue la gran sorpresa del último torneo?" },
-  { "main": "¿Quién es el mejor capitán que has visto?", "different": "¿Qué jugador representa mejor los valores de su club?" },
-  { "main": "¿Cuál es el mejor regate del fútbol?", "different": "¿Qué truco con el balón te gustaría saber hacer?" },
-  { "main": "¿Qué equipo tiene el escudo más bonito?", "different": "¿Qué colores de equipo nunca te pondrías?" },
-  { "main": "¿Cuál es el partido más aburrido que has visto?", "different": "¿Qué selección te parece que juega de forma más defensiva?" },
-  { "main": "¿Qué jugador es el más fuerte físicamente?", "different": "¿Quién es el tanque del área en el fútbol actual?" },
-  { "main": "¿Cuál es el mejor programa de televisión de fútbol?", "different": "¿Dónde ves los resúmenes de los goles de la jornada?" },
-  { "main": "¿Qué país tiene los aficionados más locos por el fútbol?", "different": "¿En qué liga se lanzan más bengalas y cánticos?" },
-  { "main": "¿Quién es el mejor socio de ataque para un delantero?", "different": "¿Qué pareja de jugadores se entiende mejor en el campo?" },
-  { "main": "¿Cuál es el mejor momento para llegar al estadio?", "different": "¿Qué sueles hacer en la previa de un gran partido?" },
-  { "main": "¿Qué jugador te parece el más inteligente tácticamente?", "different": "¿Quién es el cerebro del mediocampo en la actualidad?" },
-  { "main": "¿Cuál es el mejor patrocinador que ha tenido una camiseta?", "different": "¿Qué marca de cerveza o bebida asocias más al fútbol?" },
-  { "main": "¿Qué selección africana llegará más lejos en un mundial?", "different": "¿Qué equipo te gusta más ver por su alegría al jugar?" },
-  { "main": "¿Quién es el mejor especialista en dar asistencias?", "different": "¿A qué jugador le darías el balón para que invente algo?" },
-  { "main": "¿Cuál es el estadio con más historia del mundo?", "different": "¿Qué templo del fútbol te gustaría visitar antes de morir?" },
-  { "main": "¿Qué jugador tiene el golpeo de balón más potente?", "different": "¿Quién tira los mejores córners del mundo?" },
-  { "main": "¿Cuál es el mejor videojuego de fútbol?", "different": "¿A qué juego de fútbol le has echado más horas?" },
-  { "main": "¿Qué país tiene la mejor liga femenina del mundo?", "different": "¿Qué selección femenina te parece la más potente?" },
-  { "main": "¿Quién es el mejor presidente de club de la historia?", "different": "¿Qué directivo ha hecho los mejores fichajes que recuerdes?" },
-  { "main": "¿Cuál es el mejor mote o apodo de un futbolista?", "different": "¿Cómo llaman los fans al mejor jugador de tu equipo?" },
-  { "main": "¿Qué selección sudamericana es la más difícil de batir?", "different": "¿Qué equipo tiene el estadio más complicado para el rival?" },
-  { "main": "¿Quién es el mejor jugador veterano que sigue en activo?", "different": "¿Qué futbolista parece que nunca envejece?" },
-  { "main": "¿Cuál es el mejor gol de cabeza que has visto?", "different": "¿Quién es el mejor rematador del mundo?" },
-  { "main": "¿Qué equipo te genera más simpatía después del tuyo?", "different": "¿A qué equipo humilde te gusta ver ganar siempre?" },
-  { "main": "¿Cuál es el mejor lugar de la casa para ver el fútbol?", "different": "¿Cómo tienes montado tu 'set' para ver los partidos?" },
-  { "main": "¿Qué jugador tiene la celebración de gol más icónica?", "different": "¿Qué haces tú cuando marcas un gol jugando con amigos?" },
-  { "main": "¿Cuál es el mejor trofeo de fútbol por su diseño?", "different": "¿Qué copa te parece la más fea o extraña?" },
-  { "main": "¿Qué país europeo tiene la mejor cultura futbolística?", "different": "¿En qué país se desayuna, come y cena fútbol?" },
-  { "main": "¿Quién es el mejor revulsivo que sale desde el banquillo?", "different": "¿Qué jugador cambia siempre el partido cuando entra?" },
-  { "main": "¿Cuál es la mejor jugada colectiva que recuerdas?", "different": "¿Qué equipo practicaba el 'tiki-taka' de forma perfecta?" },
-  { "main": "¿Qué jugador es el más polémico fuera del campo?", "different": "¿A qué futbolista no aguantas por su actitud?" },
-  { "main": "¿Cuál es el mejor estadio de tu ciudad?", "different": "¿En qué campo de barrio se vive el fútbol más auténtico?" },
-  { "main": "¿Qué selección asiática es la que mejor compite?", "different": "¿Qué equipo tiene los fans más respetuosos del mundo?" },
-  { "main": "¿Quién es el mejor lanzador de saques de banda?", "different": "¿Qué jugador tiene más fuerza para poner el balón en el área?" },
-  { "main": "¿Cuál es la mejor noticia de fútbol que has leído?", "different": "¿Qué portada de periódico deportivo guardas con cariño?" },
-  { "main": "¿Qué jugador tiene el mejor control de balón?", "different": "¿A qué futbolista parece que se le pega la pelota al pie?" },
-  { "main": "¿Cuál es la mejor época del año para el fútbol?", "different": "¿Qué mes del calendario tiene los mejores partidos?" },
-  { "main": "¿Qué equipo tiene la mejor segunda equipación?", "different": "¿Qué color raro te gusta para una camiseta de fútbol?" },
-  { "main": "¿Quién es el mejor jugador que nunca ganó el Balón de Oro?", "different": "¿A qué leyenda del fútbol se le fue injusto con los premios?" },
-  { "main": "¿Cuál es el mejor bar para ver el fútbol con gente?", "different": "¿Dónde se vive el mejor ambiente futbolero de tu zona?" },
-  { "main": "¿Qué jugador es el más odiado por las aficiones rivales?", "different": "¿Qué futbolista es un provocador nato en el campo?" },
-  { "main": "¿Cuál es la mejor ciudad para una final de la Champions?", "different": "¿Qué capital europea es la más futbolera de todas?" },
-  { "main": "¿Qué selección te gustaría que ganara su primer mundial?", "different": "¿Qué equipo merece por fin una alegría histórica?" },
-  { "main": "¿Quién es el mejor embajador del fútbol en el mundo?", "different": "¿Qué exjugador representa mejor este deporte hoy?" },
-  { "main": "¿Cuál es el mejor regate de la historia?", "different": "¿Qué jugada individual te dejó con la boca abierta?" },
-  { "main": "¿Qué equipo tiene los aficionados más ingeniosos con los cánticos?", "different": "¿Qué canción de estadio te hace más gracia?" },
-  { "main": "¿Quién es el mejor especialista en marcar goles de falta directa?", "different": "¿Quién es el peligro número uno a balón parado?" },
-  { "main": "¿Cuál es el mejor estadio para ver un partido de noche?", "different": "¿Qué campo luce más espectacular con los focos encendidos?" },
-  { "main": "¿Qué jugador tiene el mejor físico del mundo?", "different": "¿Qué atleta del fútbol te parece una máquina perfecta?" },
-  { "main": "¿Cuál es el mejor torneo de verano?", "different": "¿Qué trofeo amistoso te gusta ver antes de que empiece la liga?" },
-  { "main": "¿Qué equipo tiene la mejor política de fichajes?", "different": "¿Qué club sabe vender mejor a sus estrellas?" },
-  { "main": "¿Quién es el mejor jugador zurdo de la actualidad?", "different": "¿Qué futbolista tiene un guante en su pierna izquierda?" },
-  { "main": "¿Cuál es la mejor manera de celebrar un título?", "different": "¿A qué plaza o fuente vas a celebrar los éxitos de tu equipo?" },
-  { "main": "¿Qué selección tiene el mejor centro del campo?", "different": "¿Qué equipo domina mejor la posesión del balón?" },
-  { "main": "¿Quién es el mejor portero parando penaltis?", "different": "¿A qué guardameta le tienes más miedo en una tanda?" },
-  { "main": "¿Cuál es el mejor documental de fútbol que has visto?", "different": "¿Qué historia de un club te ha parecido más épica?" },
-  { "main": "¿Qué jugador tiene el peinado más raro?", "different": "¿Qué futbolista es famoso por sus cambios de look?" },
-  { "main": "¿Cuál es el mejor estadio para vivir un ambiente de presión?", "different": "¿En qué campo los aficionados están más cerca de los jugadores?" },
-  { "main": "¿Qué equipo tiene el mejor cuerpo médico?", "different": "¿Qué club parece que recupera antes a sus lesionados?" },
-  { "main": "¿Quién es el mejor analista de fútbol en redes sociales?", "different": "¿A quién sigues para entender mejor la táctica?" },
-  { "main": "¿Cuál es la mejor jugada que se puede hacer en el último minuto?", "different": "¿Cómo definirías un 'gol agónico'?" },
-  { "main": "¿Qué jugador es el más bajito pero más talentoso?", "different": "¿Qué futbolista demuestra que el físico no lo es todo?" },
-  { "main": "¿Cuál es el mejor estadio de la MLS?", "different": "¿En qué ciudad de EE.UU. crees que el fútbol crecerá más?" },
-  { "main": "¿Qué equipo tiene el mejor autobús oficial?", "different": "¿Qué llegada de un equipo al estadio es más impactante?" },
-  { "main": "¿Quién es el mejor comentarista técnico?", "different": "¿Qué exfutbolista analiza mejor los partidos en la tele?" },
-  { "main": "¿Cuál es la mejor parada de un portero que recuerdas?", "different": "¿Qué mano salvadora evitó un gol cantado en una final?" },
-  { "main": "¿Qué jugador tiene la mirada más intimidante?", "different": "¿A qué futbolista no querrías cruzarte en un túnel de vestuarios?" },
-  { "main": "¿Cuál es el mejor campo de entrenamiento del mundo?", "different": "¿Dónde crees que los futbolistas viven con más lujos?" },
-  { "main": "¿Qué equipo tiene el himno más corto pero intenso?", "different": "¿Qué grito de guerra identificas con un club?" },
-  { "main": "¿Quién es el mejor jugador diestro de la historia?", "different": "¿Qué futbolista dominaba todas las facetas con su pierna derecha?" },
-  { "main": "¿Cuál es la mejor anécdota que conoces de un futbolista?", "different": "¿Qué historia curiosa de un vestuario te hace más gracia?" },
-  { "main": "¿Qué selección nacional tiene el escudo más tradicional?", "different": "¿Qué bandera queda mejor integrada en una camiseta?" },
-  { "main": "¿Quién es el mejor ojeador de talentos del mundo?", "different": "¿En qué liga crees que se descubren los mejores cracks?" },
-  { "main": "¿Cuál es el mejor estadio para ver un partido bajo la lluvia?", "different": "¿En qué campo el barro hace el fútbol más épico?" },
-  { "main": "¿Qué jugador tiene la mejor técnica de carrera?", "different": "¿Quién parece que vuela sobre el campo cuando corre?" },
-  { "main": "¿Cuál es el mejor torneo de categorías inferiores?", "different": "¿En qué campeonato se ven a las futuras estrellas?" },
-  { "main": "¿Qué equipo tiene la mejor relación con su ciudad?", "different": "¿Qué club es el alma de su gente?" },
-  { "main": "¿Quién es el mejor experto en lanzar saques de esquina?", "different": "¿Quién pone los centros con más rosca del mundo?" },
-  { "main": "¿Cuál es la mejor frase de un entrenador?", "different": "¿Qué motivador del fútbol te gusta más escuchar?" },
-  { "main": "¿Qué jugador tiene la mejor pegada de larga distancia?", "different": "¿Quién es un peligro cuando dispara desde fuera del área?" },
-  { "main": "¿Cuál es el mejor estadio para un concierto de música?", "different": "¿Qué recinto deportivo tiene la mejor acústica?" },
-  { "main": "¿Qué equipo tiene los mejores colores para un uniforme?", "different": "¿Qué combinación de colores es sinónimo de victoria?" },
-  { "main": "¿Quién es el mejor jugador que ha pasado por tu equipo?", "different": "¿Quién es el ídolo absoluto de tu afición?" },
-  { "main": "¿Cuál es la mejor parada que has hecho tú jugando?", "different": "¿Qué jugada de portero te gusta más intentar?" },
-  { "main": "¿Qué jugador es el más elegante con el balón en los pies?", "different": "¿Quién parece que juega al fútbol con traje y corbata?" },
-  { "main": "¿Cuál es el mejor gol de chilena que has visto?", "different": "¿Qué acrobacia en el aire te parece la más difícil?" },
-  { "main": "¿Qué equipo tiene el mejor estadio histórico de Europa?", "different": "¿Qué estadio viejo prefieres antes que uno moderno?" },
-  { "main": "¿Quién es el mejor jugador de fútbol sala del mundo?", "different": "¿Qué futbolista tiene la mejor técnica en espacios reducidos?" },
-  { "main": "¿Cuál es la mejor canción para motivarse antes de un partido?", "different": "¿Qué música ponen en el vestuario de tu equipo favorito?" },
-  { "main": "¿Qué jugador es el más sacrificado por el equipo?", "different": "¿Quién corre más kilómetros en un partido promedio?" },
-  { "main": "¿Cuál es el mejor estadio para ver el fútbol sentado muy cerca?", "different": "¿En qué campo puedes casi tocar a los jugadores?" },
-  { "main": "¿Qué equipo tiene la mejor tienda oficial?", "different": "¿Qué merchandising de fútbol te gusta más coleccionar?" },
-  { "main": "¿Quién es el mejor especialista en marcar goles de volea?", "different": "¿Quién tiene el mejor remate sin que el balón toque el suelo?" },
-  { "main": "¿Cuál es la mejor jugada que ha hecho un portero con los pies?", "different": "¿Qué guardameta te parece que podría jugar de centrocampista?" },
-  { "main": "¿Qué jugador tiene el mejor récord de goles en un año?", "different": "¿Quién es la máquina de marcar goles definitiva?" },
-  { "main": "¿Cuál es el mejor estadio para vivir una remontada histórica?", "different": "¿En qué campo ocurren siempre cosas mágicas?" },
-  { "main": "¿Qué equipo tiene la mejor cantera de porteros?", "different": "¿De dónde salen los mejores metas del país?" },
-  { "main": "¿Quién es el mejor experto en ganar balones aéreos?", "different": "¿Quién es el rey del juego por alto?" },
-  { "main": "¿Cuál es la mejor despedida de un jugador que has visto?", "different": "¿Qué futbolista te hizo llorar el día que se retiró?" },
-  { "main": "¿Qué jugador tiene la mejor relación con los fans?", "different": "¿Quién es el futbolista más simpático en las redes?" },
-  { "main": "¿Cuál es el mejor estadio para ver un partido en invierno?", "different": "¿Qué campo tiene la mejor calefacción o cubierta?" },
-  { "main": "¿Qué equipo tiene el escudo más minimalista?", "different": "¿Qué logo de club te parece el más moderno?" },
-  { "main": "¿Quién es el mejor jugador que ha llevado el número 10?", "different": "¿Qué significa para ti el número 10 en el fútbol?" },
-  { "main": "¿Cuál es la mejor parada de la historia de los mundiales?", "different": "¿Qué intervención de portero salvó un título mundial?" },
-  { "main": "¿Qué jugador tiene el mejor control orientado?", "different": "¿Quién se quita al defensa de encima con un solo toque?" },
-  { "main": "¿Cuál es el mejor estadio para ir con amigos a gritar?", "different": "¿En qué grada se vive la fiesta más grande?" },
-  { "main": "¿Qué equipo tiene la mejor defensa de la liga?", "different": "¿Qué conjunto es el más difícil de marcarle un gol?" },
-  { "main": "¿Quién es el mejor jugador de la Copa Libertadores?", "different": "¿Qué torneo sudamericano te parece el más emocionante?" },
-  { "main": "¿Cuál es la mejor jugada que se puede hacer en un derbi?", "different": "¿Qué acción de un jugador le hace entrar en la historia de su club?" }
+  {
+    "main": "¿Quién del grupo cree que Messi es el mejor de la historia sin discusión?",
+    "different": "¿Quién del grupo defendería a muerte que Cristiano Ronaldo es superior a Messi?"
+  },
+  {
+    "main": "¿Quién del grupo cree que Pelé o Maradona son mejores que los jugadores actuales?",
+    "different": "¿Quién del grupo piensa que los jugadores de antes eran unos 'troncos' comparados con los de hoy?"
+  },
+  {
+    "main": "¿Quién del grupo odia a un club de fútbol tanto que celebra sus derrotas como si fueran títulos?",
+    "different": "¿Quién del grupo cree que la afición de su equipo rival es la más insoportable del mundo?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el VAR está matando la esencia del fútbol?",
+    "different": "¿Quién del grupo piensa que el VAR es lo mejor que le ha pasado al fútbol para evitar robos?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los árbitros están comprados en las grandes competiciones?",
+    "different": "¿Quién del grupo dice que los árbitros se equivocan para todos lados por igual?"
+  },
+  {
+    "main": "¿Quién del grupo prefiere ver un Mundial antes que la final de la Champions?",
+    "different": "¿Quién del grupo cree que el nivel de la Champions es muy superior al de cualquier Mundial?"
+  },
+  {
+    "main": "¿Quién del grupo se ha puesto a llorar de verdad por una derrota de su equipo?",
+    "different": "¿Quién del grupo cree que llorar por el fútbol es una exageración ridícula?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en ir a un estadio solo para insultar al equipo rival?",
+    "different": "¿Quién del grupo es capaz de aplaudir al rival si juega bien, aunque sea su enemigo?"
+  },
+  {
+    "main": "¿Quién del grupo cree que ser portero es el trabajo más injusto y aburrido del mundo?",
+    "different": "¿Quién del grupo cree que los porteros están todos un poco locos de la cabeza?"
+  },
+  {
+    "main": "¿Quién del grupo se sabe todos los cánticos de la grada, incluso los más ofensivos?",
+    "different": "¿Quién del grupo cree que los cánticos de fútbol son una falta de respeto innecesaria?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los premios individuales como el Balón de Oro son una mentira comercial?",
+    "different": "¿Quién del grupo se enfada de verdad cuando su jugador favorito no gana un premio?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol femenino es más noble y tiene menos teatro que el masculino?",
+    "different": "¿Quién del grupo cree que el fútbol femenino todavía está muy lejos del nivel profesional masculino?"
+  },
+  {
+    "main": "¿Quién del grupo eliminaría la regla del fuera de juego para que hubiera más goles?",
+    "different": "¿Quién del grupo cree que el fútbol sería un caos absoluto sin el fuera de juego?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el escudo de su equipo como fondo de pantalla o incluso tatuado?",
+    "different": "¿Quién del grupo cree que tatuarse algo de un club de fútbol es una decisión de la que te arrepentirás?"
+  },
+  {
+    "main": "¿Quién del grupo se queda dormido viendo un partido de fútbol que no sea de su equipo?",
+    "different": "¿Quién del grupo es capaz de verse un partido de la segunda división de Kazajistán un domingo?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los jugadores actuales son unos 'nenazas' que se tiran al suelo por nada?",
+    "different": "¿Quién del grupo defendería que el fútbol moderno es mucho más físico y difícil que el de antes?"
+  },
+  {
+    "main": "¿Quién del grupo cree que su selección nacional es puro marketing y no va a ganar nada nunca?",
+    "different": "¿Quién del grupo se pone la camiseta de la selección y se vuelve el más patriota del mundo?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los estadios modernos con wifi y calefacción no tienen alma?",
+    "different": "¿Quién del grupo prefiere mil veces un estadio viejo que huela a puro y a césped mojado?"
+  },
+  {
+    "main": "¿Quién del grupo cree que ese jugador joven crack se va a arruinar la carrera por la fiesta y la noche?",
+    "different": "¿Quién del grupo cree que los futbolistas tienen derecho a salir de fiesta como cualquier persona?"
+  },
+  {
+    "main": "¿Quién del grupo sería el peor entrenador del mundo porque no tiene ni idea de táctica?",
+    "different": "¿Quién del grupo cree que sabe más que el entrenador de su equipo y se pasa el partido gritándole a la tele?"
+  },
+  {
+    "main": "¿Quién del grupo cree que la Kings League es el futuro y el fútbol 11 está muriendo?",
+    "different": "¿Quién del grupo piensa que la Kings League es un circo que no debería llamarse fútbol?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en saltar al campo como un 'spontáneo' si le pagan la multa?",
+    "different": "¿Quién del grupo cree que los que saltan al campo son unos idiotas que solo quieren atención?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los fichajes de 100 millones de euros son un insulto a la sociedad?",
+    "different": "¿Quién del grupo cree que si un jugador genera ese dinero, es justo que se pague por él?"
+  },
+  {
+    "main": "¿Quién del grupo cree que la liga de Arabia Saudí va a ser la mejor del mundo en 10 años?",
+    "different": "¿Quién del grupo cree que los jugadores que se van a Arabia lo hacen solo por dinero y pierden su dignidad?"
+  },
+  {
+    "main": "¿Quién del grupo se sabe la alineación de su equipo de memoria pero no se sabe el cumple de su madre?",
+    "different": "¿Quién del grupo solo ve fútbol cuando hay un Mundial o una final importante?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los defensas que dan patadas son los verdaderos héroes del fútbol?",
+    "different": "¿Quién del grupo prefiere a un jugador talentoso y bajito antes que a un defensa carnicero?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol es lo más importante de las cosas menos importantes?",
+    "different": "¿Quién del grupo cree que el fútbol es una distracción para que la gente no piense en los problemas reales?"
+  },
+  {
+    "main": "¿Quién del grupo sería capaz de dejar a su pareja si le prohíbe ver el fútbol?",
+    "different": "¿Quién del grupo cree que el fútbol es solo un juego y no debería afectar a la vida personal?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol se está volviendo demasiado aburrido por culpa de la táctica?",
+    "different": "¿Quién del grupo disfruta analizando una defensa de cinco y un bloque bajo?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los comentaristas de televisión son todos unos pesados que no aportan nada?",
+    "different": "¿Quién del grupo ve los partidos con el volumen quitado para poner la radio?"
+  },
+  {
+    "main": "¿Quién del grupo cree que ese estadio específico es el que más miedo da a los rivales?",
+    "different": "¿Quién del grupo piensa que la presión de la afición es un mito y no influye en los jugadores?"
+  },
+  {
+    "main": "¿Quién del grupo sería un excelente periodista deportivo de los que solo buscan la polémica?",
+    "different": "¿Quién del grupo odia la prensa deportiva y solo lee las estadísticas oficiales?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los videojuegos de fútbol (FIFA/FC) son una basura repetitiva?",
+    "different": "¿Quién del grupo se ha roto un mando jugando online al FIFA por culpa del 'hándicap'?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol debería durar 60 minutos con tiempo parado?",
+    "different": "¿Quién del grupo cree que las pérdidas de tiempo son parte del arte del fútbol?"
+  },
+  {
+    "main": "¿Quién del grupo cree que Mbappé es un engreído que se cree el dueño del mundo?",
+    "different": "¿Quién del grupo cree que Mbappé es el mejor jugador del planeta actualmente y punto?"
+  },
+  {
+    "main": "¿Quién del grupo se compraría la camiseta del eterno rival solo por una apuesta?",
+    "different": "¿Quién del grupo no tocaría la camiseta del equipo rival ni aunque estuviera llena de oro?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los dueños multimillonarios están destrozando los clubes históricos?",
+    "different": "¿Quién del grupo cree que sin dinero no se puede competir y prefiere un jeque a la quiebra?"
+  },
+  {
+    "main": "¿Quién del grupo cree que la Superliga es una buena idea para salvar el fútbol?",
+    "different": "¿Quién del grupo cree que la Superliga es una idea egoísta de los clubes ricos?"
+  },
+  {
+    "main": "¿Quién del grupo cree que Haaland es un robot diseñado en un laboratorio?",
+    "different": "¿Quién del grupo cree que Haaland es solo un rematador que sin buenos pases no haría nada?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en pelearse en un bar por defender a su equipo?",
+    "different": "¿Quién del grupo se va del bar en cuanto ve que la gente se pone agresiva por el fútbol?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los jugadores que celebran goles contra sus ex-equipos son unos traidores?",
+    "different": "¿Quién del grupo cree que un profesional debe celebrar todos sus goles por respeto a su club actual?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol de antes era mucho más violento y por eso era mejor?",
+    "different": "¿Quién del grupo prefiere el fútbol técnico y limpio de ahora donde se protege al artista?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los porteros que suben a rematar en el último minuto son unos héroes?",
+    "different": "¿Quién del grupo cree que es una tontería que el portero suba porque deja la portería vacía?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el 'tiquitaca' es el estilo más aburrido que se ha inventado?",
+    "different": "¿Quién del grupo cree que el 'tiquitaca' es la perfección del fútbol y lo más difícil de hacer?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse 500 euros por una entrada para la final de la Champions?",
+    "different": "¿Quién del grupo cree que pagar más de 50 euros por ver un partido es un robo a mano armada?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los equipos que ganan por la mínima y sufriendo tienen más mérito?",
+    "different": "¿Quién del grupo solo disfruta del fútbol si su equipo golea y humilla al rival?"
+  },
+  {
+    "main": "¿Quién del grupo cree que la tanda de penaltis es una lotería injusta?",
+    "different": "¿Quién del grupo cree que los penaltis son una prueba de mentalidad y técnica absoluta?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los jugadores con tatuajes en la cara son los que mejor juegan?",
+    "different": "¿Quién del grupo cree que la estética de los futbolistas modernos es ridícula?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol es para los aficionados y no para las televisiones?",
+    "different": "¿Quién del grupo prefiere ver el fútbol cómodamente en su sofá antes que ir al estadio?"
+  },
+  {
+    "main": "¿Quién del grupo cree que ese jugador retirado hace poco es el último gran 10 que queda?",
+    "different": "¿Quién del grupo cree que el puesto de '10' ya no existe y el fútbol es ahora solo correr?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los clubes que no tienen cantera no tienen identidad?",
+    "different": "¿Quién del grupo cree que da igual de donde vengan los jugadores mientras ganen títulos?"
+  },
+  {
+    "main": "¿Quién del grupo cree que Neymar es el mayor talento desperdiciado de la historia?",
+    "different": "¿Quién del grupo cree que Neymar ha hecho una carrera increíble y se le critica por envidia?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en insultar a un jugador de su propio equipo si falla un gol cantado?",
+    "different": "¿Quién del grupo apoya a sus jugadores incluso cuando están en su peor momento?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol sudamericano es mucho más apasionante que el europeo?",
+    "different": "¿Quién del grupo cree que el fútbol sudamericano es un caos de patadas y desorden táctico?"
+  },
+  {
+    "main": "¿Quién del grupo cree que Mourinho es el mejor personaje que ha dado el fútbol?",
+    "different": "¿Quién del grupo cree que Mourinho es un maleducado que le ha hecho daño al fútbol?"
+  },
+  {
+    "main": "¿Quién del grupo cree que Guardiola es un genio que ha cambiado el deporte para siempre?",
+    "different": "¿Quién del grupo cree que Guardiola solo gana porque siempre entrena a los mejores y más ricos?"
+  },
+  {
+    "main": "¿Quién del grupo cree que las segundas divisiones son más entretenidas que las primeras?",
+    "different": "¿Quién del grupo cree que ver fútbol que no sea de élite es una pérdida de tiempo?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el escudo de ese equipo es el más feo que se ha diseñado jamás?",
+    "different": "¿Quién del grupo cree que los rediseños modernos de los escudos son una falta de respeto a la historia?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol nos vuelve a todos un poco más tontos durante 90 minutos?",
+    "different": "¿Quién del grupo cree que el fútbol es una herramienta social increíble para unir a la gente?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol es un deporte de caballeros jugado por villanos?",
+    "different": "¿Quién del grupo cree que en el fútbol vale todo con tal de ganar, incluso engañar al árbitro?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los futbolistas cobran demasiado para lo que hacen?",
+    "different": "¿Quién del grupo cree que un futbolista cobra lo que genera y el mercado es así?"
+  },
+  {
+    "main": "¿Quién del grupo cree que las selecciones pequeñas nunca deberían jugar contra las grandes?",
+    "different": "¿Quién del grupo disfruta viendo a una selección de una isla pequeña intentar defenderse de un gigante?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol sala es mucho más divertido que el fútbol 11?",
+    "different": "¿Quién del grupo cree que el fútbol sala es solo para los que no tienen físico para el campo grande?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol es el único lugar donde se puede ser irracional sin culpa?",
+    "different": "¿Quién del grupo mantiene la calma y la lógica incluso cuando su equipo pierde una final?"
+  },
+  {
+    "main": "¿Quién del grupo cree que las equipaciones de colores raros (rosa, verde flúor) son un horror?",
+    "different": "¿Quién del grupo se compra todas las camisetas alternativas de su equipo aunque sean feas?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol es el deporte rey por su sencillez?",
+    "different": "¿Quién del grupo cree que el fútbol es un deporte sobrevalorado comparado con el baloncesto o el tenis?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los jugadores que se besan el escudo y luego se van son unos hipócritas?",
+    "different": "¿Quién del grupo cree que besar el escudo es solo un gesto para la galería que no significa nada?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol en televisión debería ser gratis para todo el mundo?",
+    "different": "¿Quién del grupo paga religiosamente todas las suscripciones para ver todos los partidos?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los mundiales cada dos años serían la mejor idea del mundo?",
+    "different": "¿Quién del grupo cree que el Mundial es especial precisamente porque ocurre cada cuatro años?"
+  },
+  {
+    "main": "¿Quién del grupo cree que las celebraciones de gol ensayadas son una payasada?",
+    "different": "¿Quién del grupo disfruta viendo a los jugadores bailar y hacer bromas después de marcar?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los porteros suplentes tienen la mejor vida del mundo?",
+    "different": "¿Quién del grupo cree que ser suplente es una tortura psicológica para cualquier profesional?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol sin aficionados en la grada no es fútbol?",
+    "different": "¿Quién del grupo se acostumbró a ver el fútbol en pandemia y no le importaría que siguiera así?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los jugadores de su país son los mejores del mundo técnicamente?",
+    "different": "¿Quién del grupo es muy crítico con el talento nacional y prefiere a los extranjeros?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol es una religión y el estadio es su templo?",
+    "different": "¿Quién del grupo cree que comparar el fútbol con la religión es una falta de respeto?"
+  },
+  {
+    "main": "¿Quién del grupo cree que la mayor emoción del fútbol es un gol en el último segundo?",
+    "different": "¿Quién del grupo prefiere una victoria tranquila por 3-0 sin sufrir ni un momento?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los balones modernos son una m*erda que solo favorece a los delanteros?",
+    "different": "¿Quién del grupo cree que la tecnología de los balones ha hecho que el juego sea mucho más espectacular?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol es el deporte donde más injusticias ocurren?",
+    "different": "¿Quién del grupo cree que al final de la temporada, el fútbol siempre te pone donde te mereces?"
+  },
+  {
+    "main": "¿Quién del grupo cree que las prórrogas deberían eliminarse y pasar directamente a penaltis?",
+    "different": "¿Quién del grupo cree que la prórroga es el momento más épico y de mayor resistencia del fútbol?"
+  },
+  {
+    "main": "¿Quién del grupo cree que los jugadores de hoy en día están demasiado mimados por los clubes?",
+    "different": "¿Quién del grupo cree que la presión que aguantan los futbolistas justifica todos sus privilegios?"
+  },
+  {
+    "main": "¿Quién del grupo cree que el fútbol es el único idioma universal que entiende todo el planeta?",
+    "different": "¿Quién del grupo cree que hay cosas mucho más universales y profundas que darle patadas a un balón?"
+  }
 ]

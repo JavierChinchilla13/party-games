@@ -1,620 +1,402 @@
 [
-  { "main": "¿Cuánto gastarías en unos zapatos nuevos?", "different": "¿Cuánto gastarías en una chaqueta nueva?" },
-  { "main": "¿Cuánto gastarías en una primera cita?", "different": "¿Cuánto gastarías en un regalo de cumpleaños?" },
-  { "main": "¿Cuánto pagarías por tu comida favorita?", "different": "¿Cuánto pagarías por ver a tu artista favorito?" },
-  { "main": "¿A quién invitarías a cenar?", "different": "¿A quién invitarías de viaje?" },
-  { "main": "¿Con quién iniciarías un negocio?", "different": "¿Con quién vivirías un año?" },
-  { "main": "¿A quién llamarías en una emergencia?", "different": "¿A quién pedirías un consejo importante?" },
-  { "main": "¿Qué comprarías primero si ganaras la lotería?", "different": "¿Qué harías primero si ganaras la lotería?" },
-  { "main": "¿Qué aplicación usas más?", "different": "¿Qué aplicación eliminarías primero?" },
-  { "main": "¿A qué país viajarías mañana?", "different": "¿En qué país vivirías un año?" },
-  { "main": "¿Qué ciudad visitarías?", "different": "¿Qué ciudad evitarías?" },
-  { "main": "¿Cuál es tu comida favorita?", "different": "¿Cuál es tu postre favorito?" },
-  { "main": "¿Cuál es tu restaurante favorito?", "different": "¿Cuál es tu cafetería favorita?" },
-  { "main": "¿Qué comprarías con $100?", "different": "¿Qué comprarías con $500?" },
-  { "main": "¿Qué objeto nunca prestarías?", "different": "¿Qué objeto nunca venderías?" },
-  { "main": "¿A qué hora te gusta despertar los fines de semana?", "different": "¿A qué hora sueles irte a dormir los fines de semana?" },
-  { "main": "¿Cuál es tu red social preferida?", "different": "¿Qué red social te parece más tóxica?" },
-  { "main": "¿Qué superpoder elegirías tener?", "different": "¿Qué habilidad humana te gustaría dominar a la perfección?" },
-  { "main": "¿A qué edad te gustaría jubilarte?", "different": "¿A qué edad te gustaría ser totalmente independiente?" },
-  { "main": "¿Cuál es el mejor regalo que has recibido?", "different": "¿Cuál es el mejor regalo que has dado?" },
-  { "main": "¿Qué prefieres: playa o montaña?", "different": "¿Qué prefieres: ciudad o campo?" },
-  { "main": "¿Qué estación del año te gusta más?", "different": "¿Qué clima te parece más agradable para vivir?" },
-  { "main": "¿Cuánto tiempo podrías estar sin usar el celular?", "different": "¿Cuánto tiempo podrías estar sin conexión a internet?" },
-  { "main": "¿Cuál es tu mayor miedo?", "different": "¿Cuál es tu mayor fobia?" },
-  { "main": "¿Qué talento te gustaría tener?", "different": "¿Qué instrumento musical te gustaría tocar?" },
-  { "main": "¿Qué género de música escuchas más?", "different": "¿Qué género de música no soportas?" },
-  { "main": "¿A qué concierto irías mañana?", "different": "¿A qué festival de música asistirías?" },
-  { "main": "¿Cuál es tu película favorita de la infancia?", "different": "¿Cuál es tu serie favorita de la infancia?" },
-  { "main": "¿Qué libro recomendarías a todo el mundo?", "different": "¿Qué película recomendarías a todo el mundo?" },
-  { "main": "¿Cuál es tu mayor logro personal?", "different": "¿Cuál es tu mayor sueño por cumplir?" },
-  { "main": "¿Qué cualidad valoras más en una persona?", "different": "¿Qué defecto te cuesta más tolerar en alguien?" },
-  { "main": "¿Cómo definirías tu estilo de vestir?", "different": "¿Cómo definirías tu personalidad?" },
-  { "main": "¿Qué harías si encontraras dinero en la calle?", "different": "¿Qué harías si perdieras tu billetera?" },
-  { "main": "¿Cuál es tu pasatiempo favorito?", "different": "¿En qué actividad pierdes la noción del tiempo?" },
-  { "main": "¿Qué idioma te gustaría aprender?", "different": "¿Qué país te gustaría visitar para practicar un idioma?" },
-  { "main": "¿Cuál es tu animal favorito?", "different": "¿Qué animal tendrías como mascota si no hubiera límites?" },
-  { "main": "¿Qué comida nunca probarías?", "different": "¿Qué comida te daba asco de niño y ahora te gusta?" },
-  { "main": "¿Cuál es tu bebida favorita?", "different": "¿Cuál es tu coctel o trago favorito?" },
-  { "main": "¿Qué te hace reír siempre?", "different": "¿Qué te hace llorar de emoción?" },
-  { "main": "¿Cuál es tu mayor virtud?", "different": "¿Cuál es tu mayor debilidad?" },
-  { "main": "¿Qué cambiarías de tu pasado si pudieras?", "different": "¿Qué momento de tu vida te gustaría revivir?" },
-  { "main": "¿A quién admiras profundamente?", "different": "¿A quién consideras un modelo a seguir?" },
-  { "main": "¿Qué te motiva a levantarte cada mañana?", "different": "¿Cuál es tu mayor propósito en la vida?" },
-  { "main": "¿Cuál es tu rutina de mañana?", "different": "¿Cuál es tu rutina de noche?" },
-  { "main": "¿Qué es lo más loco que has hecho por amor?", "different": "¿Qué es lo más loco que has hecho por diversión?" },
-  { "main": "¿Cómo sería tu casa ideal?", "different": "¿En qué parte del mundo estaría tu casa ideal?" },
-  { "main": "¿Qué profesión tendrías en una vida paralela?", "different": "¿Qué trabajo harías solo por diversión?" },
-  { "main": "¿Cuál es tu olor favorito?", "different": "¿Qué fragancia te trae buenos recuerdos?" },
-  { "main": "¿Qué canción no puedes dejar de escuchar?", "different": "¿Qué canción te sabes de memoria de principio a fin?" },
-  { "main": "¿Cuál es tu mayor manía?", "different": "¿Qué hábito extraño tienes?" },
-  { "main": "¿Qué es lo primero que haces al llegar a casa?", "different": "¿Qué es lo último que haces antes de salir de casa?" },
-  { "main": "¿Qué prefieres: viajar al futuro o al pasado?", "different": "¿Qué época histórica te gustaría visitar?" },
-  { "main": "¿Cuál es tu mayor distracción?", "different": "¿Qué te ayuda a concentrarte?" },
-  { "main": "¿Qué es lo más importante en una amistad?", "different": "¿Qué es lo más importante en una relación de pareja?" },
-  { "main": "¿Cuál es tu plan perfecto de fin de semana?", "different": "¿Cuál es tu plan perfecto de viernes noche?" },
-  { "main": "¿Qué objeto tiene más valor sentimental para ti?", "different": "¿Qué objeto guardas desde que eras niño?" },
-  { "main": "¿Cómo manejas el estrés?", "different": "¿Qué actividad te relaja instantáneamente?" },
-  { "main": "¿Cuál es tu mayor arrepentimiento?", "different": "¿Qué lección importante has aprendido este año?" },
-  { "main": "¿Qué es lo que más te gusta de ti mismo?", "different": "¿Qué parte de tu físico te gusta más?" },
-  { "main": "¿Qué es lo que más te gusta de tu trabajo o estudio?", "different": "¿Qué es lo que menos te gusta de tu rutina diaria?" },
-  { "main": "¿Cuál es tu deporte favorito para practicar?", "different": "¿Cuál es tu deporte favorito para ver?" },
-  { "main": "¿Qué prefieres: dulce o salado?", "different": "¿Qué prefieres: picante o ácido?" },
-  { "main": "¿Cuál es tu marca de ropa favorita?", "different": "¿En qué tienda podrías gastar todo tu dinero?" },
-  { "main": "¿Qué aplicación de tu celular es la más inútil?", "different": "¿Qué aplicación de tu celular es la más indispensable?" },
-  { "main": "¿Cuál es tu mayor ambición?", "different": "¿Dónde te ves dentro de cinco años?" },
-  { "main": "¿Qué es lo que más te enoja?", "different": "¿Qué situación te hace perder la paciencia?" },
-  { "main": "¿Cuál es tu mayor placer culposo?", "different": "¿Qué serie o película te da vergüenza admitir que te gusta?" },
-  { "main": "¿Qué es lo más valiente que has hecho?", "different": "¿Qué miedo te gustaría superar?" },
-  { "main": "¿Qué prefieres: trabajar solo o en equipo?", "different": "¿Qué prefieres: liderar o seguir?" },
-  { "main": "¿Cuál es tu red social favorita para ver videos?", "different": "¿En qué red social pasas más tiempo viendo fotos?" },
-  { "main": "¿Qué harías si tuvieras un día extra a la semana?", "different": "¿Qué harías si el día tuviera 30 horas?" },
-  { "main": "¿Cuál es tu mayor fuente de inspiración?", "different": "¿Qué persona famosa te inspira más?" },
-  { "main": "¿Qué es lo que más te hace sentir orgulloso de tu familia?", "different": "¿Qué tradición familiar te gusta más?" },
-  { "main": "¿Qué prefieres: llamar por teléfono o enviar mensajes?", "different": "¿Qué prefieres: notas de voz o texto?" },
-  { "main": "¿Cuál es tu mayor talento oculto?", "different": "¿Qué habilidad te gustaría aprender este año?" },
-  { "main": "¿Qué es lo que más extrañas de ser niño?", "different": "¿Qué es lo mejor de ser adulto?" },
-  { "main": "¿Cuál es tu lugar favorito en el mundo?", "different": "¿A qué lugar vas cuando necesitas estar solo?" },
-  { "main": "¿Qué prefieres: madrugar o trasnochar?", "different": "¿En qué momento del día eres más productivo?" },
-  { "main": "¿Cuál es tu mayor inseguridad?", "different": "¿Qué crítica te afecta más?" },
-  { "main": "¿Qué es lo que más valoras en un compañero de trabajo?", "different": "¿Qué es lo que más valoras en un jefe?" },
-  { "main": "¿Qué prefieres: vivir en un apartamento o en una casa?", "different": "¿Qué prefieres: vivir en el centro o en las afueras?" },
-  { "main": "¿Cuál es tu mayor prioridad en este momento?", "different": "¿Qué es lo que más te preocupa actualmente?" },
-  { "main": "¿Qué es lo más caro que has comprado?", "different": "¿En qué inversión no escatimarías dinero?" },
-  { "main": "¿Qué prefieres: cine o teatro?", "different": "¿Qué prefieres: concierto o festival?" },
-  { "main": "¿Cuál es tu juego de mesa favorito?", "different": "¿Cuál es tu videojuego favorito de todos los tiempos?" },
-  { "main": "¿Qué es lo que más te gusta de vivir donde vives?", "different": "¿Qué es lo que más te molesta de tu ciudad?" },
-  { "main": "¿Qué prefieres: café o té?", "different": "¿Qué prefieres: cerveza o vino?" },
-  { "main": "¿Cuál es tu mayor distracción en el trabajo?", "different": "¿Qué te ayuda a entrar en 'estado de flujo'?" },
-  { "main": "¿Qué es lo más generoso que has hecho por alguien?", "different": "¿Qué es lo más generoso que alguien ha hecho por ti?" },
-  { "main": "¿Qué prefieres: leer un libro físico o digital?", "different": "¿Qué prefieres: escuchar un podcast o música?" },
-  { "main": "¿Cuál es tu mayor fuente de felicidad?", "different": "¿Qué pequeño detalle te alegra el día?" },
-  { "main": "¿Qué es lo que más te gusta cocinar?", "different": "¿Qué plato te sale mejor?" },
-  { "main": "¿Qué prefieres: viajar solo o acompañado?", "different": "¿Cuál es tu compañero de viaje ideal?" },
-  { "main": "¿Cuál es tu mayor logro académico?", "different": "¿Qué curso o taller te gustaría tomar?" },
-  { "main": "¿Qué es lo que más te gusta de la tecnología?", "different": "¿Qué es lo que más te asusta del futuro?" },
-  { "main": "¿Qué prefieres: una cena romántica o una fiesta loca?", "different": "¿Cuál es tu idea de una cita perfecta?" },
-  { "main": "¿Cuál es tu mayor vicio?", "different": "¿Qué mal hábito te gustaría dejar?" },
-  { "main": "¿Qué es lo que más te gusta de tu mejor amigo?", "different": "¿Cómo conociste a tu mejor amigo?" },
-  { "main": "¿Qué prefieres: Netflix o ir al cine?", "different": "¿Qué plataforma de streaming usas más?" },
-  { "main": "¿Cuál es tu mayor meta para este año?", "different": "¿Qué proyecto personal tienes entre manos?" },
-  { "main": "¿Qué es lo que más te gusta de la naturaleza?", "different": "¿Cuál es tu paisaje natural favorito?" },
-  { "main": "¿Qué prefieres: perros o gatos?", "different": "¿Qué animal exótico te gustaría tener?" },
-  { "main": "¿Cuál es tu mayor debilidad al comprar?", "different": "¿Qué es lo que siempre terminas comprando aunque no lo necesites?" },
-  { "main": "¿Qué es lo que más te gusta de las redes sociales?", "different": "¿Qué es lo que más te irrita de las redes sociales?" },
-  { "main": "¿Qué prefieres: verano o invierno?", "different": "¿Qué prefieres: otoño o primavera?" },
-  { "main": "¿Cuál es tu mayor fuente de estrés?", "different": "¿Qué situación te genera más ansiedad?" },
-  { "main": "¿Qué es lo que más te gusta de tu cuerpo?", "different": "¿Qué rasgo físico te gustaría cambiar?" },
-  { "main": "¿Qué prefieres: viajar en avión o por carretera?", "different": "¿Cuál ha sido tu viaje más largo?" },
-  { "main": "¿Cuál es tu mayor orgullo?", "different": "¿De qué te sientes más satisfecho en la vida?" },
-  { "main": "¿Qué es lo que más te gusta de salir de fiesta?", "different": "¿Qué es lo que más te gusta de quedarte en casa?" },
-  { "main": "¿Qué prefieres: ropa de marca o ropa cómoda?", "different": "¿Qué accesorio no puede faltar en tu outfit?" },
-  { "main": "¿Cuál es tu mayor miedo irracional?", "different": "¿A qué le tenías miedo cuando eras pequeño?" },
-  { "main": "¿Qué es lo que más te gusta de las vacaciones?", "different": "¿A dónde irías si tuvieras presupuesto ilimitado?" },
-  { "main": "¿Qué prefieres: cocinar o que te cocinen?", "different": "¿Cuál es el mejor restaurante en el que has estado?" },
-  { "main": "¿Cuál es tu mayor motivación para trabajar?", "different": "¿Qué harías si no tuvieras que trabajar por dinero?" },
-  { "main": "¿Qué es lo que más te gusta de tu habitación?", "different": "¿Cómo decorarías tu habitación ideal?" },
-  { "main": "¿Qué prefieres: madrugar para ir al gimnasio o ir por la noche?", "different": "¿Qué actividad física disfrutas más?" },
-  { "main": "¿Cuál es tu mayor sueño desde niño?", "different": "¿Qué querías ser de mayor cuando tenías 5 años?" },
-  { "main": "¿Qué es lo que más te gusta de tu pareja?", "different": "¿Qué es lo primero en lo que te fijas en alguien?" },
-  { "main": "¿Qué prefieres: escuchar la radio o tu propia lista de reproducción?", "different": "¿Qué canción te pone de buen humor siempre?" },
-  { "main": "¿Cuál es tu mayor defecto según tus amigos?", "different": "¿Cuál es tu mayor virtud según tu familia?" },
-  { "main": "¿Qué es lo que más te gusta de los domingos?", "different": "¿Qué es lo que más odias de los lunes?" },
-  { "main": "¿Qué prefieres: una película de terror o una de comedia?", "different": "¿Cuál es tu género cinematográfico favorito?" },
-  { "main": "¿Cuál es tu mayor distracción en casa?", "different": "¿Qué te ayuda a ser más productivo en casa?" },
-  { "main": "¿Qué es lo que más te gusta de la Navidad?", "different": "¿Cuál es tu época festiva favorita?" },
-  { "main": "¿Qué prefieres: comer en casa o en un restaurante?", "different": "¿Qué comida rápida pides más seguido?" },
-  { "main": "¿Cuál es tu mayor habilidad social?", "different": "¿Qué te hace sentir incómodo en una reunión social?" },
-  { "main": "¿Qué es lo que más te gusta de tu celular?", "different": "¿Qué función de tu celular usas menos?" },
-  { "main": "¿Qué prefieres: un libro de misterio o uno de romance?", "different": "¿Cuál es el último libro que leíste?" },
-  { "main": "¿Cuál es tu mayor gasto mensual?", "different": "¿En qué te gustaría ahorrar más dinero?" },
-  { "main": "¿Qué es lo que más te gusta de los viajes en grupo?", "different": "¿Qué es lo que más te gusta de viajar solo?" },
-  { "main": "¿Qué prefieres: playa de arena blanca o playa de piedras?", "different": "¿Cuál es la mejor playa en la que has estado?" },
-  { "main": "¿Cuál es tu mayor desafío actual?", "different": "¿Qué obstáculo has superado recientemente?" },
-  { "main": "¿Qué es lo que más te gusta de las series de televisión?", "different": "¿Qué serie podrías ver una y otra vez?" },
-  { "main": "¿Qué prefieres: zapatos deportivos o zapatos formales?", "different": "¿Cuál es tu par de zapatos favorito?" },
-  { "main": "¿Cuál es tu mayor inspiración creativa?", "different": "¿Qué artista (pintor, músico, escritor) admiras más?" },
-  { "main": "¿Qué es lo que más te gusta de tu personalidad?", "different": "¿Qué rasgo de tu carácter te gustaría suavizar?" },
-  { "main": "¿Qué prefieres: un fin de semana tranquilo o uno lleno de actividades?", "different": "¿Qué actividad no puede faltar en tu tiempo libre?" },
-  { "main": "¿Cuál es tu mayor deseo para el mundo?", "different": "¿Qué problema global te preocupa más?" },
-  { "main": "¿Qué es lo que más te gusta de los cumpleaños?", "different": "¿Cómo celebrarías tu cumpleaños ideal?" },
-  { "main": "¿Qué prefieres: helado de chocolate o de vainilla?", "different": "¿Cuál es tu sabor de helado favorito?" },
-  { "main": "¿Cuál es tu mayor arrepentimiento en el amor?", "different": "¿Qué has aprendido de tus relaciones pasadas?" },
-  { "main": "¿Qué es lo que más te gusta de la música en vivo?", "different": "¿Cuál ha sido el mejor concierto de tu vida?" },
-  { "main": "¿Qué prefieres: trabajar desde casa o en una oficina?", "different": "¿Cómo sería tu oficina perfecta?" },
-  { "main": "¿Cuál es tu mayor miedo sobre el futuro?", "different": "¿Qué te da esperanza sobre el futuro?" },
-  { "main": "¿Qué es lo que más te gusta de las redes sociales?", "different": "¿En qué red social eres más activo?" },
-  { "main": "¿Qué prefieres: una caminata por el bosque o un paseo por la ciudad?", "different": "¿Cuál es tu actividad al aire libre favorita?" },
-  { "main": "¿Cuál es tu mayor debilidad por la comida?", "different": "¿Qué alimento no puedes dejar de comer una vez que empiezas?" },
-  { "main": "¿Qué es lo que más te gusta de tu nombre?", "different": "¿Si pudieras cambiarte el nombre, cuál elegirías?" },
-  { "main": "¿Qué prefieres: ver el amanecer o el atardecer?", "different": "¿En qué lugar has visto el mejor atardecer?" },
-  { "main": "¿Cuál es tu mayor secreto?", "different": "¿Qué es algo que casi nadie sabe de ti?" },
-  { "main": "¿Qué es lo que más te gusta de los museos?", "different": "¿Cuál es tu tipo de museo favorito?" },
-  { "main": "¿Qué prefieres: un hotel de lujo o un hostal acogedor?", "different": "¿Cuál es el mejor alojamiento en el que has estado?" },
-  { "main": "¿Cuál es tu mayor talento innecesario?", "different": "¿Qué cosa inútil sabes hacer muy bien?" },
-  { "main": "¿Qué es lo que más te gusta de la lluvia?", "different": "¿Qué haces un día de lluvia?" },
-  { "main": "¿Qué prefieres: una película original o una secuela?", "different": "¿Cuál es tu película favorita de todos los tiempos?" },
-  { "main": "¿Cuál es tu mayor adicción tecnológica?", "different": "¿Qué gadget te gustaría comprar?" },
-  { "main": "¿Qué es lo que más te gusta de tu país?", "different": "¿Qué es lo que menos te gusta de tu cultura?" },
-  { "main": "¿Qué prefieres: hablar en público o escribir un ensayo?", "different": "¿Qué habilidad comunicativa se te da mejor?" },
-  { "main": "¿Cuál es tu mayor sueño profesional?", "different": "¿Qué empresa o proyecto te gustaría fundar?" },
-  { "main": "¿Qué es lo que más te gusta de la comida italiana?", "different": "¿Qué tipo de cocina internacional prefieres?" },
-  { "main": "¿Qué prefieres: un regalo sorpresa o algo que ya pediste?", "different": "¿Cuál es el regalo más raro que te han dado?" },
-  { "main": "¿Cuál es tu mayor distracción en el celular?", "different": "¿Qué aplicación te hace perder más tiempo?" },
-  { "main": "¿Qué es lo que más te gusta de tu infancia?", "different": "¿Qué juguete era tu favorito?" },
-  { "main": "¿Qué prefieres: un viaje de aventura o uno de relax?", "different": "¿Cuál es tu destino de vacaciones soñado?" },
-  { "main": "¿Cuál es tu mayor logro en el deporte?", "different": "¿Qué deporte te gustaría probar algún día?" },
-  { "main": "¿Qué es lo que más te gusta de las mañanas?", "different": "¿Qué es lo primero que comes al desayunar?" },
-  { "main": "¿Qué prefieres: una noche de juegos o una de películas?", "different": "¿Cuál es tu juego favorito para jugar con amigos?" },
-  { "main": "¿Cuál es tu mayor preocupación financiera?", "different": "¿Qué harías si hoy recibieras 10,000 dólares?" },
-  { "main": "¿Qué es lo que más te gusta de tu mascota?", "different": "¿Cómo se llama o se llamaría tu mascota ideal?" },
-  { "main": "¿Qué prefieres: pizza con piña o sin piña?", "different": "¿Cuál es el ingrediente que no puede faltar en tu pizza?" },
-  { "main": "¿Cuál es tu mayor fuente de conocimiento?", "different": "¿Qué canal de YouTube o sitio web usas para aprender?" },
-  { "main": "¿Qué es lo que más te gusta de las fotos antiguas?", "different": "¿Cuál es tu foto favorita de ti mismo?" },
-  { "main": "¿Qué prefieres: un auto deportivo o una camioneta?", "different": "¿Cuál es el auto de tus sueños?" },
-  { "main": "¿Cuál es tu mayor miedo en las alturas?", "different": "¿Te atreverías a saltar en paracaídas?" },
-  { "main": "¿Qué es lo que más te gusta de los parques de diversiones?", "different": "¿Cuál es tu atracción favorita en una feria?" },
-  { "main": "¿Qué prefieres: leer el periódico o ver las noticias?", "different": "¿Cómo te mantienes informado?" },
-  { "main": "¿Cuál es tu mayor habilidad en la cocina?", "different": "¿Qué plato te gustaría aprender a cocinar?" },
-  { "main": "¿Qué es lo que más te gusta de la playa?", "different": "¿Prefieres nadar en el mar o en la piscina?" },
-  { "main": "¿Qué prefieres: un concierto íntimo o un estadio lleno?", "different": "¿A qué artista pagarías por ver en primera fila?" },
-  { "main": "¿Cuál es tu mayor distracción al estudiar?", "different": "¿Dónde prefieres estudiar o trabajar?" },
-  { "main": "¿Qué es lo que más te gusta de los animales?", "different": "¿Qué animal te representa mejor?" },
-  { "main": "¿Qué prefieres: una boda grande o una pequeña?", "different": "¿Cómo sería tu fiesta ideal?" },
-  { "main": "¿Cuál es tu mayor meta de salud?", "different": "¿Qué hábito saludable has incorporado recientemente?" },
-  { "main": "¿Qué es lo que más te gusta de tu smartphone?", "different": "¿Cuánto gastarías en el último modelo de celular?" },
-  { "main": "¿Qué prefieres: un libro de historia o uno de ciencia ficción?", "different": "¿Quién es tu autor favorito?" },
-  { "main": "¿Cuál es tu mayor placer al viajar?", "different": "¿Qué es lo primero que metes en tu maleta?" },
-  { "main": "¿Qué es lo que más te gusta de la primavera?", "different": "¿Qué flor o planta te gusta más?" },
-  { "main": "¿Qué prefieres: un postre de frutas o uno de chocolate?", "different": "¿Cuál es la mejor pastelería que conoces?" },
-  { "main": "¿Cuál es tu mayor habilidad manual?", "different": "¿Qué manualidad o DIY has hecho alguna vez?" },
-  { "main": "¿Qué es lo que más te gusta de la ciudad?", "different": "¿Qué barrio de tu ciudad te gusta más?" },
-  { "main": "¿Qué prefieres: un reloj clásico o un smartwatch?", "different": "¿Qué accesorio tecnológico usas a diario?" },
-  { "main": "¿Cuál es tu mayor fuente de paz?", "different": "¿Qué lugar te transmite más tranquilidad?" },
-  { "main": "¿Qué es lo que más te gusta de las reuniones familiares?", "different": "¿Quién es el miembro más divertido de tu familia?" },
-  { "main": "¿Qué prefieres: una película subtitulada o doblada?", "different": "¿Qué idioma suena más bonito para ti?" },
-  { "main": "¿Cuál es tu mayor debilidad al comer dulces?", "different": "¿Qué golosina era tu favorita de niño?" },
-  { "main": "¿Qué es lo que más te gusta de los sábados?", "different": "¿A qué hora te despiertas un sábado?" },
-  { "main": "¿Qué prefieres: un café solo o con leche?", "different": "¿Cómo preparas tu café ideal?" },
-  { "main": "¿Cuál es tu mayor logro en los videojuegos?", "different": "¿A qué videojuego le has dedicado más horas?" },
-  { "main": "¿Qué es lo que más te gusta de las revistas?", "different": "¿Sobre qué tema te gusta leer artículos?" },
-  { "main": "¿Qué prefieres: una casa moderna o una rústica?", "different": "¿En qué país te gustaría tener una casa de campo?" },
-  { "main": "¿Cuál es tu mayor miedo a la oscuridad?", "different": "¿Duermes con la luz totalmente apagada?" },
-  { "main": "¿Qué es lo que más te gusta de los helados?", "different": "¿Conos o tarrinas?" },
-  { "main": "¿Qué prefieres: un vuelo directo o con escalas?", "different": "¿Cuál es el aeropuerto más bonito que has visto?" },
-  { "main": "¿Cuál es tu mayor distracción en el cine?", "different": "¿Palomitas dulces o saladas?" },
-  { "main": "¿Qué es lo que más te gusta de los días soleados?", "different": "¿Qué haces cuando hace mucho calor?" },
-  { "main": "¿Qué prefieres: una bufanda o un gorro en invierno?", "different": "¿Cuál es tu prenda favorita para el frío?" },
-  { "main": "¿Cuál es tu mayor meta de ahorro?", "different": "¿En qué te cuesta más ahorrar dinero?" },
-  { "main": "¿Qué es lo que más te gusta de los podcast?", "different": "¿Cuál es tu podcast favorito?" },
-  { "main": "¿Qué prefieres: una hamburguesa o una pizza?", "different": "¿Cuál es tu lugar favorito de comida rápida?" },
-  { "main": "¿Cuál es tu mayor habilidad para bailar?", "different": "¿Qué tipo de música te saca a bailar siempre?" },
-  { "main": "¿Qué es lo que más te gusta de los espejos?", "different": "¿Cuánto tiempo pasas frente al espejo antes de salir?" },
-  { "main": "¿Qué prefieres: un teclado mecánico o de membrana?", "different": "¿Qué marca de computadora prefieres?" },
-  { "main": "¿Cuál es tu mayor fuente de inspiración diaria?", "different": "¿Qué frase o cita te motiva?" },
-  { "main": "¿Qué es lo que más te gusta de los jardines?", "different": "¿Tienes plantas en casa?" },
-  { "main": "¿Qué prefieres: una película de acción o un documental?", "different": "¿Cuál es el mejor documental que has visto?" },
-  { "main": "¿Cuál es tu mayor debilidad por los perfumes?", "different": "¿Cuál es tu perfume o colonia favorita?" },
-  { "main": "¿Qué es lo que más te gusta de los viernes?", "different": "¿Cuál es tu plan típico de viernes?" },
-  { "main": "¿Qué prefieres: un té caliente o helado?", "different": "¿Cuál es tu marca de té favorita?" },
-  { "main": "¿Cuál es tu mayor logro en el trabajo?", "different": "¿Qué reconocimiento profesional te gustaría recibir?" },
-  { "main": "¿Qué es lo que más te gusta de los barcos?", "different": "¿Te marea viajar en barco?" },
-  { "main": "¿Qué prefieres: una libreta de papel o una app de notas?", "different": "¿Cómo organizas tus tareas diarias?" },
-  { "main": "¿Cuál es tu mayor miedo a los insectos?", "different": "¿Qué insecto te da más asco?" },
-  { "main": "¿Qué es lo que más te gusta de las galletas?", "different": "¿Cuál es tu marca de galletas favorita?" },
-  { "main": "¿Qué prefieres: un viaje en tren o en bus?", "different": "¿Cuál es el trayecto más bonito que has hecho?" },
-  { "main": "¿Cuál es tu mayor distracción en una conversación?", "different": "¿Qué te hace perder el interés al hablar con alguien?" },
-  { "main": "¿Qué es lo que más te gusta de los amaneceres?", "different": "¿Eres una persona de mañana o de noche?" },
-  { "main": "¿Qué prefieres: una chaqueta de cuero o un abrigo?", "different": "¿Cuál es tu color favorito para vestir?" },
-  { "main": "¿Cuál es tu mayor meta personal a corto plazo?", "different": "¿Qué quieres lograr antes de que termine el mes?" },
-  { "main": "¿Qué es lo que más te gusta de las bibliotecas?", "different": "¿Prefieres leer en silencio o con música de fondo?" },
-  { "main": "¿Qué prefieres: un sándwich o un wrap?", "different": "¿Qué ingrediente nunca pondrías en un sándwich?" },
-  { "main": "¿Cuál es tu mayor habilidad para cantar?", "different": "¿Qué canción cantas en el karaoke?" },
-  { "main": "¿Qué es lo que más te gusta de los zapatos?", "different": "¿Cuántos pares de zapatos tienes?" },
-  { "main": "¿Qué prefieres: una Tablet o una Laptop?", "different": "¿Para qué usas más tu computadora?" },
-  { "main": "¿Cuál es tu mayor fuente de relajación?", "different": "¿Qué haces después de un día muy difícil?" },
-  { "main": "¿Qué es lo que más te gusta de las flores?", "different": "¿Qué flor te gustaría que te regalaran?" },
-  { "main": "¿Qué prefieres: una serie corta o una de muchas temporadas?", "different": "¿Cuál es la serie más larga que has visto?" },
-  { "main": "¿Cuál es tu mayor debilidad por los quesos?", "different": "¿Cuál es tu tipo de queso favorito?" },
-  { "main": "¿Qué es lo que más te gusta de los lunes?", "different": "¿Cómo empiezas tu semana con energía?" },
-  { "main": "¿Qué prefieres: un jugo natural o una gaseosa?", "different": "¿Cuál es tu sabor de gaseosa favorito?" },
-  { "main": "¿Cuál es tu mayor logro en el aprendizaje de un idioma?", "different": "¿Qué idioma te parece el más difícil?" },
-  { "main": "¿Qué es lo que más te gusta de los aviones?", "different": "¿Prefieres pasillo o ventana?" },
-  { "main": "¿Qué prefieres: un bolígrafo de gel o uno de tinta normal?", "different": "¿Te gusta escribir a mano?" },
-  { "main": "¿Cuál es tu mayor miedo al fracaso?", "different": "¿Cómo manejas una derrota o un error?" },
-  { "main": "¿Qué es lo que más te gusta de los pasteles?", "different": "¿De qué sabor sería tu pastel de cumpleaños ideal?" },
-  { "main": "¿Qué prefieres: un crucero o acampar?", "different": "¿Cuál ha sido tu experiencia más extrema viajando?" },
-  { "main": "¿Cuál es tu mayor distracción mientras conduces o caminas?", "different": "¿Qué música escuchas cuando vas por la calle?" },
-  { "main": "¿Qué es lo que más te gusta de la puesta de sol?", "different": "¿Con quién te gustaría ver un atardecer?" },
-  { "main": "¿Qué prefieres: una camisa formal o una camiseta?", "different": "¿Qué marca de camisetas prefieres?" },
-  { "main": "¿Cuál es tu mayor meta para tu salud mental?", "different": "¿Qué haces para cuidar tu bienestar emocional?" },
-  { "main": "¿Qué es lo que más te gusta de los teatros?", "different": "¿Cuál es la última obra de teatro que viste?" },
-  { "main": "¿Qué prefieres: una ensalada o una sopa?", "different": "¿Cuál es tu sopa favorita?" },
-  { "main": "¿Cuál es tu mayor habilidad para los juegos mentales?", "different": "¿Te gustan los crucigramas o sudokus?" },
-  { "main": "¿Qué es lo que más te gusta de las mochilas?", "different": "¿Qué marca de mochila o bolso usas?" },
-  { "main": "¿Qué prefieres: un mouse inalámbrico o con cable?", "different": "¿Qué periférico de tu PC es el más caro?" },
-  { "main": "¿Cuál es tu mayor fuente de diversión?", "different": "¿Qué te hace perder la cabeza de risa?" },
-  { "main": "¿Qué es lo que más te gusta de los árboles?", "different": "¿Cuál es tu árbol favorito?" },
-  { "main": "¿Qué prefieres: una película de dibujos animados o una real?", "different": "¿Cuál es tu película de animación favorita?" },
-  { "main": "¿Cuál es tu mayor debilidad por los panes?", "different": "¿Qué tipo de pan compras siempre?" },
-  { "main": "¿Qué es lo que más te gusta de los martes?", "different": "¿Tienes alguna rutina especial los martes?" },
-  { "main": "¿Qué prefieres: leche entera o vegetal?", "different": "¿Cuál es tu bebida vegetal favorita?" },
-  { "main": "¿Cuál es tu mayor logro personal este mes?", "different": "¿Qué te ha hecho sentir más orgulloso hoy?" },
-  { "main": "¿Qué es lo que más te gusta de los trenes?", "different": "¿Te gustaría hacer un viaje largo en tren?" },
-  { "main": "¿Qué prefieres: una agenda física o digital?", "different": "¿Cómo anotas tus citas importantes?" },
-  { "main": "¿Cuál es tu mayor miedo a la soledad?", "different": "¿Disfrutas de tu tiempo a solas?" },
-  { "main": "¿Qué es lo que más te gusta de los desayunos?", "different": "¿Qué desayunas los domingos?" },
-  { "main": "¿Qué prefieres: un viaje a una isla o a una gran ciudad?", "different": "¿A qué ciudad del mundo te mudarías mañana?" },
-  { "main": "¿Cuál es tu mayor distracción en una fiesta?", "different": "¿Eres de los que baila o de los que se queda hablando?" },
-  { "main": "¿Qué es lo que más te gusta de las estrellas?", "different": "¿Sabes identificar alguna constelación?" },
-  { "main": "¿Qué prefieres: un pantalón vaquero o uno deportivo?", "different": "¿Cuál es tu prenda de ropa más cómoda?" },
-  { "main": "¿Cuál es tu mayor meta de aprendizaje?", "different": "¿Qué te gustaría saber hacer perfectamente?" },
-  { "main": "¿Qué es lo que más te gusta de los centros comerciales?", "different": "¿Qué es lo que más compras en un centro comercial?" },
-  { "main": "¿Qué prefieres: un yogur natural o de sabores?", "different": "¿Cuál es tu sabor de yogur favorito?" },
-  { "main": "¿Cuál es tu mayor habilidad para la fotografía?", "different": "¿Qué prefieres fotografiar: paisajes o personas?" },
-  { "main": "¿Qué es lo que más te gusta de los relojes?", "different": "¿Llevas reloj habitualmente?" },
-  { "main": "¿Qué prefieres: unos cascos o unos auriculares pequeños?", "different": "¿Qué marca de audio prefieres?" },
-  { "main": "¿Cuál es tu mayor fuente de energía?", "different": "¿Qué te da un subidón de energía?" },
-  { "main": "¿Qué es lo que más te gusta de las montañas?", "different": "¿Has subido alguna vez a la cima de una montaña?" },
-  { "main": "¿Qué prefieres: una película de suspenso o de acción?", "different": "¿Cuál es tu actor o actriz favorito/a?" },
-  { "main": "¿Cuál es tu mayor debilidad por los snacks?", "different": "¿Qué snack picas entre horas?" },
-  { "main": "¿Qué es lo que más te gusta de los miércoles?", "different": "¿Qué sueles hacer a mitad de semana?" },
-  { "main": "¿Qué prefieres: agua con gas o sin gas?", "different": "¿Cuánta agua bebes al día?" },
-  { "main": "¿Cuál es tu mayor logro en una red social?", "different": "¿Cuál es tu publicación con más likes?" },
-  { "main": "¿Qué es lo que más te gusta de los hoteles?", "different": "¿Qué es lo primero que haces al entrar en la habitación?" },
-  { "main": "¿Qué prefieres: un lápiz o un portaminas?", "different": "¿Te gusta dibujar?" },
-  { "main": "¿Cuál es tu mayor miedo a hablar en público?", "different": "¿Has dado alguna vez una charla o presentación?" },
-  { "main": "¿Qué es lo que más te gusta de las cenas?", "different": "¿Qué cenas cuando no tienes ganas de cocinar?" },
-  { "main": "¿Qué prefieres: un viaje cultural o gastronómico?", "different": "¿Cuál es la comida más rara que has probado viajando?" },
-  { "main": "¿Cuál es tu mayor distracción en una reunión de trabajo?", "different": "¿Qué te ayuda a mantener el foco?" },
-  { "main": "¿Qué es lo que más te gusta de la luna?", "different": "¿Te afecta el ciclo lunar?" },
-  { "main": "¿Qué prefieres: una sudadera con capucha o sin ella?", "different": "¿Cuál es tu sudadera favorita?" },
-  { "main": "¿Cuál es tu mayor meta para tu futuro hogar?", "different": "¿Qué objeto de decoración te gustaría comprar?" },
-  { "main": "¿Qué es lo que más te gusta de los cines?", "different": "¿Prefieres las salas grandes o pequeñas?" },
-  { "main": "¿Qué prefieres: una fruta dulce o ácida?", "different": "¿Cuál es tu fruta favorita?" },
-  { "main": "¿Cuál es tu mayor habilidad para los deportes de equipo?", "different": "¿Qué posición sueles jugar?" },
-  { "main": "¿Qué es lo que más te gusta de los bolsos?", "different": "¿Qué llevas siempre en tu bolso o mochila?" },
-  { "main": "¿Qué prefieres: una pantalla grande o una pequeña?", "different": "¿Cuántas pulgadas tiene tu televisor o monitor?" },
-  { "main": "¿Cuál es tu mayor fuente de satisfacción?", "different": "¿Qué te hace sentir que has hecho un buen trabajo?" },
-  { "main": "¿Qué es lo que más te gusta de los lagos?", "different": "¿Prefieres el mar, un río o un lago?" },
-  { "main": "¿Qué prefieres: una serie animada o un anime?", "different": "¿Cuál es tu anime o dibujo favorito?" },
-  { "main": "¿Cuál es tu mayor debilidad por los embutidos?", "different": "¿Cuál es tu embutido favorito?" },
-  { "main": "¿Qué es lo que más te gusta de los jueves?", "different": "¿Sueles salir los jueves por la noche?" },
-  { "main": "¿Qué prefieres: un refresco de limón o de naranja?", "different": "¿Cuál es tu marca de refrescos favorita?" },
-  { "main": "¿Cuál es tu mayor logro en los estudios?", "different": "¿Cuál fue tu asignatura favorita en el colegio?" },
-  { "main": "¿Qué es lo que más te gusta de los aeropuertos?", "different": "¿Te gusta llegar con mucha antelación al aeropuerto?" },
-  { "main": "¿Qué prefieres: una pluma estilográfica o un roller?", "different": "¿Tienes buena letra?" },
-  { "main": "¿Cuál es tu mayor miedo a los cambios?", "different": "¿Te adaptas rápido a las nuevas situaciones?" },
-  { "main": "¿Qué es lo que más te gusta de los almuerzos?", "different": "¿A qué hora sueles almorzar?" },
-  { "main": "¿Qué prefieres: un viaje a la nieve o al desierto?", "different": "¿Has esquiado alguna vez?" },
-  { "main": "¿Cuál es tu mayor distracción al leer un libro?", "different": "¿Cuánto tiempo puedes estar leyendo sin parar?" },
-  { "main": "¿Qué es lo que más te gusta de las nubes?", "different": "¿Te gusta mirar las formas de las nubes?" },
-  { "main": "¿Qué prefieres: un cinturón de cuero o de tela?", "different": "¿Usas muchos accesorios?" },
-  { "main": "¿Cuál es tu mayor meta para tu carrera profesional?", "different": "¿En qué puesto te gustaría trabajar?" },
-  { "main": "¿Qué es lo que más te gusta de las exposiciones de arte?", "different": "¿Cuál es tu estilo artístico favorito?" },
-  { "main": "¿Qué prefieres: un vegetal crudo o cocinado?", "different": "¿Qué verdura te gusta más?" },
-  { "main": "¿Cuál es tu mayor habilidad para resolver problemas?", "different": "¿Te consideras una persona resolutiva?" },
-  { "main": "¿Qué es lo que más te gusta de las gafas de sol?", "different": "¿Qué marca de gafas de sol prefieres?" },
-  { "main": "¿Qué prefieres: un altavoz inteligente o uno normal?", "different": "¿Usas Alexa, Google Home o Siri?" },
-  { "main": "¿Cuál es tu mayor fuente de curiosidad?", "different": "¿Sobre qué tema te gustaría investigar más?" },
-  { "main": "¿Qué es lo que más te gusta de los bosques?", "different": "¿Te da miedo perderte en un bosque?" },
-  { "main": "¿Qué prefieres: una película de época o de ciencia ficción?", "different": "¿Cuál es tu época favorita para ver en el cine?" },
-  { "main": "¿Cuál es tu mayor debilidad por las salsas?", "different": "¿Cuál es tu salsa favorita para las patatas?" },
-  { "main": "¿Qué es lo que más te gusta de las tardes?", "different": "¿Qué sueles hacer a las 6 de la tarde?" },
-  { "main": "¿Qué prefieres: batido de fresa o de chocolate?", "different": "¿Cuál es tu sabor de batido favorito?" },
-  { "main": "¿Cuál es tu mayor logro en la vida cotidiana?", "different": "¿Qué pequeña victoria has tenido hoy?" },
-  { "main": "¿Qué es lo que más te gusta de los taxis o ubers?", "different": "¿Prefieres conducir o que te lleven?" },
-  { "main": "¿Qué prefieres: un bloc de dibujo o un cuaderno de líneas?", "different": "¿Qué tipo de papel prefieres para escribir?" },
-  { "main": "¿Cuál es tu mayor miedo a las enfermedades?", "different": "¿Eres hipocondríaco?" },
-  { "main": "¿Qué es lo que más te gusta de las meriendas?", "different": "¿Qué sueles merendar?" },
-  { "main": "¿Qué prefieres: un viaje por Europa o por Asia?", "different": "¿A qué país de Asia viajarías primero?" },
-  { "main": "¿Cuál es tu mayor distracción en el gimnasio?", "different": "¿Qué música escuchas para entrenar?" },
-  { "main": "¿Qué es lo que más te gusta del cielo nocturno?", "different": "¿Has visto alguna vez una estrella fugaz?" },
-  { "main": "¿Qué prefieres: una corbata o una pajarita?", "different": "¿Te gusta vestirte formal?" },
-  { "main": "¿Cuál es tu mayor meta de superación personal?", "different": "¿Qué miedo has superado recientemente?" },
-  { "main": "¿Qué es lo que más te gusta de los teatros musicales?", "different": "¿Cuál es tu musical favorito?" },
-  { "main": "¿Qué prefieres: una legumbre o un cereal?", "different": "¿Cuál es tu plato de legumbres favorito?" },
-  { "main": "¿Cuál es tu mayor habilidad para organizar eventos?", "different": "¿Te gusta organizar fiestas?" },
-  { "main": "¿Qué es lo que más te gusta de los paraguas?", "different": "¿De qué color es tu paraguas?" },
-  { "main": "¿Qué prefieres: un ratón ergonómico o uno de gaming?", "different": "¿Pasas muchas horas frente al PC?" },
-  { "main": "¿Cuál es tu mayor fuente de orgullo familiar?", "different": "¿Qué es lo que más admiras de tus padres?" },
-  { "main": "¿Qué es lo que más te gusta de las cascadas?", "different": "¿Cuál es la cascada más bonita que has visto?" },
-  { "main": "¿Qué prefieres: una película de risa o una de llorar?", "different": "¿Cuál es la última película que te hizo llorar?" },
-  { "main": "¿Cuál es tu mayor debilidad por los frutos secos?", "different": "¿Cuál es tu fruto seco favorito?" },
-  { "main": "¿Qué es lo que más te gusta de los meses de verano?", "different": "¿Qué mes del año prefieres?" },
-  { "main": "¿Qué prefieres: una limonada o un té frío?", "different": "¿Qué bebes cuando tienes mucha sed?" },
-  { "main": "¿Cuál es tu mayor logro en un proyecto creativo?", "different": "¿Qué has creado tú mismo que te guste mucho?" },
-  { "main": "¿Qué es lo que más te gusta de las estaciones de tren?", "different": "¿Te gusta la estética de las estaciones antiguas?" },
-  { "main": "¿Qué prefieres: un rotulador o un lápiz de color?", "different": "¿Te gusta colorear mandalas o dibujos?" },
-  { "main": "¿Cuál es tu mayor miedo a las tormentas?", "different": "¿Te gustan los truenos y relámpagos?" },
-  { "main": "¿Qué es lo que más te gusta de los brunchs?", "different": "¿Qué plato no puede faltar en un brunch?" },
-  { "main": "¿Qué prefieres: un viaje por América o por África?", "different": "¿A qué país de África irías de safari?" },
-  { "main": "¿Cuál es tu mayor distracción en una clase o conferencia?", "different": "¿Tomas apuntes a mano o en digital?" },
-  { "main": "¿Qué es lo que más te gusta de los arcoíris?", "different": "¿Has visto alguna vez un arcoíris doble?" },
-  { "main": "¿Qué prefieres: un vestido o una falda?", "different": "¿Qué estilo de ropa te define mejor?" },
-  { "main": "¿Cuál es tu mayor meta para tu jubilación?", "different": "¿Dónde te gustaría vivir cuando seas mayor?" },
-  { "main": "¿Qué es lo que más te gusta de las galerías de arte?", "different": "¿Comprarías un cuadro para tu casa?" },
-  { "main": "¿Qué prefieres: una patata asada o frita?", "different": "¿Cómo te gustan más las patatas?" },
-  { "main": "¿Cuál es tu mayor habilidad para la jardinería?", "different": "¿Se te mueren las plantas?" },
-  { "main": "¿Qué es lo que más te gusta de las joyas?", "different": "¿Qué joya llevas siempre puesta?" },
-  { "main": "¿Qué prefieres: unos cascos inalámbricos o con cable?", "different": "¿Qué marca de cascos usas?" },
-  { "main": "¿Cuál es tu mayor fuente de ambición personal?", "different": "¿Qué te hace querer ser mejor cada día?" },
-  { "main": "¿Qué es lo que más te gusta de las islas?", "different": "¿Cuál es tu isla favorita del mundo?" },
-  { "main": "¿Qué prefieres: una película del oeste o de samuráis?", "different": "¿Te gustan las películas clásicas?" },
-  { "main": "¿Cuál es tu mayor debilidad por las frituras?", "different": "¿Cuál es tu fritura favorita?" },
-  { "main": "¿Qué es lo que más te gusta de los días de lluvia?", "different": "¿Qué película ves un día lluvioso?" },
-  { "main": "¿Qué prefieres: una bebida con hielo o del tiempo?", "different": "¿Te gusta el café con hielo?" },
-  { "main": "¿Cuál es tu mayor logro en la cocina internacional?", "different": "¿Qué plato de otro país sabes cocinar?" },
-  { "main": "¿Qué es lo que más te gusta de los metros (subterráneos)?", "different": "¿Cuál es el metro más limpio que has visto?" },
-  { "main": "¿Qué prefieres: una pluma de ave o un bolígrafo moderno?", "different": "¿Te gusta la caligrafía?" },
-  { "main": "¿Cuál es tu mayor miedo a los espacios cerrados?", "different": "¿Te agobian los ascensores?" },
-  { "main": "¿Qué es lo que más te gusta de los buffets libres?", "different": "¿Qué es lo primero que coges en un buffet?" },
-  { "main": "¿Qué prefieres: un viaje por Australia o por la Antártida?", "different": "¿Te gustaría visitar los dos polos?" },
-  { "main": "¿Cuál es tu mayor distracción en el sofá?", "different": "¿Qué haces mientras ves la tele?" },
-  { "main": "¿Qué es lo que más te gusta de las nubes al atardecer?", "different": "¿De qué color prefieres el cielo?" },
-  { "main": "¿Qué prefieres: un traje completo o una americana?", "different": "¿Qué marca de ropa formal prefieres?" },
-  { "main": "¿Cuál es tu mayor meta para tu salud física?", "different": "¿Qué ejercicio te cuesta más hacer?" },
-  { "main": "¿Qué es lo que más te gusta de las óperas?", "different": "¿Has ido alguna vez a la ópera?" },
-  { "main": "¿Qué prefieres: un postre con nata o sin nata?", "different": "¿Te gusta el dulce de leche?" },
-  { "main": "¿Cuál es tu mayor habilidad para las manualidades?", "different": "¿Qué es lo más difícil que has construido?" },
-  { "main": "¿Qué es lo que más te gusta de los pañuelos?", "different": "¿Usas pañuelos de seda o de tela?" },
-  { "main": "¿Qué prefieres: un monitor curvo o plano?", "different": "¿Qué tamaño de pantalla prefieres?" },
-  { "main": "¿Cuál es tu mayor fuente de inspiración artística?", "different": "¿Qué museo del mundo te falta por visitar?" },
-  { "main": "¿Qué es lo que más te gusta de los volcanes?", "different": "¿Has visto alguna vez un volcán activo?" },
-  { "main": "¿Qué prefieres: una película de espías o de detectives?", "different": "¿Quién es tu detective de ficción favorito?" },
-  { "main": "¿Cuál es tu mayor debilidad por el picante?", "different": "¿Cuál es el nivel de picante que toleras?" },
-  { "main": "¿Qué es lo que más te gusta de los meses de invierno?", "different": "¿Prefieres el frío extremo o el calor extremo?" },
-  { "main": "¿Qué prefieres: una tarta de queso o de manzana?", "different": "¿Cuál es la mejor tarta que has probado?" },
-  { "main": "¿Cuál es tu mayor logro en el mundo digital?", "different": "¿Tienes algún blog o canal?" },
-  { "main": "¿Qué es lo que más te gusta de las estaciones de bus?", "different": "¿Cuál es el viaje más largo que has hecho en bus?" },
-  { "main": "¿Qué prefieres: un marcador fluorescente o un subrayador pastel?", "different": "¿De qué color subrayas tus apuntes?" },
-  { "main": "¿Cuál es tu mayor miedo a los ruidos fuertes?", "different": "¿Te asustan los petardos o fuegos artificiales?" },
-  { "main": "¿Qué es lo que más te gusta de los platos combinados?", "different": "¿Qué comida es la más completa para ti?" },
-  { "main": "¿Qué prefieres: un viaje por el sudeste asiático o por Sudamérica?", "different": "¿A qué país de Sudamérica viajarías primero?" },
-  { "main": "¿Cuál es tu mayor distracción en la cama antes de dormir?", "different": "¿Miras el móvil antes de dormir?" },
-  { "main": "¿Qué es lo que más te gusta de la luz del sol?", "different": "¿Te gusta tomar el sol?" },
-  { "main": "¿Qué prefieres: un chaleco o una chaqueta?", "different": "¿Qué prenda de abrigo prefieres?" },
-  { "main": "¿Cuál es tu mayor meta para tu formación continua?", "different": "¿Qué máster o curso te gustaría hacer?" },
-  { "main": "¿Qué es lo que más te gusta de los conciertos de música clásica?", "different": "¿Cuál es tu compositor favorito?" },
-  { "main": "¿Qué prefieres: una fruta de temporada o exótica?", "different": "¿Cuál es la fruta más rara que has comido?" },
-  { "main": "¿Cuál es tu mayor habilidad para la carpintería?", "different": "¿Has hecho algún mueble alguna vez?" },
-  { "main": "¿Qué es lo que más te gusta de los sombreros?", "different": "¿Te quedan bien los sombreros?" },
-  { "main": "¿Qué prefieres: un altavoz bluetooth o con cable?", "different": "¿Qué marca de altavoces prefieres?" },
-  { "main": "¿Cuál es tu mayor fuente de motivación intrínseca?", "different": "¿Qué te hace sentir realizado?" },
-  { "main": "¿Qué es lo que más te gusta de los ríos?", "different": "¿Te bañarías en un río?" },
-  { "main": "¿Qué prefieres: una película de aventuras o un drama?", "different": "¿Cuál es tu drama favorito?" },
-  { "main": "¿Cuál es tu mayor debilidad por los chocolates?", "different": "¿Chocolate blanco, negro o con leche?" },
-  { "main": "¿Qué es lo que más te gusta de los amaneceres en la playa?", "different": "¿Has dormido alguna vez en la playa?" },
-  { "main": "¿Qué prefieres: un café expreso o un capuchino?", "different": "¿Cuántos cafés tomas al día?" },
-  { "main": "¿Cuál es tu mayor logro en la superación de un hábito?", "different": "¿Qué hábito has dejado recientemente?" },
-  { "main": "¿Qué es lo que más te gusta de los barcos de vela?", "different": "¿Has navegado alguna vez?" },
-  { "main": "¿Qué prefieres: un cuaderno de cuadros o de puntos?", "different": "¿Usas el método Bullet Journal?" },
-  { "main": "¿Cuál es tu mayor miedo a los fantasmas?", "different": "¿Crees en lo paranormal?" },
-  { "main": "¿Qué es lo que más te gusta de las comidas familiares?", "different": "¿Quién cocina mejor en tu familia?" },
-  { "main": "¿Qué prefieres: un viaje a un pueblo pequeño o a una metrópolis?", "different": "¿Cuál es el pueblo más bonito que conoces?" },
-  { "main": "¿Cuál es tu mayor distracción en el trabajo en equipo?", "different": "¿Prefieres trabajar solo o acompañado?" },
-  { "main": "¿Qué es lo que más te gusta del color azul?", "different": "¿Cuál es tu color favorito?" },
-  { "main": "¿Qué prefieres: una blusa o una camisa?", "different": "¿Qué marca de camisas prefieres?" },
-  { "main": "¿Cuál es tu mayor meta para tu bienestar físico?", "different": "¿Qué deporte practicas?" },
-  { "main": "¿Qué es lo que más te gusta de los circos?", "different": "¿Te gustan los circos con animales (si existieran) o sin ellos?" },
-  { "main": "¿Qué prefieres: una pasta larga o corta?", "different": "¿Cuál es tu salsa de pasta favorita?" },
-  { "main": "¿Cuál es tu mayor habilidad para la costura?", "different": "¿Sabes coser un botón?" },
-  { "main": "¿Qué es lo que más te gusta de los guantes?", "different": "¿De qué material prefieres los guantes?" },
-  { "main": "¿Qué prefieres: un PC de sobremesa o un All-in-One?", "different": "¿Qué marca de PC prefieres?" },
-  { "main": "¿Cuál es tu mayor fuente de alegría diaria?", "different": "¿Qué te hace sonreír por la mañana?" },
-  { "main": "¿Qué es lo que más te gusta de los acantilados?", "different": "¿Te dan vértigo los acantilados?" },
-  { "main": "¿Qué prefieres: una película de ciencia ficción o fantasía?", "different": "¿Cuál es tu saga de fantasía favorita?" },
-  { "main": "¿Cuál es tu mayor debilidad por las chuches?", "different": "¿Cuál es tu gominola favorita?" },
-  { "main": "¿Qué es lo que más te gusta de los días de campo?", "different": "¿Qué llevas a un picnic?" },
-  { "main": "¿Qué prefieres: una infusión o un té?", "different": "¿Cuál es tu infusión favorita?" },
-  { "main": "¿Cuál es tu mayor logro en la gestión del tiempo?", "different": "¿Eres una persona organizada?" },
-  { "main": "¿Qué es lo que más te gusta de los coches clásicos?", "different": "¿Te gustaría tener un coche antiguo?" },
-  { "main": "¿Qué prefieres: una carpeta de anillas o un archivador?", "different": "¿Cómo guardas tus documentos importantes?" },
-  { "main": "¿Cuál es tu mayor miedo a las profundidades del mar?", "different": "¿Te da miedo nadar donde no cubra?" },
-  { "main": "¿Qué es lo que más te gusta de los aperitivos?", "different": "¿Cuál es tu aperitivo favorito?" },
-  { "main": "¿Qué prefieres: un viaje por los fiordos noruegos o por el Caribe?", "different": "¿Te gusta más el frío o el calor?" },
-  { "main": "¿Cuál es tu mayor distracción al volante?", "different": "¿Te gusta conducir?" },
-  { "main": "¿Qué es lo que más te gusta del olor a césped recién cortado?", "different": "¿Cuál es tu olor favorito de la naturaleza?" },
-  { "main": "¿Qué prefieres: un abrigo largo o uno corto?", "different": "¿De qué color es tu abrigo?" },
-  { "main": "¿Cuál es tu mayor meta para tu vida social?", "different": "¿Te gustaría conocer a más gente?" },
-  { "main": "¿Qué es lo que más te gusta de los ballets?", "different": "¿Has visto alguna vez 'El lago de los cisnes'?" },
-  { "main": "¿Qué prefieres: una verdura al vapor o a la plancha?", "different": "¿Cuál es tu verdura favorita?" },
-  { "main": "¿Cuál es tu mayor habilidad para la electrónica?", "different": "¿Sabes arreglar algo electrónico?" },
-  { "main": "¿Qué es lo que más te gusta de las bufandas?", "different": "¿Cómo te pones la bufanda?" },
-  { "main": "¿Qué prefieres: un teclado con luces o sin ellas?", "different": "¿Te gusta la estética gaming?" },
-  { "main": "¿Cuál es tu mayor fuente de tranquilidad espiritual?", "different": "¿Practicas meditación o yoga?" },
-  { "main": "¿Qué es lo que más te gusta de las cuevas?", "different": "¿Has hecho espeleología alguna vez?" },
-  { "main": "¿Qué prefieres: una película de superhéroes o de villanos?", "different": "¿Cuál es tu superhéroe favorito?" },
-  { "main": "¿Cuál es tu mayor debilidad por los postres caseros?", "different": "¿Qué postre hace mejor tu abuela o madre?" },
-  { "main": "¿Qué es lo que más te gusta de los meses de otoño?", "different": "¿Te gusta ver caer las hojas?" },
-  { "main": "¿Qué prefieres: una bebida fría o muy fría?", "different": "¿Bebes con muchos hielos?" },
-  { "main": "¿Cuál es tu mayor logro en la resolución de conflictos?", "different": "¿Te consideras una persona mediadora?" },
-  { "main": "¿Qué es lo que más te gusta de los faros?", "different": "¿Te gustaría vivir en un faro?" },
-  { "main": "¿Qué prefieres: un cuaderno de espiral o cosido?", "different": "¿Cuál es tu marca de cuadernos favorita?" },
-  { "main": "¿Cuál es tu mayor miedo a los payasos?", "different": "¿Te dan miedo los payasos?" },
-  { "main": "¿Qué es lo que más te gusta de las meriendas-cenas?", "different": "¿Qué sueles comer en una merienda-cena?" },
-  { "main": "¿Qué prefieres: un viaje en caravana o en furgoneta camper?", "different": "¿Te gustaría vivir en una furgoneta?" },
-  { "main": "¿Cuál es tu mayor distracción en el cine en casa?", "different": "¿Miras el móvil mientras ves una película?" },
-  { "main": "¿Qué es lo que más te gusta del color rojo?", "different": "¿Qué objeto de color rojo tienes?" },
-  { "main": "¿Qué prefieres: una prenda de seda o de lana?", "different": "¿Te gusta el tacto de la seda?" },
-  { "main": "¿Cuál es tu mayor meta para tu salud emocional?", "different": "¿Vas al psicólogo o haces terapia?" },
-  { "main": "¿Qué es lo que más te gusta de los títeres?", "different": "¿Te gustaban los títeres de niño?" },
-  { "main": "¿Qué prefieres: una fruta con piel o sin piel?", "different": "¿Qué fruta comes con piel?" },
-  { "main": "¿Cuál es tu mayor habilidad para la fontanería?", "different": "¿Has arreglado un grifo alguna vez?" },
-  { "main": "¿Qué es lo que más te gusta de las gorras?", "different": "¿Llevas gorra hacia adelante o hacia atrás?" },
-  { "main": "¿Qué prefieres: un ratón con muchos botones o sencillo?", "different": "¿Qué marca de ratón usas?" },
-  { "main": "¿Cuál es tu mayor fuente de satisfacción profesional?", "different": "¿Qué es lo que más te gusta de tu trabajo?" },
-  { "main": "¿Qué es lo que más te gusta de las lagunas?", "different": "¿Has nadado en una laguna alguna vez?" },
-  { "main": "¿Qué prefieres: una película de suspense o un thriller?", "different": "¿Cuál es el mejor thriller que has visto?" },
-  { "main": "¿Cuál es tu mayor debilidad por las tartas de frutas?", "different": "¿Cuál es tu tarta de frutas favorita?" },
-  { "main": "¿Qué es lo que más te gusta de los días de nieve?", "different": "¿Te gusta hacer muñecos de nieve?" },
-  { "main": "¿Qué prefieres: un batido natural o de bote?", "different": "¿Cuál es tu marca de batidos favorita?" },
-  { "main": "¿Cuál es tu mayor logro en la superación de un miedo?", "different": "¿Qué miedo has vencido?" },
-  { "main": "¿Qué es lo que más te gusta de los puertos de montaña?", "different": "¿Te gusta conducir por curvas?" },
-  { "main": "¿Qué prefieres: un lápiz de madera o uno de plástico?", "different": "¿Te gusta el olor de los lápices?" },
-  { "main": "¿Cuál es tu mayor miedo a los espejos?", "different": "¿Te dan miedo los espejos en la oscuridad?" },
-  { "main": "¿Qué es lo que más te gusta de las comidas de Navidad?", "different": "¿Qué plato es el más típico en tu casa?" },
-  { "main": "¿Qué prefieres: un viaje por los Alpes o por los Pirineos?", "different": "¿Te gusta la montaña?" },
-  { "main": "¿Cuál es tu mayor distracción al hablar por teléfono?", "different": "¿Qué haces mientras hablas por teléfono?" },
-  { "main": "¿Qué es lo que más te gusta del color verde?", "different": "¿Te gusta el color verde oliva?" },
-  { "main": "¿Qué prefieres: un jersey de cuello alto o redondo?", "different": "¿Qué marca de jerséis prefieres?" },
-  { "main": "¿Cuál es tu mayor meta para tu desarrollo personal?", "different": "¿Qué libro de autoayuda has leído?" },
-  { "main": "¿Qué es lo que más te gusta de las marionetas?", "different": "¿Has visto alguna vez un espectáculo de marionetas?" },
-  { "main": "¿Qué prefieres: una verdura asada o hervida?", "different": "¿Cuál es la verdura que menos te gusta?" },
-  { "main": "¿Cuál es tu mayor habilidad para la electricidad?", "different": "¿Sabes cambiar un enchufe?" },
-  { "main": "¿Qué es lo que más te gusta de las diademas o cintas?", "different": "¿Usas algo en el pelo?" },
-  { "main": "¿Qué prefieres: un monitor de 24 o 27 pulgadas?", "different": "¿Qué marca de monitor prefieres?" },
-  { "main": "¿Cuál es tu mayor fuente de felicidad compartida?", "different": "¿Qué es lo que más te gusta hacer con tus amigos?" },
-  { "main": "¿Qué es lo que más te gusta de las calas?", "different": "¿Prefieres las playas grandes o las calas pequeñas?" },
-  { "main": "¿Qué prefieres: una película de gánsteres o de policías?", "different": "¿Cuál es tu película de mafiosos favorita?" },
-  { "main": "¿Cuál es tu mayor debilidad por las galletas caseras?", "different": "¿Qué galletas haces tú mismo?" },
-  { "main": "¿Qué es lo que más te gusta de los meses de primavera?", "different": "¿Te dan alergia las flores?" },
-  { "main": "¿Qué prefieres: un agua con sabor o natural?", "different": "¿Cuál es tu marca de agua favorita?" },
-  { "main": "¿Cuál es tu mayor logro en la comunicación asertiva?", "different": "¿Te cuesta decir que no?" },
-  { "main": "¿Qué es lo que más te gusta de los tranvías?", "different": "¿Has viajado alguna vez en tranvía?" },
-  { "main": "¿Qué prefieres: un cuaderno de recambios o uno fijo?", "different": "¿Cómo tomas notas en las reuniones?" },
-  { "main": "¿Cuál es tu mayor miedo a las arañas?", "different": "¿Qué harías si vieras una araña en tu cama?" },
-  { "main": "¿Qué es lo que más te gusta de las comidas de cumpleaños?", "different": "¿Qué tarta pides siempre?" },
-  { "main": "¿Qué prefieres: un viaje por Japón o por China?", "different": "¿Qué país de Asia te llama más la atención?" },
-  { "main": "¿Cuál es tu mayor distracción en una videollamada?", "different": "¿Miras tu propia cara en las videollamadas?" },
-  { "main": "¿Qué es lo que más te gusta del color amarillo?", "different": "¿Te gusta el color amarillo limón?" },
-  { "main": "¿Qué prefieres: una camisa de cuadros o de rayas?", "different": "¿Qué marca de camisas usas?" },
-  { "main": "¿Cuál es tu mayor meta para tu salud cardiovascular?", "different": "¿Haces cardio habitualmente?" },
-  { "main": "¿Qué es lo que más te gusta de los malabares?", "different": "¿Sabes hacer malabares?" },
-  { "main": "¿Qué prefieres: una fruta dulce o una baya?", "different": "¿Cuál es tu baya favorita (fresa, arándano, etc.)?" },
-  { "main": "¿Cuál es tu mayor habilidad para el bricolaje?", "different": "¿Te gusta ir a tiendas de bricolaje?" },
-  { "main": "¿Qué es lo que más te gusta de los collares?", "different": "¿Llevas collares largos o cortos?" },
-  { "main": "¿Qué prefieres: un portátil táctil o normal?", "different": "¿Qué marca de portátil prefieres?" },
-  { "main": "¿Cuál es tu mayor fuente de gratitud?", "different": "¿Por qué estás agradecido hoy?" },
-  { "main": "¿Qué es lo que más te gusta de los pantanos?", "different": "¿Has hecho piragüismo en un pantano?" },
-  { "main": "¿Qué prefieres: una película de artes marciales o de boxeo?", "different": "¿Cuál es tu película de lucha favorita?" },
-  { "main": "¿Cuál es tu mayor debilidad por las palmeras de chocolate?", "different": "¿De qué pastelería son las mejores palmeras?" },
-  { "main": "¿Qué es lo que más te gusta de los meses de invierno en casa?", "different": "¿Te gusta leer con una manta?" },
-  { "main": "¿Qué prefieres: un zumo de piña o de melocotón?", "different": "¿Cuál es tu zumo favorito?" },
-  { "main": "¿Cuál es tu mayor logro en la superación de un obstáculo laboral?", "different": "¿Qué problema has resuelto en el trabajo?" },
-  { "main": "¿Qué es lo que más te gusta de los barcos de crucero?", "different": "¿Te gustaría ir de crucero?" },
-  { "main": "¿Qué prefieres: un bolígrafo azul o negro?", "different": "¿De qué color prefieres escribir?" },
-  { "main": "¿Cuál es tu mayor miedo a las serpientes?", "different": "¿Tocarías una serpiente?" },
-  { "main": "¿Qué es lo que más te gusta de las cenas de empresa?", "different": "¿Te llevas bien con tus compañeros de trabajo?" },
-  { "main": "¿Qué prefieres: un viaje por la costa o por el interior?", "different": "¿Cuál es tu ruta costera favorita?" },
-  { "main": "¿Cuál es tu mayor distracción al escribir un email?", "different": "¿Cuánto tardas en escribir un email importante?" },
-  { "main": "¿Qué es lo que más te gusta del color lila?", "different": "¿Tienes algo de color lila?" },
-  { "main": "¿Qué prefieres: una prenda de lino o de algodón?", "different": "¿Te gusta la ropa de lino para el verano?" },
-  { "main": "¿Cuál es tu mayor meta para tu futuro financiero?", "different": "¿En qué te gustaría invertir tu dinero?" },
-  { "main": "¿Qué es lo que más te gusta de los espectáculos de magia?", "different": "¿Conoces algún truco de magia?" },
-  { "main": "¿Qué prefieres: un vegetal asado o salteado?", "different": "¿Cuál es el vegetal que mejor cocinas?" },
-  { "main": "¿Cuál es tu mayor habilidad para la pintura?", "different": "¿Has pintado algún cuadro alguna vez?" },
-  { "main": "¿Qué es lo que más te gusta de las pulseras?", "different": "¿Cuántas pulseras llevas en la muñeca?" },
-  { "main": "¿Qué prefieres: una tablet para leer o para jugar?", "different": "¿Qué marca de tablet prefieres?" },
-  { "main": "¿Cuál es tu mayor fuente de inspiración intelectual?", "different": "¿Qué intelectual o pensador admiras?" },
-  { "main": "¿Qué es lo que más te gusta de los arrecifes de coral?", "different": "¿Has hecho snorkel alguna vez?" },
-  { "main": "¿Qué prefieres: una película de terror psicológico o gore?", "different": "¿Qué película te ha dado más miedo?" },
-  { "main": "¿Cuál es tu mayor debilidad por los helados de tarrina?", "different": "¿Cuál es tu marca de helados favorita?" },
-  { "main": "¿Qué es lo que más te gusta de los días de viento?", "different": "¿Te gusta que haga viento?" },
-  { "main": "¿Qué prefieres: un granizado o un sorbete?", "different": "¿De qué sabor prefieres el granizado?" },
-  { "main": "¿Cuál es tu mayor logro en la autodisciplina?", "different": "¿Te cuesta seguir una rutina?" },
-  { "main": "¿Qué es lo que más te gusta de las furgonetas camperizadas?", "different": "¿Te comprarías una camper?" },
-  { "main": "¿Qué prefieres: un rotulador de punta fina o gruesa?", "different": "¿Para qué usas los rotuladores?" },
-  { "main": "¿Cuál es tu mayor miedo a los perros grandes?", "different": "¿Te gustan los perros?" },
-  { "main": "¿Qué es lo que más te gusta de los aperitivos con amigos?", "different": "¿Cuál es tu bebida de aperitivo favorita?" },
-  { "main": "¿Qué prefieres: un viaje por el norte o por el sur?", "different": "¿Cuál es tu destino favorito del norte?" },
-  { "main": "¿Cuál es tu mayor distracción al cocinar?", "different": "¿Escuchas música o podcast mientras cocinas?" },
-  { "main": "¿Qué es lo que más te gusta del color naranja?", "different": "¿Te gusta el color naranja?" },
-  { "main": "¿Qué prefieres: una chaqueta vaquera o una bomber?", "different": "¿Cuál es tu chaqueta favorita?" },
-  { "main": "¿Cuál es tu mayor meta para tu vejez?", "different": "¿Cómo te imaginas a los 80 años?" },
-  { "main": "¿Qué es lo que más te gusta de los museos de ciencia?", "different": "¿Te gusta la ciencia?" },
-  { "main": "¿Qué prefieres: un postre con fresas o con limón?", "different": "¿Cuál es tu postre de frutas favorito?" },
-  { "main": "¿Cuál es tu mayor habilidad para los puzles?", "different": "¿De cuántas piezas ha sido el puzle más grande que has hecho?" },
-  { "main": "¿Qué es lo que más te gusta de los pendientes?", "different": "¿Llevas pendientes habitualmente?" },
-  { "main": "¿Qué prefieres: un altavoz inteligente con pantalla o sin ella?", "different": "¿Qué marca de altavoz inteligente prefieres?" },
-  { "main": "¿Cuál es tu mayor fuente de satisfacción personal?", "different": "¿Qué es lo que más te enorgullece de ti?" },
-  { "main": "¿Qué es lo que más te gusta de los estanques?", "different": "¿Te gustan los nenúfares?" },
-  { "main": "¿Qué prefieres: una película de samuráis o de ninjas?", "different": "¿Te gusta la cultura japonesa?" },
-  { "main": "¿Cuál es tu mayor debilidad por los cruasanes?", "different": "¿Cruasán a la plancha o con chocolate?" },
-  { "main": "¿Qué es lo que más te gusta de los días de sol y playa?", "different": "¿Qué factor de protección solar usas?" },
-  { "main": "¿Qué prefieres: un zumo de naranja natural o de bote?", "different": "¿Te gusta el zumo con pulpa o sin pulpa?" },
-  { "main": "¿Cuál es tu mayor logro en el ámbito familiar?", "different": "¿Qué es lo más bonito que has hecho por tu familia?" },
-  { "main": "¿Qué es lo que más te gusta de los trenes de alta velocidad?", "different": "¿Prefieres el tren al avión?" },
-  { "main": "¿Qué prefieres: un subrayador amarillo o naranja?", "different": "¿Cuál es tu color de subrayador favorito?" },
-  { "main": "¿Cuál es tu mayor miedo a las alturas en un avión?", "different": "¿Te da miedo volar?" },
-  { "main": "¿Qué es lo que más te gusta de las cenas románticas?", "different": "¿Cuál es tu restaurante romántico favorito?" },
-  { "main": "¿Qué prefieres: un viaje por las islas griegas o por las Baleares?", "different": "¿Cuál es tu isla favorita del Mediterráneo?" },
-  { "main": "¿Cuál es tu mayor distracción en una clase de yoga?", "different": "¿Eres capaz de dejar la mente en blanco?" },
-  { "main": "¿Qué es lo que más te gusta del color gris?", "different": "¿Te gusta el color gris para vestir?" },
-  { "main": "¿Qué prefieres: una camisa de seda o de algodón?", "different": "¿Qué marca de camisas prefieres?" },
-  { "main": "¿Cuál es tu mayor meta para tu salud espiritual?", "different": "¿Haces alguna práctica espiritual?" },
-  { "main": "¿Qué es lo que más te gusta de los espectáculos de danza?", "different": "¿Te gusta el ballet o la danza contemporánea?" },
-  { "main": "¿Qué prefieres: una fruta de verano o de invierno?", "different": "¿Cuál es tu fruta de invierno favorita?" },
-  { "main": "¿Cuál es tu mayor habilidad para la reparación de muebles?", "different": "¿Has restaurado algún mueble antiguo?" },
-  { "main": "¿Qué es lo que más te gusta de las boinas?", "different": "¿Te gustan las boinas?" },
-  { "main": "¿Qué prefieres: un monitor ultrawide o normal?", "different": "¿Qué marca de monitor prefieres?" },
-  { "main": "¿Cuál es tu mayor fuente de alegría compartida con tu pareja?", "different": "¿Qué es lo que más te gusta hacer con tu pareja?" },
-  { "main": "¿Qué es lo que más te gusta de las playas vírgenes?", "different": "¿Prefieres las playas con chiringuito o sin nada?" },
-  { "main": "¿Qué prefieres: una película de crímenes reales o de ficción?", "different": "¿Cuál es tu serie de crímenes favorita?" },
-  { "main": "¿Cuál es tu mayor debilidad por las palmeras de hojaldre?", "different": "¿Cuál es tu dulce de hojaldre favorito?" },
-  { "main": "¿Qué es lo que más te gusta de los meses de verano en la ciudad?", "different": "¿Qué haces en verano si no te vas de vacaciones?" },
-  { "main": "¿Qué prefieres: un agua mineral o del grifo?", "different": "¿Qué marca de agua mineral prefieres?" },
-  { "main": "¿Cuál es tu mayor logro en la empatía?", "different": "¿Te consideras una persona empática?" },
-  { "main": "¿Qué es lo que más te gusta de los funiculares?", "different": "¿Has subido alguna vez a un funicular?" },
-  { "main": "¿Qué prefieres: un cuaderno de hojas blancas o rayadas?", "different": "¿Qué marca de cuadernos prefieres?" },
-  { "main": "¿Cuál es tu mayor miedo a las ratas?", "different": "¿Qué harías si vieras una rata?" },
-  { "main": "¿Qué es lo que más te gusta de las comidas de Navidad en familia?", "different": "¿Cuál es tu plato navideño favorito?" },
-  { "main": "¿Qué prefieres: un viaje por Escandinavia o por el Mediterráneo?", "different": "¿Te gusta el estilo de vida escandinavo?" },
-  { "main": "¿Cuál es tu mayor distracción en una videollamada de amigos?", "different": "¿Te gusta hacer videollamadas con tus amigos?" },
-  { "main": "¿Qué es lo que más te gusta del color turquesa?", "different": "¿Tienes algo de color turquesa?" },
-  { "main": "¿Qué prefieres: una camisa de cuadros o una lisa?", "different": "¿Qué marca de camisas prefieres?" },
-  { "main": "¿Cuál es tu mayor meta para tu condición física?", "different": "¿Qué reto físico te gustaría superar?" },
-  { "main": "¿Qué es lo que más te gusta de los espectáculos de fuego?", "different": "¿Has visto alguna vez un espectáculo de fuego?" },
-  { "main": "¿Qué prefieres: una fruta dulce o cítrica?", "different": "¿Cuál es tu cítrico favorito?" },
-  { "main": "¿Cuál es tu mayor habilidad para el modelismo?", "different": "¿Has montado alguna maqueta alguna vez?" },
-  { "main": "¿Qué es lo que más te gusta de los anillos?", "different": "¿Llevas anillos en los dedos?" },
-  { "main": "¿Qué prefieres: una tablet con lápiz óptico o sin él?", "different": "¿Para qué usas el lápiz de tu tablet?" },
-  { "main": "¿Cuál es tu mayor fuente de inspiración vital?", "different": "¿Qué libro ha cambiado tu vida?" },
-  { "main": "¿Qué es lo que más te gusta de los acantilados frente al mar?", "different": "¿Cuál es el acantilado más impresionante que has visto?" },
-  { "main": "¿Qué prefieres: una película de terror sobrenatural o de asesinos?", "different": "¿Qué película de terror te ha impresionado más?" },
-  { "main": "¿Cuál es tu mayor debilidad por los helados de cucurucho?", "different": "¿Cuál es tu heladería favorita?" },
-  { "main": "¿Qué es lo que más te gusta de los días de tormenta?", "different": "¿Te gusta ver la lluvia tras el cristal?" },
-  { "main": "¿Qué prefieres: un granizado de limón o de café?", "different": "¿De qué sabor prefieres el granizado?" },
-  { "main": "¿Cuál es tu mayor logro en la perseverancia?", "different": "¿Te consideras una persona constante?" },
-  { "main": "¿Qué es lo que más te gusta de las furgonetas camper?", "different": "¿Te gustaría viajar en una camper?" },
-  { "main": "¿Qué prefieres: un rotulador permanente o uno de pizarra?", "different": "¿De qué color prefieres el rotulador?" },
-  { "main": "¿Cuál es tu mayor miedo a las abejas?", "different": "¿Te han picado alguna vez?" },
-  { "main": "¿Qué es lo que más te gusta de los aperitivos en una terraza?", "different": "¿Cuál es tu terraza favorita?" },
-  { "main": "¿Qué prefieres: un viaje por el este de Europa o por el oeste?", "different": "¿Qué ciudad del este de Europa te gustaría visitar?" },
-  { "main": "¿Cuál es tu mayor distracción al preparar un examen o informe?", "different": "¿Cómo estudias o trabajas mejor?" },
-  { "main": "¿Qué es lo que más te gusta del color rosa?", "different": "¿Te gusta el color rosa para decorar?" },
-  { "main": "¿Qué prefieres: una chaqueta de punto o una sudadera?", "different": "¿Cuál es tu prenda favorita para estar por casa?" },
-  { "main": "¿Cuál es tu mayor meta para tu jubilación dorada?", "different": "¿Qué harás cuando te jubiles?" },
-  { "main": "¿Qué es lo que más te gusta de los planetarios?", "different": "¿Te gusta la astronomía?" },
-  { "main": "¿Qué prefieres: un postre con chocolate o con nata?", "different": "¿Cuál es tu postre favorito de chocolate?" },
-  { "main": "¿Cuál es tu mayor habilidad para los juegos de cartas?", "different": "¿A qué juego de cartas eres imbatible?" },
-  { "main": "¿Qué es lo que más te gusta de los relojes de pulsera?", "different": "¿Qué marca de relojes prefieres?" },
-  { "main": "¿Qué prefieres: un altavoz inteligente pequeño o grande?", "different": "¿Dónde tienes tu altavoz inteligente?" },
-  { "main": "¿Cuál es tu mayor fuente de satisfacción emocional?", "different": "¿Qué te hace sentir pleno?" },
-  { "main": "¿Qué es lo que más te gusta de los jardines botánicos?", "different": "¿Cuál es el jardín botánico más bonito que conoces?" },
-  { "main": "¿Qué prefieres: una película de ninjas o de piratas?", "different": "¿Cuál es tu pirata de ficción favorito?" },
-  { "main": "¿Cuál es tu mayor debilidad por los bollos de leche?", "different": "¿Cuál es tu bollo favorito para desayunar?" },
-  { "main": "¿Qué es lo que más te gusta de los días soleados de invierno?", "different": "¿Te gusta el frío con sol?" },
-  { "main": "¿Qué prefieres: un zumo de manzana o de uva?", "different": "¿Cuál es tu marca de zumos favorita?" },
-  { "main": "¿Cuál es tu mayor logro en el crecimiento personal?", "different": "¿Qué has aprendido sobre ti mismo este último año?" }
+  {
+    "main": "¿Quién del grupo es más probable que perdone una infidelidad solo para no quedarse solo?",
+    "different": "¿Quién del grupo es el más rencoroso y nunca olvidaría una traición?"
+  },
+  {
+    "main": "¿Quién del grupo se casaría por dinero sin pensarlo dos veces?",
+    "different": "¿Quién del grupo es un romántico empedernido que cree en el amor verdadero?"
+  },
+  {
+    "main": "¿Quién del grupo tiene el historial de búsqueda más perturbador de todos?",
+    "different": "¿Quién del grupo es el más inocente (o finge serlo)?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine en la cárcel por una tontería?",
+    "different": "¿Quién del grupo sería el cerebro criminal que nunca atraparían?"
+  },
+  {
+    "main": "¿Quién del grupo volvería con su ex por décima vez?",
+    "different": "¿Quién del grupo bloquea a sus ex de todas partes nada más terminar?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en traicionar a los demás en un apocalipsis zombie?",
+    "different": "¿Quién del grupo daría su vida por salvar al resto?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más secretos inconfesables que se llevará a la tumba?",
+    "different": "¿Quién del grupo es un libro abierto y cuenta su vida a desconocidos?"
+  },
+  {
+    "main": "¿Quién del grupo es el más tacaño a la hora de pagar la cuenta en un restaurante?",
+    "different": "¿Quién del grupo siempre se ofrece a invitar aunque no tenga dinero?"
+  },
+  {
+    "main": "¿Quién del grupo sería el peor padre o madre por su falta de paciencia?",
+    "different": "¿Quién del grupo está deseando tener hijos y ya tiene los nombres elegidos?"
+  },
+  {
+    "main": "¿Quién del grupo miente mejor sin que se le note absolutamente nada?",
+    "different": "¿Quién del grupo se pone rojo y empieza a tartamudear cuando intenta mentir?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se una a una secta solo por sentirse parte de algo?",
+    "different": "¿Quién del grupo es el más escéptico y no cree ni en su propia sombra?"
+  },
+  {
+    "main": "¿Quién del grupo ha revisado el celular de su pareja a escondidas?",
+    "different": "¿Quién del grupo confía ciegamente hasta que le dan motivos para no hacerlo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más veces se ha enamorado de alguien que no sabía que existía?",
+    "different": "¿Quién del grupo es un corazón de piedra que nunca se enamora?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse una cirugía estética innecesaria?",
+    "different": "¿Quién del grupo odia los filtros y defiende la belleza natural?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se pelee en una fila del supermercado por una tontería?",
+    "different": "¿Quién del grupo evitaría cualquier conflicto aunque le estén robando?"
+  },
+  {
+    "main": "¿Quién del grupo gasta más dinero en ropa que en comida?",
+    "different": "¿Quién del grupo lleva la misma camiseta desde hace 5 años y está orgulloso?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que olvide el cumpleaños de su propia madre?",
+    "different": "¿Quién del grupo sabe las fechas de aniversario de todo el mundo?"
+  },
+  {
+    "main": "¿Quién del grupo finge estar enfermo para no ir a un plan que le da pereza?",
+    "different": "¿Quién del grupo es incapaz de decir 'no' y siempre acaba yendo a todo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se haga millonario con un negocio turbio?",
+    "different": "¿Quién del grupo trabajaría 40 años en la misma empresa por seguridad?"
+  },
+  {
+    "main": "¿Quién del grupo tiene más fetiches raros que nunca admitirá en público?",
+    "different": "¿Quién del grupo es el más tradicional y aburrido en la cama?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en mudarse a otro país por un amor de verano?",
+    "different": "¿Quién del grupo no se mueve de su barrio ni aunque le paguen?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más stalkea a los amigos de sus ex?",
+    "different": "¿Quién del grupo tiene un doctorado en investigación del FBI?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que llore viendo un anuncio de comida para perros?",
+    "different": "¿Quién del grupo no lloró ni con el final de Titanic?"
+  },
+  {
+    "main": "¿Quién del grupo se cree más inteligente de lo que realmente es?",
+    "different": "¿Quién del grupo es un genio oculto que no presume de nada?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en sobrevivir solo en el bosque?",
+    "different": "¿Quién del grupo moriría de hambre si no tiene una app de comida a domicilio?"
+  },
+  {
+    "main": "¿Quién del grupo es el más propenso a creer en teorías conspirativas absurdas?",
+    "different": "¿Quién del grupo solo cree en lo que dice la ciencia y los datos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se haga un tatuaje con el nombre de alguien que conoció ayer?",
+    "different": "¿Quién del grupo tarda 3 años en decidir qué diseño de tatuaje hacerse?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de su vida pero no hace nada para cambiarla?",
+    "different": "¿Quién del grupo es un optimista desesperante que siempre ve el lado bueno?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en donar un riñón a un desconocido?",
+    "different": "¿Quién del grupo no te dejaría ni un cargador de celular si le queda poca batería?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine viviendo en una furgoneta por decisión propia?",
+    "different": "¿Quién del grupo necesita un hotel de 5 estrellas para ser feliz?"
+  },
+  {
+    "main": "¿Quién del grupo tiene la autoestima más inflada sin motivo aparente?",
+    "different": "¿Quién del grupo es el más inseguro y necesita validación constante?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se cuele en una boda de desconocidos solo por la comida?",
+    "different": "¿Quién del grupo es el más educado y respetuoso con las normas?"
+  },
+  {
+    "main": "¿Quién del grupo guarda rencor por algo que pasó en la escuela primaria?",
+    "different": "¿Quién del grupo olvida las peleas a los 5 minutos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor político por su capacidad de manipular a las masas?",
+    "different": "¿Quién del grupo es tan honesto que sería el primero en ser expulsado de la política?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de su mejor amigo/a a escondidas?",
+    "different": "¿Quién del grupo tiene la 'friendzone' más poblada del mundo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más gasta en cosas innecesarias cuando está triste?",
+    "different": "¿Quién del grupo ahorra hasta el último céntimo por miedo al futuro?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en participar en un reality show de parejas tóxicas?",
+    "different": "¿Quién del grupo odia la exposición pública y valora su privacidad?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que olvide dónde estacionó el coche y llame a la policía?",
+    "different": "¿Quién del grupo tiene una memoria privilegiada para los detalles inútiles?"
+  },
+  {
+    "main": "¿Quién del grupo se cree un 'espíritu libre' pero depende totalmente de sus padres?",
+    "different": "¿Quién del grupo es el más independiente desde los 15 años?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se haga famoso por un video haciendo el ridículo?",
+    "different": "¿Quién del grupo es tan serio que nunca ha hecho el ridículo en su vida?"
+  },
+  {
+    "main": "¿Quién del grupo ha mentido en su currículum de forma exagerada?",
+    "different": "¿Quién del grupo es el más trabajador y dedicado a su carrera?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en perdonar a un amigo que le robó dinero?",
+    "different": "¿Quién del grupo cortaría relación por una mentira pequeña?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se convierta en un ermitaño y se vaya a vivir a la montaña?",
+    "different": "¿Quién del grupo es un animal social que moriría sin compañía?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más habla de sí mismo y nunca pregunta por los demás?",
+    "different": "¿Quién del grupo es el mejor escuchando y dando consejos?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse la lotería en un solo fin de semana?",
+    "different": "¿Quién del grupo invertiría el premio y seguiría trabajando?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que tenga una crisis existencial por un comentario de un extraño?",
+    "different": "¿Quién del grupo tiene una piel de acero y nada le afecta?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más finge que sabe de un tema para no quedar mal?",
+    "different": "¿Quién del grupo admite que no sabe nada con total naturalidad?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en salvar a su mascota antes que a una persona desconocida?",
+    "different": "¿Quién del grupo es el más humanitario y solidario?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine saliendo con alguien 20 años mayor?",
+    "different": "¿Quién del grupo solo sale con personas de su edad exacta?"
+  },
+  {
+    "main": "¿Quién del grupo es el más propenso a sufrir un ataque de risa en un funeral?",
+    "different": "¿Quién del grupo es el más respetuoso y serio en momentos solemnes?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor espía internacional por su doble vida?",
+    "different": "¿Quién del grupo es tan transparente que se le nota todo en la cara?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de pagar una deuda de 5 euros por meses?",
+    "different": "¿Quién del grupo es el más responsable con el dinero ajeno?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más fotos se hace en el espejo del baño?",
+    "different": "¿Quién del grupo odia verse en las fotos y siempre se tapa la cara?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en perdonar una traición de un familiar?",
+    "different": "¿Quién del grupo es capaz de no hablarle a su familia por años por orgullo?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de un personaje de ficción?",
+    "different": "¿Quién del grupo es el más realista y pragmático en el amor?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más tarda en arreglarse antes de salir?",
+    "different": "¿Quién del grupo está listo en 5 minutos y se desespera esperando?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor líder de una revolución social?",
+    "different": "¿Quién del grupo es el más conformista y prefiere no meterse en problemas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de recoger a alguien en el aeropuerto?",
+    "different": "¿Quién del grupo es el más puntual y fiable para los favores?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más presume de sus ligues aunque sean mentira?",
+    "different": "¿Quién del grupo es el más discreto con su vida privada?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en hacerse vegetariano solo por moda?",
+    "different": "¿Quién del grupo comería carne aunque el mundo se estuviera acabando?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que tenga una cuenta falsa para vigilar a sus enemigos?",
+    "different": "¿Quién del grupo es el más pacífico y no tiene enemigos?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se fija en el físico antes que en la personalidad?",
+    "different": "¿Quién del grupo se enamora del cerebro y la forma de pensar?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor protagonista de una película de terror por lo tonto que es?",
+    "different": "¿Quién del grupo sería el superviviente que mata al asesino?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se gaste el sueldo en una sola noche de fiesta?",
+    "different": "¿Quién del grupo se lleva su propia bebida para no gastar en el bar?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más veces ha dicho 'estoy llegando' cuando todavía está en la ducha?",
+    "different": "¿Quién del grupo llega siempre 10 minutos antes a todos lados?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en mudarse con alguien que conoció hace una semana?",
+    "different": "¿Quién del grupo necesita 2 años de relación para plantearse vivir juntos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se haga famoso por una invención absurda?",
+    "different": "¿Quién del grupo es el más tradicional y odia los cambios?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja del calor en verano y del frío en invierno?",
+    "different": "¿Quién del grupo nunca se queja por nada y se adapta a todo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor detective privado por lo cotilla que es?",
+    "different": "¿Quién del grupo es el más despistado y no se entera de nada de lo que pasa?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de un turista y nunca lo vuelva a ver?",
+    "different": "¿Quién del grupo es el más estable y busca relaciones largas?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más usa la ironía para no mostrar su vulnerabilidad?",
+    "different": "¿Quién del grupo es el más sensible y llora por todo?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en tatuarse la cara por un impulso?",
+    "different": "¿Quién del grupo tiene miedo hasta de hacerse un pendiente en la oreja?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de comer por estar concentrado en algo?",
+    "different": "¿Quién del grupo vive pensando en la siguiente comida todo el día?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más miente sobre su edad?",
+    "different": "¿Quién del grupo está orgulloso de sus años y sus arrugas?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en adoptar 10 perros callejeros?",
+    "different": "¿Quién del grupo odia a los animales y prefiere no tener mascotas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que termine siendo un influencer de autoayuda?",
+    "different": "¿Quién del grupo es el más cínico y realista sobre la vida?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más presume de cosas que compró en rebajas?",
+    "different": "¿Quién del grupo compra siempre lo más caro para demostrar estatus?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en perdonar a un amigo que le quitó la pareja?",
+    "different": "¿Quién del grupo es capaz de planear una venganza por años?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de alguien solo por su olor?",
+    "different": "¿Quién del grupo se fija en los zapatos antes que en la cara?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se arrepiente de sus decisiones al día siguiente?",
+    "different": "¿Quién del grupo nunca mira atrás y está seguro de lo que hace?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor concursante de un programa de supervivencia?",
+    "different": "¿Quién del grupo abandonaría el programa a los 10 minutos por falta de higiene?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de cerrar la puerta de casa con llave?",
+    "different": "¿Quién del grupo es un paranoico de la seguridad y revisa todo 3 veces?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más presume de su familia aunque se lleven mal?",
+    "different": "¿Quién del grupo es el más independiente y apenas habla con sus parientes?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse el dinero en un viaje sin tener donde dormir?",
+    "different": "¿Quién del grupo planifica hasta los minutos de descanso en un viaje?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de un criminal por la adrenalina?",
+    "different": "¿Quién del grupo busca la paz y la tranquilidad por encima de todo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más finge que le gusta la comida de los demás para no ofender?",
+    "different": "¿Quién del grupo es tan sincero que dice que la comida está mala en la cara?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en perdonar a alguien que le hizo bullying en el pasado?",
+    "different": "¿Quién del grupo nunca olvida una humillación y espera su momento?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de beber agua en todo el día?",
+    "different": "¿Quién del grupo es un obsesivo de la salud y el fitness?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más tarda en responder un mensaje de WhatsApp?",
+    "different": "¿Quién del grupo responde en menos de 5 segundos siempre?"
+  },
+  {
+    "main": "¿Quién del grupo sería el mejor protagonista de una novela dramática?",
+    "different": "¿Quién del grupo es el alivio cómico que nunca se toma nada en serio?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de alguien que vio en una foto?",
+    "different": "¿Quién del grupo necesita conocer a alguien en profundidad antes de sentir algo?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más presume de sus habilidades en la cocina sin saber freír un huevo?",
+    "different": "¿Quién del grupo es un chef profesional frustrado?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse el sueldo en una colección de figuras?",
+    "different": "¿Quién del grupo es el más maduro y responsable con sus gastos?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de que tiene una cita y se quede durmiendo?",
+    "different": "¿Quién del grupo está listo una hora antes de cualquier cita?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más presume de sus viajes por redes sociales?",
+    "different": "¿Quién del grupo viaja y nadie se entera hasta que vuelve?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en perdonar a alguien que le rompió el corazón?",
+    "different": "¿Quién del grupo es el más orgulloso y nunca vuelve atrás?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se enamore de alguien por su voz por teléfono?",
+    "different": "¿Quién del grupo es el más visual y necesita ver a la persona?"
+  },
+  {
+    "main": "¿Quién del grupo es el que más se queja de las redes sociales mientras las usa todo el día?",
+    "different": "¿Quién del grupo borró sus redes por salud mental?"
+  },
+  {
+    "main": "¿Quién del grupo sería el primero en gastarse el dinero en un curso de algo que nunca hará?",
+    "different": "¿Quién del grupo es el más práctico y enfocado en sus metas?"
+  },
+  {
+    "main": "¿Quién del grupo es más probable que se olvide de que este es solo un juego y se enfade de verdad?",
+    "different": "¿Quién del grupo se toma todo con humor y nunca se pica?"
+  }
 ]

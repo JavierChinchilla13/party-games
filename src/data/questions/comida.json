@@ -1,322 +1,42 @@
 [
-  {
-    "main": "¿Quién del grupo es más probable que coma algo que se cayó al piso hace 10 segundos?",
-    "different": "¿Quién del grupo es la persona más asquienta con la comida?"
-  },
-  {
-    "main": "¿Quién del grupo sería un chef con estrella Michelin?",
-    "different": "¿Quién del grupo es más probable que queme hasta el agua hervida?"
-  },
-  {
-    "main": "¿Quién es más probable que pida pizza con piña y la defienda a muerte?",
-    "different": "¿Quién es más probable que haga un berrinche si ve piña en su pizza?"
-  },
-  {
-    "main": "¿Quién del grupo gasta más dinero en aplicaciones de comida (Uber Eats/Rappi)?",
-    "different": "¿Quién del grupo siempre tiene la refrigeradora llena de comida casera?"
-  },
-  {
-    "main": "¿Quién es más probable que pida siempre lo más caro del menú?",
-    "different": "¿Quién es más probable que busque el plato más barato o pida solo una entrada?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se coma las sobras de los demás?",
-    "different": "¿Quién del grupo nunca comparte su comida con nadie?"
-  },
-  {
-    "main": "¿Quién es más probable que sea vegetariano o vegano en secreto?",
-    "different": "¿Quién del grupo no puede vivir un día sin comer carne?"
-  },
-  {
-    "main": "¿Quién del grupo tiene los gustos de comida más infantiles (nuggets, papas)?",
-    "different": "¿Quién del grupo tiene el paladar más sofisticado y exótico?"
-  },
-  {
-    "main": "¿Quién es más probable que se termine un frasco entero de Nutella en una sentada?",
-    "different": "¿Quién del grupo dice que 'no le gusta mucho el dulce'?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que le tome fotos a su comida antes de empezar a comer?",
-    "different": "¿Quién del grupo empieza a comer antes de que todos estén servidos?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un crítico gastronómico despiadado?",
-    "different": "¿Quién del grupo dice que 'todo está rico' aunque la comida sea un desastre?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se coma un chile habanero por una apuesta?",
-    "different": "¿Quién del grupo no tolera ni un poquito de pimienta?"
-  },
-  {
-    "main": "¿Quién es más probable que sepa preparar los mejores cócteles?",
-    "different": "¿Quién del grupo se emborracha con solo oler una cerveza?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que tenga una reserva de snacks escondida en su cuarto?",
-    "different": "¿Quién del grupo siempre está a dieta?"
-  },
-  {
-    "main": "¿Quién es más probable que sepa cuál es el mejor restaurante de comida rápida de la ciudad?",
-    "different": "¿Quién del grupo cree que la comida rápida es veneno?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que invite a todos a comer y luego 'olvide' la billetera?",
-    "different": "¿Quién del grupo siempre quiere dividir la cuenta exactamente por lo que cada uno consumió?"
-  },
-  {
-    "main": "¿Quién es más probable que coma pizza fría de desayuno?",
-    "different": "¿Quién del grupo es el más exigente con la temperatura de su comida?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que gane un concurso de comer hamburguesas?",
-    "different": "¿Quién del grupo se llena con tres bocados?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un experto en café y juzgue a los que toman café instantáneo?",
-    "different": "¿Quién del grupo le pone 5 cucharadas de azúcar al café?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que cocine para todos en una fiesta?",
-    "different": "¿Quién del grupo es el que siempre llega a comer pero nunca ayuda a lavar los platos?"
-  },
-  {
-    "main": "¿Quién es más probable que pruebe comida de perro solo por curiosidad?",
-    "different": "¿Quién del grupo no prueba nada nuevo si no sabe exactamente qué ingredientes tiene?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea adicto al sushi?",
-    "different": "¿Quién del grupo odia el pescado crudo?"
-  },
-  {
-    "main": "¿Quién es más probable que coma chocolate cuando está estresado?",
-    "different": "¿Quién del grupo prefiere comer algo salado o picante cuando está ansioso?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa hacer un asado/parrillada perfecta?",
-    "different": "¿Quién del grupo es el que siempre quema la carne en la parrilla?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un 'foodie' que solo va a lugares por el concepto y la decoración?",
-    "different": "¿Quién del grupo prefiere los lugares 'de mala muerte' pero con comida deliciosa?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que coma con las manos siempre que puede?",
-    "different": "¿Quién del grupo usa cubiertos hasta para comer pizza o hamburguesas?"
-  },
-  {
-    "main": "¿Quién es más probable que sepa qué vino combina con cada comida?",
-    "different": "¿Quién del grupo toma vino en vaso de plástico con hielo?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea el primero en emborracharse con barra libre?",
-    "different": "¿Quién del grupo es el que siempre toma solo agua o refresco natural?"
-  },
-  {
-    "main": "¿Quién es más probable que tenga una colección de tazas o platos raros?",
-    "different": "¿Quién del grupo tiene solo un plato y un tenedor en su casa?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se coma el borde de la pizza de los demás?",
-    "different": "¿Quién del grupo deja siempre los bordes de la pizza?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre propone ir a comer después de la fiesta?",
-    "different": "¿Quién del grupo se va directo a dormir después de salir?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa cocinar comida china o japonesa?",
-    "different": "¿Quién del grupo cree que la comida oriental es solo arroz frito?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre trae postre a las reuniones?",
-    "different": "¿Quién del grupo es el que siempre llega con las manos vacías?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que tenga un huerto con sus propios vegetales?",
-    "different": "¿Quién del grupo no sabe distinguir entre perejil y cilantro?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre elige dónde comer?",
-    "different": "¿Quién del grupo siempre dice 'lo que ustedes quieran' pero luego se queja?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que coma cereal de cena?",
-    "different": "¿Quién del grupo necesita una cena formal de tres tiempos?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un adicto a las bebidas energéticas?",
-    "different": "¿Quién del grupo solo toma té verde y jugos detox?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa hacer los mejores postres?",
-    "different": "¿Quién del grupo prefiere comprar todo hecho en la panadería?"
-  },
-  {
-    "main": "¿Quién es más probable que coma algo vencido por un día?",
-    "different": "¿Quién del grupo bota la comida si falta un día para que venza?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea el que más come pero nunca engorda?",
-    "different": "¿Quién del grupo engorda solo con ver una foto de una dona?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre pide extra queso?",
-    "different": "¿Quién del grupo es intolerante a la lactosa y sufre en silencio?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa dónde venden los mejores tacos?",
-    "different": "¿Quién del grupo cree que Taco Bell es comida mexicana real?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un experto en quesos?",
-    "different": "¿Quién del grupo cree que el único queso que existe es el amarillo?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa hacer pan casero?",
-    "different": "¿Quién del grupo compra el pan más barato del supermercado?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre pide para llevar lo que sobró?",
-    "different": "¿Quién del grupo deja la mitad del plato por pena a pedir una bolsa?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea adicto a la salsa picante?",
-    "different": "¿Quién del grupo le pone salsa Lizano a absolutamente todo?"
-  },
-  {
-    "main": "¿Quién es más probable que sepa hacer la mejor pasta casera?",
-    "different": "¿Quién del grupo cree que los fideos instantáneos son alta cocina?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea el que siempre organiza las cenas de cumpleaños?",
-    "different": "¿Quién del grupo es el que nunca confirma su asistencia hasta el último minuto?"
-  },
-  {
-    "main": "¿Quién es más probable que coma en la cama viendo series?",
-    "different": "¿Quién del grupo tiene prohibido comer fuera del comedor?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea un fanático de las parrilladas?",
-    "different": "¿Quién del grupo prefiere una ensalada ligera antes que un corte de carne?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre pide el postre antes que el plato fuerte?",
-    "different": "¿Quién del grupo nunca pide postre por cuidar la línea?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa hacer las mejores empanadas?",
-    "different": "¿Quién del grupo no sabe ni cómo encender la cocina?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un adicto al chocolate oscuro?",
-    "different": "¿Quién del grupo solo come chocolate con leche o blanco?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que coma limones con sal como snack?",
-    "different": "¿Quién del grupo odia los sabores ácidos?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre pide una bebida diferente en cada ronda?",
-    "different": "¿Quién del grupo toma lo mismo desde hace 10 años?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa cocinar mariscos perfectamente?",
-    "different": "¿Quién del grupo le tiene miedo a comer ostras o pulpo?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre tiene hambre a media noche?",
-    "different": "¿Quién del grupo hace ayuno intermitente y no come nada después de las 6 PM?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea un fanático de los helados?",
-    "different": "¿Quién del grupo dice que el helado le da dolor de cabeza?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre trae comida rara de sus viajes?",
-    "different": "¿Quién del grupo solo busca un McDonald's cuando viaja al extranjero?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa hacer la mejor tortilla española?",
-    "different": "¿Quién del grupo cree que la tortilla es solo huevo con papas fritas?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un experto en tés e infusiones?",
-    "different": "¿Quién del grupo cree que el té es solo para cuando uno está enfermo?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que coma ajo en exceso y no le importe el aliento?",
-    "different": "¿Quién del grupo es un vampiro que odia el olor a ajo?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre pide la hamburguesa más grande del menú?",
-    "different": "¿Quién del grupo pide la hamburguesa sin pan y con lechuga?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa hacer los mejores ceviches?",
-    "different": "¿Quién del grupo cree que el pescado se cocina solo con limón?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un adicto a las palomitas de maíz?",
-    "different": "¿Quién del grupo odia el olor de las palomitas de cine?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa hacer la mejor lasaña?",
-    "different": "¿Quién del grupo cree que la lasaña de microondas es aceptable?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre pide el menú del día por ahorrar?",
-    "different": "¿Quién del grupo gasta lo que no tiene en una cena de lujo?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que coma mantequilla de maní a cucharadas?",
-    "different": "¿Quién del grupo odia la textura de la mantequilla de maní?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un experto en cervezas artesanales?",
-    "different": "¿Quién del grupo cree que todas las cervezas saben a lo mismo?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa hacer los mejores tamales?",
-    "different": "¿Quién del grupo es el que siempre se come los tamales pero nunca ayuda a amarrarlos?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un adicto a las aceitunas?",
-    "different": "¿Quién del grupo aparta las aceitunas de cualquier comida?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa cocinar comida hindú o tailandesa?",
-    "different": "¿Quién del grupo cree que el curry es demasiado fuerte?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre pide un café después de comer?",
-    "different": "¿Quién del grupo dice que el café de noche no lo deja dormir?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que coma pizza con cubiertos?",
-    "different": "¿Quién del grupo come hasta la lasaña con las manos si nadie lo ve?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un experto en chocolates finos?",
-    "different": "¿Quién del grupo prefiere un chocolate barato de supermercado?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa hacer el mejor arroz con pollo?",
-    "different": "¿Quién del grupo siempre deja el arroz con pollo seco?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el que siempre pide agua mineral con gas?",
-    "different": "¿Quién del grupo dice que el agua con gas sabe a medicina?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que coma tocino en cada desayuno?",
-    "different": "¿Quién del grupo cree que el tocino es el pecado más grande?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un experto en repostería?",
-    "different": "¿Quién del grupo prefiere comer algo salado antes que cualquier postre?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sepa hacer los mejores nachos?",
-    "different": "¿Quién del grupo es el que se come todo el queso y deja los nachos solos?"
-  }
+  { "main": "¿La pizza con piña es una genialidad culinaria o un crimen contra la humanidad?", "different": "¿La hamburguesa con remolacha es una delicia incomprendida o una idea terrible?" },
+  { "main": "¿Cuál es el ingrediente que crees que arruina cualquier plato por muy bueno que sea?", "different": "¿Cuál es el ingrediente que crees que mejora cualquier plato incluso si es comida rápida?" },
+  { "main": "Si tuvieras que eliminar una de estas tres para siempre del mundo, ¿cuál elegirías: Pizza, Tacos o Sushi?", "different": "Si tuvieras que comer solo una de estas tres por el resto de tu vida, ¿cuál elegirías: Pasta, Hamburguesas o Ensaladas?" },
+  { "main": "¿Qué prefieres: un buffet libre de comida mediocre pero infinita, o un plato pequeño de la mejor comida del mundo?", "different": "¿Qué prefieres: cocinar una cena increíble para 10 personas o que alguien te cocine algo simple solo a ti?" },
+  { "main": "¿Cuál es tu 'hot take' (opinión polémica) más extrema sobre la comida?", "different": "¿Cuál es el hábito alimenticio de otra persona que más te da asco?" },
+  { "main": "Si pudieras inventar un nuevo sabor de helado que suene asqueroso pero sepa delicioso, ¿cuál sería?", "different": "Si pudieras prohibir un sabor de helado en todas las heladerías del mundo, ¿cuál sería?" },
+  { "main": "¿Qué prefieres: beber solo agua por el resto de tu vida o beber de todo menos agua?", "different": "¿Qué prefieres: comida picante que te haga llorar o comida dulce que te empalague de inmediato?" },
+  { "main": "¿Cuál es el restaurante más sobrevalorado al que has ido en tu vida?", "different": "¿Cuál es el plato más caro que has pagado y que resultó ser una decepción total?" },
+  { "main": "Si te ofrecieran $1,000 por comer un insecto vivo frente a una cámara, ¿lo harías?", "different": "Si te ofrecieran $5,000 por ser vegano estricto durante un año completo, ¿lo harías?" },
+  { "main": "¿Qué comida te recuerda más a tu infancia y por qué te hace feliz (o triste)?", "different": "¿Qué comida odiabas de niño y ahora te encanta como adulto?" },
+  { "main": "Si pudieras tener un chef personal en casa pero solo puede cocinar una sola receta, ¿cuál elegirías?", "different": "Si pudieras borrar las calorías de un solo alimento para que no engorde nada, ¿cuál elegirías?" },
+  { "main": "¿Qué prefieres: comer siempre solo pero comida de lujo, o comer siempre acompañado pero comida de hospital?", "different": "¿Qué prefieres: desayunar comida de cena o cenar comida de desayuno por un mes?" },
+  { "main": "¿Cuál es la combinación de comida más rara que haces y que la gente juzga?", "different": "¿Cuál es el snack que puedes comer sin parar hasta que se acabe la bolsa?" },
+  { "main": "Si tuvieras que elegir una última cena antes de ser ejecutado, ¿qué pedirías?", "different": "Si tuvieras que diseñar el menú de una boda temática de terror, ¿qué platos incluirías?" },
+  { "main": "¿Qué prefieres: que toda tu comida sea extremadamente salada o que sea totalmente insípida?", "different": "¿Qué prefieres: que tu bebida siempre esté tibia o que tu comida siempre esté fría?" },
+  { "main": "¿Cuál es el mejor acompañamiento para unas papas fritas: Ketchup, Mayonesa o Mostaza?", "different": "¿Cuál es la mejor forma de comer huevo: frito, revuelto o cocido?" },
+  { "main": "Si pudieras viajar a cualquier país solo por su comida, ¿a dónde irías primero?", "different": "Si pudieras eliminar una cultura gastronómica del mundo, ¿cuál crees que extrañaríamos menos?" },
+  { "main": "¿Qué prefieres: un mundo sin chocolate o un mundo sin queso?", "different": "¿Qué prefieres: un mundo sin café o un mundo sin alcohol?" },
+  { "main": "¿Cuál es el error más grande que alguien puede cometer al cocinar carne?", "different": "¿Cuál es el error más grande que alguien puede cometer al preparar un café?" },
+  { "main": "Si tuvieras que elegir a una persona de este grupo para que te cocine durante una semana, ¿quién sería?", "different": "Si tuvieras que elegir a una persona de este grupo para abrir un restaurante juntos, ¿quién sería?" },
+  { "main": "¿Qué prefieres: comer con las manos para siempre o comer solo con palillos chinos?", "different": "¿Qué prefieres: tener que oler la comida de todos antes de que coman o que todos deban probar tu plato primero?" },
+  { "main": "¿Cuál es el vegetal más infravalorado y que debería estar en más platos?", "different": "¿Cuál es la fruta que tiene mejor aspecto pero peor sabor?" },
+  { "main": "Si pudieras crear una ley que obligue a la gente a no hacer algo mientras come, ¿qué prohibirías?", "different": "Si pudieras obligar a todo el mundo a comer un alimento específico una vez al día, ¿cuál elegirías?" },
+  { "main": "¿Qué prefieres: ser un experto catador de vinos o ser un crítico gastronómico temido?", "different": "¿Prefieres saber cocinar todo pero no tener olfato, o tener el mejor olfato del mundo pero quemar hasta el agua?" },
+  { "main": "¿Cuál es la comida rápida que más te avergüenza admitir que te encanta?", "different": "¿Cuál es el snack de gasolinera que siempre compras cuando vas de viaje?" },
+  { "main": "Si tuvieras que participar en un concurso de comer mucho de algo, ¿qué alimento elegirías para ganar?", "different": "Si tuvieras que sobrevivir en un búnker con un solo tipo de comida enlatada, ¿cuál elegirías?" },
+  { "main": "¿Qué prefieres: que te sirvan la comida un robot o un camarero que te cuente su vida?", "different": "¿Qué prefieres: una cena romántica en un lugar ruidoso o una cena aburrida en un lugar precioso?" },
+  { "main": "¿Cuál es la tendencia de comida en redes sociales que más odias?", "different": "¿Cuál es el truco de cocina de TikTok que realmente te ha funcionado?" },
+  { "main": "Si pudieras cambiar el sabor de tu fruta favorita por el de otra cosa, ¿qué elegirías?", "different": "Si pudieras hacer que el agua sepa a tu refresco favorito pero siga siendo saludable, ¿lo harías?" },
+  { "main": "¿Qué prefieres: comer siempre en platos de plástico desechables o tener que lavar todos los platos tú mismo?", "different": "¿Qué prefieres: que tu comida siempre se vea fea pero sepa increíble o que se vea de revista pero sepa regular?" },
+  { "main": "¿Cuál es el postre que elegirías para representar tu personalidad?", "different": "¿Cuál es el trago o bebida alcohólica que mejor define tu forma de ser?" },
+  { "main": "Si pudieras cenar con un personaje de ficción, ¿a quién elegirías y qué le cocinarías?", "different": "Si pudieras robarle una receta secreta a una cadena famosa (ej. Coca-Cola, KFC), ¿cuál elegirías?" },
+  { "main": "¿Qué prefieres: que se acabe el pan en el mundo o que se acabe el arroz?", "different": "¿Qué prefieres: que la sal sea de color azul o que el azúcar sea picante?" },
+  { "main": "¿Cuál es la regla de etiqueta en la mesa que te parece más absurda?", "different": "¿Cuál es el comportamiento de alguien comiendo que hace que pierdas el apetito?" },
+  { "main": "Si tuvieras que elegir a alguien del grupo para que sea un crítico despiadado de tu cocina, ¿quién sería?", "different": "Si tuvieras que elegir a alguien del grupo para que coma algo que tú preparaste sin saber qué es, ¿en quién confiarías?" },
+  { "main": "¿Qué prefieres: comer solo cosas líquidas por un mes o comer solo cosas sólidas sin poder beber nada mientras comes?", "different": "¿Qué prefieres: que todos vean lo que comes en tiempo real por una app o no poder ver qué estás comiendo tú?" },
+  { "main": "¿Cuál es la mejor ciudad del mundo para un amante de la comida?", "different": "¿Cuál es el país que tiene la comida más extraña que has visto jamás?" },
+  { "main": "Si pudieras eliminar el hambre en el mundo pero a cambio nadie podrá volver a sentir placer al comer, ¿lo harías?", "different": "Si pudieras hacer que una comida sana sepa a tu comida chatarra favorita, ¿a cuál elegirías?" },
+  { "main": "¿Qué prefieres: que tu comida siempre tenga un poco de arena o que siempre esté un poco quemada?", "different": "¿Qué prefieres: que siempre te sirvan la comida tarde o que siempre te traigan algo que no pediste?" },
+  { "main": "¿Cuál es el ingrediente que consideras 'elegante' pero que en realidad no sabe a nada?", "different": "¿Cuál es el alimento que parece de pobres pero es un manjar de dioses?" }
 ]

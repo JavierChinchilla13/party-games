@@ -1,402 +1,77 @@
 [
-  {
-    "main": "¿Quién del grupo es más probable que perdone una infidelidad solo para no quedarse solo?",
-    "different": "¿Quién del grupo es el más rencoroso y nunca olvidaría una traición?"
-  },
-  {
-    "main": "¿Quién del grupo se casaría por dinero sin pensarlo dos veces?",
-    "different": "¿Quién del grupo es un romántico empedernido que cree en el amor verdadero?"
-  },
-  {
-    "main": "¿Quién del grupo tiene el historial de búsqueda más perturbador de todos?",
-    "different": "¿Quién del grupo es el más inocente (o finge serlo)?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que termine en la cárcel por una tontería?",
-    "different": "¿Quién del grupo sería el cerebro criminal que nunca atraparían?"
-  },
-  {
-    "main": "¿Quién del grupo volvería con su ex por décima vez?",
-    "different": "¿Quién del grupo bloquea a sus ex de todas partes nada más terminar?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en traicionar a los demás en un apocalipsis zombie?",
-    "different": "¿Quién del grupo daría su vida por salvar al resto?"
-  },
-  {
-    "main": "¿Quién del grupo tiene más secretos inconfesables que se llevará a la tumba?",
-    "different": "¿Quién del grupo es un libro abierto y cuenta su vida a desconocidos?"
-  },
-  {
-    "main": "¿Quién del grupo es el más tacaño a la hora de pagar la cuenta en un restaurante?",
-    "different": "¿Quién del grupo siempre se ofrece a invitar aunque no tenga dinero?"
-  },
-  {
-    "main": "¿Quién del grupo sería el peor padre o madre por su falta de paciencia?",
-    "different": "¿Quién del grupo está deseando tener hijos y ya tiene los nombres elegidos?"
-  },
-  {
-    "main": "¿Quién del grupo miente mejor sin que se le note absolutamente nada?",
-    "different": "¿Quién del grupo se pone rojo y empieza a tartamudear cuando intenta mentir?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se una a una secta solo por sentirse parte de algo?",
-    "different": "¿Quién del grupo es el más escéptico y no cree ni en su propia sombra?"
-  },
-  {
-    "main": "¿Quién del grupo ha revisado el celular de su pareja a escondidas?",
-    "different": "¿Quién del grupo confía ciegamente hasta que le dan motivos para no hacerlo?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más veces se ha enamorado de alguien que no sabía que existía?",
-    "different": "¿Quién del grupo es un corazón de piedra que nunca se enamora?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en hacerse una cirugía estética innecesaria?",
-    "different": "¿Quién del grupo odia los filtros y defiende la belleza natural?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se pelee en una fila del supermercado por una tontería?",
-    "different": "¿Quién del grupo evitaría cualquier conflicto aunque le estén robando?"
-  },
-  {
-    "main": "¿Quién del grupo gasta más dinero en ropa que en comida?",
-    "different": "¿Quién del grupo lleva la misma camiseta desde hace 5 años y está orgulloso?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que olvide el cumpleaños de su propia madre?",
-    "different": "¿Quién del grupo sabe las fechas de aniversario de todo el mundo?"
-  },
-  {
-    "main": "¿Quién del grupo finge estar enfermo para no ir a un plan que le da pereza?",
-    "different": "¿Quién del grupo es incapaz de decir 'no' y siempre acaba yendo a todo?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se haga millonario con un negocio turbio?",
-    "different": "¿Quién del grupo trabajaría 40 años en la misma empresa por seguridad?"
-  },
-  {
-    "main": "¿Quién del grupo tiene más fetiches raros que nunca admitirá en público?",
-    "different": "¿Quién del grupo es el más tradicional y aburrido en la cama?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en mudarse a otro país por un amor de verano?",
-    "different": "¿Quién del grupo no se mueve de su barrio ni aunque le paguen?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más stalkea a los amigos de sus ex?",
-    "different": "¿Quién del grupo tiene un doctorado en investigación del FBI?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que llore viendo un anuncio de comida para perros?",
-    "different": "¿Quién del grupo no lloró ni con el final de Titanic?"
-  },
-  {
-    "main": "¿Quién del grupo se cree más inteligente de lo que realmente es?",
-    "different": "¿Quién del grupo es un genio oculto que no presume de nada?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en sobrevivir solo en el bosque?",
-    "different": "¿Quién del grupo moriría de hambre si no tiene una app de comida a domicilio?"
-  },
-  {
-    "main": "¿Quién del grupo es el más propenso a creer en teorías conspirativas absurdas?",
-    "different": "¿Quién del grupo solo cree en lo que dice la ciencia y los datos?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se haga un tatuaje con el nombre de alguien que conoció ayer?",
-    "different": "¿Quién del grupo tarda 3 años en decidir qué diseño de tatuaje hacerse?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más se queja de su vida pero no hace nada para cambiarla?",
-    "different": "¿Quién del grupo es un optimista desesperante que siempre ve el lado bueno?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en donar un riñón a un desconocido?",
-    "different": "¿Quién del grupo no te dejaría ni un cargador de celular si le queda poca batería?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que termine viviendo en una furgoneta por decisión propia?",
-    "different": "¿Quién del grupo necesita un hotel de 5 estrellas para ser feliz?"
-  },
-  {
-    "main": "¿Quién del grupo tiene la autoestima más inflada sin motivo aparente?",
-    "different": "¿Quién del grupo es el más inseguro y necesita validación constante?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se cuele en una boda de desconocidos solo por la comida?",
-    "different": "¿Quién del grupo es el más educado y respetuoso con las normas?"
-  },
-  {
-    "main": "¿Quién del grupo guarda rencor por algo que pasó en la escuela primaria?",
-    "different": "¿Quién del grupo olvida las peleas a los 5 minutos?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor político por su capacidad de manipular a las masas?",
-    "different": "¿Quién del grupo es tan honesto que sería el primero en ser expulsado de la política?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se enamore de su mejor amigo/a a escondidas?",
-    "different": "¿Quién del grupo tiene la 'friendzone' más poblada del mundo?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más gasta en cosas innecesarias cuando está triste?",
-    "different": "¿Quién del grupo ahorra hasta el último céntimo por miedo al futuro?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en participar en un reality show de parejas tóxicas?",
-    "different": "¿Quién del grupo odia la exposición pública y valora su privacidad?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que olvide dónde estacionó el coche y llame a la policía?",
-    "different": "¿Quién del grupo tiene una memoria privilegiada para los detalles inútiles?"
-  },
-  {
-    "main": "¿Quién del grupo se cree un 'espíritu libre' pero depende totalmente de sus padres?",
-    "different": "¿Quién del grupo es el más independiente desde los 15 años?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se haga famoso por un video haciendo el ridículo?",
-    "different": "¿Quién del grupo es tan serio que nunca ha hecho el ridículo en su vida?"
-  },
-  {
-    "main": "¿Quién del grupo ha mentido en su currículum de forma exagerada?",
-    "different": "¿Quién del grupo es el más trabajador y dedicado a su carrera?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en perdonar a un amigo que le robó dinero?",
-    "different": "¿Quién del grupo cortaría relación por una mentira pequeña?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se convierta en un ermitaño y se vaya a vivir a la montaña?",
-    "different": "¿Quién del grupo es un animal social que moriría sin compañía?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más habla de sí mismo y nunca pregunta por los demás?",
-    "different": "¿Quién del grupo es el mejor escuchando y dando consejos?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en gastarse la lotería en un solo fin de semana?",
-    "different": "¿Quién del grupo invertiría el premio y seguiría trabajando?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que tenga una crisis existencial por un comentario de un extraño?",
-    "different": "¿Quién del grupo tiene una piel de acero y nada le afecta?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más finge que sabe de un tema para no quedar mal?",
-    "different": "¿Quién del grupo admite que no sabe nada con total naturalidad?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en salvar a su mascota antes que a una persona desconocida?",
-    "different": "¿Quién del grupo es el más humanitario y solidario?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que termine saliendo con alguien 20 años mayor?",
-    "different": "¿Quién del grupo solo sale con personas de su edad exacta?"
-  },
-  {
-    "main": "¿Quién del grupo es el más propenso a sufrir un ataque de risa en un funeral?",
-    "different": "¿Quién del grupo es el más respetuoso y serio en momentos solemnes?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor espía internacional por su doble vida?",
-    "different": "¿Quién del grupo es tan transparente que se le nota todo en la cara?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se olvide de pagar una deuda de 5 euros por meses?",
-    "different": "¿Quién del grupo es el más responsable con el dinero ajeno?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más fotos se hace en el espejo del baño?",
-    "different": "¿Quién del grupo odia verse en las fotos y siempre se tapa la cara?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en perdonar una traición de un familiar?",
-    "different": "¿Quién del grupo es capaz de no hablarle a su familia por años por orgullo?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se enamore de un personaje de ficción?",
-    "different": "¿Quién del grupo es el más realista y pragmático en el amor?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más tarda en arreglarse antes de salir?",
-    "different": "¿Quién del grupo está listo en 5 minutos y se desespera esperando?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor líder de una revolución social?",
-    "different": "¿Quién del grupo es el más conformista y prefiere no meterse en problemas?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se olvide de recoger a alguien en el aeropuerto?",
-    "different": "¿Quién del grupo es el más puntual y fiable para los favores?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más presume de sus ligues aunque sean mentira?",
-    "different": "¿Quién del grupo es el más discreto con su vida privada?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en hacerse vegetariano solo por moda?",
-    "different": "¿Quién del grupo comería carne aunque el mundo se estuviera acabando?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que tenga una cuenta falsa para vigilar a sus enemigos?",
-    "different": "¿Quién del grupo es el más pacífico y no tiene enemigos?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más se fija en el físico antes que en la personalidad?",
-    "different": "¿Quién del grupo se enamora del cerebro y la forma de pensar?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor protagonista de una película de terror por lo tonto que es?",
-    "different": "¿Quién del grupo sería el superviviente que mata al asesino?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se gaste el sueldo en una sola noche de fiesta?",
-    "different": "¿Quién del grupo se lleva su propia bebida para no gastar en el bar?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más veces ha dicho 'estoy llegando' cuando todavía está en la ducha?",
-    "different": "¿Quién del grupo llega siempre 10 minutos antes a todos lados?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en mudarse con alguien que conoció hace una semana?",
-    "different": "¿Quién del grupo necesita 2 años de relación para plantearse vivir juntos?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se haga famoso por una invención absurda?",
-    "different": "¿Quién del grupo es el más tradicional y odia los cambios?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más se queja del calor en verano y del frío en invierno?",
-    "different": "¿Quién del grupo nunca se queja por nada y se adapta a todo?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor detective privado por lo cotilla que es?",
-    "different": "¿Quién del grupo es el más despistado y no se entera de nada de lo que pasa?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se enamore de un turista y nunca lo vuelva a ver?",
-    "different": "¿Quién del grupo es el más estable y busca relaciones largas?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más usa la ironía para no mostrar su vulnerabilidad?",
-    "different": "¿Quién del grupo es el más sensible y llora por todo?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en tatuarse la cara por un impulso?",
-    "different": "¿Quién del grupo tiene miedo hasta de hacerse un pendiente en la oreja?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se olvide de comer por estar concentrado en algo?",
-    "different": "¿Quién del grupo vive pensando en la siguiente comida todo el día?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más miente sobre su edad?",
-    "different": "¿Quién del grupo está orgulloso de sus años y sus arrugas?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en adoptar 10 perros callejeros?",
-    "different": "¿Quién del grupo odia a los animales y prefiere no tener mascotas?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que termine siendo un influencer de autoayuda?",
-    "different": "¿Quién del grupo es el más cínico y realista sobre la vida?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más presume de cosas que compró en rebajas?",
-    "different": "¿Quién del grupo compra siempre lo más caro para demostrar estatus?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en perdonar a un amigo que le quitó la pareja?",
-    "different": "¿Quién del grupo es capaz de planear una venganza por años?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se enamore de alguien solo por su olor?",
-    "different": "¿Quién del grupo se fija en los zapatos antes que en la cara?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más se arrepiente de sus decisiones al día siguiente?",
-    "different": "¿Quién del grupo nunca mira atrás y está seguro de lo que hace?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor concursante de un programa de supervivencia?",
-    "different": "¿Quién del grupo abandonaría el programa a los 10 minutos por falta de higiene?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se olvide de cerrar la puerta de casa con llave?",
-    "different": "¿Quién del grupo es un paranoico de la seguridad y revisa todo 3 veces?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más presume de su familia aunque se lleven mal?",
-    "different": "¿Quién del grupo es el más independiente y apenas habla con sus parientes?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en gastarse el dinero en un viaje sin tener donde dormir?",
-    "different": "¿Quién del grupo planifica hasta los minutos de descanso en un viaje?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se enamore de un criminal por la adrenalina?",
-    "different": "¿Quién del grupo busca la paz y la tranquilidad por encima de todo?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más finge que le gusta la comida de los demás para no ofender?",
-    "different": "¿Quién del grupo es tan sincero que dice que la comida está mala en la cara?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en perdonar a alguien que le hizo bullying en el pasado?",
-    "different": "¿Quién del grupo nunca olvida una humillación y espera su momento?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se olvide de beber agua en todo el día?",
-    "different": "¿Quién del grupo es un obsesivo de la salud y el fitness?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más tarda en responder un mensaje de WhatsApp?",
-    "different": "¿Quién del grupo responde en menos de 5 segundos siempre?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor protagonista de una novela dramática?",
-    "different": "¿Quién del grupo es el alivio cómico que nunca se toma nada en serio?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se enamore de alguien que vio en una foto?",
-    "different": "¿Quién del grupo necesita conocer a alguien en profundidad antes de sentir algo?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más presume de sus habilidades en la cocina sin saber freír un huevo?",
-    "different": "¿Quién del grupo es un chef profesional frustrado?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en gastarse el sueldo en una colección de figuras?",
-    "different": "¿Quién del grupo es el más maduro y responsable con sus gastos?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se olvide de que tiene una cita y se quede durmiendo?",
-    "different": "¿Quién del grupo está listo una hora antes de cualquier cita?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más presume de sus viajes por redes sociales?",
-    "different": "¿Quién del grupo viaja y nadie se entera hasta que vuelve?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en perdonar a alguien que le rompió el corazón?",
-    "different": "¿Quién del grupo es el más orgulloso y nunca vuelve atrás?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se enamore de alguien por su voz por teléfono?",
-    "different": "¿Quién del grupo es el más visual y necesita ver a la persona?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más se queja de las redes sociales mientras las usa todo el día?",
-    "different": "¿Quién del grupo borró sus redes por salud mental?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en gastarse el dinero en un curso de algo que nunca hará?",
-    "different": "¿Quién del grupo es el más práctico y enfocado en sus metas?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se olvide de que este es solo un juego y se enfade de verdad?",
-    "different": "¿Quién del grupo se toma todo con humor y nunca se pica?"
-  }
+  { "main": "¿Cuánto dinero tendrían que pagarte para que no vuelvas a usar redes sociales por un año?", "different": "¿Cuánto dinero tendrían que pagarte para que no vuelvas a ver a tus amigos por un año?" },
+  { "main": "¿Cuál es la mentira más grande que has dicho para salir de una situación incómoda?", "different": "¿Cuál es la mentira más grande que has dicho para impresionar a alguien en una cita?" },
+  { "main": "¿Qué harías si encontraras una maleta con $50,000 pero sabes que es dinero sucio?", "different": "¿Qué harías si encontraras una maleta con $50,000 pero sabes que pertenece a un asilo de ancianos?" },
+  { "main": "Si pudieras borrar un momento vergonzoso de tu pasado de la mente de todos, ¿cuál sería?", "different": "Si pudieras borrar un error de tu pasado de tu propia memoria, ¿cuál sería?" },
+  { "main": "¿Prefieres saber exactamente cuándo vas a morir o exactamente cómo vas a morir?", "different": "¿Prefieres saber todos tus éxitos futuros o todos tus fracasos futuros?" },
+  { "main": "¿Qué es algo que jamás admitirías frente a tus padres pero sí frente a este grupo?", "different": "¿Qué es algo que jamás admitirías frente a tu pareja pero sí frente a tus amigos?" },
+  { "main": "¿Aceptarías $10,000 por cada kilo que subas y no puedas bajar en un año?", "different": "¿Aceptarías $10,000 por cada año de vida que te quites al final de tus días?" },
+  { "main": "¿Cuál es tu red flag más grande que tú mismo admites tener?", "different": "¿Cuál es la red flag más grande que has ignorado en otra persona por pura atracción?" },
+  { "main": "¿Qué harías si descubres que tu mejor amigo está engañando a su pareja?", "different": "¿Qué harías si descubres que la pareja de tu mejor amigo le está siendo infiel?" },
+  { "main": "¿Cuánto pagarías por saber exactamente qué piensa la gente de ti cuando te vas de una habitación?", "different": "¿Cuánto pagarías por borrar un rumor falso que todo el mundo cree sobre ti?" },
+  { "main": "¿Qué prefieres: tener siempre la razón pero ser odiado, o estar siempre equivocado pero ser amado?", "different": "¿Qué prefieres: ser la persona más inteligente del mundo en una isla desierta o ser un tonto feliz en la ciudad?" },
+  { "main": "¿Cuál ha sido tu compra impulsiva más estúpida y cara de la que te arrepientes?", "different": "¿Cuál ha sido el gasto de dinero más grande que has hecho solo para presumir?" },
+  { "main": "Si pudieras leer los mensajes de WhatsApp de cualquier persona aquí presente por 5 minutos, ¿a quién elegirías?", "different": "Si pudieras borrar un chat tuyo del celular de cualquier persona aquí presente, ¿cuál elegirías?" },
+  { "main": "¿Qué es lo más ilegal que has hecho sin que te atraparan?", "different": "¿Qué es lo más arriesgado que has hecho solo por un reto o apuesta?" },
+  { "main": "¿Prefieres ganar el salario mínimo haciendo lo que amas o ser millonario haciendo lo que más odias?", "different": "¿Prefieres ser famoso por algo ridículo o ser un genio desconocido para siempre?" },
+  { "main": "¿Qué harías si despiertas y tienes el poder de volver el tiempo atrás 30 segundos una vez al día?", "different": "¿Qué harías si despiertas y tienes el poder de leer la mente de alguien durante 5 minutos al día?" },
+  { "main": "¿Cuál es tu opinión impopular sobre las relaciones modernas?", "different": "¿Cuál es tu opinión impopular sobre la fidelidad en pareja?" },
+  { "main": "¿Qué es algo que consideras una pérdida de tiempo pero que todo el mundo parece amar?", "different": "¿Qué es algo que consideras esencial pero que todo el mundo parece ignorar?" },
+  { "main": "Si tuvieras que elegir a una persona de este grupo para ir a prisión por ti, ¿quién sería?", "different": "Si tuvieras que elegir a una persona de este grupo para prestarle todos tus ahorros, ¿quién sería?" },
+  { "main": "¿Cuál ha sido la situación más incómoda que has vivido en una primera cita?", "different": "¿Cuál ha sido la excusa más creativa que has usado para terminar una cita rápido?" },
+  { "main": "¿Aceptarías vivir en una simulación perfecta donde eres feliz pero sabes que nada es real?", "different": "¿Aceptarías vivir en un mundo real pero donde siempre te falta algo para ser feliz?" },
+  { "main": "¿Qué es lo que más te atrae físicamente de una persona a primera vista?", "different": "¿Qué es lo que más te atrae de la personalidad de alguien después de 5 minutos de charla?" },
+  { "main": "¿Cuál es el secreto que te llevarás a la tumba si nadie te pregunta hoy?", "different": "¿Cuál es el secreto de otra persona que por accidente terminaste contando?" },
+  { "main": "¿Qué harías si te ofrecen $1 millón pero tienes que vivir sin electricidad por 5 años?", "different": "¿Qué harías si te ofrecen $1 millón pero tienes que vivir en una ciudad diferente cada mes por 5 años?" },
+  { "main": "¿Prefieres ser un fantasma que puede observar todo o reencarnar en un animal al azar?", "different": "¿Prefieres saber el secreto de la vida eterna o el secreto de la paz mundial?" },
+  { "main": "¿Cuál es la aplicación de tu celular que más te avergüenza tener instalada?", "different": "¿Cuál es la búsqueda en tu historial que más te costaría explicar?" },
+  { "main": "¿Qué harías si pudieras cambiar una decisión que tomaste hace 5 años?", "different": "¿Qué harías si pudieras ver cómo será tu vida dentro de 10 años?" },
+  { "main": "¿Cuánto dinero pedirías por tatuarte el nombre de una marca en la frente?", "different": "¿Cuánto dinero pedirías por permitir que transmitan tu vida 24/7 tipo reality show por un mes?" },
+  { "main": "¿Qué es algo que creías cuando eras niño y que ahora te parece ridículo?", "different": "¿Qué es algo que te da miedo ahora y que antes no te importaba en absoluto?" },
+  { "main": "Si el mundo se acabara en una hora, ¿qué sería lo último que harías?", "different": "Si el mundo se acabara en una hora, ¿a quién llamarías para decirle la verdad?" },
+  { "main": "¿Prefieres tener un botón de 'pausa' para el mundo o un botón de 'rebobinar'?", "different": "¿Prefieres poder ver el futuro de los demás o solo tu propio futuro?" },
+  { "main": "¿Cuál es la mayor locura que has hecho por amor (o por alguien que te gustaba)?", "different": "¿Cuál es el mayor sacrificio que has hecho por tu carrera o estudios?" },
+  { "main": "¿Qué harías si te enteras que eres el protagonista de un show de televisión y todos los demás son actores?", "different": "¿Qué harías si descubres que eres la única persona real en un mundo de robots?" },
+  { "main": "¿Cuál es tu talento oculto que nadie en este grupo conoce?", "different": "¿Cuál es la habilidad que te gustaría tener pero que eres incapaz de aprender?" },
+  { "main": "¿Prefieres ser la persona más rica en un país pobre o la persona más pobre en un país rico?", "different": "¿Prefieres ser un líder respetado o un seguidor adinerado?" },
+  { "main": "¿Qué es lo más vergonzoso que has buscado en Google recientemente?", "different": "¿Qué es lo más vergonzoso que has hecho estando solo en casa?" },
+  { "main": "Si pudieras intercambiar tu vida con alguien de este grupo por una semana, ¿con quién lo harías?", "different": "Si pudieras darle un consejo anónimo a alguien de este grupo, ¿a quién sería y qué le dirías?" },
+  { "main": "¿Cuál es la razón más tonta por la que has terminado una relación?", "different": "¿Cuál es la razón más tonta por la que alguien ha terminado contigo?" },
+  { "main": "¿Qué harías si pudieras ser invisible pero solo durante el día?", "different": "¿Qué harías si pudieras ser invisible pero solo cuando estás desnudo?" },
+  { "main": "¿Cuál es tu mayor miedo irracional que te hace sentir como un niño?", "different": "¿Cuál es el miedo real que te quita el sueño por las noches?" },
+  { "main": "¿Cuánto dinero tendrían que pagarte para que le grites a un extraño en la calle?", "different": "¿Cuánto dinero tendrían que pagarte para que te vayas de este grupo ahora mismo sin decir nada?" },
+  { "main": "¿Qué es lo que más te molesta de tu propia personalidad?", "different": "¿Qué es lo que más te molesta de la gente en general?" },
+  { "main": "Si pudieras revivir a cualquier personaje histórico para tener una cena, ¿a quién elegirías?", "different": "Si pudieras borrar de la historia a un personaje que odias, ¿quién sería?" },
+  { "main": "¿Prefieres comer solo comida deliciosa pero saludable por siempre o solo comida chatarra sin engordar?", "different": "¿Prefieres no volver a sentir hambre o no volver a sentir cansancio?" },
+  { "main": "¿Qué harías si descubres que tu vida es una simulación controlada por un niño?", "different": "¿Qué harías si descubres que eres un experimento de una raza alienígena superior?" },
+  { "main": "¿Cuál es el rumor más loco que has escuchado sobre ti mismo?", "different": "¿Cuál es el rumor más loco que has ayudado a difundir?" },
+  { "main": "¿Qué es lo primero que harías si fueras presidente por un solo día?", "different": "¿Qué es lo primero que harías si fueras el dueño de Google por un día?" },
+  { "main": "¿Prefieres ser un experto en todo pero no destacar en nada, o ser el mejor del mundo en una sola cosa inútil?", "different": "¿Prefieres ser inmortal pero ver morir a todos, o vivir 50 años siendo inmensamente feliz?" },
+  { "main": "¿Cuál es la mentira que más te dices a ti mismo todos los días?", "different": "¿Cuál es la verdad sobre ti que más te duele admitir?" },
+  { "main": "¿Qué harías si pudieras borrar a una persona de este grupo de tu memoria?", "different": "¿Qué harías si pudieras saber qué opina de ti la persona que más te gusta?" },
+  { "main": "¿Prefieres poder hablar con los animales o hablar todos los idiomas del mundo?", "different": "¿Prefieres entender el lenguaje de las plantas o el lenguaje de las máquinas?" },
+  { "main": "¿Qué es lo más extraño que has hecho por dinero?", "different": "¿Qué es lo más extraño que has hecho por amor?" },
+  { "main": "¿Cuál es tu placer culposo que nadie imaginaría que tienes?", "different": "¿Cuál es la película que todo el mundo odia pero a ti te encanta?" },
+  { "main": "Si tuvieras que vivir en el bosque solo por un año, ¿qué objeto de lujo llevarías?", "different": "Si tuvieras que vivir en una ciudad futurista pero sin dinero, ¿cómo sobrevivirías?" },
+  { "main": "¿Qué harías si te enteras que un amigo tuyo es un criminal famoso?", "different": "¿Qué harías si un amigo te pide que escondas algo ilegal para él?" },
+  { "main": "¿Prefieres tener teletransportación pero que duela, o poder volar pero muy lento?", "different": "¿Prefieres poder respirar bajo el agua o ser inmune al fuego?" },
+  { "main": "¿Cuál es la parte de tu cuerpo de la que más te enorgulleces?", "different": "¿Cuál es el rasgo de tu cara que te gustaría cambiar si pudieras?" },
+  { "main": "¿Qué harías si te ofrecen vivir en Marte pero nunca puedes regresar a la Tierra?", "different": "¿Qué harías si te ofrecen vivir en el fondo del océano con una civilización avanzada?" },
+  { "main": "¿Cuál es la regla social que más odias y te gustaría eliminar?", "different": "¿Cuál es el hábito de cortesía que te parece más hipócrita?" },
+  { "main": "Si pudieras ser una mosca en la pared en cualquier reunión privada, ¿cuál elegirías?", "different": "Si pudieras ser el guardaespaldas de cualquier persona famosa, ¿de quién serías?" },
+  { "main": "¿Prefieres que siempre huela a lluvia o que siempre huela a café recién hecho?", "different": "¿Prefieres vivir en un eterno atardecer o en un eterno amanecer?" },
+  { "main": "¿Cuál es el regalo más feo que has recibido y has fingido que te encanta?", "different": "¿Cuál es el regalo más caro que has hecho y que no fue valorado?" },
+  { "main": "¿Qué harías si despertaras siendo del sexo opuesto por 24 horas?", "different": "¿Qué harías si despertaras siendo 20 años mayor de repente?" },
+  { "main": "¿Prefieres tener siempre la batería del celular al 100% o tener Wi-Fi gratis en todas partes?", "different": "¿Prefieres que tu celular nunca se rompa o que nunca se pierda?" },
+  { "main": "¿Cuál es la situación en la que más miedo has sentido en toda tu vida?", "different": "¿Cuál es la situación en la que más adrenalina has sentido?" },
+  { "main": "¿Qué es algo que todo el mundo debería experimentar al menos una vez en la vida?", "different": "¿Qué es algo que nadie debería tener que vivir jamás?" },
+  { "main": "Si pudieras cambiar tu nombre legalmente hoy mismo, ¿cuál elegirías?", "different": "Si tuvieras que elegir un apodo ridículo que todos deban usar, ¿cuál sería?" },
+  { "main": "¿Prefieres ser un genio infeliz o un ignorante alegre?", "different": "¿Prefieres ser la persona más bella del mundo pero sin voz, o ser feo pero con la voz más hermosa?" },
+  { "main": "¿Qué es lo que más te hace dudar de la humanidad?", "different": "¿Qué es lo que más te da esperanza en el futuro de las personas?" },
+  { "main": "Si pudieras saber la fecha exacta en la que conocerás al amor de tu vida, ¿querrías saberlo?", "different": "Si pudieras saber cuántas personas han estado enamoradas de ti en secreto, ¿querrías saberlo?" },
+  { "main": "¿Cuál es el hábito más raro que tienes cuando estás solo?", "different": "¿Cuál es el hábito de otra persona que más te desespera?" },
+  { "main": "¿Qué harías si pudieras elegir el clima de cada día por el resto de tu vida?", "different": "¿Qué harías si pudieras detener el tiempo solo mientras duermes?" },
+  { "main": "¿Prefieres perder todos tus recuerdos pasados o no poder crear recuerdos nuevos?", "different": "¿Prefieres olvidar quién eres tú o que todos olviden quién eres tú?" },
+  { "main": "¿Cuál es la decisión de la que más te arrepientes en el ámbito laboral?", "different": "¿Cuál es el trabajo que jamás harías ni por todo el dinero del mundo?" },
+  { "main": "Si tuvieras que elegir un animal para que sea tu guía espiritual, ¿cuál sería?", "different": "Si tuvieras que elegir un animal para ser transformado en él por un día, ¿cuál sería?" }
 ]

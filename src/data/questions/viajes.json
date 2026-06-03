@@ -1,362 +1,42 @@
 [
-  {
-    "main": "¿Quién del grupo sería más probable que se pierda en una ciudad que ya conoce perfectamente?",
-    "different": "¿Quién del grupo tiene un sentido de la orientación tan bueno que parece que lleva un GPS integrado?"
-  },
-  {
-    "main": "¿Quién del grupo es el que siempre lleva la maleta más pesada y llena de cosas innecesarias?",
-    "different": "¿Quién del grupo es capaz de irse un mes de viaje solo con una mochila pequeña?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que pierda el pasaporte justo antes de subir al avión?",
-    "different": "¿Quién del grupo guarda todos los documentos en una carpetita organizada y por triplicado?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más se queja de las caminatas largas durante las vacaciones?",
-    "different": "¿Quién del grupo es capaz de andar 30 kilómetros al día para ver un monumento insignificante?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en probar la comida callejera más extraña y peligrosa?",
-    "different": "¿Quién del grupo solo come en McDonald's o cadenas conocidas cuando viaja por miedo a intoxicarse?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se enamore de un desconocido en un tren o avión?",
-    "different": "¿Quién del grupo se pone los auriculares y no mira a nadie durante todo el trayecto?"
-  },
-  {
-    "main": "¿Quién del grupo es el que siempre propone los planes más caros y lujosos?",
-    "different": "¿Quién del grupo es el más tacaño y busca siempre el hostal más barato y cutre?"
-  },
-  {
-    "main": "¿Quién del grupo sería capaz de sobrevivir solo en una isla desierta durante un mes?",
-    "different": "¿Quién del grupo entraría en pánico si en el hotel no hay WiFi o aire acondicionado?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea retenido en la aduana por llevar algo prohibido sin querer?",
-    "different": "¿Quién del grupo se pone súper nervioso frente a la policía de fronteras aunque no haya hecho nada?"
-  },
-  {
-    "main": "¿Quién del grupo es el que hace 500 fotos al mismo paisaje y luego no borra ninguna?",
-    "different": "¿Quién del grupo disfruta del momento y casi nunca saca el celular para hacer fotos?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se confunda de puerta de embarque o de terminal?",
-    "different": "¿Quién del grupo llega al aeropuerto 4 horas antes por puro miedo a perder el vuelo?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en pedirle una foto a un famoso si se lo cruza en el aeropuerto?",
-    "different": "¿Quién del grupo es tan tímido que no se atrevería ni a preguntar dónde está el baño?"
-  },
-  {
-    "main": "¿Quién del grupo es el que mejor habla idiomas extranjeros (o al menos lo intenta con mucha cara)?",
-    "different": "¿Quién del grupo solo sabe decir 'hola' y 'gracias' y se comunica por señas?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se gaste todo su presupuesto en el primer día de viaje?",
-    "different": "¿Quién del grupo vuelve del viaje con dinero porque ha controlado cada céntimo?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor guía turístico de una ciudad que nunca ha visitado?",
-    "different": "¿Quién del grupo se pierde incluso siguiendo las indicaciones de Google Maps?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más se emociona comprando souvenirs horribles para toda la familia?",
-    "different": "¿Quién del grupo cree que los souvenirs son una pérdida de dinero y de espacio en la maleta?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que acabe de fiesta con un grupo de desconocidos locales?",
-    "different": "¿Quién del grupo se va a dormir a las 10 de la noche para estar descansado al día siguiente?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en proponer un viaje de aventura extrema (puenting, selva, etc.)?",
-    "different": "¿Quién del grupo prefiere unas vacaciones de relax total en una tumbona al lado de la piscina?"
-  },
-  {
-    "main": "¿Quién del grupo es el que siempre lleva un botiquín con medicinas para cualquier posible catástrofe?",
-    "different": "¿Quién del grupo no lleva ni una tirita y siempre tiene que pedir prestado de todo?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se olvide el cargador del celular o los cascos en el hotel?",
-    "different": "¿Quién del grupo revisa la habitación tres veces antes de hacer el check-out?"
-  },
-  {
-    "main": "¿Quién del grupo sería capaz de dormir en cualquier sitio (suelo del aeropuerto, autobús, etc.)?",
-    "different": "¿Quién del grupo no puede dormir si la almohada no es exactamente como la de su casa?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más veces ha dicho 'esta es mi última cerveza' y ha acabado volviendo al hotel al amanecer?",
-    "different": "¿Quién del grupo es el 'responsable' que vigila que todos vuelvan sanos y salvos?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se meta en un lío por no entender las costumbres locales?",
-    "different": "¿Quién del grupo se lee una guía entera sobre el país antes de aterrizar?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en alquilar una moto en un país asiático sin haber conducido una nunca?",
-    "different": "¿Quién del grupo le tiene pánico a cualquier transporte que no sea un tren o un autobús oficial?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más se queja del jet lag durante los primeros tres días?",
-    "different": "¿Quién del grupo parece tener energía infinita nada más bajar del avión?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que gane un concurso de regateo en un mercadillo?",
-    "different": "¿Quién del grupo paga el primer precio que le piden por vergüenza a negociar?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en proponer ir a un país que está en guerra o es peligroso?",
-    "different": "¿Quién del grupo solo viaja a destinos turísticos súper seguros y conocidos?"
-  },
-  {
-    "main": "¿Quién del grupo es el que siempre se quema con el sol el primer día por no ponerse crema?",
-    "different": "¿Quién del grupo va embadurnado en protección 50 y lleva sombrero hasta en la sombra?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se haga un tatuaje de un viaje del que luego se arrepienta?",
-    "different": "¿Quién del grupo es el que más cuida su imagen incluso cuando está de mochilero?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor organizador de un viaje para 15 personas?",
-    "different": "¿Quién del grupo causa el caos absoluto si le dejas encargado de comprar los billetes?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más veces ha perdido una maleta o se la han robado?",
-    "different": "¿Quién del grupo lleva un candado gigante y no suelta su mochila ni para dormir?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que acabe viviendo en otro país de forma permanente?",
-    "different": "¿Quién del grupo echa de menos la comida de su madre a los dos días de salir de casa?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en presentarse voluntario para un viaje al espacio?",
-    "different": "¿Quién del grupo tiene miedo a volar y necesita medicarse para subir a un avión?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más tiempo pasa eligiendo qué ropa ponerse para ir a ver monumentos?",
-    "different": "¿Quién del grupo va con la misma camiseta tres días seguidos para no lavar ropa?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se meta en una zona 'prohibida' solo por curiosidad?",
-    "different": "¿Quién del grupo respeta todas las señales y nunca cruza una valla?"
-  },
-  {
-    "main": "¿Quién del grupo sería capaz de irse de viaje sin haber reservado ni una sola noche de hotel?",
-    "different": "¿Quién del grupo tiene todo el itinerario planeado minuto a minuto con Excel?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más se queja de la comida del avión?",
-    "different": "¿Quién del grupo se come hasta el pan duro y pide repetición si puede?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se olvide de que tiene que sacar la visa hasta el día de antes?",
-    "different": "¿Quién del grupo tiene todos sus documentos digitalizados en la nube por si acaso?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en pedirle matrimonio a alguien en un lugar emblemático?",
-    "different": "¿Quién del grupo odia las muestras de afecto públicas, y más si hay turistas mirando?"
-  },
-  {
-    "main": "¿Quién del grupo es el que siempre quiere ir a los museos más aburridos del mundo?",
-    "different": "¿Quién del grupo cree que ver piedras viejas es una pérdida de tiempo total?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea pillado intentando llevarse algo de un hotel (toallas, champús)?",
-    "different": "¿Quién del grupo deja la habitación tan impecable que parece que no ha estado allí?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor para infiltrarse en una fiesta privada en una azotea de lujo?",
-    "different": "¿Quién del grupo se siente fuera de lugar en cualquier sitio que no sea un bar de barrio?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más dinero gasta en el Duty Free del aeropuerto?",
-    "different": "¿Quién del grupo pasa de largo de las tiendas porque sabe que todo es más caro?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se confunda de país o de ciudad al comprar un vuelo?",
-    "different": "¿Quién del grupo revisa la fecha y el destino diez veces antes de pagar?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en probar el nudismo en una playa extranjera?",
-    "different": "¿Quién del grupo no se quita la camiseta ni para meterse al agua?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más veces ha tenido que correr por el aeropuerto porque se cerraba la puerta?",
-    "different": "¿Quién del grupo es el que está sentado en la puerta de embarque antes de que abran?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se haga amigo del taxista y acabe cenando en su casa?",
-    "different": "¿Quién del grupo no le dirige la palabra a nadie que no sea de su círculo?"
-  },
-  {
-    "main": "¿Quién del grupo sería capaz de irse de viaje solo con una cámara de fotos y nada más?",
-    "different": "¿Quién del grupo necesita llevarse su propia almohada y sábanas de viaje?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más se queja del clima (si hace calor por calor, si hace frío por frío)?",
-    "different": "¿Quién del grupo se adapta a cualquier circunstancia sin decir ni una palabra?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que acabe siendo el protagonista de una película tipo 'Resacón en Las Vegas'?",
-    "different": "¿Quién del grupo es el que acaba cuidando a todos cuando se pasan de la raya?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en proponer ir a un festival de música gigante en otro continente?",
-    "different": "¿Quién del grupo odia las multitudes y prefiere un pueblo abandonado en la montaña?"
-  },
-  {
-    "main": "¿Quién del grupo es el que siempre tiene el celular sin batería justo cuando hay que buscar la dirección del hotel?",
-    "different": "¿Quién del grupo lleva dos powerbanks cargadas y cables de repuesto siempre encima?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se meta en una piscina ajena de un hotel de lujo?",
-    "different": "¿Quién del grupo es demasiado respetuoso con las normas como para hacer algo así?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor pescador o cazador si tuviera que sobrevivir en la naturaleza?",
-    "different": "¿Quién del grupo se moriría de hambre antes de tener que tocar a un animal vivo?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más fotos de sus pies en la arena sube a Instagram?",
-    "different": "¿Quién del grupo no publica nada hasta que vuelve a casa para que no sepan que no está?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se olvide de avisar a su banco de que va a viajar al extranjero?",
-    "different": "¿Quién del grupo tiene tres tarjetas de bancos diferentes por si una falla?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en proponer ir a una ciudad solo porque salió en su serie favorita?",
-    "different": "¿Quién del grupo elige los destinos basándose en la historia y la cultura real?"
-  },
-  {
-    "main": "¿Quién del grupo es el que siempre acaba perdiendo las llaves de la maleta o del apartamento?",
-    "different": "¿Quién del grupo tiene un duplicado de todo guardado en sitios diferentes?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se haga un lío con el cambio de moneda y pague de más?",
-    "different": "¿Quién del grupo sabe exactamente a cuánto está el cambio en cada momento?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor para sobrevivir a una persecución por un mercadillo marroquí?",
-    "different": "¿Quién del grupo se agobia en cuanto hay más de tres personas a su alrededor?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más se emociona viendo animales salvajes (leones, elefantes, etc.)?",
-    "different": "¿Quién del grupo les tiene pánico a los bichos y mosquitos de otros países?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se olvide la maleta en el tren o en el autobús?",
-    "different": "¿Quién del grupo cuenta sus bultos cada vez que se baja de un transporte?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en proponer ir de camping a un sitio sin duchas ni baños?",
-    "different": "¿Quién del grupo solo va a sitios que tengan al menos 4 estrellas y servicio de habitaciones?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más veces ha dicho 'nunca volveré a este país' y ha vuelto al año siguiente?",
-    "different": "¿Quién del grupo nunca repite destino porque dice que el mundo es demasiado grande?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea pillado intentando entrar en una zona VIP sin tener pase?",
-    "different": "¿Quién del grupo prefiere hacer la cola de 3 horas antes que intentar colarse?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor compañero para un viaje por carretera de 48 horas seguidas?",
-    "different": "¿Quién del grupo se queda dormido a los 10 minutos de subir al coche y no habla más?"
-  },
-  {
-    "main": "¿Quién del grupo es el que siempre trae los mejores regalos para los que se quedaron en casa?",
-    "different": "¿Quién del grupo solo trae una postal (si es que se acuerda)?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se confunda de tren y acabe en la otra punta del país?",
-    "different": "¿Quién del grupo pregunta tres veces al conductor antes de subir para estar seguro?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en proponer ir a ver una aurora boreal aunque haga -30 grados?",
-    "different": "¿Quién del grupo odia el frío y solo viaja a países donde pueda ir en bermudas?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más tiempo pasa en las tiendas de los museos comprando tonterías?",
-    "different": "¿Quién del grupo sale por la puerta trasera para evitar pasar por la tienda?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que acabe trabajando de camarero en Ibiza un verano entero?",
-    "different": "¿Quién del grupo prefiere un trabajo de oficina serio aunque sea en su ciudad de siempre?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en proponer ir a una isla desierta en un barco de pescadores?",
-    "different": "¿Quién del grupo se marea solo con ver una barca de lejos?"
-  },
-  {
-    "main": "¿Quién del grupo es el que siempre tiene las historias más increíbles (y quizás exageradas) de sus viajes?",
-    "different": "¿Quién del grupo cuenta sus viajes de forma tan aburrida que parece que no fue a ningún lado?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea pillado escribiendo su nombre en un monumento histórico?",
-    "different": "¿Quién del grupo regaña a la gente que tira basura al suelo durante un viaje?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor para organizar una expedición al Everest?",
-    "different": "¿Quién del grupo se cansa subiendo las escaleras de su casa?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más veces ha perdido el vuelo de vuelta y se ha quedado atrapado?",
-    "different": "¿Quién del grupo está en el aeropuerto el día de antes por si acaso hay huelga?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que acabe casándose con alguien que conoció en un viaje?",
-    "different": "¿Quién del grupo viaja precisamente para desconectar de todo compromiso amoroso?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en proponer ir a ver una final de un mundial en el otro lado del mundo?",
-    "different": "¿Quién del grupo odia el fútbol y cualquier evento deportivo masivo?"
-  },
-  {
-    "main": "¿Quién del grupo es el que siempre tiene los mejores trucos para conseguir vuelos baratos?",
-    "different": "¿Quién del grupo compra el primer billete que le sale en Google aunque sea carísimo?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea pillado durmiendo en un banco de un parque extranjero?",
-    "different": "¿Quién del grupo prefiere pagar 200 euros por una noche extra que dormir mal?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor para sobrevivir en la selva amazónica solo con un cuchillo?",
-    "different": "¿Quién del grupo se asusta si ve una araña en el techo de su habitación?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más se queja de la falta de higiene en algunos países?",
-    "different": "¿Quién del grupo es capaz de no ducharse en tres días y estar tan feliz de la vida?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se olvide de renovar el pasaporte hasta que está en el mostrador?",
-    "different": "¿Quién del grupo tiene el pasaporte lleno de sellos de países raros?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en proponer ir a una ciudad solo por su arquitectura moderna?",
-    "different": "¿Quién del grupo prefiere las ruinas romanas y la historia antigua?"
-  },
-  {
-    "main": "¿Quién del grupo es el que siempre acaba perdiendo la tarjeta del hotel o la llave del apartamento?",
-    "different": "¿Quién del grupo lleva la llave colgada al cuello para no perderla?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que sea pillado intentando meter comida en un país que lo prohíbe?",
-    "different": "¿Quién del grupo se declara culpable de llevar un chicle por miedo a la multa?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor para organizar un viaje de estudios para 50 adolescentes?",
-    "different": "¿Quién del grupo pierde la paciencia en cuanto alguien le pregunta 'cuánto falta'?"
-  },
-  {
-    "main": "¿Quién del grupo es el que más veces ha dicho 'esto en mi país es mejor' mientras está fuera?",
-    "different": "¿Quién del grupo critica todo de su propio país en cuanto cruza la frontera?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que acabe siendo el rey/reina de una tribu perdida?",
-    "different": "¿Quién del grupo no sabría ni cómo encender un fuego con cerillas?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en proponer ir a ver una lluvia de estrellas al desierto?",
-    "different": "¿Quién del grupo prefiere las luces de neón de una gran ciudad como Nueva York o Tokio?"
-  }
+  { "main": "¿Qué prefieres: viajar siempre a lugares nuevos pero solo, o repetir el mismo destino siempre pero con amigos?", "different": "¿Qué prefieres: un viaje de lujo de 3 días o un viaje de mochilero de un mes completo?" },
+  { "main": "Si pudieras teletransportarte a cualquier lugar del mundo ahora mismo por solo 10 minutos, ¿a dónde irías?", "different": "Si pudieras mudarte a cualquier ciudad del mundo mañana mismo con casa y trabajo pago, ¿cuál elegirías?" },
+  { "main": "¿Cuál es el objeto más absurdo o innecesario que siempre llevas en tu maleta 'por si acaso'?", "different": "¿Cuál es la cosa más importante que has olvidado llevar a un viaje y te causó problemas?" },
+  { "main": "¿Qué prefieres: vacaciones de playa y relax absoluto o vacaciones de ciudad y caminatas de 20km al día?", "different": "¿Qué prefieres: vacaciones en la nieve haciendo esquí o vacaciones en la selva haciendo expediciones?" },
+  { "main": "Si te ofrecieran un viaje gratis a la Antártida pero tienes que dormir en una tienda de campaña, ¿aceptarías?", "different": "Si te ofrecieran un viaje gratis a una zona de guerra como 'turista extremo', ¿aceptarías?" },
+  { "main": "¿Cuál ha sido tu peor experiencia en un aeropuerto o estación de tren?", "different": "¿Cuál ha sido el encuentro más extraño que has tenido con un desconocido durante un viaje?" },
+  { "main": "Si pudieras viajar en el tiempo para ver un lugar que ya no existe (ej. la Atlántida, Pompeya antes del volcán), ¿cuál elegirías?", "different": "Si pudieras viajar al futuro para ver cómo será tu ciudad en 100 años, ¿lo harías?" },
+  { "main": "¿Qué prefieres: que se pierda tu maleta al ir al viaje o que se pierda al volver a casa?", "different": "¿Qué prefieres: perder el vuelo de ida o perder el vuelo de vuelta?" },
+  { "main": "¿Cuál es el lugar del mundo que todo el mundo ama pero a ti te parece una trampa para turistas?", "different": "¿Cuál es el lugar 'desconocido' que visitaste y crees que es una joya oculta?" },
+  { "main": "Si tuvieras que elegir a una persona de este grupo para perderte en una ciudad extranjera, ¿quién sería?", "different": "Si tuvieras que elegir a una persona de este grupo para que organice todo tu próximo viaje sin decirte nada, ¿quién sería?" },
+  { "main": "¿Qué prefieres: un hotel de 5 estrellas en un lugar aburrido o un hostal compartido en el lugar más increíble del mundo?", "different": "¿Qué prefieres: viajar en un crucero gigante con miles de personas o en un velero pequeño solo con este grupo?" },
+  { "main": "¿Cuál es la comida más extraña que has probado estando de viaje solo por no parecer maleducado?", "different": "¿Cuál es la mayor estafa que te han intentado hacer (o te hicieron) siendo turista?" },
+  { "main": "Si pudieras ser un 'nómada digital' y trabajar desde cualquier lugar, ¿qué clima elegirías para vivir?", "different": "Si pudieras vivir un año en una isla desierta totalmente solo por $100,000, ¿lo harías?" },
+  { "main": "¿Qué prefieres: que tu avión tenga turbulencias constantes o que el pasajero de al lado no pare de hablarte?", "different": "¿Qué prefieres: viajar en un bus de 20 horas con el aire acondicionado roto o en un tren sin asientos libres?" },
+  { "main": "¿Cuál es el país al que jamás irías ni aunque te pagaran el viaje completo?", "different": "¿Cuál es el país que crees que tiene la gente más amable del mundo?" },
+  { "main": "Si pudieras llevarte a una celebridad de viaje como compañero, ¿a quién elegirías?", "different": "Si pudieras borrar un destino turístico del mapa para que nadie más pueda ir, ¿cuál elegirías?" },
+  { "main": "¿Qué prefieres: no poder sacar fotos en todo el viaje o no poder usar internet para orientarte?", "different": "¿Qué prefieres: viajar solo con ropa usada de otras personas o viajar solo con una muda de ropa para 10 días?" },
+  { "main": "¿Cuál es el souvenir más feo que has comprado o que te han regalado de un viaje?", "different": "¿Cuál es el objeto de tu casa que más valoras y que compraste en un viaje?" },
+  { "main": "Si tuvieras que elegir un medio de transporte para recorrer el mundo entero, ¿cuál elegirías: Tren, Barco o Caravana?", "different": "Si tuvieras que elegir una temática para un viaje épico, ¿cuál sería: Festivales de música, Museos o Naturaleza?" },
+  { "main": "¿Qué prefieres: un viaje donde todo sale perfecto pero es aburrido, o un viaje lleno de problemas pero con las mejores anécdotas?", "different": "¿Qué prefieres: viajar con tu familia completa o viajar con un grupo de desconocidos?" },
+  { "main": "¿Cuál es el lugar más romántico que has visitado (o te gustaría visitar)?", "different": "¿Cuál es el lugar más aterrador o inquietante en el que has estado?" },
+  { "main": "Si pudieras cambiarle el nombre a un país, ¿a cuál elegirías y qué nombre le pondrías?", "different": "Si pudieras crear un nuevo continente en medio del océano, ¿qué tipo de animales y plantas habría?" },
+  { "main": "¿Qué prefieres: vivir en un avión que nunca aterriza o en un barco que nunca llega a puerto?", "different": "¿Qué prefieres: tener un pasaporte que te permite entrar a cualquier lugar pero nadie te habla, o ser recibido como un rey pero no poder salir de un solo país?" },
+  { "main": "¿Cuál es la mentira que siempre dices cuando te preguntan '¿qué tal el viaje?' pero en realidad fue un desastre?", "different": "¿Cuál es el hábito de tu país que más extrañas cuando estás fuera por mucho tiempo?" },
+  { "main": "Si tuvieras que elegir a alguien del grupo para que sea tu traductor en un país donde no hablas el idioma, ¿quién sería?", "different": "Si tuvieras que elegir a alguien del grupo para que sea el encargado de llevar todo el dinero del viaje, ¿en quién confiarías?" },
+  { "main": "¿Qué prefieres: viajar al espacio exterior por un día o recorrer el fondo del océano por una semana?", "different": "¿Qué prefieres: ver las auroras boreales o ver un eclipse solar total en el desierto?" },
+  { "main": "¿Cuál es la ciudad que visitaste y pensaste: 'podría vivir aquí para siempre'?", "different": "¿Cuál es la ciudad que visitaste y pensaste: 'necesito irme de aquí ahora mismo'?" },
+  { "main": "Si pudieras prohibir a los turistas hacer una cosa específica en los monumentos, ¿qué sería?", "different": "Si pudieras hacer que todos los viajes en avión fueran gratuitos pero el equipaje costara $500, ¿lo usarías?" },
+  { "main": "¿Qué prefieres: un viaje de aventura extrema (puenting, paracaidismo) o un viaje espiritual y de meditación?", "different": "¿Qué prefieres: viajar para comer o viajar para ir de compras?" },
+  { "main": "¿Cuál es el transporte más extraño en el que te has subido?", "different": "¿Cuál es el hotel o alojamiento más raro en el que te has quedado?" },
+  { "main": "Si pudieras traer un monumento del mundo a tu ciudad, ¿cuál elegirías?", "different": "Si pudieras mudar tu ciudad entera a otro país, ¿a dónde la llevarías?" },
+  { "main": "¿Qué prefieres: viajar siempre con maleta de mano o tener que facturar 3 maletas gigantes siempre?", "different": "¿Qué prefieres: viajar con alguien que ronca mucho o con alguien que se despierta a las 5 AM todos los días?" },
+  { "main": "¿Cuál es el mito sobre un país que descubriste que era totalmente falso al visitarlo?", "different": "¿Cuál es el choque cultural más fuerte que has tenido?" },
+  { "main": "Si tuvieras que elegir una sola canción para que sea el 'himno' de tus viajes, ¿cuál sería?", "different": "Si tuvieras que elegir una película que represente tus vacaciones ideales, ¿cuál sería?" },
+  { "main": "¿Qué prefieres: un viaje por carretera (road trip) por todo el continente o un viaje en tren de lujo por Europa?", "different": "¿Qué prefieres: acampar bajo las estrellas o dormir en una burbuja transparente en medio de la selva?" },
+  { "main": "Si pudieras ser invisible durante un viaje, ¿qué lugar prohibido visitarías?", "different": "Si pudieras viajar con una identidad falsa y que nadie sepa quién eres realmente, ¿quién serías?" },
+  { "main": "¿Cuál es el destino turístico que crees que desaparecerá pronto y quieres visitar ya?", "different": "¿Cuál es el lugar que visitaste de niño y te decepcionó al volver de adulto?" },
+  { "main": "¿Qué prefieres: viajar con alguien que lo tiene todo planeado al minuto o con alguien que improvisa absolutamente todo?", "different": "¿Qué prefieres: que te paguen por viajar pero tengas que hablar mal de todos los lugares, o pagar tú pero poder decir la verdad?" },
+  { "main": "¿Cuál es la frase en otro idioma que siempre aprendes primero al viajar?", "different": "¿Cuál es el gesto corporal que hiciste en otro país y resultó ser ofensivo?" },
+  { "main": "Si el grupo entero tuviera que mudarse a una isla desierta, ¿quién crees que se volvería loco primero?", "different": "Si el grupo entero tuviera que vivir en una furgoneta viajando por un año, ¿quién sería el primero en bajarse?" }
 ]

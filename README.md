@@ -33,8 +33,8 @@ Todos reciben la misma palabra, excepto uno o varios que reciben una muy parecid
 ### 3. ❓ Pregunta Diferente (Completado)
 Todos responden a la misma pregunta, pero uno o varios jugadores reciben una pregunta distinta que los hará quedar en evidencia.
 - **Estado:** ✅ 100% Funcional.
-- **Contenido:** 14 categorías curadas para generar discusión grupal.
-- **Características:** Selección múltiple de categorías, respuestas integradas, revelación automática y categoría 👥 "¿Quién del Grupo?".
+- **Identidad de Categorías:** Cada categoría tiene su propio estilo (Dilemas en Personales, Debates en Comida, Escenarios Absurdos en Chaos).
+- **Contenido:** 14 categorías curadas para generar discusión grupal genuina.
 
 ## ✨ Filosofía de Contenido: Calidad sobre Cantidad
 ONI Games se diferencia por ofrecer un catálogo curado manualmente donde cada entrada debe:

@@ -1,402 +1,148 @@
 [
-  {
-    "main": "¿Quién del grupo es más probable que tenga una segunda familia secreta?",
-    "different": "¿Quién del grupo es más probable que sea un agente secreto?"
-  },
-  {
-    "main": "¿Quién tiene más probabilidades de terminar en la cárcel por algo estúpido?",
-    "different": "¿Quién tiene más probabilidades de terminar en la cárcel por un crimen pasional?"
-  },
-  {
-    "main": "¿Quién tiene el historial de búsqueda más vergonzoso?",
-    "different": "¿Quién tiene el historial de búsqueda más aburrido?"
-  },
-  {
-    "main": "¿Quién es más probable que salga con el ex de un amigo?",
-    "different": "¿Quién es más probable que salga con el ex de una celebridad?"
-  },
-  {
-    "main": "¿Quién es más probable que se vaya a casa con un extraño esta noche?",
-    "different": "¿Quién es más probable que se quede dormido en la fiesta?"
-  },
-  {
-    "main": "¿Quién del grupo es el peor guardando secretos?",
-    "different": "¿Quién del grupo es una tumba para los secretos?"
-  },
-  {
-    "main": "¿Quién es más probable que sea atrapado en una mentira hoy?",
-    "different": "¿Quién es más probable que diga una verdad brutal hoy?"
-  },
-  {
-    "main": "¿Quién tiene más probabilidades de convertirse en un 'sugar baby'?",
-    "different": "¿Quién tiene más probabilidades de convertirse en un 'sugar daddy/mommy'?"
-  },
-  {
-    "main": "¿Quién es más probable que tenga un 'accidente' con su ropa en público?",
-    "different": "¿Quién es más probable que vaya demasiado elegante a un funeral?"
-  },
-  {
-    "main": "¿Quién tiene el ex más tóxico?",
-    "different": "¿Quién es el ex tóxico?"
-  },
-  {
-    "main": "¿Quién es más probable que desaparezca (ghosting) después de una gran primera cita?",
-    "different": "¿Quién es más probable que planee la boda después de la primera cita?"
-  },
-  {
-    "main": "¿Quién tiene el 'body count' más alto?",
-    "different": "¿Quién es la persona más inocente del grupo?"
-  },
-  {
-    "main": "¿Quién es más probable que se haga un tatuaje del que se arrepienta?",
-    "different": "¿Quién es más probable que se tatúe el nombre de su pareja?"
-  },
-  {
-    "main": "¿Quién es más probable que llore durante una película?",
-    "different": "¿Quién es más probable que llore durante una discusión?"
-  },
-  {
-    "main": "¿Quién es el más coqueto del grupo?",
-    "different": "¿Quién es el que menos se da cuenta cuando le coquetean?"
-  },
-  {
-    "main": "¿Quién es más probable que use fotos falsas en redes (catfish)?",
-    "different": "¿Quién es más probable que sea engañado con fotos falsas?"
-  },
-  {
-    "main": "¿Quién es más probable que sea expulsado de un club?",
-    "different": "¿Quién es más probable que sea el conductor designado pero termine borracho igual?"
-  },
-  {
-    "main": "¿Quién tiene las fotos más escandalosas en su celular?",
-    "different": "¿Quién tiene 10,000 fotos de su mascota?"
-  },
-  {
-    "main": "¿Quién es más probable que envíe accidentalmente un desnudo a la persona equivocada?",
-    "different": "¿Quién es más probable que responda 'ok' a un mensaje emocional largo?"
-  },
-  {
-    "main": "¿Quién es más probable que se case por dinero?",
-    "different": "¿Quién es más probable que se case por amor y termine en la quiebra?"
-  },
-  {
-    "main": "¿Quién es más probable que gane un reality show?",
-    "different": "¿Quién es más probable que sea el primero en ser eliminado de un reality show?"
-  },
-  {
-    "main": "¿Quién tiene más probabilidades de sobrevivir a un apocalipsis zombie?",
-    "different": "¿Quién tiene más probabilidades de ser el primer zombie?"
-  },
-  {
-    "main": "¿Quién es más probable que se convierta en líder de una secta?",
-    "different": "¿Quién es más probable que se una accidentalmente a una secta?"
-  },
-  {
-    "main": "¿Quién tiene el fetiche más raro?",
-    "different": "¿Quién es el más aburrido en la cama?"
-  },
-  {
-    "main": "¿Quién es más probable que tenga una aventura de una noche con un compañero de trabajo?",
-    "different": "¿Quién es más probable que esté enamorado de su jefe?"
-  },
-  {
-    "main": "¿Quién es más probable que se convierta en una 'Karen' en 20 años?",
-    "different": "¿Quién es más probable que sea el 'abuelo genial'?"
-  },
-  {
-    "main": "¿Quién tiene las mejores historias de borracho?",
-    "different": "¿Quién tiene las historias más vergonzosas estando sobrio?"
-  },
-  {
-    "main": "¿Quién es más probable que inicie una pelea en una boda?",
-    "different": "¿Quién es más probable que dé un discurso inapropiadamente largo en una boda?"
-  },
-  {
-    "main": "¿Quién es más probable que mienta en su currículum?",
-    "different": "¿Quién es más probable que mienta sobre su edad?"
-  },
-  {
-    "main": "¿Quién es más probable que olvide el cumpleaños de su pareja?",
-    "different": "¿Quién es más probable que olvide su propio aniversario?"
-  },
-  {
-    "main": "¿Quién tiene más probabilidades de tener un amante?",
-    "different": "¿Quién tiene más probabilidades de ser 'el otro' o 'la otra'?"
-  },
-  {
-    "main": "¿Quién es más probable que se haga una cirugía plástica?",
-    "different": "¿Quién es más probable que juzgue a alguien por hacerse una cirugía plástica?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un millonario silencioso?",
-    "different": "¿Quién es más probable que aparente ser rico pero esté totalmente quebrado?"
-  },
-  {
-    "main": "¿Quién es más probable que se acueste con el hermano/a de un amigo?",
-    "different": "¿Quién es más probable que se acueste con el padre/madre de un amigo?"
-  },
-  {
-    "main": "¿Quién es más probable que rompa su celular hoy?",
-    "different": "¿Quién es más probable que pierda su billetera hoy?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un rompecorazones?",
-    "different": "¿Quién es más probable que termine con el corazón roto?"
-  },
-  {
-    "main": "¿Quién es más probable que se mude a otro país por amor?",
-    "different": "¿Quién es más probable que se mude a otro país para escapar de su ex?"
-  },
-  {
-    "main": "¿Quién es más probable que tenga un romance escandaloso?",
-    "different": "¿Quién es más probable que tenga una vida aburrida?"
-  },
-  {
-    "main": "¿Quién tiene más probabilidades de aparecer en un cartel de 'Se Busca'?",
-    "different": "¿Quién tiene más probabilidades de ser un soplón?"
-  },
-  {
-    "main": "¿Quién tiene más probabilidades de fingir su propia muerte?",
-    "different": "¿Quién tiene más probabilidades de fingir una enfermedad para evitar una cita?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un espía?",
-    "different": "¿Quién es más probable que sea un agente doble?"
-  },
-  {
-    "main": "¿Quién es más probable que tenga la mayor cantidad de hijos?",
-    "different": "¿Quién es más probable que nunca tenga hijos?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el compañero de cuarto desordenado?",
-    "different": "¿Quién es más probable que sea el compañero de cuarto obsesionado con la limpieza?"
-  },
-  {
-    "main": "¿Quién es más probable que se libre de una multa por exceso de velocidad hablando?",
-    "different": "¿Quién es más probable que llore para librarse de una multa?"
-  },
-  {
-    "main": "¿Quién es más probable que vaya al funeral equivocado?",
-    "different": "¿Quién es más probable que aparezca en la boda equivocada?"
-  },
-  {
-    "main": "¿Quién del grupo es más probable que se haya enamorado de un profesor?",
-    "different": "¿Quién del grupo es más probable que se haya enamorado de un personaje de caricatura?"
-  },
-  {
-    "main": "¿Quién es más probable que sea atrapado fisgoneando?",
-    "different": "¿Quién es más probable que sea el objetivo de los fisgones?"
-  },
-  {
-    "main": "¿Quién tiene más probabilidades de tener un pasado oculto?",
-    "different": "¿Quién tiene más probabilidades de estar bajo protección de testigos?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el primero en ser devorado en una isla desierta?",
-    "different": "¿Quién es más probable que empiece el canibalismo en una isla desierta?"
-  },
-  {
-    "main": "¿Quién es más probable que caiga en una estafa?",
-    "different": "¿Quién es más probable que inicie una estafa?"
-  },
-  {
-    "main": "¿Quién es más probable que sea multimillonario?",
-    "different": "¿Quién es más probable que sea un revolucionario?"
-  },
-  {
-    "main": "¿Quién del grupo sobreviviría a una película de terror?",
-    "different": "¿Quién del grupo sería el primero en morir en una película de terror?"
-  },
-  {
-    "main": "¿Quién es más probable que se case con un extraño en Las Vegas?",
-    "different": "¿Quién es más probable que escape de su propia boda?"
-  },
-  {
-    "main": "¿Quién tiene la cuenta de redes sociales más secreta?",
-    "different": "¿Quién es un libro abierto en las redes sociales?"
-  },
-  {
-    "main": "¿Quién es más probable que sea atrapado en una foto escandalosa?",
-    "different": "¿Quién es más probable que sea atrapado en una foto realmente fea?"
-  },
-  {
-    "main": "¿Quién es más probable que vaya a una playa nudista?",
-    "different": "¿Quién es más probable que use un suéter en la playa?"
-  },
-  {
-    "main": "¿Quién es más probable que se enamore de la pareja de su mejor amigo?",
-    "different": "¿Quién es más probable que se enamore del padre/madre de su mejor amigo?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un interesado/a por dinero?",
-    "different": "¿Quién es más probable que sea un 'sugar mama/papa'?"
-  },
-  {
-    "main": "¿Quién es más probable que se divorcie antes de un año?",
-    "different": "¿Quién es más probable que se quede en una relación tóxica para siempre?"
-  },
-  {
-    "main": "¿Quién es más probable que tenga un hijo con alguien que acaba de conocer?",
-    "different": "¿Quién es más probable que nunca se entere de que tiene un hijo?"
-  },
-  {
-    "main": "¿Quién es más probable que solo busque fama y atención?",
-    "different": "¿Quién es más probable que borre todas sus redes sociales y desaparezca?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un 'noviero/a' en serie?",
-    "different": "¿Quién es más probable que esté soltero por 10 años?"
-  },
-  {
-    "main": "¿Quién es más probable que se le filtre un video íntimo?",
-    "different": "¿Quién es más probable que se le filtre su historial de búsqueda?"
-  },
-  {
-    "main": "¿Quién es más probable que se acueste con su jefe para obtener un ascenso?",
-    "different": "¿Quién es más probable que sea despedido por algo sexual en el trabajo?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un 'libertino' pero actúe como un 'santo'?",
-    "different": "¿Quién es más probable que sea un 'santo' pero actúe como un 'libertino'?"
-  },
-  {
-    "main": "¿Quién es más probable que tenga una adicción secreta?",
-    "different": "¿Quién es más probable que sea adicto a su celular?"
-  },
-  {
-    "main": "¿Quién es más probable que mienta sobre su 'número' (parejas sexuales)?",
-    "different": "¿Quién es más probable que presuma sobre su 'número'?"
-  },
-  {
-    "main": "¿Quién es más probable que envíe un mensaje de '¿estás despierto?' a las 3 AM?",
-    "different": "¿Quién es más probable que responda '¿Quién habla?' a un mensaje de '¿estás despierto?'"
-  },
-  {
-    "main": "¿Quién es más probable que sea una 'mala influencia'?",
-    "different": "¿Quién es más probable que sea el 'papá/mamá' del grupo?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un 'alcohólico funcional'?",
-    "different": "¿Quién es más probable que no aguante ni una copa?"
-  },
-  {
-    "main": "¿Quién es más probable que tenga un hijo secreto?",
-    "different": "¿Quién es más probable que tenga un hermano secreto?"
-  },
-  {
-    "main": "¿Quién es más probable que desaparezca (ghost) en las relaciones?",
-    "different": "¿Quién es más probable que sea una pareja intensa o 'clapa'?"
-  },
-  {
-    "main": "¿Quién es más probable que gane una discusión con un extraño?",
-    "different": "¿Quién es más probable que inicie una discusión con un extraño?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un 'simp'?",
-    "different": "¿Quién es más probable que sea un rompecorazones?"
-  },
-  {
-    "main": "¿Quién es más probable que sea atrapado engañando?",
-    "different": "¿Quién es más probable que atrape a alguien engañando?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un 'drama queen/king'?",
-    "different": "¿Quién es más probable que sea cero drama?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un amigo falso?",
-    "different": "¿Quién es más probable que sea el amigo más leal?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un traidor?",
-    "different": "¿Quién es más probable que reciba una bala por un amigo?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un narcisista?",
-    "different": "¿Quién es más probable que tenga baja autoestima?"
-  },
-  {
-    "main": "¿Quién es más probable que haga trampa en los juegos?",
-    "different": "¿Quién es más probable que sea un mal perdedor?"
-  },
-  {
-    "main": "¿Quién es más probable que tenga adicción al sexting?",
-    "different": "¿Quién es más probable que sea célibe?"
-  },
-  {
-    "main": "¿Quién es más probable que busque fama a toda costa?",
-    "different": "¿Quién es más probable que sea de perfil bajo?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un hipócrita?",
-    "different": "¿Quién es más probable que sea la brújula moral?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un cobarde?",
-    "different": "¿Quién es más probable que sea un héroe?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un desastre?",
-    "different": "¿Quién es más probable que tenga su vida en orden?"
-  },
-  {
-    "main": "¿Quién es más probable que sea arrestado en un aeropuerto?",
-    "different": "¿Quién es más probable que pierda su pasaporte en el extranjero?"
-  },
-  {
-    "main": "¿Quién es más probable que tenga una crisis de los 40 a los 25?",
-    "different": "¿Quién es más probable que siga viviendo con sus padres a los 50?"
-  },
-  {
-    "main": "¿Quién es más probable que se ría en un funeral?",
-    "different": "¿Quién es más probable que llore en un comercial de comida para perros?"
-  },
-  {
-    "main": "¿Quién es más probable que sea el primero en emborracharse en una reunión familiar?",
-    "different": "¿Quién es más probable que sea el que cuida a todos los borrachos?"
-  },
-  {
-    "main": "¿Quién es más probable que gaste todo su sueldo en criptomonedas?",
-    "different": "¿Quién es más probable que guarde su dinero debajo del colchón?"
-  },
-  {
-    "main": "¿Quién es más probable que sea cancelado en Twitter?",
-    "different": "¿Quién es más probable que se vuelva viral por algo vergonzoso?"
-  },
-  {
-    "main": "¿Quién es más probable que tenga una aventura con un desconocido en un baño?",
-    "different": "¿Quién es más probable que sea atrapado teniendo sexo en público?"
-  },
-  {
-    "main": "¿Quién es más probable que robe algo pequeño de una tienda solo por la adrenalina?",
-    "different": "¿Quién es más probable que devuelva un billete de 20 dólares que encontró en la calle?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un acosador en redes sociales?",
-    "different": "¿Quién es más probable que no sepa quién es quién en el grupo?"
-  },
-  {
-    "main": "¿Quién es más probable que se enamore de un stripper?",
-    "different": "¿Quién es más probable que trabaje como stripper en secreto?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un adicto al trabajo?",
-    "different": "¿Quién es más probable que sea despedido por flojera?"
-  },
-  {
-    "main": "¿Quién es más probable que tenga la peor suerte en el amor?",
-    "different": "¿Quién es más probable que tenga un harem si pudiera?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un psicópata funcional?",
-    "different": "¿Quién es más probable que sea demasiado sensible para este mundo?"
-  },
-  {
-    "main": "¿Quién es más probable que sea un alien disfrazado de humano?",
-    "different": "¿Quién es más probable que crea en teorías conspirativas locas?"
-  },
-  {
-    "main": "¿Quién es más probable que se case con alguien que odiaba en la escuela?",
-    "different": "¿Quién es más probable que nunca supere a su primer amor?"
-  }
+  { "main": "Despiertas y todo el mundo puede escuchar tus pensamientos durante 24 horas. ¿Qué es lo primero que haces para evitar el desastre?", "different": "Despiertas y puedes escuchar los pensamientos de todos durante 24 horas. ¿A quién evitarías encontrarte a toda costa?" },
+  { "main": "¿Quién del grupo es más probable que termine en la cárcel por un crimen pasional?", "different": "¿Quién del grupo es más probable que termine en la cárcel por una estafa millonaria?" },
+  { "main": "Tienes 5 minutos para gastar $1 millón en algo que no sea propiedades ni inversiones o el dinero desaparece. ¿En qué lo gastas?", "different": "Tienes 24 horas para quemar $100,000 de forma legal sin que nadie se entere. ¿Cómo lo harías?" },
+  { "main": "¿A quién de este grupo nunca le confiarías tu celular desbloqueado por 10 minutos?", "different": "¿A quién de este grupo nunca le confiarías las llaves de tu casa si te vas de viaje?" },
+  { "main": "Un clon idéntico tuyo aparece y convence a todos de que él es el real. ¿Qué detalle de tu vida usarías para demostrar que tú eres el original?", "different": "Un clon idéntico tuyo aparece y se ofrece a hacer todas tus responsabilidades aburridas, pero a cambio dormirá con tu pareja. ¿Aceptarías?" },
+  { "main": "¿Quién del grupo tiene más cara de tener una familia secreta en otro país?", "different": "¿Quién del grupo tiene más cara de ser un agente encubierto del gobierno?" },
+  { "main": "Debes sobrevivir una semana en un centro comercial cerrado. ¿Cuál es tu primera medida de seguridad para que nadie entre?", "different": "Debes sobrevivir una semana en un zoológico abandonado. ¿Qué animal liberarías primero para que te ayude a vigilar el perímetro?" },
+  { "main": "¿Quién del grupo es más probable que se vuelva viral por algo extremadamente vergonzoso o funable?", "different": "¿Quién del grupo es más probable que se vuelva famoso por un escándalo político?" },
+  { "main": "Puedes eliminar una ley física del universo por una hora (gravedad, fricción, inercia). ¿Cuál eliges y qué caos provocarías?", "different": "Puedes crear una nueva ley absurda que todo el mundo deba cumplir bajo pena de cárcel. ¿Cuál sería la ley más divertida?" },
+  { "main": "¿Quién del grupo sería el primero en vender a los demás a los alienígenas para salvar su propia vida?", "different": "¿Quién del grupo sería el primero en unirse a una secta destructiva solo por curiosidad?" },
+  { "main": "Te ofrecen el poder de teletransportarte, pero cada vez que lo usas, apareces completamente desnudo en el destino. ¿Lo usarías?", "different": "Te ofrecen el poder de leer la mente, pero cada vez que lo haces, la otra persona escucha un fuerte zumbido y sabe que alguien la está 'leyendo'. ¿Lo usarías?" },
+  { "main": "¿Quién del grupo tiene el historial de búsqueda de Google más oscuro y difícil de explicar?", "different": "¿Quién del grupo tiene los fetiches más extraños que nadie sospecharía?" },
+  { "main": "La humanidad se traslada a vivir bajo el océano. ¿Cuál sería tu nuevo trabajo en la ciudad submarina?", "different": "La humanidad se traslada a vivir a una estación espacial gigante. ¿Qué objeto pequeño de la Tierra te llevarías de contrabando?" },
+  { "main": "¿A quién del grupo elegirías para que te ayude a ocultar un cadáver si no tuvieras otra opción?", "different": "¿A quién del grupo elegirías para que sea tu abogado en un juicio por traición a la patria?" },
+  { "main": "Despiertas y eres el último ser humano sobre la Tierra, pero tienes Wi-Fi infinito y electricidad. ¿Qué es lo primero que publicas en redes sociales?", "different": "Despiertas y eres la única persona que recuerda la existencia de la música. ¿Cómo intentarías explicarle a los demás qué es una canción?" },
+  { "main": "¿Quién del grupo sería el villano perfecto en una película de terror psicológico?", "different": "¿Quién del grupo sería el primer sospechoso en un caso de desaparición misteriosa?" },
+  { "main": "Un botón rojo aparece frente a ti: si lo presionas, recibes $1 millón pero una persona al azar en el mundo desaparece. ¿Cuántas veces lo presionas?", "different": "Un botón azul aparece frente a ti: si lo presionas, recuperas 5 años de juventud pero pierdes todos tus recuerdos de los últimos 10 años. ¿Lo presionas?" },
+  { "main": "¿Quién del grupo es más probable que haya besado a alguien hoy y no se lo haya dicho a nadie?", "different": "¿Quién del grupo es más probable que esté enamorado en secreto de alguien de este círculo?" },
+  { "main": "Te conviertes en el presidente del mundo por 10 minutos. Solo puedes dar una orden que nadie pueda desobedecer. ¿Cuál sería?", "different": "Te conviertes en el dueño de todos los satélites del mundo por un día. Solo puedes transmitir un mensaje de 10 segundos a todas las pantallas. ¿Qué dices?" },
+  { "main": "¿Quién del grupo sería el primero en ser cancelado masivamente en redes sociales por un comentario fuera de lugar?", "different": "¿Quién del grupo es el más hipócrita y finge ser una buena persona frente a todos?" },
+  { "main": "Si pudieras cenar con un alienígena, ¿qué comida humana le darías para convencerlo de que no destruya el planeta?", "different": "Si pudieras enviarle un solo objeto a una civilización alienígena para representar a la humanidad, ¿qué enviarías?" },
+  { "main": "¿A quién del grupo borrarías de tu memoria para siempre si eso te hiciera ganar $100,000?", "different": "¿A quién del grupo le confiarías tu vida en una situación de vida o muerte?" },
+  { "main": "Tienes que vivir el resto de tu vida dentro de un videojuego. ¿Cuál eliges sabiendo que si mueres en el juego, mueres en la vida real?", "different": "Tienes que vivir el resto de tu vida dentro de una película de terror, pero como el asesino. ¿Cuál sería tu temática o máscara?" },
+  { "main": "¿Quién del grupo es el más propenso a crear un perfil falso para espiar a su ex o a alguien que le cae mal?", "different": "¿Quién del grupo es el más envidioso aunque intente ocultarlo con cumplidos?" },
+  { "main": "Puedes intercambiar tu cerebro con el de cualquier animal por una semana. ¿Qué animal elegirías para experimentar el mundo?", "different": "Puedes hablar con los objetos inanimados de tu casa. ¿Cuál crees que tendría las historias más vergonzosas sobre ti?" },
+  { "main": "¿Quién del grupo es más probable que se haya despertado en un lugar extraño sin saber cómo llegó ahí?", "different": "¿Quién del grupo es el que peor aguanta el alcohol y cuenta todos sus secretos?" },
+  { "main": "Te ofrecen la inmortalidad, pero cada 100 años tu cuerpo se reinicia y olvidas todo lo que aprendiste. ¿Aceptarías?", "different": "Te ofrecen vivir 1000 años, pero siempre tendrás la apariencia física de una persona de 90 años. ¿Aceptarías?" },
+  { "main": "¿A quién del grupo dejarías fuera del búnker si solo hubiera espacio para todos menos uno?", "different": "¿Quién del grupo crees que es el favorito de los padres de todos los demás?" },
+  { "main": "¿Qué harías si descubres que todos tus conocidos son en realidad robots diseñados para analizarte?", "different": "¿Qué harías si descubres que tú eres el único robot en un mundo de humanos que te están estudiando?" },
+  { "main": "¿Quién del grupo es más probable que termine siendo un 'sugar daddy' o una 'sugar baby'?", "different": "¿Quién del grupo es el más interesado y solo se junta con gente que le conviene?" },
+  { "main": "Tienes que elegir: oler siempre a basura pero que nadie te lo diga, o que todos huelan a basura para ti por siempre.", "different": "Tienes que elegir: tener siempre un sabor amargo en la boca o escuchar un pitido agudo constante en tus oídos." },
+  { "main": "¿Quién del grupo es el más 'tóxico' en una relación y no lo admite?", "different": "¿Quién del grupo ha perdonado las cosas más humillantes por puro miedo a la soledad?" },
+  { "main": "Si pudieras ver un contador sobre la cabeza de las personas que indique cuántas veces han mentido hoy, ¿lo usarías?", "different": "Si pudieras ver un contador sobre la cabeza de las personas que indique cuánto les gustas del 1 al 100, ¿lo usarías?" },
+  { "main": "¿Quién del grupo es el más propenso a traicionar a un amigo por una gran suma de dinero?", "different": "¿Quién del grupo es el que más secretos guarda de los demás jugadores aquí presentes?" },
+  { "main": "Un genio te concede un deseo, pero tu peor enemigo recibirá el doble de lo que pidas. ¿Qué pides?", "different": "Un genio te concede un deseo, pero a cambio perderás la capacidad de sentir una emoción positiva para siempre. ¿Cuál sacrificarías?" },
+  { "main": "¿A quién de este grupo le darías un pase libre para acostarse con tu pareja sin que te enojes?", "different": "¿Quién de este grupo crees que ha tenido pensamientos impuros con la pareja de otro?" },
+  { "main": "Despiertas y todos los animales del mundo tienen inteligencia humana y pueden hablar. ¿Cuál sería la primera especie en declarar la guerra a los humanos?", "different": "Despiertas y puedes entender a los perros, pero ellos solo dicen cosas terribles sobre sus dueños. ¿Seguirías teniendo perro?" },
+  { "main": "¿Quién del grupo es más probable que termine en un reality show tipo 'La Isla de las Tentaciones'?", "different": "¿Quién del grupo es el más infiel por naturaleza?" },
+  { "main": "Tienes que pasar un mes solo en una casa supuestamente embrujada para ganar $50,000. ¿Qué objeto llevarías para protegerte?", "different": "Tienes que pasar una noche en un cementerio sin luz ni celular por $5,000. ¿Lo harías?" },
+  { "main": "¿Quién del grupo tiene más probabilidades de fundar una religión o una secta y hacerse millonario?", "different": "¿Quién del grupo es el más manipulador y siempre consigue lo que quiere de los demás?" },
+  { "main": "Si pudieras viajar al pasado solo para observar, ¿qué evento histórico elegirías para desmentir una teoría conspirativa?", "different": "Si pudieras viajar al futuro 500 años por solo una hora, ¿qué es lo primero que buscarías en Google?" },
+  { "main": "¿Quién del grupo es el más probable que haya robado algo pequeño de una tienda alguna vez?", "different": "¿Quién del grupo es el más propenso a mentir en su declaración de impuestos?" },
+  { "main": "Te dan la oportunidad de saber la verdad absoluta sobre un misterio del mundo (pie grande, alienígenas, el sentido de la vida). ¿Cuál eliges?", "different": "Te dan la oportunidad de borrar un invento de la historia de la humanidad. ¿Cuál borrarías para ver qué pasa?" },
+  { "main": "¿Quién del grupo es el que más juzga a los demás en silencio mientras sonríe?", "different": "¿Quién del grupo es el más falso y cambia de personalidad según con quién esté?" },
+  { "main": "Tienes que elegir un superpoder inútil: poder cambiar el color de tus ojos a voluntad o que nunca se te desaten los cordones.", "different": "Tienes que elegir un superpoder molesto: cada vez que estornudas te teletransportas 1 metro a la izquierda o siempre que ríes cambias de ropa al azar." },
+  { "main": "¿Quién de aquí crees que tiene el secreto más 'funable' que si saliera a la luz arruinaría su vida?", "different": "¿Quién de aquí es el que más aparenta tener una vida perfecta pero es un desastre por dentro?" },
+  { "main": "¿Qué harías si un viajero del tiempo llega hoy y te dice que tú eres el responsable del fin del mundo en el futuro?", "different": "¿Qué harías si un viajero del tiempo llega y te pide que mates a un bebé que se convertirá en un dictador terrible?" },
+  { "main": "¿Quién del grupo sería capaz de salir con el ex de su mejor amigo sin remordimientos?", "different": "¿Quién del grupo es el más rencoroso y nunca perdonaría una falta de respeto pequeña?" },
+  { "main": "Puedes elegir que todos los lunes del año sean feriados, pero a cambio todos los viernes tendrás que trabajar 4 horas extra. ¿Aceptas?", "different": "Puedes elegir ganar el triple de tu sueldo, pero solo podrás gastarlo en cosas que empiecen con la letra 'P'. ¿Aceptas?" },
+  { "main": "¿Quién de este grupo crees que sería el primero en unirse a una rebelión contra el gobierno?", "different": "¿Quién de este grupo sería el que delata a los rebeldes para obtener beneficios?" },
+  { "main": "Si pudieras diseñar una nueva atracción de parque de diversiones que sea extremadamente peligrosa pero legal, ¿cómo sería?", "different": "Si pudieras diseñar un reality show donde el premio es la libertad de un preso, ¿qué retos pondrías?" },
+  { "main": "¿Quién del grupo es el más propenso a gastar dinero que no tiene para aparentar riqueza?", "different": "¿Quién del grupo es el más tacaño incluso cuando tiene dinero de sobra?" },
+  { "main": "Te ofrecen una pastilla que te permite no dormir nunca sin efectos negativos, pero perderás la capacidad de soñar. ¿La tomas?", "different": "Te ofrecen una pastilla que te permite aprender cualquier idioma en un segundo, pero olvidarás tu lengua materna para siempre. ¿La tomas?" },
+  { "main": "¿Quién del grupo es más probable que se case por interés y lo admita abiertamente?", "different": "¿Quién del grupo es el más dramático y hace un mundo de cualquier problema tonto?" },
+  { "main": "Si el dinero dejara de existir mañana, ¿cuál sería la nueva moneda de cambio basada en tus habilidades?", "different": "Si el mundo se quedara sin internet para siempre, ¿cuál sería tu nuevo hobby principal?" },
+  { "main": "¿Quién del grupo es el que más veces ha mentido en este juego hoy?", "different": "¿Quién del grupo es el más fácil de leer y nunca puede ocultar una mentira?" },
+  { "main": "Despiertas y eres un fantasma. Puedes asustar a una persona famosa por el resto de su vida. ¿A quién eliges?", "different": "Despiertas y eres una mosca. Tienes 24 horas de vida. ¿A qué lugar prohibido entrarías para curiosear?" },
+  { "main": "¿Quién de este grupo crees que tiene una doble vida que nadie imagina?", "different": "¿Quién de este grupo es el más predecible y aburrido en su rutina?" },
+  { "main": "Puedes tener cualquier objeto de cualquier película, pero solo funciona una vez. ¿Qué eliges?", "different": "Puedes vivir en cualquier universo cinematográfico, pero como un personaje secundario que muere a mitad de la trama. ¿Cuál eliges?" },
+  { "main": "¿A quién de este grupo elegirías para que críe a tus hijos si tú faltaras?", "different": "¿A quién de este grupo nunca dejarías a cargo ni de una planta de plástico?" },
+  { "main": "Te ofrecen $100,000 pero cada vez que escuches tu canción favorita, sentirás un dolor punzante en el pie. ¿Aceptarías?", "different": "Te ofrecen $100,000 pero no puedes volver a comer tu comida favorita por el resto de tu vida. ¿Aceptarías?" },
+  { "main": "¿Quién del grupo es el más probable que termine siendo noticia nacional por algo loco?", "different": "¿Quién del grupo es el más propenso a desaparecer y mudarse a otro país sin avisar a nadie?" },
+  { "main": "¿Qué es lo más caótico que podrías decir en una boda para arruinarla en menos de 10 segundos?", "different": "¿Qué es lo más caótico que podrías decir en una entrevista de trabajo para que te echen de inmediato?" },
+  { "main": "¿Quién de este grupo crees que es el más inteligente pero lo oculta para no tener responsabilidades?", "different": "¿Quién de este grupo se cree mucho más inteligente de lo que realmente es?" },
+  { "main": "Si pudieras fusionar dos animales para crear la mascota perfecta, ¿cuáles serían?", "different": "Si pudieras fusionar dos animales para crear el monstruo más aterrador del mundo, ¿cuáles serían?" },
+  { "main": "¿Quién del grupo es el más propenso a obsesionarse con alguien hasta dar miedo?", "different": "¿Quién del grupo es el que más rápido olvida a las personas cuando ya no le sirven?" },
+  { "main": "Puedes viajar a cualquier planeta del sistema solar con un traje que te protege, pero el viaje dura 20 años de ida y vuelta. ¿Irías?", "different": "Puedes viajar al centro de la Tierra en una cápsula indestructible, pero nunca podrás contar lo que viste. ¿Irías?" },
+  { "main": "¿Quién de aquí es el que más se queja de la vida pero no hace nada para cambiarla?", "different": "¿Quién de aquí es el que siempre tiene un plan para todo pero nunca concreta nada?" },
+  { "main": "Tienes que elegir: vivir en un mundo donde siempre es de noche o en uno donde siempre es de día.", "different": "Tienes que elegir: vivir en un mundo donde siempre hace -10 grados o en uno donde siempre hace 40 grados." },
+  { "main": "¿Quién de este grupo crees que ha hecho las cosas más ilegales sin que nadie lo sepa?", "different": "¿Quién de este grupo es el que más miedo le tiene a romper cualquier regla por pequeña que sea?" },
+  { "main": "Si pudieras reencarnar en un objeto, ¿cuál sería el objeto más divertido para ser?", "different": "Si pudieras ser una red social por un día, ¿cuál serías y qué secretos revelarías?" },
+  { "main": "¿Quién del grupo es el más propenso a terminar siendo un ermitaño viviendo en la montaña?", "different": "¿Quién del grupo no podría sobrevivir ni 24 horas sin contacto humano?" },
+  { "main": "Te ofrecen el poder de detener el tiempo, pero tú también envejeces mientras el tiempo está detenido. ¿Lo usarías a menudo?", "different": "Te ofrecen el poder de duplicar cualquier objeto que toques, pero el original se destruye al instante. ¿Cómo lo usarías para hacerte rico?" },
+  { "main": "¿Quién de aquí es el que más secretos sabe de todos los demás?", "different": "¿Quién de aquí es el que más secretos ha contado de otros 'sin querer'?" },
+  { "main": "Si tuvieras que elegir una temática para que todo el mundo se vista igual por un mes, ¿cuál elegirías?", "different": "Si tuvieras que elegir una canción que suene de fondo en todo el planeta 24/7, ¿cuál sería?" },
+  { "main": "¿Quién del grupo es el que tiene los prejuicios más fuertes aunque diga que es de mente abierta?", "different": "¿Quién del grupo es el más 'queda bien' y nunca dice lo que piensa de verdad?" },
+  { "main": "Puedes borrar un recuerdo de la mente de tu ex. ¿Cuál borrarías?", "different": "Puedes implantar un recuerdo falso en la mente de tu jefe. ¿Qué le harías creer que pasó?" },
+  { "main": "¿Quién de aquí crees que sería el primero en traicionar al grupo en un apocalipsis para salvarse?", "different": "¿Quién de aquí es el que moriría el primero por intentar salvar a alguien que no vale la pena?" },
+  { "main": "Tienes que vivir en una isla desierta con tu peor enemigo por un año. Si ambos sobreviven, reciben $10 millones cada uno. ¿Cómo sería la convivencia?", "different": "Tienes que vivir en una isla desierta solo, pero tienes acceso a Netflix pero no a comida deliciosa. ¿Cuánto tiempo aguantarías?" },
+  { "main": "¿Quién del grupo es el más propenso a creerse superior a los demás por sus gustos?", "different": "¿Quién del grupo es el más inseguro y necesita la aprobación de todos constantemente?" },
+  { "main": "¿Qué harías si descubres que puedes atravesar paredes pero solo si vas corriendo a máxima velocidad?", "different": "¿Qué harías si descubres que puedes hablar con los muertos, pero ellos solo quieren hablar de política?" },
+  { "main": "¿Quién de aquí crees que ha fingido un orgasmo más veces en su vida?", "different": "¿Quién de aquí es el que más veces ha mentido sobre con cuántas personas se ha acostado?" },
+  { "main": "Puedes elegir que una parte de tu cuerpo sea de oro macizo. ¿Cuál elegirías sabiendo que pesará mucho y no podrás moverla bien?", "different": "Puedes elegir tener un brazo robótico con fuerza sobrehumana, pero tienes que cortarte tu brazo real. ¿Lo harías?" },
+  { "main": "¿A quién de este grupo elegirías para que te acompañe en una noche de fiesta descontrolada en Las Vegas?", "different": "¿A quién de este grupo elegirías para que cuide de tus ahorros?" },
+  { "main": "Si pudieras cambiar el final de cualquier libro o película, ¿cuál sería el cambio más polémico que harías?", "different": "Si pudieras ser el guionista de tu propia vida a partir de mañana, ¿qué giro inesperado añadirías?" },
+  { "main": "¿Quién del grupo es el más propenso a enviar un mensaje por error al grupo de la familia que era para su pareja?", "different": "¿Quién del grupo es el que siempre tiene el chisme más reciente y picante?" },
+  { "main": "Tienes que elegir: hablar siempre gritando o hablar siempre susurrando al oído de la gente.", "different": "Tienes que elegir: tener que bailar cada vez que hablas o tener que cantar todas tus frases." },
+  { "main": "¿Quién de este grupo crees que es el más propenso a hacerse una cirugía estética y no decírselo a nadie?", "different": "¿Quién de este grupo es el que más se queja de su apariencia física?" },
+  { "main": "Si te dieran un barco pirata y una tripulación fiel, ¿qué puerto moderno atacarías primero?", "different": "Si te dieran un ejército de 10,000 hormigas gigantes que obedecen tus órdenes, ¿qué harías con ellas?" },
+  { "main": "¿Quién del grupo es el más probable que termine siendo un 'conspiranoico' que vive en el bosque sin internet?", "different": "¿Quién del grupo es el más adicto al celular y a las redes sociales?" },
+  { "main": "Te ofrecen $1 millón por vivir en una habitación blanca y vacía por un mes, sin contacto humano ni entretenimiento. ¿Lo lograrías?", "different": "Te ofrecen $1 millón por no usar internet ni celular por 3 meses mientras vives tu vida normal. ¿Lo lograrías?" },
+  { "main": "¿Quién de aquí crees que es el más propenso a tener un perfil en una página de citas para gente casada?", "different": "¿Quién de aquí es el más conservador aunque intente parecer liberal?" },
+  { "main": "Si pudieras poner una palabra nueva en el diccionario y que todos la usen, ¿cuál sería y qué significaría?", "different": "Si pudieras prohibir una palabra en todo el mundo, ¿cuál elegirías para causar el mayor caos posible?" },
+  { "main": "¿Quién del grupo es el que más dinero gasta en cosas que no necesita pero quiere presumir?", "different": "¿Quién del grupo es el que siempre está pidiendo dinero prestado y nunca lo devuelve?" },
+  { "main": "Despiertas y eres el actor/actriz principal de la película más famosa del momento, pero no te sabes el guion. ¿Cómo improvisas?", "different": "Despiertas y eres un personaje de caricatura en el mundo real. ¿Cuál es tu primera interacción con la gente?" },
+  { "main": "¿Quién de este grupo crees que sería el primero en abandonar su país si hubiera una guerra?", "different": "¿Quién de este grupo sería el que se queda a pelear solo por orgullo?" },
+  { "main": "Si tuvieras que elegir una sola comida para comer el resto de tu vida pero te da todos los nutrientes necesarios, ¿cuál sería?", "different": "Si tuvieras que elegir un solo líquido para beber el resto de tu vida (que no sea agua), ¿cuál elegirías?" },
+  { "main": "¿Quién del grupo es el más propenso a enamorarse de alguien que sabe que le hará daño?", "different": "¿Quién del grupo es el más frío emocionalmente y nunca se enamora de verdad?" },
+  { "main": "Puedes teletransportar a una persona odiada a una isla desierta por 24 horas una vez al año. ¿A quién elegirías hoy?", "different": "Puedes hacer que cualquier persona del mundo diga la verdad absoluta durante una entrevista en televisión. ¿A quién elegirías?" },
+  { "main": "¿A quién de este grupo elegirías para que sea el líder de una nueva civilización?", "different": "¿A quién de este grupo nunca dejarías que tomara una decisión por ti?" },
+  { "main": "Si pudieras tener un dinosaurio de mascota del tamaño de un perro, ¿cuál elegirías?", "different": "Si pudieras revivir una especie extinguida pero solo para comértela, ¿cuál elegirías?" },
+  { "main": "¿Quién del grupo es el que más finge que le gustan las cosas que están de moda?", "different": "¿Quién del grupo es el más 'hater' de todo lo que es popular?" },
+  { "main": "Te ofrecen saber la fecha exacta del fin del mundo, pero no puedes decírselo a nadie o el fin del mundo ocurre mañana. ¿Querrías saberlo?", "different": "Te ofrecen saber si hay vida después de la muerte, pero si la respuesta te deprime, no podrás suicidarte jamás. ¿Querrías saberlo?" },
+  { "main": "¿Quién de aquí es el que tiene más fobia a la soledad?", "different": "¿Quién de aquí es el que más disfruta estar solo y se cansa rápido de la gente?" },
+  { "main": "Tienes que elegir: tener la cara de un bebé el resto de tu vida o tener el cuerpo de un anciano pero tu cara actual.", "different": "Tienes que elegir: tener siempre las manos pegajosas o tener siempre los pies mojados." },
+  { "main": "¿Quién del grupo crees que es el más probable que haya espiado el celular de su pareja sin permiso?", "different": "¿Quién del grupo es el más ingenuo y cree todo lo que le dicen?" },
+  { "main": "Si pudieras ser una inteligencia artificial, ¿qué dispositivo electrónico preferirías habitar?", "different": "Si pudieras controlar todos los semáforos de una ciudad por una hora, ¿qué harías?" },
+  { "main": "¿A quién del grupo le pedirías un consejo de amor sabiendo que probablemente sea un mal consejo?", "different": "¿A quién del grupo le pedirías consejo financiero?" },
+  { "main": "Te dan un cheque en blanco, pero el dinero sale de los ahorros de tu mejor amigo. ¿Cuánto escribes?", "different": "Te dan un cheque en blanco, pero por cada dólar que pidas, un extraño perderá dos dólares. ¿Cuánto pidas?" },
+  { "main": "¿Quién de aquí es el más propenso a crear un escándalo en público por una tontería?", "different": "¿Quién de aquí es el que más evita el conflicto a toda costa?" },
+  { "main": "¿Qué harías si descubres que tienes un hermano gemelo malvado que es un supervillano?", "different": "¿Qué harías si descubres que tus padres son en realidad agentes encubiertos de otro país?" },
+  { "main": "¿Quién del grupo es el más propenso a terminar en una secta de 'criptomonedas' o estafas piramidales?", "different": "¿Quién del grupo es el que más sospecha de todo y nunca cae en nada?" },
+  { "main": "Puedes elegir: que todos los perros del mundo te amen o que todos los gatos del mundo te obedezcan.", "different": "Puedes elegir: poder volar pero solo cuando llueve o ser invisible pero solo cuando estás gritando." },
+  { "main": "¿Quién de aquí es el que más veces ha dicho 'te quiero' sin sentirlo de verdad?", "different": "¿Quién de aquí es el que más le cuesta expresar sus sentimientos?" },
+  { "main": "Si pudieras ver el fantasma de cualquier persona famosa, ¿con quién pasarías una noche charlando?", "different": "Si pudieras convertirte en un monstruo de leyenda urbana (Pie Grande, El Chupacabras), ¿cuál elegirías?" },
+  { "main": "¿A quién de este grupo crees que le huele peor el aliento por las mañanas?", "different": "¿Quién de este grupo es el más obsesivo con la limpieza personal?" },
+  { "main": "Tienes que elegir: que tu vida sea un musical constante o que tu vida sea una película de acción con explosiones cada 5 minutos.", "different": "Tienes que elegir: que siempre haya una risa grabada cada vez que haces un chiste o que siempre haya música triste cuando te pasa algo malo." },
+  { "main": "¿Quién del grupo es el más probable que haya tenido un sueño húmedo con alguien de este grupo?", "different": "¿Quién del grupo es el más reprimido sexualmente?" },
+  { "main": "Si pudieras elegir cómo será el uniforme oficial de la humanidad, ¿qué prendas incluirías?", "different": "Si pudieras obligar a todo el mundo a usar un sombrero ridículo, ¿cuál elegirías?" },
+  { "main": "¿Quién de aquí es el más propenso a abandonar a su pareja si ésta perdiera todo su dinero?", "different": "¿Quién de aquí es el más fiel hasta las últimas consecuencias?" },
+  { "main": "Te ofrecen viajar a otro universo donde eres el rey/reina, pero nunca volverás a ver a nadie de este universo. ¿Irías?", "different": "Te ofrecen viajar a un universo paralelo donde tomaste la decisión de la que más te arrepientes. ¿Irías a ver cómo te fue?" },
+  { "main": "¿Quién del grupo es el más probable que se vuelva loco y termine hablando con las paredes?", "different": "¿Quién del grupo es el más aburrido y nunca hace nada fuera de lo común?" },
+  { "main": "¿Qué harías si descubres que puedes comunicarte con las plantas, pero ellas son extremadamente groseras y te insultan?", "different": "¿Qué harías si descubres que tu mascota puede hablar, pero solo habla para corregirte gramaticalmente?" },
+  { "main": "¿A quién de este grupo elegirías para que te ayude a borrar tu historial si mueres de repente?", "different": "¿Quién de este grupo sería el primero en revisar tu celular si murieras?" },
+  { "main": "Puedes elegir: tener un jet privado pero que vuela a la velocidad de una bicicleta, o una bicicleta que viaja a la velocidad de un jet.", "different": "Puedes elegir: tener una mansión gigante en medio del desierto o un apartamento pequeño en la mejor zona de Nueva York." },
+  { "main": "¿Quién del grupo es el más propenso a terminar siendo un criminal famoso por error?", "different": "¿Quién del grupo es el más 'santo' y nunca ha hecho nada malo?" },
+  { "main": "Si tuvieras que elegir una red social para que sea la única que exista en el mundo, ¿cuál dejarías?", "different": "Si tuvieras que borrar una red social para siempre y que nadie recuerde que existió, ¿cuál elegirías?" },
+  { "main": "¿Quién de aquí crees que ha buscado su propio nombre en Google más veces?", "different": "¿Quién de aquí es el que más finge que no le importa lo que digan de él?" },
+  { "main": "Te ofrecen ser la persona más famosa de la historia, pero serás recordado como un villano terrible. ¿Aceptarías?", "different": "Te ofrecen ser un héroe que salva al mundo en secreto, pero todos creerán que eres la peor persona de la Tierra. ¿Aceptarías?" },
+  { "main": "¿Quién del grupo es el más propenso a arruinar una sorpresa por no poder guardar el secreto?", "different": "¿Quién del grupo es el más desconfiado y cree que todos le ocultan algo?" },
+  { "main": "Si pudieras detener el proceso de envejecimiento para siempre a cualquier edad, ¿a qué edad te quedarías?", "different": "Si pudieras elegir en qué año del futuro despertar después de un sueño criogénico, ¿cuál elegirías?" },
+  { "main": "¿Quién de aquí crees que es el más probable que haya tenido una experiencia paranormal?", "different": "¿Quién de aquí es el más escéptico y se ríe de las historias de miedo?" },
+  { "main": "Tienes que elegir: vivir en un mundo sin colores o vivir en un mundo sin sonidos.", "different": "Tienes que elegir: vivir en un mundo sin internet o vivir en un mundo sin música." },
+  { "main": "¿Quién del grupo es el más probable que termine en una pelea física por defender una opinión tonta?", "different": "¿Quién del grupo es el más cobarde y huye ante la mínima señal de conflicto?" },
+  { "main": "Si pudieras ver la 'puntuación de felicidad' de cada persona en una escala del 1 al 10, ¿cómo cambiaría tu forma de tratar a la gente?", "different": "Si pudieras ver cuánto tiempo de vida le queda a cada persona, ¿se lo dirías a alguien?" },
+  { "main": "¿A quién de este grupo crees que le duraría menos el dinero si ganara la lotería hoy?", "different": "¿Quién de este grupo sería el que más rápido cambiaría de amigos si se volviera millonario?" },
+  { "main": "Te ofrecen $500,000 pero tienes que vivir en una casa con 10 personas que odias por un año completo. ¿Aceptarías?", "different": "Te ofrecen $500,000 pero tienes que vivir en una casa completamente solo sin salir por un año completo. ¿Aceptarías?" },
+  { "main": "¿Quién de este grupo crees que tiene el armario más lleno de ropa que nunca usa?", "different": "¿Quién de este grupo es el más desordenado y tiene su cuarto como una zona de guerra?" },
+  { "main": "Si pudieras cambiar una sola cosa de la evolución humana (ej. tener alas, tener cola, tener dos corazones), ¿qué elegirías?", "different": "Si pudieras hacer que los humanos no necesitemos comer para sobrevivir, ¿cómo crees que cambiaría la sociedad?" },
+  { "main": "¿Quién del grupo es el más propenso a terminar siendo un 'viejo/a de los gatos'?", "different": "¿Quién del grupo es el que más odia a los animales?" },
+  { "main": "¿Qué harías si te ofrecen un chip en el cerebro que te hace súper inteligente pero te quita toda la empatía?", "different": "¿Qué harías si te ofrecen un chip en el cerebro que te permite descargar cualquier habilidad en segundos pero reduce tu esperanza de vida a la mitad?" },
+  { "main": "¿Quién de este grupo es el más propenso a mentir en una primera cita para impresionar?", "different": "¿Quién de este grupo es el que cuenta toda su vida y traumas en la primera cita?" },
+  { "main": "Si pudieras vivir en una estación espacial de lujo para siempre con todos los gastos pagos pero nunca volver a pisar la Tierra, ¿lo harías?", "different": "Si pudieras viajar al centro de un agujero negro sabiendo que sobrevivirás pero nunca podrás volver, ¿irías?" },
+  { "main": "¿Quién del grupo es el más 'adicto' al trabajo y no tiene vida personal?", "different": "¿Quién del grupo es el más vago y hace lo mínimo indispensable para sobrevivir?" },
+  { "main": "Tienes que elegir: ser un pirata en el siglo XVIII o un astronauta en el siglo XXV.", "different": "Tienes que elegir: ser un caballero medieval o un samurái del Japón feudal." },
+  { "main": "¿Quién de aquí es el que tiene la mente más perversa aunque parezca inocente?", "different": "¿Quién de aquí es el que más se escandaliza con cualquier comentario subido de tono?" }
 ]

@@ -21,5 +21,12 @@
   { "word": "Cita a ciegas", "hint": "Desconocido" },
   { "word": "Chupetón", "hint": "Marca" },
   { "word": "Stripper", "hint": "Piel" },
-  { "word": "Trío", "hint": "Tres" }
+  { "word": "Trío", "hint": "Tres" },
+  { "main": "Gorda", "different": "Flaca" },
+  { "main": "Diddy", "different": "Epstein" },
+  { "main": "Hitler", "different": "Trump" },
+  { "main": "Marihuana", "different": "Cocaina" },
+  { "main": "Charlie Kirk", "different": "Tiroteo Escolar" },
+  { "main": "Venezolanos", "different": "Peruanos" },
+  { "main": "Orgia", "different": "Diddy" }
 ]

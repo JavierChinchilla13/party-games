@@ -98,5 +98,12 @@
   { "main": "Seda", "different": "Caricia" },
   { "main": "Terciopelo", "different": "Piel" },
   { "main": "Látex", "different": "Seguridad" },
-  { "main": "Talco", "different": "Ayuda" }
+  { "main": "Talco", "different": "Ayuda" },
+  { "main": "Gorda", "different": "Flaca" },
+  { "main": "Diddy", "different": "Epstein" },
+  { "main": "Hitler", "different": "Trump" },
+  { "main": "Marihuana", "different": "Cocaina" },
+  { "main": "Charlie Kirk", "different": "Tiroteo Escolar" },
+  { "main": "Venezolanos", "different": "Peruanos" },
+  { "main": "Orgia", "different": "Diddy" }
 ]

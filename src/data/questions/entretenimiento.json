@@ -1,342 +1,37 @@
 [
-  {
-    "main": "¿Quién del grupo se arrepiente profundamente de haber terminado una serie malísima solo por no dejarla a medias?",
-    "different": "¿Quién del grupo cree que una serie es una obra de arte aunque tenga el peor final de la historia?"
-  },
-  {
-    "main": "¿Quién del grupo cree que las películas de Disney son en realidad traumáticas para los niños?",
-    "different": "¿Quién del grupo llora como un bebé cada vez que ve una película animada?"
-  },
-  {
-    "main": "¿Quién del grupo ve programas de telerrealidad que le dan vergüenza ajena pero no puede parar?",
-    "different": "¿Quién del grupo sabe identificar qué reality show es el más falso y guionizado?"
-  },
-  {
-    "main": "¿Quién del grupo piensa que la celebridad del momento está absurdamente sobrevalorada?",
-    "different": "¿Quién del grupo conoce a un actor o actriz que merece un Oscar aunque Hollywood lo ignore?"
-  },
-  {
-    "main": "¿Quién del grupo es capaz de adivinar el final de una película a los diez minutos?",
-    "different": "¿Quién del grupo se quedó con la boca abierta con el plot twist más famoso del cine?"
-  },
-  {
-    "main": "¿Quién del grupo tiene el placer culposo de amar una película que todo el mundo dice que es basura?",
-    "different": "¿Quién del grupo odia esa película de su infancia que antes le parecía increíble?"
-  },
-  {
-    "main": "¿Quién del grupo cree que esa famosa saga de cine debería haber muerto hace tres películas?",
-    "different": "¿Quién del grupo defendería a muerte que esa trilogía es perfecta de principio a fin?"
-  },
-  {
-    "main": "¿Quién del grupo duraría menos de 24 horas en un reality show de supervivencia?",
-    "different": "¿Quién del grupo haría el ridículo más espantoso en un programa de concursos de la tele?"
-  },
-  {
-    "main": "¿Quién del grupo cree que el futuro distópico de Black Mirror va a pasar de verdad?",
-    "different": "¿Quién del grupo elegiría vivir en un mundo de ciencia ficción aunque fuera peligroso?"
-  },
-  {
-    "main": "¿Quién del grupo no soportaría tener a un personaje de ficción específico como vecino?",
-    "different": "¿Quién del grupo desearía que su mejor amigo fuera un personaje de una serie?"
-  },
-  {
-    "main": "¿Quién del grupo sigue traumado por la cancelación de su serie favorita hace años?",
-    "different": "¿Quién del grupo cree que esa serie ha durado demasiadas temporadas y ya da pena?"
-  },
-  {
-    "main": "¿Quién del grupo dice que las películas 'profundas' son en realidad una pretenciosidad sin sentido?",
-    "different": "¿Quién del grupo no entendió absolutamente nada la primera vez que vio una película de culto?"
-  },
-  {
-    "main": "¿Quién del grupo cree que ese actor famoso arruina cualquier película en la que sale?",
-    "different": "¿Quién del grupo ama a ese actor que interpreta siempre el mismo papel?"
-  },
-  {
-    "main": "¿Quién del grupo piensa que ese 'clásico del cine' ha envejecido peor que un yogur al sol?",
-    "different": "¿Quién del grupo cree que esa película de hace 40 años sigue pareciendo moderna hoy?"
-  },
-  {
-    "main": "¿Quién del grupo jamás se salta la intro de una serie porque es demasiado buena?",
-    "different": "¿Quién del grupo se pone la piel de gallina inmediatamente con una banda sonora específica?"
-  },
-  {
-    "main": "¿Quién del grupo cree que el villano de la película tenía toda la razón aunque fuera el malo?",
-    "different": "¿Quién del grupo piensa que el héroe de la película es en realidad un idiota insoportable?"
-  },
-  {
-    "main": "¿Quién del grupo cree que esa película ganó el Oscar injustamente solo por temas políticos?",
-    "different": "¿Quién del grupo siente que le robaron el Oscar a su película favorita?"
-  },
-  {
-    "main": "¿Quién del grupo puede verse una temporada entera de una serie en un solo día?",
-    "different": "¿Quién del grupo tarda meses en terminar una serie porque le parece demasiado densa?"
-  },
-  {
-    "main": "¿Quién del grupo odiaba a muerte a un personaje y terminó siendo su favorito?",
-    "different": "¿Quién del grupo cree que el protagonista de la serie es un narcisista insoportable?"
-  },
-  {
-    "main": "¿Quién del grupo se siente más identificado con una familia desastrosa de la televisión?",
-    "different": "¿Quién del grupo cree que los padres de esa serie son los más negligentes de la ficción?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en morir en una película de terror?",
-    "different": "¿Quién del grupo sería el 'final girl' o el superviviente en una película de slasher?"
-  },
-  {
-    "main": "¿Quién del grupo cree que los famosos están fingiendo su personalidad ante las cámaras?",
-    "different": "¿Quién del grupo confía plenamente en que su celebridad favorita es buena persona?"
-  },
-  {
-    "main": "¿Quién del grupo daría lo que fuera por 15 minutos de fama mundial en TikTok?",
-    "different": "¿Quién del grupo odiaría ser reconocido por la calle y prefiere el anonimato total?"
-  },
-  {
-    "main": "¿Quién del grupo cree que los dibujos animados de su infancia tenían mensajes muy turbios?",
-    "different": "¿Quién del grupo sigue viendo series de animación para adultos hoy en día?"
-  },
-  {
-    "main": "¿Quién del grupo cree que esa pareja de cine tiene una química tan nula que parece que se odian?",
-    "different": "¿Quién del grupo piensa que ese romance de película es el más tóxico de la historia?"
-  },
-  {
-    "main": "¿Quién del grupo se iría de fiesta una noche entera con un personaje de ficción?",
-    "different": "¿Quién del grupo cree que ese personaje de serie es el más aburrido para tomar un café?"
-  },
-  {
-    "main": "¿Quién del grupo saltaría de alegría si cancelaran todos los programas de chismes?",
-    "different": "¿Quién del grupo se sabe toda la vida privada de los influencers del momento?"
-  },
-  {
-    "main": "¿Quién del grupo cree que Marvel ha arruinado el cine moderno?",
-    "different": "¿Quién del grupo se ha visto todas y cada una de las películas de superhéroes?"
-  },
-  {
-    "main": "¿Quién del grupo pagaría una fortuna por ir a un concierto de un artista que ya murió (en holograma)?",
-    "different": "¿Quién del grupo cree que la música actual es puro ruido sin talento?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en apuntarse a un reality tipo 'La Isla de las Tentaciones'?",
-    "different": "¿Quién del grupo cree que ese tipo de programas son el fin de la civilización?"
-  },
-  {
-    "main": "¿Quién del grupo ha llorado en el cine y ha intentado que nadie se diera cuenta?",
-    "different": "¿Quién del grupo tiene un corazón de piedra y nunca llora con las películas?"
-  },
-  {
-    "main": "¿Quién del grupo se sabe diálogos enteros de películas de memoria?",
-    "different": "¿Quién del grupo nunca se acuerda del nombre de los actores ni de las películas?"
-  },
-  {
-    "main": "¿Quién del grupo cree que Shrek es la mejor película de la historia sin ironía?",
-    "different": "¿Quién del grupo odia las películas animadas y cree que son solo para niños?"
-  },
-  {
-    "main": "¿Quién del grupo sería un excelente crítico de cine por lo amargado que es?",
-    "different": "¿Quién del grupo dice que todas las películas le gustan solo por no discutir?"
-  },
-  {
-    "main": "¿Quién del grupo cree que los spoilers no son para tanto y hasta los busca?",
-    "different": "¿Quién del grupo dejaría de hablarle a alguien si le cuenta el final de una serie?"
-  },
-  {
-    "main": "¿Quién del grupo cree que el cine de terror actual ya no da miedo?",
-    "different": "¿Quién del grupo no puede dormir con la luz apagada después de ver una película de miedo?"
-  },
-  {
-    "main": "¿Quién del grupo piensa que la música de los 80 es insuperable?",
-    "different": "¿Quién del grupo cree que estamos en la mejor época musical de la historia?"
-  },
-  {
-    "main": "¿Quién del grupo se ha quedado dormido en una sala de cine pagando la entrada?",
-    "different": "¿Quién del grupo es capaz de ir al cine solo y disfrutarlo más que acompañado?"
-  },
-  {
-    "main": "¿Quién del grupo cree que Eurovisión es el mejor evento del año?",
-    "different": "¿Quién del grupo cree que Eurovisión es una pérdida de tiempo y dinero?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en hacerse un tatuaje de su serie o película favorita?",
-    "different": "¿Quién del grupo cree que tatuarse algo de ficción es un error del que te arrepentirás?"
-  },
-  {
-    "main": "¿Quién del grupo cree que Netflix tiene demasiada basura y poco contenido de calidad?",
-    "different": "¿Quién del grupo tiene suscripción a cinco plataformas de streaming diferentes?"
-  },
-  {
-    "main": "¿Quién del grupo cree que la radio está muerta y solo escucha podcasts?",
-    "different": "¿Quién del grupo sigue escuchando la radio por la mañana como un anciano?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor presentador de un programa de variedades nocturno?",
-    "different": "¿Quién del grupo tiene pánico escénico y no podría hablar ni delante de tres personas?"
-  },
-  {
-    "main": "¿Quién del grupo cree que los remakes de películas clásicas son un insulto?",
-    "different": "¿Quién del grupo prefiere ver la versión moderna antes que la original en blanco y negro?"
-  },
-  {
-    "main": "¿Quién del grupo se ha enamorado perdidamente de un personaje de anime?",
-    "different": "¿Quién del grupo cree que el anime es 'dibujitos chinos' y no lo entiende?"
-  },
-  {
-    "main": "¿Quién del grupo cree que el reggaetón es cultura y debe ser respetado?",
-    "different": "¿Quién del grupo cree que el reggaetón ha destruido el gusto musical de la juventud?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en gastarse el sueldo en merchandising oficial?",
-    "different": "¿Quién del grupo cree que comprar figuritas de películas es tirar el dinero?"
-  },
-  {
-    "main": "¿Quién del grupo piensa que los documentales de crímenes reales son lo más relajante del mundo?",
-    "different": "¿Quién del grupo no puede ver documentales de asesinos porque le dan pesadillas?"
-  },
-  {
-    "main": "¿Quién del grupo cree que Harry Potter está sobrevalorado?",
-    "different": "¿Quién del grupo sigue esperando su carta de Hogwarts a los 25 años?"
-  },
-  {
-    "main": "¿Quién del grupo cree que Star Wars murió cuando Disney lo compró?",
-    "different": "¿Quién del grupo cree que Star Wars es la mejor saga de la historia sin discusión?"
-  },
-  {
-    "main": "¿Quién del grupo se sabe todos los chismes de la Casa Real o de los famosos de su país?",
-    "different": "¿Quién del grupo no sabe ni quién es el presidente de su propio país?"
-  },
-  {
-    "main": "¿Quién del grupo cree que el cine coreano/japonés es muy superior al de Hollywood?",
-    "different": "¿Quién del grupo no ve películas con subtítulos porque le da pereza leer?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en participar en 'Gran Hermano' solo por la experiencia?",
-    "different": "¿Quién del grupo cree que entrar en un reality es lo más bajo que puede caer una persona?"
-  },
-  {
-    "main": "¿Quién del grupo cree que los videojuegos son una forma de arte superior al cine?",
-    "different": "¿Quién del grupo cree que los videojuegos son una pérdida de tiempo para niños?"
-  },
-  {
-    "main": "¿Quién del grupo tiene la risa más escandalosa en el cine?",
-    "different": "¿Quién del grupo se queja de la gente que hace ruido comiendo palomitas?"
-  },
-  {
-    "main": "¿Quién del grupo cree que las series españolas son todas iguales?",
-    "different": "¿Quién del grupo es un fan absoluto de las series de producción nacional?"
-  },
-  {
-    "main": "¿Quién del grupo cree que los directores de cine tipo Christopher Nolan son unos pretenciosos?",
-    "different": "¿Quién del grupo dice que entiende las películas complejas solo para parecer inteligente?"
-  },
-  {
-    "main": "¿Quién del grupo se ha obsesionado con una canción y la ha escuchado 100 veces en un día?",
-    "different": "¿Quién del grupo nunca escucha música y prefiere el silencio total?"
-  },
-  {
-    "main": "¿Quién del grupo sería capaz de ganar un concurso de cultura general de televisión?",
-    "different": "¿Quién del grupo fallaría la primera pregunta de '¿Quién quiere ser millonario?'?"
-  },
-  {
-    "main": "¿Quién del grupo cree que los efectos especiales actuales parecen de videojuego barato?",
-    "different": "¿Quién del grupo prefiere mil veces los efectos prácticos y el maquillaje de antes?"
-  },
-  {
-    "main": "¿Quién del grupo cree que la televisión por cable va a desaparecer en dos años?",
-    "different": "¿Quién del grupo sigue encendiendo la tele solo para que haya ruido de fondo?"
-  },
-  {
-    "main": "¿Quién del grupo cree que ese cantante famoso en realidad no sabe cantar sin autotune?",
-    "different": "¿Quién del grupo defendería que el talento artístico no tiene nada que ver con la voz?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en hacerse viral por un video haciendo el ridículo?",
-    "different": "¿Quién del grupo tiene sus redes sociales privadas y no sube nunca nada?"
-  },
-  {
-    "main": "¿Quién del grupo cree que las comedias románticas han arruinado las expectativas de amor reales?",
-    "different": "¿Quién del grupo sigue creyendo en el amor de película y los finales felices?"
-  },
-  {
-    "main": "¿Quién del grupo cree que el Joker es el mejor personaje de la historia del cine?",
-    "different": "¿Quién del grupo cree que la gente que idolatra al Joker es un poco rara?"
-  },
-  {
-    "main": "¿Quién del grupo se ha leído todos los libros antes de ver las películas?",
-    "different": "¿Quién del grupo dice que el libro es mejor aunque ni siquiera lo haya abierto?"
-  },
-  {
-    "main": "¿Quién del grupo cree que el festival de Coachella es una reunión de gente insoportable?",
-    "different": "¿Quién del grupo daría un riñón por ir a un festival de música gigante?"
-  },
-  {
-    "main": "¿Quién del grupo cree que las series turcas son la mejor invención del siglo?",
-    "different": "¿Quién del grupo cambia de canal en cuanto ve una telenovela?"
-  },
-  {
-    "main": "¿Quién del grupo sería un villano perfecto de película de James Bond?",
-    "different": "¿Quién del grupo sería el alivio cómico que muere a mitad de la película?"
-  },
-  {
-    "main": "¿Quién del grupo cree que los Oscars están totalmente comprados?",
-    "different": "¿Quién del grupo hace una porra todos los años para ver quién gana los premios?"
-  },
-  {
-    "main": "¿Quién del grupo cree que la película 'Titanic' es un aburrimiento insoportable?",
-    "different": "¿Quién del grupo llora cada vez que Jack se suelta de la tabla?"
-  },
-  {
-    "main": "¿Quién del grupo cree que el K-Pop es una industria que explota a los artistas?",
-    "different": "¿Quién del grupo se sabe todas las coreografías de sus grupos coreanos favoritos?"
-  },
-  {
-    "main": "¿Quién del grupo cree que las películas de acción son solo explosiones sin sentido?",
-    "different": "¿Quién del grupo se emociona con una buena persecución de coches?"
-  },
-  {
-    "main": "¿Quién del grupo cree que el final de 'Lost' fue una obra maestra incomprendida?",
-    "different": "¿Quién del grupo sigue enfadado por el final de 'Juego de Tronos'?"
-  },
-  {
-    "main": "¿Quién del grupo sería el primero en ir a una convención de cómics disfrazado?",
-    "different": "¿Quién del grupo cree que el cosplay es algo de gente muy friki?"
-  },
-  {
-    "main": "¿Quién del grupo cree que las películas de Woody Allen son todas iguales y aburridas?",
-    "different": "¿Quién del grupo cree que Quentin Tarantino es el mejor director de todos los tiempos?"
-  },
-  {
-    "main": "¿Quién del grupo tiene un gusto cinematográfico 'snob' y solo ve cine iraní?",
-    "different": "¿Quién del grupo solo ve películas de 'Fast & Furious' y es feliz?"
-  },
-  {
-    "main": "¿Quién del grupo cree que la inteligencia artificial va a escribir todos los guiones pronto?",
-    "different": "¿Quién del grupo cree que el arte humano es irreemplazable por una máquina?"
-  },
-  {
-    "main": "¿Quién del grupo cree que las plataformas de streaming nos han vuelto más indecisos?",
-    "different": "¿Quién del grupo tarda más tiempo eligiendo qué ver que viendo la propia película?"
-  },
-  {
-    "main": "¿Quién del grupo cree que los actores infantiles suelen terminar muy mal de la cabeza?",
-    "different": "¿Quién del grupo cree que Hollywood es un lugar oscuro y lleno de secretos turbios?"
-  },
-  {
-    "main": "¿Quién del grupo cree que esa banda legendaria debería haberse separado hace 20 años?",
-    "different": "¿Quién del grupo cree que su banda favorita es eterna y nunca pasará de moda?"
-  },
-  {
-    "main": "¿Quién del grupo sería el mejor detective de una serie tipo Sherlock Holmes?",
-    "different": "¿Quién del grupo no se daría cuenta de un crimen aunque pasara delante de su cara?"
-  },
-  {
-    "main": "¿Quién del grupo cree que las películas de miedo psicológico son peores que las de sangre?",
-    "different": "¿Quién del grupo disfruta viendo una película de 'gore' mientras come pizza?"
-  },
-  {
-    "main": "¿Quién del grupo cree que 'Los Simpson' deberían haber terminado en la temporada 10?",
-    "different": "¿Quién del grupo sigue viendo los capítulos nuevos de 'Los Simpson' por pura lealtad?"
-  },
-  {
-    "main": "¿Quién del grupo cree que la fama es una maldición más que una bendición?",
-    "different": "¿Quién del grupo haría cualquier cosa por ser la persona más famosa de su país?"
-  }
+  { "main": "¿Qué prefieres: que tu vida sea un reality show 24/7 o que nadie sepa quién eres nunca?", "different": "¿Qué prefieres: ser un extra en 100 películas famosas o el protagonista en una película que todos odian?" },
+  { "main": "¿Cuál es la película que todo el mundo ama pero a ti te parece una pérdida de tiempo?", "different": "¿Cuál es la serie que abandonaste en la primera temporada porque no aguantabas a los personajes?" },
+  { "main": "Si pudieras vivir en el universo de una película por una semana, ¿cuál elegirías?", "different": "Si pudieras ser el villano de una película de Disney, ¿quién serías?" },
+  { "main": "¿Qué prefieres: ver solo películas de terror por el resto de tu vida o solo comedias románticas?", "different": "¿Qué prefieres: que todas las películas tengan finales tristes o que todas sean musicales?" },
+  { "main": "¿Cuál es el actor o actriz que crees que está más sobrevalorado en la actualidad?", "different": "¿Cuál es el famoso que te cae mal sin ninguna razón aparente?" },
+  { "main": "Si pudieras borrar una serie de la historia para que nunca se hubiera hecho, ¿cuál sería?", "different": "Si pudieras cambiar el final de una serie famosa que te decepcionó, ¿cuál elegirías?" },
+  { "main": "¿Qué prefieres: ganar un Oscar por una actuación mediocre o ser un genio del cine pero nunca ganar nada?", "different": "¿Qué prefieres: ser un influencer de moda con 10 millones de seguidores o un director de documentales serio con 10,000?" },
+  { "main": "¿Cuál es tu placer culposo más grande en cuanto a programas de televisión?", "different": "¿Cuál es el programa de chismes o reality show que ves en secreto?" },
+  { "main": "Si tuvieras que elegir a una persona de este grupo para ir a un reality show de convivencia, ¿quién crees que sería el primero en pelearse con todos?", "different": "Si tuvieras que elegir a una persona de este grupo para que sea tu representante en Hollywood, ¿quién sería?" },
+  { "main": "¿Qué prefieres: que tu serie favorita nunca termine o que tenga el final más perfecto de la historia pero hoy mismo?", "different": "¿Qué prefieres: vivir en una casa que parece sacada de una película de terror o en una que parece de una caricatura infantil?" },
+  { "main": "¿Cuál es la celebridad que más te ha decepcionado al conocerla (o al saber algo de ella)?", "different": "¿Cuál es el rumor de famosos que más te ha impactado en los últimos años?" },
+  { "main": "Si pudieras tener el vestuario de cualquier personaje de ficción, ¿cuál elegirías?", "different": "Si pudieras tener el coche o vehículo de cualquier película, ¿cuál sería?" },
+  { "main": "¿Qué prefieres: ir al cine solo pero ver lo que quieras, o ir acompañado pero ver algo que odias?", "different": "¿Qué prefieres: que el cine sea gratis para ti por siempre pero no puedas comer palomitas, o pagar doble pero tener comida infinita?" },
+  { "main": "¿Cuál es el libro que crees que arruinaron completamente al adaptarlo al cine?", "different": "¿Cuál es el videojuego que crees que tiene mejor historia que la mayoría de las películas?" },
+  { "main": "Si pudieras ser el presentador de un programa de televisión, ¿de qué temática sería?", "different": "Si pudieras participar en un concurso de talentos, ¿qué habilidad demostrarías?" },
+  { "main": "¿Qué prefieres: que todos los diálogos de tu vida sean escritos por un guionista de comedia o por uno de drama?", "different": "¿Qué prefieres: que tu vida tenga una banda sonora que todos escuchan o que tu vida sea narrada por un locutor de fútbol?" },
+  { "main": "¿Cuál es la película que más veces has visto en tu vida y no te cansas?", "different": "¿Cuál es la película que te hizo llorar más fuerte?" },
+  { "main": "Si pudieras resucitar a un artista famoso solo para una última actuación, ¿a quién elegirías?", "different": "Si pudieras borrar un escándalo de un artista que te gusta, ¿cuál sería?" },
+  { "main": "¿Qué prefieres: ver solo cine clásico en blanco y negro o solo películas animadas?", "different": "¿Qué prefieres: que las películas duren siempre 4 horas o que duren máximo 45 minutos?" },
+  { "main": "¿Cuál es el género de cine que crees que debería desaparecer porque ya está muy agotado?", "different": "¿Cuál es el 'cliché' de película que más odias (ej. el beso bajo la lluvia)?" },
+  { "main": "Si tuvieras que elegir a alguien del grupo para que sea tu doble de acción en escenas peligrosas, ¿quién sería?", "different": "Si tuvieras que elegir a alguien del grupo para que escriba la biografía de tu vida, ¿quién crees que sería más honesto?" },
+  { "main": "¿Qué prefieres: ser un youtuber famoso que hace bromas pesadas o un crítico de arte muy serio?", "different": "¿Qué prefieres: tener un programa de radio nocturno o ser un fotógrafo de celebridades (paparazzi)?" },
+  { "main": "¿Cuál es el objeto de colección más valioso que tienes (o te gustaría tener)?", "different": "¿Qué es lo más raro que has hecho para conseguir un autógrafo o foto de alguien famoso?" },
+  { "main": "Si pudieras viajar a la gala de los Premios Oscar, ¿qué tipo de traje o vestido llevarías para llamar la atención?", "different": "Si pudieras infiltrarte en una fiesta privada de famosos en Ibiza, ¿cómo lo harías?" },
+  { "main": "¿Qué prefieres: que tu vida sea dirigida por Quentin Tarantino o por Wes Anderson?", "different": "¿Qué prefieres: vivir en el mundo de Harry Potter siendo un muggle (sin magia) o en el de Star Wars siendo un stormtrooper (soldado)?" },
+  { "main": "¿Cuál es el documental que te cambió la forma de ver el mundo?", "different": "¿Cuál es la película 'basada en hechos reales' que crees que es pura mentira?" },
+  { "main": "Si pudieras elegir a un famoso para que sea tu mejor amigo en la vida real, ¿quién sería?", "different": "Si pudieras intercambiar tu familia por una familia de una serie de TV, ¿cuál elegirías?" },
+  { "main": "¿Qué prefieres: que Netflix sea gratis pero solo puedas ver una película al mes, o pagar el triple pero tener todo el contenido del mundo?", "different": "¿Qué prefieres: que los spoilers no existan o poder ver los últimos 5 minutos de cualquier película antes de empezarla?" },
+  { "main": "¿Cuál es la canción de una película que te pone la piel de gallina cada vez que la oyes?", "different": "¿Cuál es el baile de una película que has intentado imitar (con éxito o fracaso)?" },
+  { "main": "Si pudieras crear un crossover entre dos series totalmente diferentes, ¿cuáles elegirías?", "different": "Si pudieras poner a un personaje de una serie en otra totalmente distinta, ¿quién encajaría mejor?" },
+  { "main": "¿Qué prefieres: ser un genio de los efectos especiales o un guionista que sabe todos los secretos de la industria?", "different": "¿Qué prefieres: tener un cine privado en casa o tener acceso ilimitado a todos los estrenos mundiales?" },
+  { "main": "¿Cuál es el 'giro de guion' que más te ha volado la cabeza en una película?", "different": "¿Cuál es la película que tuviste que ver dos veces para entenderla?" },
+  { "main": "Si el grupo tuviera que formar un elenco de una película de atracos, ¿quién sería el cerebro del plan?", "different": "Si el grupo tuviera que formar un elenco de una película de comedia, ¿quién sería el que muere primero por un chiste malo?" },
+  { "main": "¿Qué prefieres: que tu cara sea un meme mundial o que tu voz sea usada para todos los comerciales de productos de limpieza?", "different": "¿Qué prefieres: ser famoso por un día cada año o ser un poco famoso durante toda tu vida?" },
+  { "main": "¿Cuál es la red flag más grande en una persona según sus gustos cinematográficos?", "different": "¿Cuál es el gusto en entretenimiento que te hace conectar de inmediato con alguien?" }
 ]

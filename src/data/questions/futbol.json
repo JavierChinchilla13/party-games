@@ -1,27 +1,12 @@
 [
-  { "main": "¿Qué prefieres: que tu equipo gane la Champions pero descienda a segunda división o que se mantenga en primera pero nunca gane nada?", "different": "¿Qué prefieres: que tu selección gane el Mundial pero no puedas verlo o verlo pero que pierdan la final en el último minuto?" },
-  { "main": "¿Quién es el mejor de la historia: Lionel Messi o Diego Maradona? (Elige uno y defiende tu posición)", "different": "¿Quién es el mejor de la era moderna: Cristiano Ronaldo o Lionel Messi?" },
   { "main": "Si pudieras cambiar una regla del fútbol actual (ej. eliminar el VAR, cambiar el tiempo de juego), ¿cuál sería?", "different": "Si pudieras crear una regla loca (ej. que los goles de fuera del área valgan doble), ¿cuál elegirías?" },
-  { "main": "¿Qué prefieres: ser un jugador leyenda de un solo club modesto o un mercenario que gana 20 títulos en 5 equipos diferentes?", "different": "¿Qué prefieres: anotar el gol de la victoria en una final pero ser expulsado de inmediato o dar 3 asistencias perfectas?" },
   { "main": "¿Cuál es el estadio de fútbol que crees que tiene la mejor atmósfera del mundo?", "different": "¿Cuál es el equipo de fútbol que más odias sin que sea el rival directo de tu equipo?" },
   { "main": "Si tuvieras que elegir a una persona de este grupo para que sea el árbitro de un partido importante, ¿quién crees que sería el más injusto?", "different": "Si tuvieras que elegir a una persona de este grupo para que sea el director técnico (entrenador) de tu equipo, ¿quién sería?" },
-  { "main": "¿Qué prefieres: un fútbol con VAR perfecto pero que tarda 5 minutos en decidir, o un fútbol sin VAR con errores humanos?", "different": "¿Qué prefieres: que todos los partidos terminen 0-0 o que todos terminen 5-4 pero con defensas horribles?" },
   { "main": "¿Cuál es el jugador que crees que está más sobrevalorado por la prensa en la actualidad?", "different": "¿Cuál es el jugador 'olvidado' que crees que merecía ganar un Balón de Oro?" },
-  { "main": "Si pudieras revivir un partido histórico para cambiar el resultado, ¿cuál elegirías?", "different": "Si pudieras jugar 5 minutos en cualquier estadio del mundo lleno, ¿cuál elegirías?" },
-  { "main": "¿Qué prefieres: que tu equipo favorito sea comprado por un jeque millonario o que siga siendo un club humilde de sus socios?", "different": "¿Qué prefieres: ganar un derbi por goleada o ganar una final por penales sufriendo?" },
   { "main": "¿Cuál es la celebración de gol más icónica (o más ridícula) que has visto?", "different": "¿Cuál es la falta o agresión más famosa que recuerdas en un partido?" },
   { "main": "Si tuvieras que elegir a alguien del grupo para que sea tu compañero en una delantera letal, ¿quién sería?", "different": "Si tuvieras que elegir a alguien del grupo para que sea el portero en una tanda de penales decisiva, ¿en quién confiarías?" },
-  { "main": "¿Qué prefieres: jugar fútbol bajo una lluvia torrencial o a 40 grados de calor?", "different": "¿Qué prefieres: jugar siempre con zapatos que te quedan grandes o con un balón que pesa el doble?" },
-  { "main": "¿Cuál es el fichaje (compra de jugador) que más te ha dolido o indignado en la historia?", "different": "¿Cuál es la camiseta de fútbol más bonita que has visto jamás?" },
-  { "main": "Si pudieras ser el presidente de la FIFA por un día, ¿qué mensaje le darías al mundo?", "different": "Si pudieras prohibir que un jugador se retire nunca, ¿quién sería?" },
-  { "main": "¿Qué prefieres: ser un portero que nunca recibe goles pero nadie te aplaude, o un delantero que falla 10 pero mete el importante?", "different": "¿Qué prefieres: que tu equipo juegue hermoso y pierda o que juegue horrible y gane de rebote?" },
   { "main": "¿Cuál es el comentario de un narrador de fútbol que más te ha marcado o que más odias?", "different": "¿Cuál es la canción o himno de fútbol que más te emociona?" },
   { "main": "Si el grupo tuviera que formar un equipo de fútbol 5, ¿quién sería el jugador que nunca pasa el balón?", "different": "Si el grupo tuviera que formar un equipo de fútbol 5, ¿quién sería el que se cansa a los 2 minutos?" },
-  { "main": "¿Qué prefieres: ganar la Copa del Mundo con tu país o que tu club gane el triplete (Liga, Copa, Champions)?", "different": "¿Qué prefieres: que Messi vuelva al Barcelona o que Cristiano Ronaldo gane un Mundial antes de retirarse?" },
   { "main": "¿Cuál es el mito o leyenda urbana del fútbol que crees que es verdad?", "different": "¿Cuál es la mayor injusticia arbitral que le han hecho a tu equipo?" },
-  { "main": "Si pudieras clonar a un jugador para que juegue en las 11 posiciones de tu equipo, ¿a quién elegirías?", "different": "Si pudieras borrar un club de fútbol de la existencia, ¿cuál elegirías?" },
-  { "main": "¿Qué prefieres: penales para desempatar o tiempo extra con 'gol de oro'?", "different": "¿Qué prefieres: que el mercado de fichajes dure todo el año o que solo se pueda fichar jugadores nacionales?" },
-  { "main": "¿Cuál es el país que crees que tiene la liga más aburrida del mundo?", "different": "¿Cuál es el país que tiene los fans más locos y apasionados?" },
-  { "main": "Si pudieras elegir tu posición en un equipo profesional, ¿cuál sería para lucirte más?", "different": "Si tuvieras que narrar un gol tuyo en una final, ¿cómo sería tu grito de gol?" },
-  { "main": "¿Qué prefieres: tener entradas gratis de por vida para tu equipo o poder jugar un partido de entrenamiento con ellos?", "different": "¿Qué prefieres: que tu equipo gane todo pero que no tenga rivales, o ganar un solo título tras 20 años de sequía?" }
+  { "main": "¿Cuál es el país que crees que tiene la liga más aburrida del mundo?", "different": "¿Cuál es el país que tiene los fans más locos y apasionados?" }
 ]

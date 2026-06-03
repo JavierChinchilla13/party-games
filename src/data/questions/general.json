@@ -1,27 +1,13 @@
 [
-  { "main": "¿Qué prefieres: vivir siempre en un verano de 40 grados o en un invierno de -10 grados?", "different": "¿Qué prefieres: que siempre esté lloviendo o que siempre haya un viento fuerte?" },
   { "main": "¿Cuál es el invento de la humanidad que crees que más nos ha facilitado la vida?", "different": "¿Cuál es el invento de la humanidad que crees que deberíamos haber evitado a toda costa?" },
-  { "main": "Si pudieras hablar cualquier idioma del mundo perfectamente, ¿cuál elegirías para mudarte mañana?", "different": "Si pudieras hablar con los animales pero ellos solo pudieran insultarte, ¿lo harías?" },
-  { "main": "¿Qué prefieres: tener un botón que te de $100 cada vez que lo pulsas pero a alguien le da un calambre, o no pulsarlo nunca?", "different": "¿Qué prefieres: ganar $1 millón ahora o ganar $5,000 al mes por el resto de tu vida?" },
-  { "main": "¿Cuál es tu opinión sobre los ovnis: estamos solos en el universo o nos están observando?", "different": "¿Crees en los fantasmas o crees que todo tiene una explicación científica?" },
-  { "main": "Si pudieras cambiar tu edad actual por cualquier otra para siempre, ¿cuántos años tendrías?", "different": "Si pudieras volver a nacer con todo tu conocimiento actual, ¿qué harías diferente?" },
-  { "main": "¿Qué prefieres: ser un experto en artes marciales o ser un genio de la cocina?", "different": "¿Qué prefieres: poder leer a una velocidad increíble o poder dormir solo 2 horas y estar descansado?" },
   { "main": "¿Cuál es la tradición o costumbre de tu país que te parece más absurda?", "different": "¿Cuál es el hábito de la gente en general que más te molesta en público?" },
   { "main": "Si tuvieras que elegir a una persona de este grupo para ir a una isla desierta, ¿en quién confiarías para sobrevivir?", "different": "Si tuvieras que elegir a una persona de este grupo para que sea tu socio en un crimen perfecto, ¿quién sería?" },
-  { "main": "¿Qué prefieres: que tu vida tenga una banda sonora constante o que todos tus pensamientos aparezcan escritos en el aire?", "different": "¿Qué prefieres: ser invisible pero solo si estás gritando, o poder volar pero solo a la velocidad de una tortuga?" },
   { "main": "¿Cuál es el libro que crees que todo el mundo debería leer antes de morir?", "different": "¿Cuál es la película que crees que define perfectamente nuestra generación?" },
   { "main": "Si pudieras eliminar una enfermedad del mundo para siempre, ¿cuál elegirías?", "different": "Si pudieras hacer que una emoción negativa (ej. envidia) desaparezca de la humanidad, ¿cuál sería?" },
-  { "main": "¿Qué prefieres: vivir en una casa flotante en el mar o en una casa en la cima de una montaña?", "different": "¿Qué prefieres: vivir en una ciudad que nunca duerme o en un pueblo tranquilo de 10 habitantes?" },
   { "main": "¿Cuál es el dato curioso o 'fun fact' más inútil que conoces?", "different": "¿Cuál es el misterio de la historia que más te gustaría resolver?" },
   { "main": "Si pudieras tener cualquier animal del mundo (salvaje o no) como mascota domesticada, ¿cuál elegirías?", "different": "Si pudieras convertirte en un animal por un día, ¿cuál sería el más divertido para espiar a la gente?" },
-  { "main": "¿Qué prefieres: tener siempre el pelo perfecto pero vestir mal, o vestir siempre increíble pero estar calvo?", "different": "¿Qué prefieres: que siempre huela a tu comida favorita o que nunca vuelvas a sentir olores malos?" },
   { "main": "¿Cuál es la habilidad que crees que es esencial para sobrevivir en el mundo moderno?", "different": "¿Cuál es el consejo de vida que más has dado y que casi nunca aplicas para ti?" },
-  { "main": "Si pudieras ver el futuro del mundo dentro de 100 años, ¿crees que verías una utopía o un desastre?", "different": "Si pudieras viajar al año 1900 por un día, ¿qué objeto moderno llevarías para impresionar a todos?" },
-  { "main": "¿Qué prefieres: ser un artista famoso pero pobre o ser un contador rico pero aburrido?", "different": "¿Qué prefieres: tener éxito temprano en la vida y luego decaer, o tener éxito solo al final de tus días?" },
   { "main": "¿Cuál es el objeto de tu casa que salvarías primero en un incendio (después de seres vivos)?", "different": "¿Cuál es la posesión material de la que más te costaría deshacerte?" },
   { "main": "Si tuvieras que elegir a alguien del grupo para que sea el presidente de una nueva colonia en Marte, ¿quién sería?", "different": "Si tuvieras que elegir a alguien del grupo para que decida qué vas a comer todos los días por un mes, ¿en quién confiarías?" },
-  { "main": "¿Qué prefieres: que todos olviden tu nombre o que todos recuerden algo vergonzoso de ti?", "different": "¿Qué prefieres: vivir 10 vidas diferentes de 10 años cada una o una vida de 100 años?" },
-  { "main": "¿Cuál es el fenómeno natural que más te impresiona o te da miedo?", "different": "¿Cuál es el lugar del mundo que crees que es el más misterioso?" },
-  { "main": "Si pudieras elegir una ley nueva para que se aplique en todo el mundo a partir de mañana, ¿cuál sería?", "different": "Si pudieras prohibir a la gente quejarse de una sola cosa, ¿qué elegirías?" },
-  { "main": "¿Qué prefieres: tener un mapa de tu vida con todos los caminos correctos o descubrirlo todo por error?", "different": "¿Qué prefieres: ser recordado por un gran logro o ser olvidado pero haber sido inmensamente feliz?" }
+  { "main": "Si pudieras elegir una ley nueva para que se aplique en todo el mundo a partir de mañana, ¿cuál sería?", "different": "Si pudieras prohibir a la gente quejarse de una sola cosa, ¿qué elegirías?" }
 ]

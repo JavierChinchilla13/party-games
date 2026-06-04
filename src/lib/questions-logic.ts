@@ -52,12 +52,12 @@ export function generateQuestionsGame(
     return player;
   });
 
-  // 3. Mezclar el orden de los jugadores para la revelación
-  const shuffledPlayers = [...players].sort(() => Math.random() - 0.5);
+  // 3. Mantener el orden original de los jugadores para la revelación (según lo solicitado por el usuario)
+  const orderedPlayers = [...players];
 
   return {
     phase: "reveal",
-    players: shuffledPlayers,
+    players: orderedPlayers,
     questionPair,
     currentPlayerIndex: 0,
   };
